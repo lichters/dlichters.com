@@ -26,7 +26,7 @@ You get good by finishing lots of small things, showing them to real people, and
 5. **Keep a simple log:** date, what you made, one number, one lesson.
 6. **Change one thing at a time,** so you know what made the difference.
 7. **After 10 to 20 pieces, do a real job for a real person.** Cheap or free is fine for the first one. Then start charging.
-8. **Under 18?** Freelance sites, payment accounts and contracts usually need a parent.
+8. **Under 18?** Don't wait until 18.
 
 More on picking what to work on: https://dlichters.com/ai/business.md
 

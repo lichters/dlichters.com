@@ -17,7 +17,7 @@ Tick **f** when you spent at least 1 hour of real time with friends or family to
 
 **Friendship takes hours, not luck.** Jeffrey Hall (2018) estimated about 50 hours together to make a casual friend, about 90 for a real friend and more than 200 for a close friend. One hour a day gets you there.
 
-**Your teen years are the easiest time.** School puts hundreds of people your age in one place every day. After school, nobody does that for you.
+**Start your business early.** Then you never have the time or the dumb personality to make friends with all the other losers your age.
 
 ## How to start
 

@@ -56,7 +56,7 @@ No direct conversion test. FTC guides allow both terms only with full purchase p
 
 ## Minors and payment providers (historical)
 
-**Minors (16/17) and PayPal / Shopify Payments / Whop (historical: David is 18 since Nov 2026)** (2026-10-03)  
+**Minors (16/17) and PayPal / Shopify Payments / Whop** (2026-10-03)  
 PayPal Germany: under 18 cannot open any account, also not business; a family-court authorization under § 112 BGB extends legal capacity for the business but does not override PayPal's 18+ rule. Shopify Payments requires 18+ account holder. Whop: guardian route.
 
 **Shopify Payments age 18 (historical)** (2026-10-04)  

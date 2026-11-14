@@ -65,7 +65,7 @@ When to read this: before asking any research question, to see whether the answe
 - **Sales tax:** nexus thresholds of the biggest states and transaction-count states.
 - **Other countries:** UK VAT, Canada duty and GST/HST, Australia GST, New Zealand GST, Managed Markets (not available).
 - **US law:** FTC mail order rule, money-back guarantees, endorsements, product labeling, privacy policy, German imprint.
-- **Minors:** age rules of PayPal, Shopify Payments, Whop (historical; David is 18 since November 2026).
+- **Minors:** age rules of PayPal, Shopify Payments, Whop.
 - **AI tools:** Claude plans and API prices, Meta and Shopify connectors for agents, Perplexity model test.
 - **Other tools:** spy tools, WhatsApp and Workspace pricing, TikTok scanners.
 - **Cold email:** safe sending ramp.

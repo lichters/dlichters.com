@@ -12,7 +12,7 @@ Yes, if you spend the 5+ focused hours building one: looking for a problem peopl
 
 ## What if I have no time for 5 hours on school days?
 
-6 hours school, 9 sleep, 2 training and 1 for meals leave 6, enough for 5. Friends fit into breaks and lunch; free periods count. Many people also find hours in their feeds. On weekends and holidays, do more. If school is really full that week, school comes first. Never cut sleep for it.
+6 hours school, 9 sleep, 2 training and 1 for meals leave 6, enough for 5. Friends fit into breaks and lunch; free periods count. Many people also find hours in their feeds. On weekends and holidays, do more. Never cut sleep for it.
 
 ## Why these six habits?
 

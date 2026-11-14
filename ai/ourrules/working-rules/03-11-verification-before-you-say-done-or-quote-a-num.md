@@ -102,7 +102,7 @@ Course frame: between +25 % (Course D CBO lesson) and doubling under 500 USD; RO
 
 **The AI's own limits (not legal judgements, stated once, never repeated as a sermon).** No invented customer reviews, ratings or numbers that buyers read as real. No 1:1 copies of protected third-party books without license. No covert use of private data: when David wanted hidden access to users' ideas in his habit app, the AI refused (false privacy statement toward minors) and built honest wording instead ("support can open your ideas to help with problems", never "only you"); later reading those ideas for own purposes was also refused, a voluntary "share with David" button was offered (full Money Idea privacy decision of 2026-10-18: https://dlichters.com/ai/ourrules/app-factory-full/04-21-bug-memory-every-lesson-grouped.md section 25). No helping to deceive parents or school. No lies to recipients.
 
-**Age (current).** David says he is 18 since 2026-11-02; payments and contracts run in his own name. Customers and business clients still never see age clues (section 7).
+**Age (current).** David is 16 (born 10 January 2010). Customers and business clients still never see age clues (section 7).
 
 ---
 

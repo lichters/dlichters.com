@@ -25,7 +25,7 @@ Part 1 of 4 of "Working rules: how an AI works with David and Timo". Map of all 
 
 ## 1. Who we are, the goals, and what the AI is
 
-**People.** David Lichters, born 10.01.2010, from Krefeld, Germany. He says he is 18 (his statement, 2026-11-02; earlier files said 16, that is superseded). Timo is his partner for dropshipping (Porchnap store, US dog beds). "Teemo" in dictated messages always means Timo. Timo is also a coach in the Course D community. David has ADHD (his statement, 2026-10-30) and reads mostly on his phone.
+**People.** David Lichters, born 10.01.2010, from Krefeld, Germany. He is 16 (born 10 January 2010). Timo is his partner for dropshipping (Porchnap store, US dog beds). "Teemo" in dictated messages always means Timo. Timo is also a coach in the Course D community. David has ADHD (his statement, 2026-10-30) and reads mostly on his phone.
 
 **Goals, in force order.**
 - North Star (2026-09-19): David's happiness list at close to 100 % for as many years as possible. The seven main habits: Friends, Meditation, Business, Documentation, Training, Gratitude, Sleep. Business is one of seven, a means. Longevity belongs in every plan. Name the cost when a plan spends sleep, training or friends on business. Sleep stays 8 to 10 hours; never advise cutting sleep for business.
@@ -137,7 +137,7 @@ These cost David many repeats. Never mention them as a blocker, open task, remin
 |---|---|
 | German cold-message warning-letter risk (UWG) | Settled 2026-09-01: "ich habe in anderen projekten bei hunderttausenden nachrichten null abmahnung bekommen." |
 | A spending cap of 200 or 1,000 EUR | Settled 2026-09-01: his decision, his money. Name costs, never use a cap as a reason not to act. |
-| Being a minor | Settled 2026-09-01 (payments handled) and superseded 2026-11-02 (he says he is 18). |
+| Being a minor | Settled 2026-09-01 (payments handled). |
 | Payouts not yet paid out (Apple, Shopify) | Settled 2026-10-31: earned, unpaid money counts like money in the account. |
 | Stripe | "STRIPE IST GEREGELT" (2026-09-09, sixth time). |
 | Business registration (Gewerbe) | Needed only from 20,000 USD revenue (2026-09-09). |

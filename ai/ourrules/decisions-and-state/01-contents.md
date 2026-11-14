@@ -143,7 +143,7 @@ A voice interface to the AI. 0 questions since the last code change of 2026-10-3
 
 ### 3.10 Admin
 
-- **Age:** David is 18 (noted since 2026-11-02; older files say 16). Payments and contracts run in his own name.
+- **Age:** David is 16 (born 10 January 2010).
 - **Court application (§ 112 German Civil Code, business authorization for minors):** filed at the local court in Krefeld on 2026-10-16. At 18 it is probably no longer needed; David to confirm whether it lapses.
 - **Bank:** new business account at Deutsche Bank expected in one to two weeks (as of early November). Until then payouts go to his old savings-bank account; switch before closing that account (3 to 5 business days pause). Shopify bank account entered 2026-11-06. VAT ID field in Shopify: "I don't have one". Trade registration only from about 20,000 EUR (never raise as a blocker).
 - **Mail:** shop mails of all stores as [storename]@lichters.email (domain at Spaceship, catch-all to Gmail, renews 2027-08-08 at 25.04 USD a year). Do not buy mail packages. lichters.com belongs to someone else (until 08.2027); if we ever get it, switch to @lichters.com. Pending: 7 DNS records for lichters.email so shop mail is sent visibly from it (needs David's login, not urgent).
@@ -173,7 +173,6 @@ A voice interface to the AI. 0 questions since the last code change of 2026-10-3
 **David (all as switches in his app):**
 - Decide where the test money for the first ads beyond the current cap comes from (bottleneck line of 2026-11-03, stale).
 - Morning plan 2026-11-07: look at flight-2 images 16 and 18 (done: 16 stays, 18 out); get Timo's stores and wins to the AI; create an account at an AI video tool.
-- Confirm whether the court application lapses now that he is 18.
 - Approve or refuse connecting John's order system (third-party access to orders and addresses).
 - Log into the mail-domain registrar once so the AI can set the 7 DNS records.
 - Ask the lawyer: are Meta ads paid as a business or privately (VAT)? Still unanswered.

@@ -5,7 +5,7 @@
 ## Facts
 
 - Born 10 January 2010, grew up in Germany.
-- Age: since 2026-11-02 he says he is 18 (older files said 16); payments and contracts run in his own name. Customers and business clients never see age clues. Same rule in https://dlichters.com/ai/ourrules/working-rules.md (sections 1 and 14).
+- Age: 16 (born 10 January 2010). In answers, say his age at the time, never the year. Customers and business clients never see age clues. Same rule in https://dlichters.com/ai/ourrules/working-rules.md (sections 1 and 14).
 - Exchange semester in Canada, end of August 2025 to January 2026. His plan there (say hi to 3 new people a day) worked; he was popular and had a great time.
 - Since age 12 he did only the minimum at school, because he never wants to work for someone else. In April 2026 he announced he would stop going to school; now school is about once a week.
 - Member of Mensa.
@@ -50,7 +50,7 @@ Source: David's own correction in chat, 2026-10-17 (memory note "davids-echte-za
 
 - Current: 500,000 USD profit by the end of 2027, across many attempts.
 - Enough to be free: 10,000 EUR profit a month (about 10 idea tests plus very good food).
-- How the goals changed: from "millionaire and a Lamborghini Aventador SVJ as a teenager" (2025) and a billion-dollar exit (spring 2026) to a calmer list in September 2026: gratitude, health (above all sleep), nature, a wife who is his favorite person, kids and dogs, real friends, teaching one person for years, building something that helps, respect from people he respects, control over time and place, documenting it all.
+- Goal now: e-commerce millionaire by the end of 2027. Getting rich is the goal; the 1/5/10 Planasy kept him going for years. Earlier goals: from "millionaire and a Lamborghini Aventador SVJ as a teenager" (2025) and a billion-dollar exit (spring 2026) to a calmer list in September 2026: gratitude, health (above all sleep), nature, a wife who is his favorite person, kids and dogs, real friends, teaching one person for years, building something that helps, respect from people he respects, control over time and place, documenting it all.
 - Why big money at all: longevity. A good life that is ten times as long is ten times as good.
 - Things he wants: a home in Lucerne, Everest, skydiving, a home gym, an inconspicuous Nissan 240SX.
 
@@ -66,7 +66,7 @@ His own rule (September 2026): "Never forget: your everyday life feels ten times
 ## Beliefs he wrote down
 
 - "The only shortcut to wealth is selling others a shortcut."
-- "Money is a tool, not the goal."
+- "Getting rich is the goal." (14 November 2026)
 - "Accept your genetics, perfect everything you can change."
 - "People I need to make proud: the 13-year-old and the 130-year-old version of me."
 - Speed: as fast as humanly possible.

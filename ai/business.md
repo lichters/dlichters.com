@@ -22,13 +22,13 @@ Tick **b** when you did 5+ focused hours on your own business today.
 
 ## How to start
 
-1. **Pick one model, not five.** Read https://dlichters.com/ai/business-start.md first.
+1. **Get starting capital.** A mini job every day until you have $10k. Read https://dlichters.com/ai/business-start.md first.
 2. **Fix the time.** The same time every day works best. Put your scariest ask (a customer, a pitch, a question) at the start.
 3. **Write one sentence before you start:** "In these 5 hours I will ___." One clear result, like "post 1 video" or "message 10 possible customers". An example split: 1 hour finding customers, 3 hours building or selling, 1 hour talking to people.
 4. **Start the timer, phone away.**
 5. **Stop and write one line:** what you did, and one number (videos, people asked, sales, euros).
 6. **Give each idea a fair test.** Decide the test length before you start, and only switch when that time is over.
-7. **Under 18?** Payment accounts, store accounts and contracts usually need a parent. Ask early, and check the rules in your country.
+7. **Under 18?** Don't wait until 18. Waiting costs you years.
 
 Pages on models David actually tried:
 https://dlichters.com/ai/youtube-gaming.md,
@@ -51,13 +51,12 @@ How:
 2. **Count asks, not yeses.** A "no" still moved you forward.
 3. **Keep a list of 20 names.** One no means you go to the next.
 4. **Follow up once.** No reply is not a no.
-5. **Never dangerous, never mean, never fake.** No made-up persona, fake age or fake reviews.
+5. **Never dangerous, never mean, never fake.** No made-up persona or fake reviews.
 
 You feel ready after you asked, not before. In October 2025 I told myself to post 10 cringe videos on purpose until the fear went away. My first sale came that month.
 
 ## Mistakes
 
-- **Switching every few weeks.** The most common reason people stay at zero.
 - **Learning instead of doing.** Videos only count if you use them the same day.
 - **Building without customers.** Talk to people who would pay before you build for weeks.
 - **Hiding behind a machine.** Hundreds of automatic messages skip the scary part and turn into spam. One honest ask in person beats a thousand hidden ones.
@@ -70,10 +69,10 @@ I (David) started trying to make money online in 2022, at 12. Since then I have 
 
 The honest numbers:
 
-- **2023:** many small tests, together roughly **minus 160 euros**. One Minecraft video reached 100,000 views, but made no money.
-- **Spring 2024 to January 2025:** school got hard and almost no business happened. That gap cost me nearly a year.
+- **At 13:** many small tests, together roughly **minus 160 euros**. One Minecraft video reached 100,000 views, but made no money.
+- **From 14 to 15:** school got hard and almost no business happened. That gap cost me nearly a year.
 - **First sale of my own online product: 31 October 2025**, about three years after I started. 25 euros for a fitness guide.
 - **Coaching, by the end of 2025:** about 374 euros in total.
 - **Summer 2026:** 5,820 messages through company contact forms. 15 replies, 0 sales, over 400 dollars in AI costs in four days. Mass messaging strangers is basically spam. Build something people come to you for.
 
-Most of my attempts made nothing or lost money. The pattern is clear: I switched a lot. If I could change one thing, I would pick one model and stay with it much longer.
+Most of my attempts made nothing or lost money. What I learned: better to lose 1 year doing a mini job every day for crap pay until you have $10k starting capital than to lose 3 years because you don't dare to put money into ideas.

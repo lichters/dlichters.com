@@ -13,13 +13,12 @@ Every business I tried since 2022, with real dates and results. Most results are
 3. **Sell a real shortcut.** My first sale was a guide that saves beginners time in the gym.
 4. **Keep your habits green.** My best months had a green habit tracker, whatever the money did.
 5. **Be honest with yourself.** In 2026 I wrote that I had made 0 euros and that 99 % of that was on me.
-6. **Under 18?** You need your parents for most accounts, payments and contracts. I hid how serious I was from mine, and that only made things harder.
+6. **Don't wait until 18.** Waiting costs you years.
 
 ## Mistakes
 
-- **Too many tests at once.** In summer 2023 I started about seven ideas in five weeks. No test was fair.
 - **Ideas built on tricks.** They get you banned or hurt people.
-- **Spending before anything worked.** 2023 cost me about 160 EUR. In 2026 a few days of AI costs for one outreach test were about 400 USD, with 0 sales.
+- **Not daring to put money into ideas.** Better to lose 1 year doing a mini job every day for crap pay until you have $10k starting capital than to lose 3 years because you don't dare to put money into ideas.
 - **Counting followers instead of sales.** I aimed for 100,000 followers in 2025 and reached about 18,000.
 
 ## What happened

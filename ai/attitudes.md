@@ -26,7 +26,7 @@ How: when you earn money, ask "does this buy me time or choice?" before "does th
 
 **5. Start early. Keep going for years.**
 Why: almost nothing works on the first try. Skills and businesses grow slowly at first, then faster. Starting at 13 instead of 23 gives you ten extra years of trying, failing and learning.
-How: pick one thing and give it at least a year before you judge it.
+Why I start early: then you never have the time or the dumb personality to make friends with all the other losers your age.
 
 ## Mistakes
 
@@ -37,7 +37,7 @@ How: pick one thing and give it at least a year before you judge it.
 
 ## What happened when I tried it
 
-I started trying to make money online at 12, with a Minecraft YouTube channel in October 2022. In 2023 I tested a long list of ideas: Fiverr, affiliate links, T-shirts, a gum machine and more. Together they lost about 160 EUR. My first real sale came on 31 October 2025: a fitness guide for 25 EUR. That is three years from first try to first sale.
+I started trying to make money online at 12, with a Minecraft YouTube channel. At 13 I tested a long list of ideas: Fiverr, affiliate links, T-shirts, a gum machine and more. Together they lost about 160 EUR. My first real sale came when I was 15: a fitness guide for 25 EUR. That is three years from first try to first sale.
 
 At school about ten people laughed at me in one day. A friend called my goals dumb and embarrassing for years, and I'm not friends with him anymore. What actually helped was spending a week with a family friend who had built and sold a company. I went for his advice and respect, not money.
 
