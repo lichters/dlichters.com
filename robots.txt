@@ -2,3 +2,5 @@ User-agent: *
 Disallow: /sundayace.com/
 Disallow: /gigglepeek.com/
 Disallow: /plushsweep.com/
+
+Sitemap: https://dlichters.com/sitemap.xml
