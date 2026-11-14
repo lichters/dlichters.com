@@ -15,7 +15,7 @@ A first business at 13 is about money. Getting rich is the goal. You learn what 
 ## How to start
 
 1. **Pick one skill you can practise every day.** Video editing, drawing, writing, coding, fitness, fixing things.
-2. **Turn it into one small offer.** Thumbnails for small YouTubers, a simple app, lawn mowing on your street, selling old stuff on eBay.
+2. **Turn it into one small offer.** Thumbnails for small YouTubers, a simple app, lawn mowing on your street.
 3. **Check that someone already sells it.** If others make money with it, there is demand. If nobody sells it, that is usually a warning, not a gap.
 4. **Find your first 10 customers by hand.** Ask what they would pay for. Asking feels scary, but people notice you much less than you think, and one week of practice makes the fear of a "no" smaller. Write your first sentence down and count asks, not yeses. More: https://dlichters.com/ai/business.md
 5. **Decide your test length before you start.** For content or a shop, think in months. Write the date down and do not switch before it.
