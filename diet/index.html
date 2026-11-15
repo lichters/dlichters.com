@@ -337,9 +337,11 @@ cursor:pointer;-webkit-tap-highlight-color:transparent;-webkit-user-select:none;
    (in Chrome gemessen: Grundlinie 17 und 14 unter der Zeilenoberkante), daher top 333,1 und 403,1. So steht die Grundlinie
    ohne Browser-Rundung, und overflow:hidden schneidet keine Unterlängen ab (15.11. 12:1x: mit Zeilenhöhe 1 fehlte bei
    "700g ribeye" das untere Ende von g und y). Davids Zeile wird an " - " geteilt: davor der Name, danach der Preis. Das Bild rückt darüber: so breit wie die Textspalte
-   (309 - 2 x 28,2 = 252,6) und mittig zwischen Kartenoberkante und Namen (dessen Ziffernoberkante 338,1), also 42,7 von oben.
+   (309 - 2 x 28,2 = 252,6) und oben so weit vom Kartenrand wie links und rechts, also 28,2 von oben (David 15.11.2026 12:3x: "Mach das so hoch
+   das abstand vom bimd rand zum karten rand so ist wie abstand von oberem rand zum oberen rand"; vorher 42,7, mittig zwischen
+   Kartenoberkante und Namen).
    Vorher (14.11.): Bild 265 in der Kartenmitte, Davids Zeile mittig darunter. Schriftfarbe je Karte weiter aus _schrift_auf(). */
-.kost-wisch img{position:absolute;left:28.2px;top:42.7px;width:252.6px;height:252.6px;object-fit:cover;border-radius:18px;display:block;pointer-events:none;-webkit-user-drag:none}
+.kost-wisch img{position:absolute;left:28.2px;top:28.2px;width:252.6px;height:252.6px;object-fit:cover;border-radius:18px;display:block;pointer-events:none;-webkit-user-drag:none}
 .kost-wisch .n,.kost-wisch .p{position:absolute;left:28.2px;right:16px;margin:0;text-align:left;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .kost-wisch .n{top:333.1px;font-size:17px;line-height:21px;font-weight:600;letter-spacing:normal}
 .kost-wisch .p{top:403.1px;font-size:14px;line-height:18px;font-weight:400;letter-spacing:-.15px}
