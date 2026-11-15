@@ -386,12 +386,14 @@ body{background:#F5F5F5;--fog:245,245,245}
 .kost-vergleich .vg-text p{margin:0;font-size:17px;line-height:21px;font-weight:600;letter-spacing:-.022em}
 .kost-vergleich .w{margin:0;font-size:min(32px,8.2vw);line-height:1.125;font-weight:600;letter-spacing:.004em;white-space:nowrap}
 .kost-vergleich .e{margin:0;font-size:14px;line-height:25px;font-weight:600;letter-spacing:-.016em}
-/* Erklärungen unter "Protein" (DIET_PROTEIN) und "Calories" (DIET_KALORIEN): grau, mittig unter beiden Spalten. Größe und Farbe wie
+/* Erklärungen unter "Protein" (DIET_PROTEIN) und "Calories" (DIET_KALORIEN): grau und linksbündig über die ganze Tabellenbreite wie
+   Apples Fußnote (David 15.11.2026 ~18:5x: "Nein das soll auch links statt mittig angeordnet sein"); linke Kante 22 px wie Überschrift
+   und Tabelle, bei Apple 16 pt = deren Textkante; Umbruch normal wie bei Apple, ohne text-wrap:pretty. Größe und Farbe wie
    Apples Fußnote (David 15.11.2026 ~18:4x: "Die erklärungen bei protein und kalorien in der größe und farbe", sein Bild der
    Openbank-Fußnote, 1179 px = 393 pt): Großbuchstaben 8,33 pt hoch, also 12 px; Zeilen 16 pt auseinander; Farbe im
    Strichinneren #6b6b6d, also Apples #6e6e73 (JPEG); Laufweite -.01em, gegen drei gemessene Zeilenbreiten geprüft. */
-.kost-vergleich .vg-erkl{margin:18px auto 0;max-width:340px;font-size:12px;line-height:16px;font-weight:400;color:#6e6e73;text-align:center;letter-spacing:-.01em;text-wrap:pretty}
-@media(min-width:860px){.kost-vergleich{max-width:720px}.kost-vergleich .w{font-size:40px}.kost-vergleich .e{font-size:17px}.kost-vergleich .vg-erkl{max-width:520px}}
+.kost-vergleich .vg-erkl{margin:18px 0 0;font-size:12px;line-height:16px;font-weight:400;color:#6e6e73;text-align:left;letter-spacing:-.01em}
+@media(min-width:860px){.kost-vergleich{max-width:720px}.kost-vergleich .w{font-size:40px}.kost-vergleich .e{font-size:17px}}
 </style></head>
 <body>
 <nav class="gn gn-page" id="gn" aria-label="Menu">
