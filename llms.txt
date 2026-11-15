@@ -44,19 +44,19 @@
 
 ## Apps
 
-- [Bracket Maker: Tournament Plan](https://dlichters.com/bracketmaker/): Round Robin, Swiss & Knockout
-- [Breedbook: Dog Breeder Log](https://dlichters.com/breedbook/): Litters, heat cycle, whelping
-- [Clapnote: Rhythm Trainer](https://dlichters.com/clapnote/): Sight-reading rhythm practice
-- [Coffer: Collection Tracker](https://dlichters.com/coffer/): Catalog vinyl, cards & coins
-- [Floorscribe: Floor Plan Maker](https://dlichters.com/floorscribe/): Room scanner, area & materials
-- [Hertzline: Voice Pitch Trainer](https://dlichters.com/hertzline/): Train your speaking voice
-- [Coinclock: Hours Tracker & Pay](https://dlichters.com/coinclock/): Time clock, timesheet & wages
-- [Gaugebook: Car Maintenance Log](https://dlichters.com/gaugebook/): Gas mileage, fuel & EV costs
-- [Panelwise: Cut List Optimizer](https://dlichters.com/panelwise/): Plywood & lumber cutting plan
-- [Regiebericht: Site Reports](https://dlichters.com/regiebericht/): Hours, signature & PDF on site
-- [Schichtblatt: Shift Calendar](https://dlichters.com/schichtblatt/): Rotations, hours & holidays
-- [Halfspeed: Slow Down Music](https://dlichters.com/halfspeed/): Speed Changer, Looper & Pitch
-- [Spurbuch: Trip Logbook](https://dlichters.com/spurbuch/)
-- [Stitchnook: Row Counter](https://dlichters.com/stitchnook/): Crochet & Knitting Charts
-- [Tallybin: Stock & Inventory](https://dlichters.com/tallybin/): Barcode Scanner & Tracker
-- [Ton80: Darts Score Counter](https://dlichters.com/ton80/): Scorer, Checkouts & Practice
+- [Bracket Maker: Tournament Plan](https://apps.apple.com/app/id6827594955): Round Robin, Swiss & Knockout
+- [Breedbook: Dog Breeder Log](https://apps.apple.com/developer/id6823486896): Litters, heat cycle, whelping
+- [Clapnote: Rhythm Trainer](https://apps.apple.com/developer/id6823486896): Sight-reading rhythm practice
+- [Coffer: Collection Tracker](https://apps.apple.com/developer/id6823486896): Catalog vinyl, cards & coins
+- [Floorscribe: Floor Plan Maker](https://apps.apple.com/developer/id6823486896): Room scanner, area & materials
+- [Hertzline: Voice Pitch Trainer](https://apps.apple.com/developer/id6823486896): Train your speaking voice
+- [Coinclock: Hours Tracker & Pay](https://apps.apple.com/app/id6827596081): Time clock, timesheet & wages
+- [Gaugebook: Car Maintenance Log](https://apps.apple.com/developer/id6823486896): Gas mileage, fuel & EV costs
+- [Panelwise: Cut List Optimizer](https://apps.apple.com/developer/id6823486896): Plywood & lumber cutting plan
+- [Regiebericht: Site Reports](https://apps.apple.com/developer/id6823486896): Hours, signature & PDF on site
+- [Schichtblatt: Shift Calendar](https://apps.apple.com/developer/id6823486896): Rotations, hours & holidays
+- [Halfspeed: Slow Down Music](https://apps.apple.com/developer/id6823486896): Speed Changer, Looper & Pitch
+- [Spurbuch: Trip Logbook](https://apps.apple.com/developer/id6823486896)
+- [Stitchnook: Row Counter](https://apps.apple.com/developer/id6823486896): Crochet & Knitting Charts
+- [Tallybin: Stock & Inventory](https://apps.apple.com/developer/id6823486896): Barcode Scanner & Tracker
+- [Ton80: Darts Score Counter](https://apps.apple.com/developer/id6823486896): Scorer, Checkouts & Practice
