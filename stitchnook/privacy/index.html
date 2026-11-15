@@ -128,9 +128,17 @@ letter-spacing:0}
 
 body:has(.dev){background:#fff}
 main:has(.dev){max-width:none;padding:0}
+/* David 11.11.2026 21:2x: fester weisser Balken oben, 1:1 wie apps.apple.com (dort gemessen: position fixed, 44 px hoch,
+   #fff, box-shadow 0 1px 2px rgba(0,0,0,.1)). Die zwei Menuelinien sitzen mittig darin und bleiben beim Scrollen stehen.
+   Unter dem Menue (z-index 9999), ueber dem Inhalt; faengt Tipps ab, damit keine App darunter aufgeht. In der Mitte Apples Zeichen mit Schriftzug App Store (David 11.11.2026 23:4x, APPSTORE_CSS unten). */
+body:has(.dev)::before{content:"";position:fixed;top:0;left:0;right:0;z-index:9998;height:calc(44px + env(safe-area-inset-top));
+background:#fff;box-shadow:0 1px 2px 0 rgba(0,0,0,.1)}
+body:has(.dev) .gn-menutrigger,body:has(.dev) .gn-menuback{top:calc(env(safe-area-inset-top) - 2px)}
+/* Ecken-Regel (David 21:13): das D von David 22 Punkte unter dem Balken und 22 vom linken Rand. Auf Davids iPhone gemessen:
+   7 px Abstand oben ergaben 14 Punkte bis zum D, also 44 + 15 = 59 px. */
 .dev{max-width:600px;margin:0 auto;padding-bottom:40px;color:#000;letter-spacing:0;
 font-family:-apple-system,BlinkMacSystemFont,"SF Pro Text","Helvetica Neue",Helvetica,Arial,sans-serif}
-.dev h1{margin:0;padding:67.33px 20px 0;font:700 34px/41px -apple-system,BlinkMacSystemFont,"SF Pro Display",sans-serif;
+.dev h1{margin:0;padding:calc(59px + env(safe-area-inset-top)) 20px 0;font:700 34px/41px -apple-system,BlinkMacSystemFont,"SF Pro Display",sans-serif;
 letter-spacing:0}
 .dev h2{margin:17px 0 0;padding:0 20px;font:700 22px/28px -apple-system,BlinkMacSystemFont,"SF Pro Display",sans-serif;
 letter-spacing:0}
@@ -170,6 +178,10 @@ sans-serif;letter-spacing:0}
 .ios .fuss{margin-top:16px;font:400 13px/18px -apple-system,BlinkMacSystemFont,sans-serif;letter-spacing:0}
 .ios .fuss p{margin:0}
 .ios .fuss .fl{display:inline-block;padding:13px 18px 13px 0;color:#7f7f7f}
+body:has(.dev)::after{content:"";position:fixed;z-index:9998;top:calc(env(safe-area-inset-top) + 13.33px);left:calc(50% + .5px);width:103.714px;height:18px;margin-left:-51.857px;pointer-events:none;background:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjEiIGhlaWdodD0iMjEiIHZpZXdCb3g9IjAgMCAxMjEgMjEiPjxnIGZpbGw9IiMwMDAiIGZpbGwtb3BhY2l0eT0iLjg4IiBmaWxsLXJ1bGU9Im5vbnplcm8iIG9wYWNpdHk9Ii45Ij48cGF0aCBkPSJNMTEuNDE3IDEyLjIwNEg4LjA5NGw1LjgtMTAuMDY3cS4yODUtLjQ5Mi4xNzgtMS4wNjVhMS4yMSAxLjIxIDAgMCAwLS42MzctLjg3UTEyLjktLjExMiAxMi4zNTMuMDgyYTEuNDMgMS40MyAwIDAgMC0uODExLjY4NGwtLjU3NS45NDItLjU3Mi0uOTQyYTEuNDYgMS40NiAwIDAgMC0uODEtLjY5cS0uNTQxLS4xOTgtMS4wODQuMTI4LS41My4zMDYtLjYyOC44NzR0LjE4OCAxLjA2TDkuNDEyIDQuNDVsLTQuNDkgNy43NTVIMS40MzRxLS41NTQgMC0uOTk0LjM3OC0uNDQuMzc5LS40NC45OTIgMCAuNjA1LjQ0Ljk4M3QuOTk0LjM3OGgxMS45NzlhMi40NSAyLjQ1IDAgMCAwLS4wMTctMS4yNDIgMi4xIDIuMSAwIDAgMC0uNjYtMS4wNnEtLjQ5LS40MjktMS4zMi0uNDI5bTkuMDg2IDBoLTMuNDc3bC0zLjc5OC02LjU1OXEtLjU3LjQyLS44MTEgMS4yNDRhNC43IDQuNyAwIDAgMC0uMTU0IDEuNzU1cS4wODcuOTMuNTA2IDEuNjU2bDQuNzk4IDguMjg4cS4yNzYuNDkuODE4LjY4NS41NC4xOTUgMS4wODQtLjExMi41MzMtLjI5OS42NC0uODcuMTA5LS41NzMtLjE3OS0xLjA3M0wxOC42IDE0LjkzNWgxLjkwNHEuNTYxIDAgLjk5OC0uMzc4LjQzNS0uMzc4LjQzNi0uOTgzIDAtLjYxNC0uNDM2LS45OTJhMS40OCAxLjQ4IDAgMCAwLS45OTgtLjM3OG0tMTcuNzIgMy43MTMtLjc1OCAxLjNxLS4yODUuNS0uMTg0IDEuMDY5LjEwMi41NjcuNjI1Ljg3NS41NTEuMzE1IDEuMDk0LjExNmExLjUgMS41IDAgMCAwIC44MTgtLjY4OWwxLjEwNi0xLjg4MXEtLjEzMi0uMjM4LS41MDYtLjQ5OGEyLjUgMi41IDAgMCAwLS45MzctLjM3NHEtLjU2NC0uMTEzLTEuMjU3LjA4Mk0yOC4xNDUgMTYuOTA2aDIuNzY4bDEuMjUxLTMuODI1aDUuNTA2bDEuMjUxIDMuODI1aDIuNzhMMzYuNDA4IDIuMTA5aC0yLjk3M3ptNi43NDctMTIuMTYyaC4wNjFsMi4wNSA2LjI5NmgtNC4xNzJ6TTQzLjAxMyAyMC40OTRoMi41NTNWMTUuMDdoLjA1MWMuNjE1IDEuMjcyIDEuODU2IDIuMDUgMy40MDQgMi4wNSAyLjcyOCAwIDQuNDcxLTIuMTUyIDQuNDcxLTUuNjM5di0uMDFjMC0zLjUwNy0xLjc0My01LjY2LTQuNTAxLTUuNjYtMS41NTkgMC0yLjc0OC44LTMuMzc0IDIuMTAyaC0uMDUxVjYuMDM2aC0yLjU1M3ptNS4yMTktNS41MjZjLTEuNTggMC0yLjY4Ny0xLjM2NC0yLjY4Ny0zLjQ4N3YtLjAxYzAtMi4xMzMgMS4xMDgtMy41MDcgMi42ODctMy41MDcgMS42MyAwIDIuNjU2IDEuMzMzIDIuNjU2IDMuNTA3di4wMWMwIDIuMTQzLTEuMDI2IDMuNDg3LTIuNjU2IDMuNDg3TTU1LjEzMyAyMC40OTRoMi41NTNWMTUuMDdoLjA1MWMuNjE2IDEuMjcyIDEuODU2IDIuMDUgMy40MDUgMi4wNSAyLjcyNyAwIDQuNDctMi4xNTIgNC40Ny01LjYzOXYtLjAxYzAtMy41MDctMS43NDMtNS42Ni00LjUwMS01LjY2LTEuNTU5IDAtMi43NDguOC0zLjM3NCAyLjEwMmgtLjA1MVY2LjAzNmgtMi41NTN6bTUuMjE5LTUuNTI2Yy0xLjU4IDAtMi42ODctMS4zNjQtMi42ODctMy40ODd2LS4wMWMwLTIuMTMzIDEuMTA4LTMuNTA3IDIuNjg3LTMuNTA3IDEuNjMgMCAyLjY1NiAxLjMzMyAyLjY1NiAzLjUwN3YuMDFjMCAyLjE0My0xLjAyNiAzLjQ4Ny0yLjY1NiAzLjQ4N003Ni45MTIgMTcuMTYyYzMuNjEgMCA1Ljc4My0xLjc1NCA1Ljc4My00LjUxMnYtLjAxYzAtMi4zMDctMS4zNDMtMy41NTgtNC40Mi00LjE5NGwtMS41OTktLjMyOGMtMS43ODQtLjM3LTIuNTk0LS45ODQtMi41OTQtMi4wM3YtLjAxYzAtMS4xOCAxLjA3Ny0xLjk5IDIuODEtMiAxLjY2IDAgMi43OTkuNzY5IDIuOTczIDIuMDZsLjAyLjEyNGgyLjUzM2wtLjAxLS4xNzRjLS4xNTQtMi41MzMtMi4yNjYtNC4yMzUtNS40OTYtNC4yMzUtMy4xODkgMC01LjQ3NiAxLjc2My01LjQ4NiA0LjM2OHYuMDFjMCAyLjIwNSAxLjQzNiAzLjU1OCA0LjM0OCA0LjE2M2wxLjU5LjMyOGMxLjkwNi40IDIuNjc2Ljk5NSAyLjY3NiAyLjEwMnYuMDFjMCAxLjI3Mi0xLjE3IDIuMTAzLTMuMDM2IDIuMTAzLTEuODU2IDAtMy4xNTgtLjc5LTMuMzUzLTIuMDYxbC0uMDItLjEyM2gtMi41MzNsLjAxLjE1NGMuMTc1IDIuNjU1IDIuNDEgNC4yNTUgNS44MDQgNC4yNTVNODguNDU4IDE3LjEyYy41MTMgMCAuOTY0LS4wNSAxLjI2MS0uMDkxVjE1LjExYy0uMTc0LjAxLS4zNjkuMDQxLS42MTUuMDQxLS45MzMgMC0xLjQwNS0uMzM4LTEuNDA1LTEuNDA1VjguMDA1aDIuMDJWNi4wMzZIODcuN1YzLjI3OGgtMi41OTR2Mi43NThoLTEuNTM4djEuOTdoMS41Mzh2NS45NTdjMCAyLjIzNSAxLjA3NyAzLjE1OCAzLjM1MyAzLjE1OE05Ni4yNzEgMTcuMTJjMy4xOSAwIDUuMjYtMi4xMjIgNS4yNi01LjY0OXYtLjAyYzAtMy41MDctMi4xMDEtNS42NC01LjI3LTUuNjQtMy4xNTggMC01LjI1IDIuMTUzLTUuMjUgNS42NHYuMDJjMCAzLjUxNyAyLjA2MSA1LjY1IDUuMjYgNS42NW0uMDEtMi4wNmMtMS42MyAwLTIuNjY1LTEuMzAyLTIuNjY1LTMuNTg5di0uMDJjMC0yLjI1NiAxLjA1Ni0zLjU2OSAyLjY0NS0zLjU2OSAxLjYyIDAgMi42NjYgMS4zMDIgMi42NjYgMy41Njh2LjAyMWMwIDIuMjc2LTEuMDM1IDMuNTg5LTIuNjQ1IDMuNTg5TTEwMy4xNzIgMTYuOTA2aDIuNTU0di02LjMwN2MwLTEuNjEuODcxLTIuNTIyIDIuMzE3LTIuNTIyLjQzIDAgLjgyLjA2MSAxLjAzNi4xNDNWNS45MTNhMy4zIDMuMyAwIDAgMC0uODEtLjEwMmMtMS4yNTEgMC0yLjE1NC43OS0yLjQ5MiAyLjEwMmgtLjA1MVY2LjAzNmgtMi41NTR6TTExNS4xNyAxNy4xMmMyLjg0IDAgNC40NC0xLjY4IDQuNzc4LTMuMzUybC4wMy0uMTEzaC0yLjM4OWwtLjAyLjA3MmMtLjI0Ni43MjgtMS4wNzcgMS40MDUtMi4zNDggMS40MDUtMS42NjEgMC0yLjcwNy0xLjEyOC0yLjc0OC0zLjAzNmg3LjYwOHYtLjgyYzAtMy4yODEtMS45MjgtNS40NjUtNS4wMzUtNS40NjVzLTUuMTA2IDIuMjU2LTUuMTA2IDUuNjh2LjAxYzAgMy40NTYgMS45NjkgNS42MiA1LjIzIDUuNjJtLS4wOTMtOS4zMWMxLjM1NCAwIDIuMzM4Ljg2MiAyLjUyMyAyLjU4NGgtNS4wOTdjLjIwNS0xLjY3MSAxLjIyLTIuNTg0IDIuNTc0LTIuNTg0IiBzdHlsZT0ibWl4LWJsZW5kLW1vZGU6bm9ybWFsIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSguMDg2IC4wOTUpIj48L3BhdGg+PC9nPjwvc3ZnPg==") 0 0/100% 100% no-repeat}
+
+.dev .gt{margin:24px 20px 0;font-size:12px;line-height:16px;font-weight:400;color:#6e6e73;text-align:left;letter-spacing:-.01em}
+.dev .gt a{color:inherit;text-decoration:underline}
 .gn{position:absolute;top:0;left:0;right:0;z-index:9999;height:48px;
 --sfd:-apple-system,BlinkMacSystemFont,"Helvetica Neue",Helvetica,Arial,sans-serif;
 --sft:-apple-system,BlinkMacSystemFont,"Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -279,10 +291,23 @@ width:48px;height:48px;color:#000;opacity:.8;transition:opacity .32s var(--cb),c
 html.gn-lock,html.gn-lock body{overflow:hidden}
 html.srch .gn{display:none}
 @keyframes gn-oben-auf{0.000%{transform:translate(0.000px,-4.000px) rotate(0.000deg) scaleX(1.0000)}8.333%{transform:translate(0.000px,-3.822px) rotate(0.000deg) scaleX(1.0000)}16.667%{transform:translate(0.000px,-3.375px) rotate(0.000deg) scaleX(1.0000)}25.000%{transform:translate(0.000px,-2.739px) rotate(0.000deg) scaleX(1.0000)}33.333%{transform:translate(0.000px,-1.953px) rotate(0.000deg) scaleX(1.0000)}41.667%{transform:translate(0.000px,-1.041px) rotate(0.000deg) scaleX(1.0000)}50.000%{transform:translate(0.000px,0.000px) rotate(0.000deg) scaleX(1.0000)}58.333%{transform:translate(0.065px,0.065px) rotate(12.641deg) scaleX(0.9772)}66.667%{transform:translate(0.122px,0.122px) rotate(23.724deg) scaleX(0.9971)}75.000%{transform:translate(0.171px,0.171px) rotate(32.648deg) scaleX(1.0425)}83.333%{transform:translate(0.211px,0.211px) rotate(39.219deg) scaleX(1.0963)}91.667%{transform:translate(0.239px,0.239px) rotate(43.421deg) scaleX(1.1419)}100.000%{transform:translate(0.250px,0.250px) rotate(45.000deg) scaleX(1.1617)}}@keyframes gn-oben-zu{0.000%{transform:translate(0.250px,0.250px) rotate(45.000deg) scaleX(1.1617)}8.333%{transform:translate(0.239px,0.239px) rotate(43.421deg) scaleX(1.1419)}16.667%{transform:translate(0.211px,0.211px) rotate(39.219deg) scaleX(1.0963)}25.000%{transform:translate(0.171px,0.171px) rotate(32.648deg) scaleX(1.0425)}33.333%{transform:translate(0.122px,0.122px) rotate(23.724deg) scaleX(0.9971)}41.667%{transform:translate(0.065px,0.065px) rotate(12.641deg) scaleX(0.9772)}50.000%{transform:translate(0.000px,0.000px) rotate(0.000deg) scaleX(1.0000)}58.333%{transform:translate(0.000px,-1.041px) rotate(0.000deg) scaleX(1.0000)}66.667%{transform:translate(0.000px,-1.953px) rotate(0.000deg) scaleX(1.0000)}75.000%{transform:translate(0.000px,-2.739px) rotate(0.000deg) scaleX(1.0000)}83.333%{transform:translate(0.000px,-3.375px) rotate(0.000deg) scaleX(1.0000)}91.667%{transform:translate(0.000px,-3.822px) rotate(0.000deg) scaleX(1.0000)}100.000%{transform:translate(0.000px,-4.000px) rotate(0.000deg) scaleX(1.0000)}}@keyframes gn-unten-auf{0.000%{transform:translate(0.000px,3.000px) rotate(0.000deg) scaleX(1.0000)}8.333%{transform:translate(0.000px,2.867px) rotate(0.000deg) scaleX(1.0000)}16.667%{transform:translate(0.000px,2.532px) rotate(0.000deg) scaleX(1.0000)}25.000%{transform:translate(0.000px,2.054px) rotate(0.000deg) scaleX(1.0000)}33.333%{transform:translate(0.000px,1.465px) rotate(0.000deg) scaleX(1.0000)}41.667%{transform:translate(0.000px,0.781px) rotate(0.000deg) scaleX(1.0000)}50.000%{transform:translate(0.000px,0.000px) rotate(0.000deg) scaleX(1.0000)}58.333%{transform:translate(0.065px,0.065px) rotate(-12.641deg) scaleX(0.9772)}66.667%{transform:translate(0.122px,0.122px) rotate(-23.724deg) scaleX(0.9971)}75.000%{transform:translate(0.171px,0.171px) rotate(-32.648deg) scaleX(1.0425)}83.333%{transform:translate(0.211px,0.211px) rotate(-39.219deg) scaleX(1.0963)}91.667%{transform:translate(0.239px,0.239px) rotate(-43.421deg) scaleX(1.1419)}100.000%{transform:translate(0.250px,0.250px) rotate(-45.000deg) scaleX(1.1617)}}@keyframes gn-unten-zu{0.000%{transform:translate(0.250px,0.250px) rotate(-45.000deg) scaleX(1.1617)}8.333%{transform:translate(0.239px,0.239px) rotate(-43.421deg) scaleX(1.1419)}16.667%{transform:translate(0.211px,0.211px) rotate(-39.219deg) scaleX(1.0963)}25.000%{transform:translate(0.171px,0.171px) rotate(-32.648deg) scaleX(1.0425)}33.333%{transform:translate(0.122px,0.122px) rotate(-23.724deg) scaleX(0.9971)}41.667%{transform:translate(0.065px,0.065px) rotate(-12.641deg) scaleX(0.9772)}50.000%{transform:translate(0.000px,0.000px) rotate(0.000deg) scaleX(1.0000)}58.333%{transform:translate(0.000px,0.781px) rotate(0.000deg) scaleX(1.0000)}66.667%{transform:translate(0.000px,1.465px) rotate(0.000deg) scaleX(1.0000)}75.000%{transform:translate(0.000px,2.054px) rotate(0.000deg) scaleX(1.0000)}83.333%{transform:translate(0.000px,2.532px) rotate(0.000deg) scaleX(1.0000)}91.667%{transform:translate(0.000px,2.867px) rotate(0.000deg) scaleX(1.0000)}100.000%{transform:translate(0.000px,3.000px) rotate(0.000deg) scaleX(1.0000)}}
+
+.zk{position:absolute;top:5px;left:7px;z-index:8;width:44px;height:44px;-webkit-tap-highlight-color:transparent}
+.zk svg{position:absolute;left:12px;top:14.665px;display:block}
+.zk:active{opacity:.6}
+@media(min-width:601px){.zk{left:calc(50% - 293px)}body:has(.rt) .gn-menutrigger{right:calc(50% - 300px)}}
+body:has(.rt){background:#fff}
+main:has(.rt){max-width:none;padding:0}
+body:has(.rt) .gn-page{position:absolute}
+.rt{max-width:600px;margin:0 auto;padding:calc(59px + env(safe-area-inset-top)) 20px 40px;color:#6e6e73;font-size:12px;
+line-height:16px;font-weight:400;letter-spacing:-.01em;text-align:left;overflow-wrap:break-word}
+.rt h1,.rt h2,.rt h3{margin:16px 0 4px;font-size:inherit;line-height:inherit;font-weight:600;color:inherit;letter-spacing:inherit}
+.rt h1{margin-top:0}
+.rt p{margin:0 0 8px}.rt ul{margin:0 0 8px;padding-left:16px}.rt li{margin:0}
+.rt a{color:inherit;text-decoration:underline}.rt a.url{overflow-wrap:anywhere}
 </style></head>
 <body>
-<div class="navfx" id="fx" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i></div>
-<header class="nb"><b>Privacy Policy for Stitchnook</b></header>
+<a class="zk" href="../../apps/" aria-label="Apps"><svg viewBox="0 0 8.33 14.67" width="8.33" height="14.67" aria-hidden="true"><path d="M7.78.55.55 7.335l7.23 6.785" fill="none" stroke="#333335" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round"/></svg></a>
 <nav class="gn gn-page" id="gn" aria-label="Menu">
 <div class="gn-schleier"></div>
 <div class="gn-tuch"><div class="gn-glas"></div><div class="gn-voll"></div></div>
@@ -331,30 +356,31 @@ setTimeout(function(){g.classList.add("gn-fertig");document.documentElement.clas
 document.addEventListener("keydown",function(e){if(e.key!=="Escape")return;if(has("gn-sub"))back.click();else if(has("gn-open"))trig.click()});
 addEventListener("pageshow",function(e){if(e.persisted&&has("gn-open"))trig.click()})})()</script>
 <main class="wrap">
-<article class="legal"><h1>Privacy Policy for Stitchnook</h1>
+<article class="rt">
+<h1>Privacy Policy for Stitchnook</h1>
 <p>Last updated: October 2026</p>
-<section class="card"><h2>Controller</h2>
-<p>David Lichters<br>Maurenbrecherstraße 16<br>47803 Krefeld<br>Email: <a href="mailto:support@lichtersapps.com">support@lichtersapps.com</a></p></section>
-<section><h2>In short</h2>
-<p>Stitchnook works without an account and without our own server. Everything you enter stays on your device. We do not collect usage data and use no tracking, advertising or analytics.</p></section>
-<section><h2>Data processed by the app</h2>
+<h2>Controller</h2>
+<p>David Lichters<br>Maurenbrecherstraße 16<br>47803 Krefeld<br>Email: <a href="mailto:support@lichtersapps.com">support@lichtersapps.com</a></p>
+<h2>In short</h2>
+<p>Stitchnook works without an account and without our own server. Everything you enter stays on your device. We do not collect usage data and use no tracking, advertising or analytics.</p>
+<h2>Data processed by the app</h2>
 <p>You enter projects (name, yarn, needle size, gauge, notes), counter values, charts you draw yourself, progress photos from your library and PDF patterns you import from the Files app (including your highlights). When you share a chart as PNG or PDF or a CSV export, only the recipients you choose receive it. Please only import and share patterns you are allowed to use.</p>
-<p>This data is stored only locally in the app’s protected storage on your device. It is not transmitted to us or to third parties. Depending on your device settings it is part of your device backup (iCloud or computer), which Apple or you manage.</p></section>
-<section><h2>Sharing</h2>
-<p>When you send a document by email, message or the share menu, this happens through the app you choose. You decide on recipients and content. You are responsible for sharing data of third parties (e.g. your customers).</p></section>
-<section><h2>Permissions</h2>
-<p>The app only asks for permissions needed for a feature (e.g. the camera for photos). You can revoke them anytime in iOS Settings. Picking photos from your library needs no permission: you only share the selected images.</p></section>
-<section><h2>Purchases and subscriptions</h2>
+<p>This data is stored only locally in the app’s protected storage on your device. It is not transmitted to us or to third parties. Depending on your device settings it is part of your device backup (iCloud or computer), which Apple or you manage.</p>
+<h2>Sharing</h2>
+<p>When you send a document by email, message or the share menu, this happens through the app you choose. You decide on recipients and content. You are responsible for sharing data of third parties (e.g. your customers).</p>
+<h2>Permissions</h2>
+<p>The app only asks for permissions needed for a feature (e.g. the camera for photos). You can revoke them anytime in iOS Settings. Picking photos from your library needs no permission: you only share the selected images.</p>
+<h2>Purchases and subscriptions</h2>
 <p>The basic features of Stitchnook are free. You can unlock Pro with a subscription (yearly or monthly) or with a one-time purchase (Lifetime). All purchases are handled entirely through your Apple Account and the App Store; Apple’s terms apply, in particular the Standard License Agreement (EULA): <a class="url" href="https://www.apple.com/legal/internet-services/itunes/dev/stdeula/">https://www.apple.com/legal/internet-services/itunes/dev/stdeula/</a>. We receive no payment or personal data, only the purchase confirmation signed by Apple, which the app checks on your device to unlock Pro. Apple’s privacy policy applies: <a class="url" href="https://www.apple.com/legal/privacy/">https://www.apple.com/legal/privacy/</a></p>
-<ul><li><strong>Auto-renewal:</strong> Subscriptions renew automatically for the chosen period at the price shown unless you cancel at least 24 hours before the end of the current period. Payment is charged to your Apple Account.</li><li><strong>Cancellation:</strong> anytime in your Apple Account settings under “Subscriptions” (in the app also via “Manage subscriptions”). Pro stays active until the end of the paid period; after that the free version applies again and your data is kept.</li><li><strong>Free trial:</strong> For new subscribers, the yearly subscription starts with a free trial of 7 days. If you cancel at least 24 hours before it ends, you won’t be charged; otherwise it automatically converts into the paid yearly subscription. The trial is available once per Apple Account.</li><li><strong>Lifetime:</strong> a one-time purchase with no renewal and no further costs.</li><li><strong>Refunds</strong> are handled by Apple only (<a class="url" href="https://reportaproblem.apple.com">https://reportaproblem.apple.com</a>).</li></ul></section>
-<section><h2>Email support</h2>
-<p>If you email us, we process your address and message only to answer your request (Art. 6(1)(b) and (f) GDPR) and delete them when no longer needed.</p></section>
-<section><h2>Your rights</h2>
-<p>You have the right to access, rectification, erasure, restriction, data portability and objection (Art. 15 to 21 GDPR) and the right to lodge a complaint with a supervisory authority. Since your app data stays on your device, you can change, export or delete it there at any time.</p></section>
-<section><h2>Changes</h2>
-<p>We update this policy when the app or the legal situation changes. The version shown in the app applies.</p></section></article>
+<ul><li><strong>Auto-renewal:</strong> Subscriptions renew automatically for the chosen period at the price shown unless you cancel at least 24 hours before the end of the current period. Payment is charged to your Apple Account.</li><li><strong>Cancellation:</strong> anytime in your Apple Account settings under “Subscriptions” (in the app also via “Manage subscriptions”). Pro stays active until the end of the paid period; after that the free version applies again and your data is kept.</li><li><strong>Free trial:</strong> For new subscribers, the yearly subscription starts with a free trial of 7 days. If you cancel at least 24 hours before it ends, you won’t be charged; otherwise it automatically converts into the paid yearly subscription. The trial is available once per Apple Account.</li><li><strong>Lifetime:</strong> a one-time purchase with no renewal and no further costs.</li><li><strong>Refunds</strong> are handled by Apple only (<a class="url" href="https://reportaproblem.apple.com">https://reportaproblem.apple.com</a>).</li></ul>
+<h2>Email support</h2>
+<p>If you email us, we process your address and message only to answer your request (Art. 6(1)(b) and (f) GDPR) and delete them when no longer needed.</p>
+<h2>Your rights</h2>
+<p>You have the right to access, rectification, erasure, restriction, data portability and objection (Art. 15 to 21 GDPR) and the right to lodge a complaint with a supervisory authority. Since your app data stays on your device, you can change, export or delete it there at any time.</p>
+<h2>Changes</h2>
+<p>We update this policy when the app or the legal situation changes. The version shown in the app applies.</p>
+</article>
+<script>(function(){var g=document.getElementById("gn"),t=g&&g.querySelector(".gn-menutrigger-button");if(t)t.addEventListener("click",function(){if(!g.classList.contains("gn-open")&&scrollY>0)scrollTo(0,0)},true)})()</script>
 </main>
 
-<script>(function(){var fx=document.getElementById("fx");function u(){fx.classList.toggle("on",(window.scrollY||0)>2)}
-addEventListener("scroll",u,{passive:true});u()})()</script>
 </body></html>
