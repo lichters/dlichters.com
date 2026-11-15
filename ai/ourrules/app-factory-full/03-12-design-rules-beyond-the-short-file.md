@@ -147,7 +147,7 @@ The biggest risk: many apps from one kit on one account. Apple rejected 1.93 M o
 
 - Domain bought 2026-10-11 at checkdomain. Hosted via a public GitHub Pages repo with a CNAME; HTTPS working since 2026-10-25 (certificate approved after clearing and re-setting the custom domain via the GitHub API, then "enforce HTTPS"). The domain hung in ICANN registrant verification until the verification mail link was confirmed on 2026-10-22.
 - Per app: support page `/<slug>/` (= Support URL), `/privacy/`, `/datenschutz/`, `/imprint/`, `/impressum/`. Apps with a web slug (coinclock, halfspeed, gaugebook, schichtblatt) get the pages at the new path, the old path stays with canonical.
-- Support mail support@lichtersapps.com. Provider name "David Lichters" (corrected at Apple by 2026-10-31 from a typo "Lichtera"; the typo never blocked submission).
+- Support mail support@dlichters.com. Provider name "David Lichters" (corrected at Apple by 2026-10-31 from a typo "Lichtera"; the typo never blocked submission).
 - Privacy link in app and App Store Connect by user language: German `/datenschutz`, otherwise `/privacy`.
 - The build is committed in the private repo but only mirrored to the public site by a separate push: before each submission, curl the live privacy page and check it contains the current text (Coffer's live page still said "stays on your device" while the repo was correct). A bug-check rule fails if the website lags behind the app's legal or store text.
 - `/ai/` on this domain is the AI knowledge page you are reading.
