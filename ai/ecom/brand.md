@@ -24,7 +24,7 @@
 
 1. Ask an AI chat for 10 brand names for your niche. Keep only names with a free .com.
 2. Check each name: is the .com free and cheap, is there a trademark with the same name, and does a web search show a bad meaning or slang use?
-3. Add the domain to the cart to confirm it is free, then buy it and keep it forever. Under 18, a parent usually has to own the accounts and payments.
+3. Add the domain to the cart to confirm it is free, then buy it and keep it forever.
 4. Write one sentence that names your buyer and the problem your product fixes.
 5. Make a quick customer avatar: age, income, where they hang out online, what they want to feel or become.
 6. Choose 3 colors that fit your market and note the hex codes.

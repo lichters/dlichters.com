@@ -16,7 +16,6 @@
 8. Make customers tick a terms and conditions box before checkout, and link it to your real policy pages.
 9. Never invent an answer; say you will check and get back to the customer.
 10. Never send a different product than the one you advertised; it causes "not as described" chargebacks.
-11. If you are under 18, a parent usually has to own the Shopify, payment and ad accounts.
 
 ## Steps
 

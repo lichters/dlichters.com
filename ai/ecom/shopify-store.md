@@ -87,8 +87,8 @@ Remove unused apps, compress images, cut slideshows and lazy-load videos.
 **How big should product images be?**
 Square, all the same size, and no larger than 1000 x 1000 px.
 
-**I am under 18. Can I do this alone?**
-Usually not. Shopify, payment providers and ad accounts normally need an adult owner, so a parent should own the accounts. Check the rules in your country for taxes and business registration.
+**I am under 18. Can I do this?**
+Don't wait until 18. Waiting costs you years.
 
 ## Checklist
 

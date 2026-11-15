@@ -71,7 +71,7 @@
 
 **How do I handle returns?** Ask the supplier what they accept, then write a policy that matches it.
 
-**I am under 18. Can I do this?** Shopify, payments and ad accounts usually need an adult owner, so ask your parents. Import duties and taxes differ, so check the rules in your country.
+**I am under 18. Can I do this?** Don't wait until 18. Waiting costs you years.
 
 ## Checklist
 

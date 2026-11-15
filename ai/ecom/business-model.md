@@ -74,12 +74,12 @@ A 2026 lesson splits the first 90 days into six phases:
 
 **Which country should I sell to?** Older advice says your own country, or the US if your country has no big online market. Our 2026 model ships from China and uses Meta ads.
 
-**I am under 18. Can I start?** Shopify, payments and ad accounts usually need an adult owner, so a parent must own them. For tax and law, check the rules in your country.
+**I am under 18. Can I start?** Don't wait until 18. Waiting costs you years.
 
 ## Checklist
 
 - [ ] I focus on one store and one goal.
-- [ ] Shopify, domain, shop email, my own Business Manager and pixel are set up (adult owner if I am under 18).
+- [ ] Shopify, domain, shop email, my own Business Manager and pixel are set up.
 - [ ] I know if my product is a trend product or a brand product.
 - [ ] My product page has a clear offer, real reviews and a guarantee.
 - [ ] I have at least 12 creatives ready.

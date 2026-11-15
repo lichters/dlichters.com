@@ -87,7 +87,6 @@
 - [ ] SOP (video, text, "do not do" list, checklist) ready before the job post.
 - [ ] 3 to 5 people interviewed, paid trial done.
 - [ ] Onboarding, communication rules and reviews set.
-- [ ] Under 18: the store, payments, ad accounts and paying staff usually need an adult owner, so a parent. Check the rules in your country for hiring, contracts and tax.
 
 ## Templates
 

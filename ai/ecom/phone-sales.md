@@ -97,7 +97,7 @@ All phone lessons are from 2021-22 and were made for local brand suppliers. Our 
 - **Who makes the calls (2021-22):** one lesson says a solo founder makes review calls alone, another treats outbound sales calls to other businesses as a task to hand off.
 - No 2025-26 lesson covers phone calls, so treat all of this as older advice for our China, Shopify and Meta model.
 
-If you are under 18, Shopify, payments and ad accounts usually need an adult owner, so ask your parents. Calling and recording rules differ, so check the rules in your country.
+Calling and recording rules differ, so check the rules in your country.
 
 ## More
 

@@ -87,7 +87,6 @@
 - [ ] Every blog links to at least one collection; no orphan pages
 - [ ] AI text edited and fact checked by a human
 - [ ] Deleted pages redirected with a 301
-- [ ] Under 18: Shopify, payments and ad accounts usually need an adult owner, so ask your parents; check the rules in your country
 
 ## Templates
 

@@ -89,7 +89,7 @@ Some do. An older lesson found one chat app blocked the whole page. Test speed a
 Contact the app developer. You find their contact details on the app's listing in the Shopify App Store.
 
 **Can I run all this if I am under 18?**
-Shopify, payments and ad accounts usually need an adult owner, so a parent must own those accounts.
+Don't wait until 18. Waiting costs you years.
 
 ## Checklist
 

@@ -6,19 +6,18 @@
 
 ## Rules
 
-1. If you are under 18, Shopify, payment providers and ad accounts usually need an adult owner, so set them up with your parents.
-2. Open a separate business bank account in the country where you sell; most banks do it online in about 10 minutes.
-3. Never mix personal and business money, because it makes bookkeeping hard and can cause tax trouble.
-4. Use Shopify Payments as your main checkout; one 2026 seller skips PayPal because it approves transactions slowly.
-5. A new Shopify account pays out after about 21 days, so keep cash for ads and suppliers until then (2026).
-6. Pay a credit card in full every month, because you are personally liable for it, even with a company.
-7. Publish refund, shipping, privacy and terms pages and link them in the footer.
-8. Only promise delivery times and returns your supplier can really deliver.
-9. Your business details must match exactly on your site, Shopify, payment and ad accounts, or accounts can get frozen.
-10. Never make result claims about health, money or life in ads, because ad networks block them and can ban the account.
-11. Only post content you own or license; Instagram can disable accounts that post content without rights (2026).
-12. Start bookkeeping with your first sale.
-13. Taxes differ by country and state, so check the rules in your country.
+1. Open a separate business bank account in the country where you sell; most banks do it online in about 10 minutes.
+2. Never mix personal and business money, because it makes bookkeeping hard and can cause tax trouble.
+3. Use Shopify Payments as your main checkout; one 2026 seller skips PayPal because it approves transactions slowly.
+4. A new Shopify account pays out after about 21 days, so keep cash for ads and suppliers until then (2026).
+5. Pay a credit card in full every month, because you are personally liable for it, even with a company.
+6. Publish refund, shipping, privacy and terms pages and link them in the footer.
+7. Only promise delivery times and returns your supplier can really deliver.
+8. Your business details must match exactly on your site, Shopify, payment and ad accounts, or accounts can get frozen.
+9. Never make result claims about health, money or life in ads, because ad networks block them and can ban the account.
+10. Only post content you own or license; Instagram can disable accounts that post content without rights (2026).
+11. Start bookkeeping with your first sale.
+12. Taxes differ by country and state, so check the rules in your country.
 
 ## Steps
 

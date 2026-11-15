@@ -82,7 +82,7 @@
 
 **What before Black Friday?** One coaching example switched the popup to early access, which grew the list for a strong sale day.
 
-**Any legal limits?** One lesson says only one cart SMS is allowed in the first 24 hours, and many countries require a business address in emails. Check the rules in your country. If you are under 18, your parents usually need to own the Shopify and payment accounts.
+**Any legal limits?** One lesson says only one cart SMS is allowed in the first 24 hours, and many countries require a business address in emails. Check the rules in your country.
 
 ## Checklist
 

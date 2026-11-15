@@ -91,7 +91,6 @@
 - [ ] Past buyers (180 days) excluded
 - [ ] One CBO, $50, broad, top 5 countries, a single concept in each ad set
 - [ ] Hands off for 3 days, decision after 7
-- [ ] Under 18: Shopify, payments and ad accounts usually need an adult owner, so ask your parents; check the rules in your country
 
 ## Where courses disagree
 

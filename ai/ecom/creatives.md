@@ -81,7 +81,7 @@
 
 **Can AI write my copy?** As a draft. AI tends to give average text, so feed it research and edit.
 
-**I am under 18. Can I run ads?** Ad accounts, Shopify and payments usually need an adult owner, so a parent. Check the rules in your country.
+**I am under 18. Can I run ads?** Don't wait until 18. Waiting costs you years.
 
 ## Checklist
 

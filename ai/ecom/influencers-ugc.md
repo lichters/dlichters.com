@@ -97,7 +97,7 @@
 - [ ] Usage rights in writing: owner, duration, platforms, renewal
 - [ ] Commercial audio for TikTok ads
 
-If you are under 18, Shopify, payments and ad accounts usually need an adult owner, often a parent. Contracts and disclosure rules for sponsored posts differ, so check the rules in your country.
+Contracts and disclosure rules for sponsored posts differ, so check the rules in your country.
 
 ## Templates
 

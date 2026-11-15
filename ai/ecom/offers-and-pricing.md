@@ -95,7 +95,7 @@
 - **Dollar vs percent off:** some say use dollar off when the discount is over $100. A 2026 lesson says "save $X" works best on higher priced products and less well on cheap ones.
 - **Timers:** a 2026 coach notes many brands reset countdown timers daily. A 2021-22 lesson calls such scarcity fake. Fake timers break shop and ad rules, so do not use them.
 
-Under 18? Shopify, payments and ad accounts usually need an adult owner, so ask your parents. Discount and pricing rules differ by place, so check the rules in your country.
+Discount and pricing rules differ by place, so check the rules in your country.
 
 ## More
 

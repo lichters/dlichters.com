@@ -98,7 +98,7 @@ About 6 to 8 variants.
 One 2026 lesson reports that native-style ads never scaled as well for the speaker as UGC-style videos or bottom-of-funnel ads.
 
 **I am under 18. Can I do this?**
-Shopify, payments and ad accounts usually need an adult owner, often a parent. Check the rules in your country.
+Don't wait until 18. Waiting costs you years.
 
 ## Checklist
 

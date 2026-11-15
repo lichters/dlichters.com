@@ -86,7 +86,6 @@
 - [ ] FAQ answers the top objections
 - [ ] Slide-out cart with badges and no hidden fees
 - [ ] Test list with baseline, dates and goal
-- [ ] Under 18: Shopify, payments and ad accounts usually need an adult owner, so ask your parents; check the rules in your country
 
 ## Templates
 

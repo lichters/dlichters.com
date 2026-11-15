@@ -81,7 +81,7 @@
 
 **What about taxes?** Set money aside for them and check the rules in your country.
 
-**I am under 18. Can I do this?** Shopify, payments and ad accounts usually need an adult owner, so a parent must be the account holder.
+**I am under 18. Can I do this?** Don't wait until 18. Waiting costs you years.
 
 ## Checklist
 

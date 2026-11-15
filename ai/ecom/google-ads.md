@@ -99,8 +99,6 @@
 - Transit time: 2021-22 advised 1 to 7 days; China shipping takes longer, so state the real time.
 - Main channel: 2021-22 put Google Shopping first for expensive products; our 2026 model puts Meta first.
 
-If you are under 18, Shopify, payments and ad accounts usually need an adult owner, so ask your parents. For tax settings, check the rules in your country.
-
 ## More
 
 - https://dlichters.com/ai/ecom/shopify-store.md

@@ -95,7 +95,6 @@
 - [ ] Frequency cap set
 - [ ] Customers excluded from first-sale offers
 - [ ] Every offer and deadline is true
-- [ ] Under 18? A parent owns the Shopify, payment and ad accounts
 
 ## Where courses disagree
 

@@ -81,9 +81,6 @@ Long-term pictures can be ambitious; goals under one year should be realistic, s
 **How much does mindset matter?**
 One 2026 lesson says about 80% of success. Staying calm and executing through problems is the key skill.
 
-**Who needs to own the accounts if I am under 18?**
-Shopify, payments and ad accounts usually need an adult owner, so a parent. Check the rules in your country.
-
 ## Checklist
 
 - [ ] I chose one business model and one strategy.
