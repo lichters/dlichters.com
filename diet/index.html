@@ -341,9 +341,11 @@ cursor:pointer;-webkit-tap-highlight-color:transparent;-webkit-user-select:none;
    das abstand vom bimd rand zum karten rand so ist wie abstand von oberem rand zum oberen rand"; vorher 42,7, mittig zwischen
    Kartenoberkante und Namen).
    Vorher (14.11.): Bild 265 in der Kartenmitte, Davids Zeile mittig darunter. Schriftfarbe je Karte weiter aus _schrift_auf().
-   Bildecken 27 wie die Karte (.kost-band>div, border-radius:27px; ändert sich die eine, die andere mit). David 15.11.2026 12:4x:
-   "Geh sicher das die abrundung der bilder genau so ist wie die der karten. Damit es passt"; vorher 18. */
-.kost-wisch img{position:absolute;left:28.2px;top:28.2px;width:252.6px;height:252.6px;object-fit:cover;border-radius:27px;display:block;pointer-events:none;-webkit-user-drag:none}
+   Bildecke = Kartenecke, verkleinert wie das Bild: 27 x 252,6 / 309 = 22,07 (Karte .kost-band>div hat border-radius:27px;
+   ändert sich Kartenecke oder Bildbreite, hier mitändern). David 15.11.2026 12:5x: "so machen, dass es genau so aussieht wie
+   die Karte, auf der es liegt, aber halt die Karte in 90 % der Größe (oder wie viel Prozent auch immer das Bild kleiner ist)".
+   Vorher 18 ("kacke") und 27 wie die Karte ("noch schlechter"). */
+.kost-wisch img{position:absolute;left:28.2px;top:28.2px;width:252.6px;height:252.6px;object-fit:cover;border-radius:calc(27px * 252.6 / 309);display:block;pointer-events:none;-webkit-user-drag:none}
 .kost-wisch .n,.kost-wisch .p{position:absolute;left:28.2px;right:16px;margin:0;text-align:left;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .kost-wisch .n{top:333.1px;font-size:17px;line-height:21px;font-weight:600;letter-spacing:normal}
 .kost-wisch .p{top:403.1px;font-size:14px;line-height:18px;font-weight:400;letter-spacing:-.15px}
