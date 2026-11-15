@@ -291,11 +291,12 @@ html.srch .gn{display:none}
 body:has(.sup){background:#fff}
 main:has(.sup){max-width:none;padding:0}
 .sup-h{position:absolute;width:1px;height:1px;overflow:hidden;clip-path:inset(50%);white-space:nowrap}
-.sup{max-width:600px;margin:0 auto}
+.sup{max-width:600px;margin:0 auto;background:#fff}
 .sup a{display:block;-webkit-tap-highlight-color:rgba(0,0,0,0)}
 .sup img{display:block;width:100%;height:auto}
 body:has(.sup) .gn-page{position:absolute}
 @media(min-width:601px){body:has(.sup) .gn-menutrigger{right:calc(50% - 300px)}}
+@media(max-width:600px){html.sup-oben body:has(.sup){background:#c9c9c9}}
 </style></head>
 <body>
 <nav class="gn gn-page" id="gn" aria-label="Menu">
@@ -352,7 +353,7 @@ addEventListener("pageshow",function(e){if(e.persisted&&has("gn-open"))trig.clic
 <a href="https://maps.apple.com/?address=Maurenbrecherstra%C3%9Fe%2016%2C%2047803%20Krefeld%2C%20Germany"><img src="karte.jpg" width="1179" height="1409" alt="Our address on Apple Maps"></a>
 <a href="https://wa.me/4915730331937"><img src="whatsapp.jpg" width="1179" height="993" alt="WhatsApp support"></a>
 </div>
-<script>(function(){var g=document.getElementById("gn"),t=g&&g.querySelector(".gn-menutrigger-button");if(t)t.addEventListener("click",function(){if(!g.classList.contains("gn-open")&&scrollY>0)scrollTo(0,0)},true)})()</script>
+<script>(function(){var g=document.getElementById("gn"),t=g&&g.querySelector(".gn-menutrigger-button");if(t)t.addEventListener("click",function(){if(!g.classList.contains("gn-open")&&scrollY>0)scrollTo(0,0)},true)})();(function(){var d=document.documentElement;function f(){d.classList.toggle("sup-oben",scrollY<(d.scrollHeight-innerHeight)/2)}f();addEventListener("scroll",f,{passive:true});addEventListener("resize",f);addEventListener("load",f)})()</script>
 </main>
 
 </body></html>
