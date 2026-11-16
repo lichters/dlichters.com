@@ -515,13 +515,14 @@ font:400 15px/1.35 -apple-system,BlinkMacSystemFont,"SF Pro Text","Helvetica Neu
 .st-spbar{display:flex;gap:1px;height:10px;border-radius:5px;background:#fff;overflow:hidden;-webkit-tap-highlight-color:transparent}
 .st-spbar b{flex:none;height:100%;cursor:pointer;transition:opacity .22s ease}
 .st-splg{list-style:none;margin:4.33px 0 0;padding:0}
-.st-spz{all:unset;box-sizing:border-box;position:relative;display:flex;align-items:center;gap:4px;width:100%;height:21.333px;color:#000;
+.st-spz{all:unset;box-sizing:border-box;display:flex;align-items:center;gap:4px;width:100%;height:21.333px;color:#000;
 font:400 12px/16px -apple-system,BlinkMacSystemFont,"SF Pro Text","Helvetica Neue",Helvetica,Arial,sans-serif;letter-spacing:0;cursor:pointer;-webkit-tap-highlight-color:transparent;transition:opacity .22s ease}
 .st-spz i{flex:none;width:10px;height:10px;border-radius:50%}
-/* Daten ab der Mitte des Balkens (David 16.11.2026 18:2x, Wortlaut bei UEBERSICHT): Name höchstens bis 8 px vor die Mitte */
-.st-spn{min-width:0;max-width:calc(50% - 22px);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
-.st-spd{position:absolute;top:0;bottom:0;left:50%;display:flex;align-items:center;color:#78777c;font-variant-numeric:tabular-nums;
-white-space:nowrap}
+/* Startdatum rechtsbündig an der rechten Balkenkante (David 16.11.2026 18:2x bis 18:4x, Wortlaut bei UEBERSICHT): Jahr schwarz,
+   Rest grau wie "5 years", gleich breite Ziffern; der Name läuft bis 8 px vor das Datum (4 px Lücke der Zeile plus 4 px hier) */
+.st-spn{min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.st-spd{flex:none;margin-left:auto;padding-left:4px;color:#78777c;font-variant-numeric:tabular-nums;white-space:nowrap}
+.st-spj{color:#000}
 .st-spdruck{opacity:.45!important;transition:none!important}
 @media (prefers-reduced-motion:no-preference){html:not(.st-splos) .st-spbar{clip-path:inset(0 100% 0 0 round 5px)}
 .st-spbar{transition:clip-path .9s cubic-bezier(.25,1,.5,1)}html:not(.st-splos) .st-spz{opacity:0}.st-spz{transition:opacity .35s ease}}
@@ -804,9 +805,9 @@ var sum=T.reduce(function(a,t){return a+t.d},0);
 // soll das "5 years" sagen", Wortlaut im CSS bei .st-hk)
 var jz=document.getElementById("sthz");if(jz){var jr=Math.round(sum/(365.25*864e5));jz.textContent=jr===1?"1 year":jr+" years"}
 sp.innerHTML='<div class="st-spbar" role="img" aria-label="Share of time per idea">'+T.map(function(t){return'<b data-i="'+t.i+'" style="background:'+t.s.f+'"></b>'}).join("")+
-'</div><ul class="st-splg">'+S.map(function(s,i){var dz=(s.b&&s.b.zeit)||(s.s+(s.e&&s.e!=="now"?" to "+s.e:""));
+'</div><ul class="st-splg">'+S.map(function(s,i){var dz=esc(s.s).replace(/^\d{4}/,'<span class="st-spj">$&</span>');
 return'<li><button class="st-spz" type="button" data-i="'+i+'"><i style="background:'+s.f+'"></i><span class="st-spn">'+esc(s.n)+
-'</span> <span class="st-spd">'+esc(dz)+'</span></button></li>'}).join("")+'</ul>';
+'</span> <span class="st-spd">'+dz+'</span></button></li>'}).join("")+'</ul>';
 var bar=sp.firstChild;
 function breiten(){var W=bar.clientWidth-(T.length-1),m=5,klein={},frei=W,rest=sum,neu=1;
 while(neu){neu=0;T.forEach(function(t){if(!klein[t.i]&&t.d/rest*frei<m){klein[t.i]=1;frei-=m;rest-=t.d;neu=1}})}
