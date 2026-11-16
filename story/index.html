@@ -327,8 +327,18 @@ font:600 32px/36px -apple-system,BlinkMacSystemFont,"SF Pro Display","Helvetica 
    die Grundlinie liegt also bei 71,7. Nachgemessen im Simulator-Safari (iPhone 17 Pro, 3x):
    "Storage" in dieser Schrift ohne Sperrung reicht wie im Bild von x 51 bis 224 (58,0 pt, S 38 px hoch), also Laufweite 0;
    das r von "story" endet in Zeile 400 (Grundlinie 71,67), der Balken beginnt wie im Bild 25 Zeilen darunter. */
-.st-h.st-hs{padding:54.63px 0 3px;color:#000;
+/* Dazu David 16.11.2026 16:13, woertlich, mit demselben iCloud-Bild: "Statt "1TB of 2TB" soll das "5 years" sagen", und
+   gleich danach: "Und das Story groß geschrieben". Rechts in der Zeile steht deshalb grau die Zeit aller Balken zusammen
+   (das Skript rechnet sie aus der Summe, gerundet auf ganze Jahre), wie "1 TB of 2 TB Used" neben "Storage": dieselbe
+   Schrift, Farbe aus dem Bild gemessen (Kern der grauen Striche 120, 119, 124), gleiche Grundlinie, rechts bündig mit dem
+   Balken. Das ersetzt für diese Zeile die alte Regel "kein Zusatztext". Die Zeile trägt die Abstände, die Überschrift
+   selbst hat keine. */
+.st-hk{display:flex;align-items:baseline;justify-content:space-between;gap:12px;max-width:700px;margin:0 auto;
+padding:54.63px 0 3px;box-sizing:border-box}
+.st-h.st-hs{flex:none;max-width:none;margin:0;padding:0;color:#000;
 font:400 17px/22px -apple-system,BlinkMacSystemFont,"SF Pro Text","Helvetica Neue",sans-serif;letter-spacing:0px}
+.st-hz{min-width:0;overflow:hidden;color:#78777c;font:400 17px/22px -apple-system,BlinkMacSystemFont,"SF Pro Text","Helvetica Neue",sans-serif;
+letter-spacing:0;white-space:nowrap;text-overflow:ellipsis;text-align:right}
 .st-karte{max-width:700px;margin:0 auto;padding:25px 16px 20px;background:#fff;border-radius:26px;letter-spacing:0}
 .st-graph{position:relative;height:290px}
 .st-graph svg{display:block;overflow:visible}
@@ -538,7 +548,7 @@ setTimeout(function(){g.classList.add("gn-fertig");document.documentElement.clas
 document.addEventListener("keydown",function(e){if(e.key!=="Escape")return;if(has("gn-sub"))back.click();else if(has("gn-open"))trig.click()});
 addEventListener("pageshow",function(e){if(e.persisted&&has("gn-open"))trig.click()})})()</script>
 <main class="wrap">
-<h1 class="st-h st-hs">story</h1>
+<div class="st-hk"><h1 class="st-h st-hs">Story</h1><span class="st-hz" id="sthz"></span></div>
 <section class="st-sp" id="stsp" aria-label="Business ideas David tested"></section>
 <section class="st-karte" aria-label="Business ideas David tested" hidden>
 <div class="st-graph" id="stg" role="group" aria-label="16 business ideas from 2022 to today" style="height:411.04px"></div>
@@ -668,12 +678,21 @@ return{geh:geh,neu:function(){mass();setze(true)}}}
 var spLage=null;
 function ob(){var b=document.querySelector(".st-spbar"),u=b?b.getBoundingClientRect().bottom:-1;
 if(u>0&&u<innerHeight/2)blatt.style.setProperty("--st-oben",Math.round((u+10)*3)/3+"px");else blatt.style.removeProperty("--st-oben")}
+// Balken im Fenster genau so lang wie der obere (David 16.11.2026 16:1x, woertlich: "Beide balken sollen gkeich lang sein",
+// mit rotem Streifen über beiden linken Enden): gleiche linke und rechte Kante auf dem Bildschirm wie der Übersichtsbalken;
+// ist das Fenster schmaler (ab 760 px Breite), endet er 16 px vor dessen Rand
+function zbLage(){var z=inh.querySelector(".st-zb"),b=document.querySelector(".st-spbar");if(!z||!b)return;z.style.marginLeft="";z.style.width="";
+var B=b.getBoundingClientRect(),Z=z.getBoundingClientRect(),F=blatt.getBoundingClientRect(),l=Math.max(B.left,F.left+16),r=Math.min(B.right,F.right-16);
+if(r-l<40)return;z.style.marginLeft=(l-Z.left)+"px";z.style.width=(r-l)+"px";
+// die farbige Stelle dann in px aus dem oberen Balken, damit beide Kanten auf denselben Gerätepixel fallen
+var g=b.querySelector('b[data-i="'+z.getAttribute("data-i")+'"]'),e=z.firstChild,c,k;if(!g||!e)return;
+c=g.getBoundingClientRect();k=(r-l)/B.width;e.style.left=(c.left-B.left)*k+"px";e.style.width=c.width*k+"px"}
 function oeffne(i){var s=S[i],b=s.b||{},o=[],nm=esc(s.n),sp=nm.lastIndexOf(" ");akt=i;M=b.m||[];
 o.push('<button class="st-sx" type="button" aria-label="Close">'+D.zu+'</button>');
 o.push('<div class="st-tk"><h2 class="st-titel" id="stt">'+nm.slice(0,sp+1)+'<span class="st-nw">'+nm.slice(sp+1)+D.pf+'</span></h2>'+
 '<button class="st-wahl" type="button" aria-haspopup="true" aria-expanded="false" aria-label="Show another idea"></button></div>');
 o.push('<p class="st-zeit">'+tx(b.zeit||(s.s+(s.e&&s.e!=="now"?" to "+s.e:"")))+(b.marke?' · '+tx(b.marke):'')+'</p>');
-var L=spLage&&spLage(i);if(L)o.push('<div class="st-zb" role="img" aria-label="Share of time, '+nm+' highlighted"><b style="left:'+
+var L=spLage&&spLage(i);if(L)o.push('<div class="st-zb" data-i="'+i+'" role="img" aria-label="Share of time, '+nm+' highlighted"><b style="left:'+
 L.l.toFixed(3)+'%;width:'+L.w.toFixed(3)+'%;background:'+s.f+'"></b></div>');
 if(M.length)o.push('<div class="st-wisch"><div class="st-band">'+M.map(folie).join("")+'</div></div>'+punkte(M.length)+'<p class="st-wort"></p>');
 function zl(z){return'<li>'+(IC[z[0]]||IC.idee)+'<p>'+tx(z[1])+'</p></li>'}
@@ -685,7 +704,7 @@ o.push('<div class="st-q"><p class="st-qd">'+tx(q.d)+(q.s?' · '+tx(q.s):'')+'</
 (q.k?'<p class="st-qk">'+tx(q.k)+'</p>':'')+(q.b&&q.b.length?'<ul class="st-qb">'+q.b.map(beleg).join("")+'</ul>':'')+'</div>')});o.push('</div>')}
 if(b.e&&b.e.length){o.push('<h3 class="st-sh">Evidence</h3><ul class="st-gruppe st-el">'+b.e.map(beleg).join("")+'</ul>')}
 inh.innerHTML=o.join("");sch.hidden=true;inh.scrollTop=0;blatt.classList.remove("zieht");blatt.style.transform="";
-if(!blatt.open){ob();blatt.showModal();R.classList.add("st-zu");blatt.getBoundingClientRect();blatt.classList.add("auf")}
+if(!blatt.open){ob();blatt.showModal();R.classList.add("st-zu");blatt.getBoundingClientRect();blatt.classList.add("auf")}zbLage();
 var w=inh.querySelector(".st-wisch");wb=w?wisch(w,inh.querySelector(".st-punkte"),inh.querySelector(".st-wort")):null;
 inh.focus({preventScroll:true})}
 // Pfeil am Titel: statt Apples grauer Auswahl die Liste mit den Farbquadraten (David 16.11.2026 12:2x), unter dem Titel
@@ -735,6 +754,9 @@ function en(i){var s=S[i];if(s.x&&s.e)return Math.min(zt(s.e),hz);
 var nx=i+1<S.length?tg(S[i+1].s):(s.e?zt(s.e):hz),st=s.e?zt(s.e):nx;return Math.min(Math.max(nx,st),hz)}
 var T=[];S.forEach(function(s,i){if(!s.g)T.push({i:i,s:s,d:Math.max(Math.min(en(i),heute)-tg(s.s),0)+864e5})});
 var sum=T.reduce(function(a,t){return a+t.d},0);
+// Rechts neben "Story" die Zeit aller Balken zusammen, auf ganze Jahre gerundet (David 16.11.2026 16:13: "Statt "1TB of 2TB"
+// soll das "5 years" sagen", Wortlaut im CSS bei .st-hk)
+var jz=document.getElementById("sthz");if(jz){var jr=Math.round(sum/(365.25*864e5));jz.textContent=jr===1?"1 year":jr+" years"}
 function pz(t){var p=t.d/sum*100;return p>=1?Math.round(p)+"%":p>=.05?p.toFixed(1)+"%":"<0.1%"}
 sp.innerHTML='<div class="st-spbar" role="img" aria-label="Share of time per idea">'+T.map(function(t){return'<b data-i="'+t.i+'" style="background:'+t.s.f+'"></b>'}).join("")+
 '</div><ul class="st-splg">'+S.map(function(s,i){var t=T.filter(function(t){return t.i===i})[0];
@@ -746,7 +768,7 @@ while(neu){neu=0;T.forEach(function(t){if(!klein[t.i]&&t.d/rest*frei<m){klein[t.
 spLage=function(i){if(S[i].g)return{l:0,w:100};var k=-1;T.forEach(function(t,j){if(t.i===i)k=j});
 var B=bar.getBoundingClientRect(),c=k<0?null:bar.children[k].getBoundingClientRect();if(!c||!B.width)return null;
 return{l:(c.left-B.left)/B.width*100,w:c.width/B.width*100}};
-breiten();fest();addEventListener("resize",function(){breiten();fest();if(blatt.open)ob()});
+breiten();fest();addEventListener("resize",function(){breiten();fest();if(blatt.open){ob();zbLage()}});
 requestAnimationFrame(function(){requestAnimationFrame(function(){R.classList.add("st-splos");
 [].forEach.call(sp.querySelectorAll(".st-spz"),function(z,k){z.style.transitionDelay=(.25+k*.025)+"s"})})});
 setTimeout(function(){[].forEach.call(sp.querySelectorAll(".st-spz"),function(z){z.style.transitionDelay=""})},1500);
