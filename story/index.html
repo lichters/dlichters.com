@@ -318,8 +318,10 @@ font:600 32px/36px -apple-system,BlinkMacSystemFont,"SF Pro Display","Helvetica 
 /* David 16.11.2026 12:2x, woertlich: "Mach die einzelnen Balken auf dem Grafen doppelt so dick, wie die jetzt gerade sind.
    Mach die Schrift daneben in Schwarz. Mach die komplette Tabelle darunter weg. Statt dieses grauen Bereichs, der sich
    öffnet, wenn man das aufklappt und wenn man drin ist, soll dann diese ganze Liste kommen, mit den bunten Quadraten davor
-   von vorher." Balken 144 % statt 72 % der alten Reihe, die Lücke dazwischen bleibt 28 %, der Graph wird dafür höher
-   (Skript der Seite und hoehe in seite()); Namen #1d1d1f wie die Namen der Liste; die Liste steht nur noch im Blatt. */
+   von vorher." Dann 12:3x, woertlich: "Ich meinte, die Balken sollen 1,5-mal so dick sein, nicht zweimal so dick. Ich hab
+   mich versprochen. Mach das 1,5 statt 2." Balken 108 % statt 72 % der alten Reihe, die Lücke dazwischen bleibt 28 %, der
+   Graph wird dafür höher (Skript der Seite und hoehe in seite()); Namen #1d1d1f wie die Namen der Liste; die Liste steht
+   nur noch im Blatt. */
 .st-graph{-webkit-tap-highlight-color:transparent}
 .st-graph [data-i]{cursor:pointer;outline:none}
 .st-tasten .st-graph [data-i]:focus-visible rect+rect{stroke:#007afe;stroke-width:2px}
@@ -484,7 +486,7 @@ addEventListener("pageshow",function(e){if(e.persisted&&has("gn-open"))trig.clic
 <main class="wrap">
 <h1 class="st-h">story</h1>
 <section class="st-karte" aria-label="Business ideas David tested">
-<div class="st-graph" id="stg" role="group" aria-label="20 business ideas from 2022 to today" style="height:509.23px"></div>
+<div class="st-graph" id="stg" role="group" aria-label="20 business ideas from 2022 to today" style="height:406.42px"></div>
 </section>
 <dialog class="st-blatt" id="stb" aria-labelledby="stt"><div class="st-inhalt" id="sti" tabindex="-1" autofocus></div><div class="st-schleier" id="sts" hidden></div></dialog>
 <template id="stl"><ul class="st-liste">
@@ -528,7 +530,7 @@ function zeit(s){return s==="now"?Date.now():tag(s)}
 function zeichne(){var W=box.clientWidth,H=290,h=H-18,jetzt=Date.now(),hor=jetzt,ch=[],o=[];if(!W)return;
 S.forEach(function(s,i){if(s.x&&s.e)hor=Math.max(hor,zeit(s.e));if(s.c||s.g)ch.push(i)});if(!ch.length)return;
 var c0=ch.filter(function(i){return !S[i].g});if(!c0.length)return;
-var first=tag(S[c0[0]].s),span=Math.max(hor-first,1),r0=h/c0.length,bar=r0*1.44,row=bar+r0*.28;H=row*ch.length+18;h=H-18;box.style.height=H+"px";
+var first=tag(S[c0[0]].s),span=Math.max(hor-first,1),r0=h/c0.length,bar=r0*1.08,row=bar+r0*.28;H=row*ch.length+18;h=H-18;box.style.height=H+"px";
 var P=0,fs=11,G;function x(t){return P+(t-first)/span*(W-P)}
 function ende(i){var s=S[i];if(s.x&&s.e)return Math.min(zeit(s.e),hor);
 var nx=i+1<S.length?tag(S[i+1].s):(s.e?zeit(s.e):hor),st=s.e?zeit(s.e):nx;return Math.min(Math.max(nx,st),hor)}
