@@ -30,7 +30,7 @@ letter-spacing:-.0066em;pointer-events:none;transition:color .32s var(--cb);-web
 .gn-open .gn-link{pointer-events:auto}
 .gn-link:hover,.gn-link:focus-visible{color:#000}
 .gn-link:focus{outline:none}
-.gn-link:focus-visible{outline:2px solid #0071e3;outline-offset:-7px}
+.tasten .gn-link:focus-visible{outline:2px solid #0071e3;outline-offset:-7px}
 .gn-link-text{pointer-events:none;padding-top:7.5px;padding-bottom:7.5px}
 .gn-link-chevron{display:block;height:47px;margin-top:-1px;margin-right:-48px;padding-right:19px;color:#333336;
 opacity:0;visibility:hidden;transform:scale(.8);transform-origin:center;
@@ -53,7 +53,7 @@ letter-spacing:-.022em}
 color:#333336;text-decoration:none;transition:color .32s var(--cb);-webkit-tap-highlight-color:rgba(0,0,0,0)}
 .gn-submenu-link:hover,.gn-submenu-link:focus-visible{color:#000}
 .gn-submenu-link:focus{outline:none}
-.gn-submenu-link:focus-visible{outline:2px solid #0071e3;outline-offset:-7px}
+.tasten .gn-submenu-link:focus-visible{outline:2px solid #0071e3;outline-offset:-7px}
 .gn-ki{display:block;max-width:none;margin:0;padding:0 0 calc(48px + env(safe-area-inset-bottom));box-sizing:border-box;min-height:100vh;min-height:100dvh;--w:min(100vw,600px)}
 .gn-ki-h{position:relative;pointer-events:none;--x:calc(var(--k) * var(--w) - .5px);margin:0 0 calc(0px - var(--x));padding:14px max(20px,calc(50% - 280px)) 0;background:linear-gradient(var(--von),var(--nach) calc(100% - var(--x)),transparent 0);color:#000;font:700 34px/41px var(--sfd);letter-spacing:0}
 .gn-ki-h:first-of-type{padding-top:64px}
@@ -75,6 +75,10 @@ transition:opacity .24s var(--cb),transform .24s var(--cb),visibility .24s step-
 transition:opacity .24s var(--cb) .16s,transform .24s var(--cb) .16s,visibility .24s step-start .16s}
 .gn.gn-closing .gn-menuback{opacity:0;transform:translate(0) scale(.8)}
 .gn button:focus:not(:focus-visible){outline:none}
+/* David 16.11.2026 12:0x: "Warum sind da manchmal bmaue boxenn drum? Geh sicher das die nicht mehr kommen". Das Menue setzt
+   beim Wechsel ins KI-Untermenue und zurueck den Fokus per Skript, iOS zeigt dann einen blauen Rahmen. Rahmen nur noch bei
+   Tab- oder Pfeiltasten (Klasse tasten am html, jeder Fingertipp nimmt sie weg). */
+html:not(.tasten) .gn :focus{outline:none!important}
 .gn-menuback-button{-webkit-appearance:none;appearance:none;background:none;border:0;margin:0;
 padding:0;font:inherit;cursor:pointer;outline-offset:-7px;-webkit-tap-highlight-color:rgba(0,0,0,0)}
 .gn-menuback-button{display:flex;justify-content:center;width:100%;height:100%;color:#333336;transition:color .32s var(--cb)}
@@ -238,18 +242,20 @@ html.gn-lock #saved,html.gn-lock #zu{visibility:hidden}
 </div></div>
 </div>
 </nav>
-<script>(function(){var g=document.getElementById("gn");if(!g)return;
+<script>(function(){var g=document.getElementById("gn");if(!g)return;var R=document.documentElement;
+addEventListener("keydown",function(e){if(e.key==="Tab"||e.key.indexOf("Arrow")===0)R.classList.add("tasten")},true);
+addEventListener("pointerdown",function(){R.classList.remove("tasten")},true);
 var menu=g.querySelector(".gn-menu"),sub=document.getElementById("gn-ai"),
 ai=g.querySelector("[data-sub]"),back=g.querySelector(".gn-menuback-button"),trig=g.querySelector(".gn-menutrigger-button"),busy=0;
 function has(k){return g.classList.contains(k)}
 function hide(el,on){el.inert=on;if(on)el.setAttribute("aria-hidden","true");else el.removeAttribute("aria-hidden")}
 ai.addEventListener("click",function(e){e.preventDefault();if(busy||!has("gn-open")||has("gn-sub"))return;busy=1;
 hide(sub,false);ai.setAttribute("aria-expanded","true");g.classList.add("gn-sub","gn-anim","gn-fwd");
-setTimeout(function(){g.classList.remove("gn-anim","gn-fwd");hide(menu,true);busy=0;back.focus({preventScroll:true})},400)});
+setTimeout(function(){g.classList.remove("gn-anim","gn-fwd");hide(menu,true);busy=0;if(R.classList.contains("tasten"))back.focus({preventScroll:true})},400)});
 back.addEventListener("click",function(){if(busy||!has("gn-sub"))return;busy=1;hide(menu,false);
 g.classList.add("gn-anim","gn-bwd");
 setTimeout(function(){g.classList.remove("gn-sub","gn-anim","gn-bwd");hide(sub,true);ai.setAttribute("aria-expanded","false");
-busy=0;ai.focus({preventScroll:true})},400)});
+busy=0;if(R.classList.contains("tasten"))ai.focus({preventScroll:true})},400)});
 trig.addEventListener("click",function(){if(busy)return;busy=1;var r=Math.min(480,Math.max(240,innerHeight/2));
 g.style.setProperty("--rate",r+"ms");
 if(has("gn-open")){document.documentElement.classList.remove("gn-lock");g.classList.remove("gn-fertig");g.classList.add("gn-closing");g.classList.remove("gn-open");
