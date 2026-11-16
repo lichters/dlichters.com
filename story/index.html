@@ -294,8 +294,19 @@ html.srch .gn{display:none}
 
 html{background:#f2f2f7}
 body{--bg:#f2f2f7;--fog:242,242,247}
-main.wrap{max-width:none;padding:8px 16px 48px}
-.st-h{position:absolute;width:1px;height:1px;margin:0;overflow:hidden;clip-path:inset(50%);white-space:nowrap}
+main.wrap{max-width:none;padding:0 16px 48px}
+/* David 16.11.2026 11:4x, Bild "Entdecke alle Modelle." von apple.com (1179 x 361 bei 3x), woertlich: "Mach bei /story das
+   "story" einfach nach oben als überschrift in exakt diesen maßen (abstand zur ober rand und anfang von der karte mit dem
+   graph)". Gemessen im Bild: #1d1d1f, 32 px halbfett (Großbuchstabe 22,3 hoch, wie SF Pro Display 600 bei 32), Grundlinie
+   82 unter dem oberen Rand, Karte ab 120,33, Schrift links ab 26,33. Die Leiste mit "story" oben fällt weg (kopf="" in
+   website.py). Nachgemessen in iOS-Safari (Simulator, 3x) mit demselben Satz "Entdecke alle Modelle.": mit 52 oben lag die
+   Grundlinie bei 81,67 und der Satz war 322,67 statt 313,33 breit (Safaris Systemschrift sperrt bei 32 px je Buchstabe
+   0,44 px weiter als Apples Webschrift, das E selbst ist gleich breit). Safari setzt die Grundlinie nur auf ganze
+   Gerätepixel und rundet 52,33 noch auf 81,67 ab; mit 52,45 oben steht sie auf 82,0. Unten 31,88 (52,45 + 36 + 31,88 =
+   120,33), Laufweite -0,316 px (0,128 - 9,33 / 21 Lücken). Links 16 + 9,46 + Fleisch des "s" = 26,33. Breite wie die
+   Karte, damit beide auf großen Bildschirmen fluchten. */
+.st-h{max-width:700px;margin:0 auto;padding:52.45px 0 31.88px 9.46px;box-sizing:border-box;color:#1d1d1f;
+font:600 32px/36px -apple-system,BlinkMacSystemFont,"SF Pro Display","Helvetica Neue",sans-serif;letter-spacing:-.316px}
 .st-karte{max-width:700px;margin:0 auto;padding:25px 16px 20px;background:#fff;border-radius:26px;letter-spacing:0}
 .st-graph{position:relative;height:290px}
 .st-graph svg{display:block;overflow:visible}
@@ -398,7 +409,6 @@ font:400 15px/1.35 -apple-system,BlinkMacSystemFont,"SF Pro Text","Helvetica Neu
 </style></head>
 <body>
 <div class="navfx" id="fx" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i></div>
-<header class="nb"><b>story</b></header>
 <nav class="gn gn-page" id="gn" aria-label="Menu">
 <div class="gn-schleier"></div>
 <div class="gn-tuch"><div class="gn-glas"></div><div class="gn-voll"></div></div>
