@@ -392,6 +392,16 @@ padding:0;border:0;border-radius:18px 18px 0 0;background:#fff;color:#1d1d1f;ove
 transform:translate3d(0,100%,0);transition:transform .42s cubic-bezier(.32,.72,0,1);will-change:transform}
 .st-blatt.auf{transform:translate3d(0,0,0)}
 .st-blatt.zieht{transition:none}
+/* Nur mit dem Speicherbalken (st-bh). David 16.11.2026 16:4x, woertlich: "Wenn man scrollt soll das pop up sich bis zum
+   balken nicht bewegen und wenn man da scrollt soll das pop up mit dem scroll hoch gehen bis das pop up bei full screen
+   angekommen ist. Versuch und ich verbesser dich dann". Das Fenster ist dafür immer so hoch wie der Bildschirm (ab 760 px
+   mit 24 px Rand oben wie unten) und steht per transform tiefer. Das Skript (lage) rechnet seine Lage nur aus der
+   Scrollhöhe: bis der Balken im Fenster 10 px unter der Oberkante steht, bleibt es stehen und der Inhalt scrollt; danach
+   geht das Fenster 1:1 mit hoch, der Inhalt steht dabei im Fenster still (st-rolle läuft gegen); ab Vollbild scrollt nur
+   noch der Inhalt. Rückwärts genauso. Die Ecken oben bleiben rund. */
+.st-blatt.st-bh{height:100%}
+.st-blatt.st-bh.rollt{transition:none}
+@media (min-width:760px){.st-blatt.st-bh{height:calc(100% - 48px)}}
 .st-blatt::backdrop{background:rgba(0,0,0,.48);opacity:0;transition:opacity .42s}
 .st-blatt.auf::backdrop{opacity:1}
 /* Nur mit dem Speicherbalken. David 16.11.2026 16:3x, woertlich: "Mach bitte auch so, dass, wenn man das Popup geöffnet hat,
@@ -409,7 +419,8 @@ html.st-zu .st-spbar{position:relative;z-index:10001}
 @media (min-width:760px){.st-blatt{left:50%;right:auto;bottom:24px;width:680px;margin-left:-340px;height:calc(100% - var(--st-oben,48px) - 24px);border-radius:18px}
 .st-blatt{transform:translate3d(0,calc(100% + 24px),0)}}
 .st-inhalt{position:relative;height:100%;overflow-x:hidden;overflow-y:auto;overscroll-behavior:contain;-webkit-overflow-scrolling:touch;
-padding:65px 6.25% calc(60px + env(safe-area-inset-bottom));box-sizing:border-box;font:400 17px/1.23536 -apple-system,BlinkMacSystemFont,"SF Pro Text","Helvetica Neue",Helvetica,Arial,sans-serif}
+padding:0;box-sizing:border-box;font:400 17px/1.23536 -apple-system,BlinkMacSystemFont,"SF Pro Text","Helvetica Neue",Helvetica,Arial,sans-serif}
+.st-rolle{position:relative;padding:65px 6.25% calc(60px + env(safe-area-inset-bottom));box-sizing:border-box}
 .st-inhalt:focus{outline:none}
 .st-sx{-webkit-appearance:none;appearance:none;position:absolute;top:24px;right:24px;z-index:1;display:flex;align-items:center;
 justify-content:center;width:36px;height:36px;margin:0;padding:0;border:0;border-radius:50%;background:#e8e8ed;color:#6e6e73;cursor:pointer;
@@ -701,6 +712,19 @@ if(r-l<40)return;z.style.marginLeft=(l-Z.left)+"px";z.style.width=(r-l)+"px";
 // die farbige Stelle dann in px aus dem oberen Balken (spLage), damit der Anfang auf denselben Gerätepixel fällt wie oben
 var L=spLage&&spLage(+z.getAttribute("data-i")),e=z.firstChild,k;if(!L||L.a==null||!e)return;
 k=(r-l)/B.width;e.style.left=L.a*k+"px";e.style.width=(L.e-L.a)*k+"px"}
+// Fenster geht beim Scrollen mit hoch (David 16.11.2026 16:4x, Wortlaut im CSS bei .st-blatt.st-bh). Y0: wie weit das Fenster
+// beim Öffnen unter seiner Vollbild-Lage steht, BB: Scrollhöhe, bei der der Balken im Fenster 10 px unter der Oberkante steht,
+// cc: wie weit der Inhalt gerade gegenläuft. Nur transform, im nächsten Bild (requestAnimationFrame).
+var SB=blatt.classList.contains("st-bh"),rol=null,Y0=0,BB=0,cc=0,lf=0,rt=0;
+function messe(){if(!rol)return;var o=parseFloat(blatt.style.getPropertyValue("--st-oben"));if(!(o>0))o=innerWidth>=760?48:20;
+Y0=Math.max(0,o-(innerWidth>=760?24:0));var z=inh.querySelector(".st-zb");
+BB=z?Math.max(0,z.getBoundingClientRect().top-inh.getBoundingClientRect().top+inh.scrollTop-cc-10):0;rol.style.minHeight=inh.clientHeight+BB+Y0+"px";
+// unten Y0 mehr Platz, weil der Inhalt im Vollbild um Y0 gegenläuft: so steht das Ende wie vorher 60 px über dem Rand
+rol.style.paddingBottom="calc(60px + env(safe-area-inset-bottom) + "+Y0+"px)"}
+function lage(){lf=0;if(!rol||!blatt.open||zu)return;var c=Math.max(0,Math.min(Y0,inh.scrollTop-BB));cc=c;
+rol.style.transform="translate3d(0,"+c+"px,0)";blatt.style.transform="translate3d(0,"+(Y0-c+zd)+"px,0)"}
+function rollt(){clearTimeout(rt);rt=setTimeout(function(){if(blatt.open&&!zu)blatt.classList.add("rollt")},430)}
+inh.addEventListener("scroll",function(){if(SB&&!lf)lf=requestAnimationFrame(lage)},{passive:true});
 function oeffne(i){var s=S[i],b=s.b||{},o=[],nm=esc(s.n),sp=nm.lastIndexOf(" ");akt=i;M=b.m||[];
 o.push('<button class="st-sx" type="button" aria-label="Close">'+D.zu+'</button>');
 o.push('<div class="st-tk"><h2 class="st-titel" id="stt">'+nm.slice(0,sp+1)+'<span class="st-nw">'+nm.slice(sp+1)+D.pf+'</span></h2>'+
@@ -717,8 +741,10 @@ if(b.q&&b.q.length){o.push('<h3 class="st-sh">Quotes from the time</h3><div clas
 o.push('<div class="st-q"><p class="st-qd">'+tx(q.d)+(q.s?' · '+tx(q.s):'')+'</p><blockquote'+(q.l?' lang="'+q.l+'"':'')+'>'+tx(q.z)+'</blockquote>'+
 (q.k?'<p class="st-qk">'+tx(q.k)+'</p>':'')+(q.b&&q.b.length?'<ul class="st-qb">'+q.b.map(beleg).join("")+'</ul>':'')+'</div>')});o.push('</div>')}
 if(b.e&&b.e.length){o.push('<h3 class="st-sh">Evidence</h3><ul class="st-gruppe st-el">'+b.e.map(beleg).join("")+'</ul>')}
-inh.innerHTML=o.join("");sch.hidden=true;inh.scrollTop=0;blatt.classList.remove("zieht");blatt.style.transform="";
-if(!blatt.open){ob();blatt.showModal();R.classList.add("st-zu");blatt.getBoundingClientRect();blatt.classList.add("auf");R.classList.add("st-dk")}zbLage();
+inh.innerHTML='<div class="st-rolle">'+o.join("")+'</div>';rol=inh.firstChild;cc=0;sch.hidden=true;inh.scrollTop=0;blatt.classList.remove("zieht");
+if(!SB)blatt.style.transform="";
+if(!blatt.open){ob();blatt.showModal();R.classList.add("st-zu");blatt.getBoundingClientRect();if(SB){messe();lage()}blatt.classList.add("auf");
+R.classList.add("st-dk");if(SB)rollt()}else if(SB){blatt.classList.remove("rollt");messe();lage();rollt()}zbLage();
 var w=inh.querySelector(".st-wisch");wb=w?wisch(w,inh.querySelector(".st-punkte"),inh.querySelector(".st-wort")):null;
 inh.focus({preventScroll:true})}
 // Pfeil am Titel: statt Apples grauer Auswahl die Liste mit den Farbquadraten (David 16.11.2026 12:2x), unter dem Titel
@@ -726,12 +752,12 @@ inh.focus({preventScroll:true})}
 function menue(an){var tk=inh.querySelector(".st-tk"),m=inh.querySelector(".st-menue"),k=tk&&tk.querySelector(".st-wahl");
 if(!an){if(m)m.parentNode.removeChild(m);sch.hidden=true;if(k){k.setAttribute("aria-expanded","false");if(R.classList.contains("st-tasten"))k.focus({preventScroll:true})}return}
 if(m||!tk)return;m=document.createElement("div");m.className="st-menue";m.innerHTML=LISTE;tk.appendChild(m);
-var b=blatt.getBoundingClientRect(),r=m.getBoundingClientRect(),hoch=Math.max(150,b.bottom-r.top-24),n=m.querySelectorAll(".st-z").length;
+var b=blatt.getBoundingClientRect(),r=m.getBoundingClientRect(),hoch=Math.max(150,Math.min(b.bottom,innerHeight)-r.top-24),n=m.querySelectorAll(".st-z").length;
 if(n)m.style.setProperty("--zh",Math.max(20,Math.min(30,Math.floor((hoch-20)/n*100)/100))+"px");m.style.maxHeight=hoch+"px";
 var z=m.querySelector('.st-z[data-i="'+akt+'"]');if(z)m.scrollTop=Math.max(0,z.offsetTop+z.offsetHeight/2-m.clientHeight/2);
 sch.hidden=false;k.setAttribute("aria-expanded","true");m.getBoundingClientRect();m.classList.add("auf");
 if(z&&R.classList.contains("st-tasten"))z.focus({preventScroll:true})}
-function schliesse(){if(!blatt.open||zu)return;zu=1;sch.hidden=true;blatt.classList.remove("zieht");blatt.style.transform="";blatt.classList.remove("auf");R.classList.remove("st-dk");
+function schliesse(){if(!blatt.open||zu)return;zu=1;sch.hidden=true;blatt.classList.remove("zieht");blatt.classList.remove("rollt");clearTimeout(rt);blatt.style.transform="";blatt.classList.remove("auf");R.classList.remove("st-dk");
 setTimeout(function(){blatt.close();R.classList.remove("st-zu");zu=0;var z=box.querySelector('[data-i="'+akt+'"]');if(z&&R.classList.contains("st-tasten"))z.focus({preventScroll:true})},420)}
 box.addEventListener("click",function(e){var g=e.target.closest("[data-i]");if(g)oeffne(+g.getAttribute("data-i"))});
 box.addEventListener("keydown",function(e){if(e.key!=="Enter"&&e.key!==" ")return;var g=e.target.closest("[data-i]");if(g){e.preventDefault();oeffne(+g.getAttribute("data-i"))}});
@@ -745,8 +771,10 @@ var zy=null,zx=0,zd=0,zt=0;
 inh.addEventListener("touchstart",function(e){zy=null;if(e.touches.length!==1||inh.scrollTop>0||!sch.hidden)return;zy=e.touches[0].clientY;zx=e.touches[0].clientX;zd=0;zt=0},{passive:true});
 inh.addEventListener("touchmove",function(e){if(zy===null)return;var t=e.touches[0],d=t.clientY-zy,h=t.clientX-zx;
 if(!zt){if(Math.abs(d)<6&&Math.abs(h)<6)return;if(d<=0||Math.abs(h)>=Math.abs(d)||inh.scrollTop>0){zy=null;return}zt=1;blatt.classList.add("zieht")}
-if(e.cancelable)e.preventDefault();zd=Math.max(0,d);blatt.style.transform="translate3d(0,"+zd+"px,0)"},{passive:false});
-function zlos(){if(zy===null)return;zy=null;if(!zt)return;zt=0;blatt.classList.remove("zieht");blatt.style.transform="";if(zd>110)schliesse();zd=0}
+if(e.cancelable)e.preventDefault();zd=Math.max(0,d);if(SB)lage();else blatt.style.transform="translate3d(0,"+zd+"px,0)"},{passive:false});
+function zlos(){if(zy===null)return;zy=null;if(!zt)return;zt=0;blatt.classList.remove("zieht");
+if(SB){var z0=zd;zd=0;if(z0>110)schliesse();else{blatt.classList.remove("rollt");lage();rollt()}return}
+blatt.style.transform="";if(zd>110)schliesse();zd=0}
 inh.addEventListener("touchend",zlos);inh.addEventListener("touchcancel",zlos);
 var gk=0;
 function zeige(k){if(!M.length)return;gk=(k+M.length)%M.length;var m=M[gk];
@@ -792,7 +820,7 @@ a=Q[k].left-B.left,e=Q[k].right-B.left,E,K=-1,x;
 if(s.e){E=s.e==="now"?Infinity:tg(s.e)+864e5;if(E>heute)e=B.width;else{T.forEach(function(t,j){if(tg(t.s.s)<E)K=j});
 if(K>=0){x=Q[K].left-B.left+(E-tg(T[K].s.s))/T[K].d*Q[K].width;e=Math.max(Q[K].left-B.left,Math.min(Q[K].right-B.left,x))}}}
 if(e<=a)e=Q[k].right-B.left;return{l:a/B.width*100,w:(e-a)/B.width*100,a:a,e:e}};
-breiten();fest();addEventListener("resize",function(){breiten();fest();if(blatt.open){ob();zbLage()}});
+breiten();fest();addEventListener("resize",function(){breiten();fest();if(blatt.open){ob();zbLage();if(SB){messe();lage()}}});
 requestAnimationFrame(function(){requestAnimationFrame(function(){R.classList.add("st-splos");
 [].forEach.call(sp.querySelectorAll(".st-spz"),function(z,k){z.style.transitionDelay=(.25+k*.025)+"s"})})});
 setTimeout(function(){[].forEach.call(sp.querySelectorAll(".st-spz"),function(z){z.style.transitionDelay=""})},1500);
