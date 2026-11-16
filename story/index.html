@@ -384,44 +384,45 @@ html:not(.st-tasten) :focus{outline:none!important}
 .st-n{flex:1;min-width:0;overflow:hidden;color:#1d1d1f;font:400 15px/20px -apple-system,BlinkMacSystemFont,"SF Pro Text","Helvetica Neue",Helvetica,Arial,sans-serif;white-space:nowrap;text-overflow:ellipsis}
 .st-d{flex:none;color:#6e6e73;font:400 13px/18px -apple-system,BlinkMacSystemFont,"SF Pro Text","Helvetica Neue",Helvetica,Arial,sans-serif;font-variant-numeric:tabular-nums}
 html.st-zu,html.st-zu body{overflow:hidden}
-/* --st-oben: David 16.11.2026 15:52, woertlich: "Mach, dass die Popups nur so weit aufgehen, dass man über dem Rand im
-   Hintergrund noch den Balken sieht." Das Skript setzt beim Öffnen die Unterkante des Speicherbalkens plus 10 px; ist der
-   Balken nicht zu sehen (Graph-Modus, weggescrollt), gelten die alten 20 px (ab 760 px Breite 48 px). */
-.st-blatt{position:fixed;top:auto;right:0;bottom:0;left:0;width:100%;max-width:none;height:calc(100% - var(--st-oben,20px));max-height:none;margin:0;
+.st-blatt{position:fixed;top:auto;right:0;bottom:0;left:0;width:100%;max-width:none;height:calc(100% - 20px);max-height:none;margin:0;
 padding:0;border:0;border-radius:18px 18px 0 0;background:#fff;color:#1d1d1f;overflow:hidden;letter-spacing:0;
 transform:translate3d(0,100%,0);transition:transform .42s cubic-bezier(.32,.72,0,1);will-change:transform}
 .st-blatt.auf{transform:translate3d(0,0,0)}
 .st-blatt.zieht{transition:none}
-/* Nur mit dem Speicherbalken (st-bh). David 16.11.2026 16:4x, woertlich: "Wenn man scrollt soll das pop up sich bis zum
-   balken nicht bewegen und wenn man da scrollt soll das pop up mit dem scroll hoch gehen bis das pop up bei full screen
-   angekommen ist. Versuch und ich verbesser dich dann". Das Fenster ist dafür immer so hoch wie der Bildschirm (ab 760 px
-   mit 24 px Rand oben wie unten) und steht per transform tiefer. Das Skript (lage) rechnet seine Lage nur aus der
-   Scrollhöhe: bis der Balken im Fenster 10 px unter der Oberkante steht, bleibt es stehen und der Inhalt scrollt; danach
-   geht das Fenster 1:1 mit hoch, der Inhalt steht dabei im Fenster still (st-rolle läuft gegen); ab Vollbild scrollt nur
-   noch der Inhalt. Rückwärts genauso. Die Ecken oben bleiben rund. */
-.st-blatt.st-bh{height:100%}
-.st-blatt.st-bh.rollt{transition:none}
-@media (min-width:760px){.st-blatt.st-bh{height:calc(100% - 48px)}}
+/* Nur mit dem Speicherbalken (st-bh). David 16.11.2026 18:4x, mit Apples Fenster als Vorbild (20 pt grauer Streifen über der
+   weißen Karte, graues X) und unserem gescrollten Minecraft-Fenster, woertlich: "Mach das das pop up soweit nach oben geht
+   aber dafür soll das dann die balken scroll regel nicht mehr haben und wenn man scrollt soll das einfach nach unten weiter
+   gehen statt pop up form zu behalten". Damit fallen "nur bis unter den Balken" (15:52) und die drei Scroll-Abschnitte (16:4x)
+   weg: das Fenster ist die ganze Ebene über der Seite und selbst der Scrollbereich, die weiße Karte (st-inhalt) beginnt 20 px
+   unter dem oberen Rand (ab 760 px Breite 680 px breit mit 24 px Rand) und läuft beim Scrollen mit ihren runden Ecken nach
+   oben aus dem Bild, der Inhalt geht weiter wie eine Seite. Das X läuft oben rechts mit (st-xs, sticky wie bei Apple). Tipp
+   auf den grauen Streifen schließt, Herunterziehen ganz oben auch. */
+.st-blatt.st-bh{top:0;height:100%;border-radius:0;background:transparent;overflow-x:hidden;overflow-y:auto;overscroll-behavior:contain;
+-webkit-overflow-scrolling:touch}
+.st-bh .st-inhalt{height:auto;min-height:calc(100% - 20px);margin-top:20px;overflow:visible;background:#fff;border-radius:18px 18px 0 0}
+@media (min-width:760px){.st-blatt.st-bh{left:0;right:0;bottom:0;width:100%;margin-left:0;border-radius:0}
+.st-bh .st-inhalt{width:680px;min-height:calc(100% - 48px);margin:24px auto;border-radius:18px}}
+.st-xs{position:sticky;top:0;z-index:3;height:0}
 .st-blatt::backdrop{background:rgba(0,0,0,.48);opacity:0;transition:opacity .42s}
 .st-blatt.auf::backdrop{opacity:1}
 /* Nur mit dem Speicherbalken. David 16.11.2026 16:3x, woertlich: "Mach bitte auch so, dass, wenn man das Popup geöffnet hat,
    der Balken im Hintergrund immer noch die komplette Helligkeit hat. Der Hintergrund soll also dunkler sein, wenn man das
    Popup öffnet, aber alles außer dem Balken." Der ::backdrop liegt in der obersten Ebene über allem, deshalb ist er hier
    durchsichtig (er fängt weiter die Tipps neben dem Fenster ab), und die Abdunklung ist eine eigene feste Ebene in der Seite:
-   gleiche Farbe und Blende wie vorher, über Menüstrichen (z-index 9999), "Story" und "5 years"; der Balken liegt bei
-   offenem Fenster darüber und bleibt voll hell. Beim Herunterziehen bleibt sie wie vorher stehen, beim Schließen blendet
-   sie mit dem Fenster aus. */
+   gleiche Farbe und Blende wie vorher, über Menüstrichen (z-index 9999), "Story" und "5 years". Beim Herunterziehen bleibt
+   sie wie vorher stehen, beim Schließen blendet sie mit dem Fenster aus. Seit 18:4x (Karte bis 20 px unter den Rand) deckt
+   die Karte den Balken ab; er wird nicht mehr über die Abdunklung gehoben, sonst stünden ab 760 px seine Enden hell neben
+   der Karte. Der bunte Balken steht dafür im Fenster selbst (.st-zf). */
 .st-bh::backdrop{background:transparent}
 .st-dunkel{position:fixed;top:0;right:0;bottom:0;left:0;z-index:10000;background:rgba(0,0,0,.48);opacity:0;pointer-events:none;
 transition:opacity .42s}
 html.st-dk .st-dunkel{opacity:1}
-html.st-zu .st-spbar{position:relative;z-index:10001}
-@media (min-width:760px){.st-blatt{left:50%;right:auto;bottom:24px;width:680px;margin-left:-340px;height:calc(100% - var(--st-oben,48px) - 24px);border-radius:18px}
+@media (min-width:760px){.st-blatt{left:50%;right:auto;bottom:24px;width:680px;margin-left:-340px;height:calc(100% - 72px);border-radius:18px}
 .st-blatt{transform:translate3d(0,calc(100% + 24px),0)}}
 .st-inhalt{position:relative;height:100%;overflow-x:hidden;overflow-y:auto;overscroll-behavior:contain;-webkit-overflow-scrolling:touch;
 padding:0;box-sizing:border-box;font:400 17px/1.23536 -apple-system,BlinkMacSystemFont,"SF Pro Text","Helvetica Neue",Helvetica,Arial,sans-serif}
 .st-rolle{position:relative;padding:65px 6.25% calc(60px + env(safe-area-inset-bottom));box-sizing:border-box}
-.st-inhalt:focus{outline:none}
+.st-inhalt:focus,.st-blatt:focus{outline:none}
 .st-sx{-webkit-appearance:none;appearance:none;position:absolute;top:24px;right:24px;z-index:1;display:flex;align-items:center;
 justify-content:center;width:36px;height:36px;margin:0;padding:0;border:0;border-radius:50%;background:#e8e8ed;color:#6e6e73;cursor:pointer;
 -webkit-tap-highlight-color:transparent}
@@ -454,6 +455,13 @@ transform:translate3d(-50%,-6px,0) scale(.97);transform-origin:50% 0;transition:
    graue Stufe "Obsessed with money" (seit 2018 bis heute) füllt ihn ganz. */
 .st-zb{position:relative;height:10px;margin:12px 0 0;border-radius:5px;background:#d1d1d6;overflow:hidden}
 .st-zb b{position:absolute;top:0;bottom:0;box-shadow:0 0 0 1px #fff}
+/* Zwei Balken in jedem Fenster (David 16.11.2026 18:4x, woertlich: "Und mach das jedes ab jetzt zwei balken direkt
+   übereinander hat mit einer balken dicke platz. Oben der bunte dadrunter der einzelne"): oben der bunte wie der
+   Übersichtsbalken (gleiche Stücke, Breiten, 1-px-Fugen, Höhe, Rundung und Kanten; im Skript spBunt, spBreiten, zbLage),
+   10 px darunter der einzelne. Beide nur zum Ansehen, auch bei der grauen Stufe. */
+.st-zf{display:flex;gap:1px;height:10px;margin:12px 0 0;border-radius:5px;background:#fff;overflow:hidden;pointer-events:none}
+.st-zf b{flex:none;height:100%}
+.st-zf+.st-zb{margin-top:10px}
 .st-wisch{position:relative;margin:40px -7.142857% 0;overflow:hidden;touch-action:pan-y;-webkit-user-select:none;user-select:none}
 .st-band{display:flex;height:100%;transform:translate3d(0,0,0);transition:transform .45s cubic-bezier(.25,.1,.25,1);will-change:transform}
 @media(prefers-reduced-motion:reduce){.st-band{transition:none}}
@@ -583,7 +591,7 @@ addEventListener("pageshow",function(e){if(e.persisted&&has("gn-open"))trig.clic
 <div class="st-graph" id="stg" role="group" aria-label="16 business ideas from 2022 to today" style="height:411.04px"></div>
 </section>
 <div class="st-dunkel" aria-hidden="true"></div>
-<dialog class="st-blatt st-bh" id="stb" aria-labelledby="stt"><div class="st-inhalt" id="sti" tabindex="-1" autofocus></div><div class="st-schleier" id="sts" hidden></div></dialog>
+<dialog class="st-blatt st-bh" id="stb" aria-labelledby="stt" tabindex="-1" autofocus><div class="st-inhalt" id="sti"></div><div class="st-schleier" id="sts" hidden></div></dialog>
 <template id="stl"><ul class="st-liste">
 <li><button class="st-z" type="button" data-i="0"><i style="background:#8e8e93"></i><span class="st-n">Obsessed with money</span><span class="st-d">2018-06-23</span></button></li>
 <li><button class="st-z" type="button" data-i="1"><i style="background:#0091ff"></i><span class="st-n">Minecraft YouTuber</span><span class="st-d">2022-04-17</span></button></li>
@@ -703,38 +711,29 @@ w.addEventListener("pointercancel",function(e){if(!s||e.pointerId!==s.id)return;
 w.addEventListener("click",function(){if(bt<0)return;var z=bt;bt=-1;zeige(z)});
 if(P)P.addEventListener("click",function(e){var p=e.target.closest("button");if(p)geh(+p.getAttribute("data-k"))});
 return{geh:geh,neu:function(){mass();setze(true)}}}
-// Fenster nur bis knapp unter den Speicherbalken (David 16.11.2026 15:52, Wortlaut im CSS bei .st-blatt); spLage liefert
-// die Stelle einer Idee im Übersichtsbalken für den Balken im Fenster (Wortlaut im CSS bei .st-zb)
-var spLage=null;
-function ob(){var b=document.querySelector(".st-spbar"),u=b?b.getBoundingClientRect().bottom:-1;
-if(u>0&&u<innerHeight/2)blatt.style.setProperty("--st-oben",Math.round((u+10)*3)/3+"px");else blatt.style.removeProperty("--st-oben")}
-// Balken im Fenster genau so lang wie der obere (David 16.11.2026 16:1x, woertlich: "Beide balken sollen gkeich lang sein",
-// mit rotem Streifen über beiden linken Enden): gleiche linke und rechte Kante auf dem Bildschirm wie der Übersichtsbalken;
-// ist das Fenster schmaler (ab 760 px Breite), endet er 16 px vor dessen Rand
-function zbLage(){var z=inh.querySelector(".st-zb"),b=document.querySelector(".st-spbar");if(!z||!b)return;z.style.marginLeft="";z.style.width="";
-var B=b.getBoundingClientRect(),Z=z.getBoundingClientRect(),F=blatt.getBoundingClientRect(),l=Math.max(B.left,F.left+16),r=Math.min(B.right,F.right-16);
-if(r-l<40)return;z.style.marginLeft=(l-Z.left)+"px";z.style.width=(r-l)+"px";
-// die farbige Stelle dann in px aus dem oberen Balken (spLage), damit der Anfang auf denselben Gerätepixel fällt wie oben
-var L=spLage&&spLage(+z.getAttribute("data-i")),e=z.firstChild,k;if(!L||L.a==null||!e)return;
-k=(r-l)/B.width;e.style.left=L.a*k+"px";e.style.width=(L.e-L.a)*k+"px"}
-// Fenster geht beim Scrollen mit hoch (David 16.11.2026 16:4x, Wortlaut im CSS bei .st-blatt.st-bh). Y0: wie weit das Fenster
-// beim Öffnen unter seiner Vollbild-Lage steht, BB: Scrollhöhe, bei der der Balken im Fenster 10 px unter der Oberkante steht,
-// cc: wie weit der Inhalt gerade gegenläuft. Nur transform, im nächsten Bild (requestAnimationFrame).
-var SB=blatt.classList.contains("st-bh"),rol=null,Y0=0,BB=0,cc=0,lf=0,rt=0;
-function messe(){if(!rol)return;var o=parseFloat(blatt.style.getPropertyValue("--st-oben"));if(!(o>0))o=innerWidth>=760?48:20;
-Y0=Math.max(0,o-(innerWidth>=760?24:0));var z=inh.querySelector(".st-zb");
-BB=z?Math.max(0,z.getBoundingClientRect().top-inh.getBoundingClientRect().top+inh.scrollTop-cc-10):0;rol.style.minHeight=inh.clientHeight+BB+Y0+"px";
-// unten Y0 mehr Platz, weil der Inhalt im Vollbild um Y0 gegenläuft: so steht das Ende wie vorher 60 px über dem Rand
-rol.style.paddingBottom="calc(60px + env(safe-area-inset-bottom) + "+Y0+"px)"}
-function lage(){lf=0;if(!rol||!blatt.open||zu)return;var c=Math.max(0,Math.min(Y0,inh.scrollTop-BB));cc=c;
-rol.style.transform="translate3d(0,"+c+"px,0)";blatt.style.transform="translate3d(0,"+(Y0-c+zd)+"px,0)"}
-function rollt(){clearTimeout(rt);rt=setTimeout(function(){if(blatt.open&&!zu)blatt.classList.add("rollt")},430)}
-inh.addEventListener("scroll",function(){if(SB&&!lf)lf=requestAnimationFrame(lage)},{passive:true});
+// spLage liefert die Stelle einer Idee im bunten Balken für den einzelnen Balken im Fenster (Wortlaut im CSS bei .st-zb),
+// spBunt und spBreiten bauen den bunten Balken im Fenster wie den Übersichtsbalken (Wortlaut im CSS bei .st-zf)
+var spLage=null,spBunt=null,spBreiten=null;
+// Beide Balken im Fenster genau so lang wie der obere (David 16.11.2026 16:1x, woertlich: "Beide balken sollen gkeich lang
+// sein", mit rotem Streifen über beiden linken Enden): gleiche linke und rechte Kante auf dem Bildschirm wie der
+// Übersichtsbalken; ist die Karte schmaler (ab 760 px Breite), enden sie 16 px vor ihrem Rand. Die Stücke des bunten Balkens
+// rechnet spBreiten wie oben für seine Breite; die farbige Stelle des einzelnen kommt in px aus dem bunten direkt darüber
+// (spLage), damit Anfang und Ende auf dieselben Gerätepixel fallen.
+function zbLage(){var z=inh.querySelector(".st-zb"),f=inh.querySelector(".st-zf"),b=document.querySelector(".st-spbar");if(!z||!b)return;
+[z,f].forEach(function(x){if(x){x.style.marginLeft="";x.style.width=""}});
+var B=b.getBoundingClientRect(),F=inh.getBoundingClientRect(),l=Math.max(B.left,F.left+16),r=Math.min(B.right,F.right-16);if(r-l<40)return;
+[z,f].forEach(function(x){if(x){x.style.marginLeft=(l-x.getBoundingClientRect().left)+"px";x.style.width=(r-l)+"px"}});
+if(f&&spBreiten)spBreiten(f);
+var L=spLage&&spLage(+z.getAttribute("data-i"),f),e=z.firstChild,k=f?1:(r-l)/B.width;if(!L||L.a==null||!e)return;
+e.style.left=L.a*k+"px";e.style.width=(L.e-L.a)*k+"px"}
+// Scrollbereich: mit dem Speicherbalken das Fenster selbst (Wortlaut im CSS bei .st-blatt.st-bh), sonst die Karte
+var SB=blatt.classList.contains("st-bh");
+function sc(){return SB?blatt:inh}
 function oeffne(i){var s=S[i],b=s.b||{},o=[],nm=esc(s.n),sp=nm.lastIndexOf(" ");akt=i;M=b.m||[];
-o.push('<button class="st-sx" type="button" aria-label="Close">'+D.zu+'</button>');
 o.push('<div class="st-tk"><h2 class="st-titel" id="stt">'+nm.slice(0,sp+1)+'<span class="st-nw">'+nm.slice(sp+1)+D.pf+'</span></h2>'+
 '<button class="st-wahl" type="button" aria-haspopup="true" aria-expanded="false" aria-label="Show another idea"></button></div>');
 o.push('<p class="st-zeit">'+tx(b.zeit||(s.s+(s.e&&s.e!=="now"?" to "+s.e:"")))+(b.marke?' · '+tx(b.marke):'')+'</p>');
+if(spBunt)o.push(spBunt());
 var L=spLage&&spLage(i);if(L)o.push('<div class="st-zb" data-i="'+i+'" role="img" aria-label="Share of time, '+nm+' highlighted"><b style="left:'+
 L.l.toFixed(3)+'%;width:'+L.w.toFixed(3)+'%;background:'+s.f+'"></b></div>');
 if(M.length)o.push('<div class="st-wisch"><div class="st-band">'+M.map(folie).join("")+'</div></div>'+punkte(M.length)+'<p class="st-wort"></p>');
@@ -746,12 +745,12 @@ if(b.q&&b.q.length){o.push('<h3 class="st-sh">Quotes from the time</h3><div clas
 o.push('<div class="st-q"><p class="st-qd">'+tx(q.d)+(q.s?' · '+tx(q.s):'')+'</p><blockquote'+(q.l?' lang="'+q.l+'"':'')+'>'+tx(q.z)+'</blockquote>'+
 (q.k?'<p class="st-qk">'+tx(q.k)+'</p>':'')+(q.b&&q.b.length?'<ul class="st-qb">'+q.b.map(beleg).join("")+'</ul>':'')+'</div>')});o.push('</div>')}
 if(b.e&&b.e.length){o.push('<h3 class="st-sh">Evidence</h3><ul class="st-gruppe st-el">'+b.e.map(beleg).join("")+'</ul>')}
-inh.innerHTML='<div class="st-rolle">'+o.join("")+'</div>';rol=inh.firstChild;cc=0;sch.hidden=true;inh.scrollTop=0;blatt.classList.remove("zieht");
-if(!SB)blatt.style.transform="";
-if(!blatt.open){ob();blatt.showModal();R.classList.add("st-zu");blatt.getBoundingClientRect();if(SB){messe();lage()}blatt.classList.add("auf");
-R.classList.add("st-dk");if(SB)rollt()}else if(SB){blatt.classList.remove("rollt");messe();lage();rollt()}zbLage();
+inh.innerHTML='<div class="st-xs"><button class="st-sx" type="button" aria-label="Close">'+D.zu+'</button></div><div class="st-rolle">'+
+o.join("")+'</div>';sch.hidden=true;inh.scrollTop=0;blatt.classList.remove("zieht");blatt.style.transform="";
+if(!blatt.open){blatt.showModal();R.classList.add("st-zu");blatt.scrollTop=0;blatt.getBoundingClientRect();blatt.classList.add("auf");
+R.classList.add("st-dk")}else blatt.scrollTop=0;zbLage();
 var w=inh.querySelector(".st-wisch");wb=w?wisch(w,inh.querySelector(".st-punkte"),inh.querySelector(".st-wort")):null;
-inh.focus({preventScroll:true})}
+sc().focus({preventScroll:true})}
 // Pfeil am Titel: statt Apples grauer Auswahl die Liste mit den Farbquadraten (David 16.11.2026 12:2x), unter dem Titel
 // über dem Blatt; Tipp auf eine Zeile wechselt die Stufe, Tipp daneben schließt nur die Liste
 function menue(an){var tk=inh.querySelector(".st-tk"),m=inh.querySelector(".st-menue"),k=tk&&tk.querySelector(".st-wahl");
@@ -760,9 +759,9 @@ if(m||!tk)return;m=document.createElement("div");m.className="st-menue";m.innerH
 var b=blatt.getBoundingClientRect(),r=m.getBoundingClientRect(),hoch=Math.max(150,Math.min(b.bottom,innerHeight)-r.top-24),n=m.querySelectorAll(".st-z").length;
 if(n)m.style.setProperty("--zh",Math.max(20,Math.min(30,Math.floor((hoch-20)/n*100)/100))+"px");m.style.maxHeight=hoch+"px";
 var z=m.querySelector('.st-z[data-i="'+akt+'"]');if(z)m.scrollTop=Math.max(0,z.offsetTop+z.offsetHeight/2-m.clientHeight/2);
-sch.hidden=false;k.setAttribute("aria-expanded","true");m.getBoundingClientRect();m.classList.add("auf");
+if(SB)sch.style.height=blatt.scrollHeight+"px";sch.hidden=false;k.setAttribute("aria-expanded","true");m.getBoundingClientRect();m.classList.add("auf");
 if(z&&R.classList.contains("st-tasten"))z.focus({preventScroll:true})}
-function schliesse(){if(!blatt.open||zu)return;zu=1;sch.hidden=true;blatt.classList.remove("zieht");blatt.classList.remove("rollt");clearTimeout(rt);blatt.style.transform="";blatt.classList.remove("auf");R.classList.remove("st-dk");
+function schliesse(){if(!blatt.open||zu)return;zu=1;sch.hidden=true;blatt.classList.remove("zieht");blatt.style.transform="";blatt.classList.remove("auf");R.classList.remove("st-dk");
 setTimeout(function(){blatt.close();R.classList.remove("st-zu");zu=0;var z=box.querySelector('[data-i="'+akt+'"]');if(z&&R.classList.contains("st-tasten"))z.focus({preventScroll:true})},420)}
 box.addEventListener("click",function(e){var g=e.target.closest("[data-i]");if(g)oeffne(+g.getAttribute("data-i"))});
 box.addEventListener("keydown",function(e){if(e.key!=="Enter"&&e.key!==" ")return;var g=e.target.closest("[data-i]");if(g){e.preventDefault();oeffne(+g.getAttribute("data-i"))}});
@@ -770,15 +769,15 @@ blatt.addEventListener("cancel",function(e){e.preventDefault();if(!sch.hidden)me
 blatt.addEventListener("click",function(e){var t=e.target;if(t===sch)return menue(0);if(t.closest(".st-wahl"))return menue(sch.hidden?1:0);
 var z=t.closest(".st-menue .st-z");if(z){var j=+z.getAttribute("data-i");return j===akt?menue(0):oeffne(j)}
 if(t.closest(".st-sx"))return schliesse();
-if(e.target===blatt){var r=blatt.getBoundingClientRect();if(e.clientY<r.top||e.clientY>r.bottom||e.clientX<r.left||e.clientX>r.right)schliesse()}});
-// Blatt oben nach unten ziehen schließt es, wie bei Apple: nur wenn der Inhalt ganz oben steht und der Finger senkrecht nach unten geht
+if(e.target===blatt){if(SB)return schliesse();var r=blatt.getBoundingClientRect();if(e.clientY<r.top||e.clientY>r.bottom||e.clientX<r.left||e.clientX>r.right)schliesse()}});
+// Blatt oben nach unten ziehen schließt es, wie bei Apple: nur wenn der Inhalt ganz oben steht und der Finger senkrecht nach
+// unten geht. Entschieden wird bei der ersten Bewegung, damit Safari nicht vorher selbst zu scrollen beginnt.
 var zy=null,zx=0,zd=0,zt=0;
-inh.addEventListener("touchstart",function(e){zy=null;if(e.touches.length!==1||inh.scrollTop>0||!sch.hidden)return;zy=e.touches[0].clientY;zx=e.touches[0].clientX;zd=0;zt=0},{passive:true});
+inh.addEventListener("touchstart",function(e){zy=null;if(e.touches.length!==1||sc().scrollTop>0||!sch.hidden)return;zy=e.touches[0].clientY;zx=e.touches[0].clientX;zd=0;zt=0},{passive:true});
 inh.addEventListener("touchmove",function(e){if(zy===null)return;var t=e.touches[0],d=t.clientY-zy,h=t.clientX-zx;
-if(!zt){if(Math.abs(d)<6&&Math.abs(h)<6)return;if(d<=0||Math.abs(h)>=Math.abs(d)||inh.scrollTop>0){zy=null;return}zt=1;blatt.classList.add("zieht")}
-if(e.cancelable)e.preventDefault();zd=Math.max(0,d);if(SB)lage();else blatt.style.transform="translate3d(0,"+zd+"px,0)"},{passive:false});
+if(!zt){if(!d&&!h)return;if(d<=0||Math.abs(h)>=Math.abs(d)||sc().scrollTop>0){zy=null;return}zt=1;blatt.classList.add("zieht")}
+if(e.cancelable)e.preventDefault();zd=Math.max(0,d);blatt.style.transform="translate3d(0,"+zd+"px,0)"},{passive:false});
 function zlos(){if(zy===null)return;zy=null;if(!zt)return;zt=0;blatt.classList.remove("zieht");
-if(SB){var z0=zd;zd=0;if(z0>110)schliesse();else{blatt.classList.remove("rollt");lage();rollt()}return}
 blatt.style.transform="";if(zd>110)schliesse();zd=0}
 inh.addEventListener("touchend",zlos);inh.addEventListener("touchcancel",zlos);
 var gk=0;
@@ -809,9 +808,12 @@ sp.innerHTML='<div class="st-spbar" role="img" aria-label="Share of time per ide
 return'<li><button class="st-spz" type="button" data-i="'+i+'"><i style="background:'+s.f+'"></i><span class="st-spn">'+esc(s.n)+
 '</span> <span class="st-spd">'+dz+'</span></button></li>'}).join("")+'</ul>';
 var bar=sp.firstChild;
-function breiten(){var W=bar.clientWidth-(T.length-1),m=5,klein={},frei=W,rest=sum,neu=1;
+function breiten(el){el=el||bar;var W=el.clientWidth-(T.length-1),m=5,klein={},frei=W,rest=sum,neu=1;
 while(neu){neu=0;T.forEach(function(t){if(!klein[t.i]&&t.d/rest*frei<m){klein[t.i]=1;frei-=m;rest-=t.d;neu=1}})}
-[].forEach.call(bar.children,function(b,k){var t=T[k];b.style.width=(klein[t.i]?m:t.d/rest*frei).toFixed(3)+"px"})}
+[].forEach.call(el.children,function(b,k){var t=T[k];b.style.width=(klein[t.i]?m:t.d/rest*frei).toFixed(3)+"px"})}
+// der bunte Balken im Fenster: dieselben Stücke in derselben Rechnung (Wortlaut im CSS bei .st-zf), ohne data-i, nicht antippbar
+spBunt=function(){return'<div class="st-zf" role="img" aria-label="Share of time per idea">'+T.map(function(t){return'<b style="background:'+t.s.f+'"></b>'}).join("")+'</div>'};
+spBreiten=breiten;
 // Stelle der Idee für den Balken im Fenster. Anfang: linke Kante ihres Segments oben. Ende (David 16.11.2026 16:2x,
 // woertlich: "In dem Balken, der beim Pop-up dann angezeigt wird, soll das Startdatum auf dem Balken genauso markiert sein
 // wie auf dem Hauptbalken beim Überblick. Aber das Enddatum, weil ja jetzt mehr Platz ist auf dem grauen Balken, soll
@@ -820,13 +822,13 @@ while(neu){neu=0;T.forEach(function(t){if(!klein[t.i]&&t.d/rest*frei<m){klein[t.
 // seine Dauer d (wie in der Breitenrechnung), gleichmäßig über seine echte Breite. Das Ende (Ende des letzten Tags) liegt im
 // Segment mit dem spätesten Start davor, begrenzt auf dessen Kanten; läuft die Idee noch (now oder Ende nach heute), bis
 // ganz rechts; ohne Enddatum bis zur rechten Kante des eigenen Segments.
-spLage=function(i){var s=S[i];if(s.g)return{l:0,w:100};var k=-1;T.forEach(function(t,j){if(t.i===i)k=j});
-var B=bar.getBoundingClientRect();if(k<0||!B.width)return null;var Q=[].map.call(bar.children,function(c){return c.getBoundingClientRect()}),
+spLage=function(i,el){var s=S[i],bb=el||bar;if(s.g)return{l:0,w:100};var k=-1;T.forEach(function(t,j){if(t.i===i)k=j});
+var B=bb.getBoundingClientRect();if(k<0||!B.width)return null;var Q=[].map.call(bb.children,function(c){return c.getBoundingClientRect()}),
 a=Q[k].left-B.left,e=Q[k].right-B.left,E,K=-1,x;
 if(s.e){E=s.e==="now"?Infinity:tg(s.e)+864e5;if(E>heute)e=B.width;else{T.forEach(function(t,j){if(tg(t.s.s)<E)K=j});
 if(K>=0){x=Q[K].left-B.left+(E-tg(T[K].s.s))/T[K].d*Q[K].width;e=Math.max(Q[K].left-B.left,Math.min(Q[K].right-B.left,x))}}}
 if(e<=a)e=Q[k].right-B.left;return{l:a/B.width*100,w:(e-a)/B.width*100,a:a,e:e}};
-breiten();fest();addEventListener("resize",function(){breiten();fest();if(blatt.open){ob();zbLage();if(SB){messe();lage()}}});
+breiten();fest();addEventListener("resize",function(){breiten();fest();if(blatt.open)zbLage()});
 requestAnimationFrame(function(){requestAnimationFrame(function(){R.classList.add("st-splos");
 [].forEach.call(sp.querySelectorAll(".st-spz"),function(z,k){z.style.transitionDelay=(.25+k*.025)+"s"})})});
 setTimeout(function(){[].forEach.call(sp.querySelectorAll(".st-spz"),function(z){z.style.transitionDelay=""})},1500);
