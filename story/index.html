@@ -449,15 +449,15 @@ box-shadow:0 0 0 .5px rgba(0,0,0,.08),0 4px 14px rgba(0,0,0,.1);-webkit-tap-high
    ganz gerundet, im Skript bei zbLage auf dieselben Kanten gelegt, "Beide balken sollen gkeich lang sein"), farbig vom
    Anfang des eigenen Segments oben bis zum echten Ende (Regel im Skript bei spLage), mit der weißen 1-px-Fuge von oben; die
    graue Stufe "Obsessed with money" (seit 2018 bis heute) füllt ihn ganz. */
-.st-zb{position:relative;height:15px;margin:12px 0 0;border-radius:7.5px;background:#d1d1d6;overflow:hidden}
+.st-zb{position:relative;height:10px;margin:12px 0 0;border-radius:5px;background:#d1d1d6;overflow:hidden}
 .st-zb b{position:absolute;top:0;bottom:0;box-shadow:0 0 0 1px #fff}
 /* Ende im zweiten Balken (David 16.11.2026 19:2x, woertlich, zu seinem Bild des Fensters Minecraft YouTuber: "Lass das von bis
    datum oben weg. Pack das end datum in klein in den grauen breich im zweiten balken. ended on 2023-04-14"): die Zeitzeile
    unter dem Titel fällt weg; "ended on JJJJ-MM-TT" nur bei echtem Ende (dasselbe Ende, bis zu dem der farbige Teil geht; nicht
    bei laufenden Ideen und nicht ohne Ende), 6 px hinter dem farbigen Ende, passt es dort nicht, rechtsbündig 6 px vor dem
-   farbigen Anfang (Skript: zbLage). 11 px mittel wie die Uhrzeit, damit am iPhone lesbar; dafür ist nur der zweite Balken
-   15 px hoch (Text mittig), der Abstand zum bunten bleibt 10 px. */
-.st-ze{position:absolute;top:0;left:0;color:#48484a;font:500 11px/15px -apple-system,BlinkMacSystemFont,"SF Pro Text","Helvetica Neue",Helvetica,Arial,sans-serif;letter-spacing:0;white-space:nowrap;pointer-events:none}
+   farbigen Anfang (Skript: zbLage). Seit 16.11.2026 19:5x (David, woertlich: "Beide balken gleich dünn. Mach den dadrin halt
+   kleiner"): beide Balken 10 px, die Schrift 8 px halbfett und mittig im zweiten, der Abstand zum bunten bleibt 10 px. */
+.st-ze{position:absolute;top:0;left:0;color:#48484a;font:600 8px/10px -apple-system,BlinkMacSystemFont,"SF Pro Text","Helvetica Neue",Helvetica,Arial,sans-serif;letter-spacing:.02em;white-space:nowrap;pointer-events:none}
 /* Zwei Balken in jedem Fenster (David 16.11.2026 18:4x, woertlich: "Und mach das jedes ab jetzt zwei balken direkt
    übereinander hat mit einer balken dicke platz. Oben der bunte dadrunter der einzelne"): oben der bunte wie der
    Übersichtsbalken (gleiche Stücke, Breiten, 1-px-Fugen, Höhe, Rundung und Kanten; im Skript spBunt, spBreiten, zbLage),
@@ -742,7 +742,7 @@ var a=L.a*k,en=L.e*k,bw=r-l,ende=!s.g&&s.e&&s.e!=="now"&&tag(s.e)+864e5<=Date.no
 e.style.left=a+"px";e.style.width=(en-a)+"px";
 // "ended on" (Wortlaut im CSS bei .st-ze): 6 px hinter dem farbigen Ende, sonst rechtsbündig 6 px davor; nie in die runden Enden
 if(t){t.hidden=!ende;if(ende){t.textContent="ended on "+ende;var tw=t.offsetWidth;
-if(en+6+tw<=bw-7.5)t.style.left=(en+6)+"px";else if(a-6-tw>=7.5)t.style.left=(a-6-tw)+"px";else t.hidden=true;lab+=", ended on "+ende}}
+if(en+6+tw<=bw-5)t.style.left=(en+6)+"px";else if(a-6-tw>=5)t.style.left=(a-6-tw)+"px";else t.hidden=true;lab+=", ended on "+ende}}
 z.setAttribute("aria-label",lab)}
 // Scrollbereich: mit dem Speicherbalken das Fenster selbst (Wortlaut im CSS bei .st-blatt.st-bh), sonst die Karte
 var SB=blatt.classList.contains("st-bh");
