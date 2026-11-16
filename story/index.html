@@ -316,7 +316,12 @@ font:600 32px/36px -apple-system,BlinkMacSystemFont,"SF Pro Display","Helvetica 
 .st-liste{list-style:none;margin:14px 0 0;padding:0}
 .st-z{all:unset;box-sizing:border-box;display:flex;align-items:center;gap:10px;width:100%;min-height:30px;padding:5px 0;cursor:pointer;
 -webkit-tap-highlight-color:transparent}
-.st-z:focus-visible{outline:2px solid #007afe;outline-offset:2px;border-radius:6px}
+.st-tasten .st-z:focus-visible{outline:2px solid #007afe;outline-offset:2px;border-radius:6px}
+/* David 16.11.2026 12:0x, Handybild mit blauem Rahmen um "Obsessed with money", woertlich: "Warum sind da manchmal bmaue
+   boxenn drum? Geh sicher das die nicht mehr kommen". Ursache: Beim Schliessen eines Fensters bekam die Zeile den Fokus
+   zurueck, und iOS zeigt dann den Tastatur-Rahmen. Rahmen gibt es nur noch, wenn wirklich mit Tab- oder Pfeiltasten
+   bedient wird (Klasse st-tasten am html, jeder Fingertipp nimmt sie wieder weg). */
+html:not(.st-tasten) :focus{outline:none!important}
 .st-z i{flex:none;width:14px;height:14px;border-radius:3px}
 .st-n{flex:1;min-width:0;overflow:hidden;color:#1d1d1f;font:400 15px/20px -apple-system,BlinkMacSystemFont,"SF Pro Text","Helvetica Neue",Helvetica,Arial,sans-serif;white-space:nowrap;text-overflow:ellipsis}
 .st-ic{flex:none;display:block;width:20px;height:20px;color:#007afe}
@@ -342,8 +347,8 @@ justify-content:center;width:36px;height:36px;margin:0;padding:0;border:0;border
 width:40px;height:40px;margin:0;padding:0;border:0;border-radius:50%;background:rgba(255,255,255,.72);color:#1d1d1f;cursor:pointer;
 -webkit-backdrop-filter:blur(12px) saturate(180%);backdrop-filter:blur(12px) saturate(180%);
 box-shadow:0 0 0 .5px rgba(0,0,0,.08),0 4px 14px rgba(0,0,0,.1);-webkit-tap-highlight-color:transparent}
-.st-x:focus-visible{outline:2px solid #007afe;outline-offset:2px}
-.st-sx:focus-visible,.st-punkte button:focus-visible{outline:2px solid #0071e3;outline-offset:2px}
+.st-tasten .st-x:focus-visible{outline:2px solid #007afe;outline-offset:2px}
+.st-tasten .st-sx:focus-visible,.st-tasten .st-punkte button:focus-visible{outline:2px solid #0071e3;outline-offset:2px}
 .st-tk{position:relative}
 .st-titel{margin:0;color:#1d1d1f;font:600 28px/1.14286 -apple-system,BlinkMacSystemFont,"SF Pro Text","Helvetica Neue",Helvetica,Arial,sans-serif;letter-spacing:-.007em;text-align:center}
 .st-titel svg{display:inline-block;width:14px;height:8.35px;margin-left:5.73px;vertical-align:2px;overflow:visible}
@@ -493,6 +498,8 @@ gross=document.getElementById("stgr"),gb=document.getElementById("stgb"),gu=docu
 cv=document.createElement("canvas").getContext("2d"),cn=document.createElement("canvas").getContext("2d"),
 NF='px -apple-system,BlinkMacSystemFont,"SF Pro Text","Helvetica Neue",Helvetica,Arial,sans-serif';
 cv.font='12px -apple-system,BlinkMacSystemFont,"SF Pro Text","Helvetica Neue",Helvetica,Arial,sans-serif';
+addEventListener("keydown",function(e){if(e.key==="Tab"||e.key.indexOf("Arrow")===0)R.classList.add("st-tasten")},true);
+addEventListener("pointerdown",function(){R.classList.remove("st-tasten")},true);
 function esc(s){return String(s==null?"":s).replace(/[&<>"']/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]})}
 function tx(s){return esc(s).replace(/\b\d{4}-\d{2}-\d{2}\b/g,'<span class="st-nw">$&</span>')}
 function tag(s){var p=s.split("-");return new Date(+p[0],p[1]-1,+p[2]).getTime()}
@@ -578,7 +585,7 @@ var w=inh.querySelector(".st-wisch");wb=w?wisch(w,inh.querySelector(".st-punkte"
 inh.querySelector(".st-wahl").addEventListener("change",function(e){oeffne(+e.target.value)});
 inh.focus({preventScroll:true})}
 function schliesse(){if(!blatt.open||zu)return;zu=1;blatt.classList.remove("zieht");blatt.style.transform="";blatt.classList.remove("auf");
-setTimeout(function(){blatt.close();R.classList.remove("st-zu");zu=0;var z=document.querySelector('.st-z[data-i="'+akt+'"]');if(z)z.focus({preventScroll:true})},420)}
+setTimeout(function(){blatt.close();R.classList.remove("st-zu");zu=0;var z=document.querySelector('.st-z[data-i="'+akt+'"]');if(z&&R.classList.contains("st-tasten"))z.focus({preventScroll:true})},420)}
 document.getElementById("stl").addEventListener("click",function(e){var z=e.target.closest(".st-z");if(z)oeffne(+z.dataset.i)});
 box.addEventListener("click",function(e){var g=e.target.closest("[data-i]");if(g)oeffne(+g.getAttribute("data-i"))});
 blatt.addEventListener("cancel",function(e){e.preventDefault();schliesse()});
