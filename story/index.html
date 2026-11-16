@@ -320,6 +320,15 @@ main.wrap{max-width:none;padding:0 16px 48px}
    Karte, damit beide auf großen Bildschirmen fluchten. */
 .st-h{max-width:700px;margin:0 auto;padding:52.45px 0 31.88px 9.46px;box-sizing:border-box;color:#1d1d1f;
 font:600 32px/36px -apple-system,BlinkMacSystemFont,"SF Pro Display","Helvetica Neue",sans-serif;letter-spacing:-.316px}
+/* Nur mit dem Speicherbalken (UEBERSICHT "speicher"). David 16.11.2026 15:52, woertlich: "Mach die Story genauso klein wie
+   das Storage im Screenshot." Gemessen in seinem Bild (iCloud-Speicher, 1179 px breit bei 3x): "Storage" 17 pt Regular
+   (Strich 4 bis 5 px wie der graue Text daneben), #000, Tinte 58,0 pt breit, das S 1 pt rechts der Balkenkante, Grundlinie
+   8,2 pt über dem Balken. Die Oberkante der Großbuchstaben bleibt, wo die große Überschrift sie hatte (82 - 22,3 = 59,7),
+   die Grundlinie liegt also bei 71,7. Nachgemessen im Simulator-Safari (iPhone 17 Pro, 3x):
+   "Storage" in dieser Schrift ohne Sperrung reicht wie im Bild von x 51 bis 224 (58,0 pt, S 38 px hoch), also Laufweite 0;
+   das r von "story" endet in Zeile 400 (Grundlinie 71,67), der Balken beginnt wie im Bild 25 Zeilen darunter. */
+.st-h.st-hs{padding:54.63px 0 3px;color:#000;
+font:400 17px/22px -apple-system,BlinkMacSystemFont,"SF Pro Text","Helvetica Neue",sans-serif;letter-spacing:0px}
 .st-karte{max-width:700px;margin:0 auto;padding:25px 16px 20px;background:#fff;border-radius:26px;letter-spacing:0}
 .st-graph{position:relative;height:290px}
 .st-graph svg{display:block;overflow:visible}
@@ -365,14 +374,17 @@ html:not(.st-tasten) :focus{outline:none!important}
 .st-n{flex:1;min-width:0;overflow:hidden;color:#1d1d1f;font:400 15px/20px -apple-system,BlinkMacSystemFont,"SF Pro Text","Helvetica Neue",Helvetica,Arial,sans-serif;white-space:nowrap;text-overflow:ellipsis}
 .st-d{flex:none;color:#6e6e73;font:400 13px/18px -apple-system,BlinkMacSystemFont,"SF Pro Text","Helvetica Neue",Helvetica,Arial,sans-serif;font-variant-numeric:tabular-nums}
 html.st-zu,html.st-zu body{overflow:hidden}
-.st-blatt{position:fixed;top:auto;right:0;bottom:0;left:0;width:100%;max-width:none;height:calc(100% - 20px);max-height:none;margin:0;
+/* --st-oben: David 16.11.2026 15:52, woertlich: "Mach, dass die Popups nur so weit aufgehen, dass man über dem Rand im
+   Hintergrund noch den Balken sieht." Das Skript setzt beim Öffnen die Unterkante des Speicherbalkens plus 10 px; ist der
+   Balken nicht zu sehen (Graph-Modus, weggescrollt), gelten die alten 20 px (ab 760 px Breite 48 px). */
+.st-blatt{position:fixed;top:auto;right:0;bottom:0;left:0;width:100%;max-width:none;height:calc(100% - var(--st-oben,20px));max-height:none;margin:0;
 padding:0;border:0;border-radius:18px 18px 0 0;background:#fff;color:#1d1d1f;overflow:hidden;letter-spacing:0;
 transform:translate3d(0,100%,0);transition:transform .42s cubic-bezier(.32,.72,0,1);will-change:transform}
 .st-blatt.auf{transform:translate3d(0,0,0)}
 .st-blatt.zieht{transition:none}
 .st-blatt::backdrop{background:rgba(0,0,0,.48);opacity:0;transition:opacity .42s}
 .st-blatt.auf::backdrop{opacity:1}
-@media (min-width:760px){.st-blatt{left:50%;right:auto;bottom:24px;width:680px;margin-left:-340px;height:calc(100% - 72px);border-radius:18px}
+@media (min-width:760px){.st-blatt{left:50%;right:auto;bottom:24px;width:680px;margin-left:-340px;height:calc(100% - var(--st-oben,48px) - 24px);border-radius:18px}
 .st-blatt{transform:translate3d(0,calc(100% + 24px),0)}}
 .st-inhalt{position:relative;height:100%;overflow-x:hidden;overflow-y:auto;overscroll-behavior:contain;-webkit-overflow-scrolling:touch;
 padding:65px 6.25% calc(60px + env(safe-area-inset-bottom));box-sizing:border-box;font:400 17px/1.23536 -apple-system,BlinkMacSystemFont,"SF Pro Text","Helvetica Neue",Helvetica,Arial,sans-serif}
@@ -401,6 +413,13 @@ transform:translate3d(-50%,-6px,0) scale(.97);transform-origin:50% 0;transition:
 @media(prefers-reduced-motion:reduce){.st-menue{transition:none}}
 .st-schleier{position:absolute;top:0;right:0;bottom:0;left:0;z-index:4;-webkit-tap-highlight-color:transparent}
 .st-zeit{margin:24px 0 0;color:#1d1d1f;font:400 14px/1.28577 -apple-system,BlinkMacSystemFont,"SF Pro Text","Helvetica Neue",Helvetica,Arial,sans-serif;letter-spacing:-.005em;text-align:center}
+/* David 16.11.2026 15:52, woertlich: "Mach, dass jedes Popup direkt unter den zwei Daten, darunter, nochmal den Balken hat:
+   komplett grau bis zum Startdatum, dann ausgemalt in der passenden Farbe vom Startdatum bis zum Enddatum und dann wieder
+   grau. Das ist genau derselbe Balken, wo das alles andere bis zum Startdatum grau ist." Derselbe Balken wie oben (10 px,
+   ganz gerundet), nur die eigene Idee farbig an ihrer Stelle im Übersichtsbalken, mit der weißen 1-px-Fuge von oben; die
+   graue Stufe "Obsessed with money" (seit 2018 bis heute) füllt ihn ganz. */
+.st-zb{position:relative;height:10px;margin:12px 0 0;border-radius:5px;background:#d1d1d6;overflow:hidden}
+.st-zb b{position:absolute;top:0;bottom:0;box-shadow:0 0 0 1px #fff}
 .st-wisch{position:relative;margin:40px -7.142857% 0;overflow:hidden;touch-action:pan-y;-webkit-user-select:none;user-select:none}
 .st-band{display:flex;height:100%;transform:translate3d(0,0,0);transition:transform .45s cubic-bezier(.25,.1,.25,1);will-change:transform}
 @media(prefers-reduced-motion:reduce){.st-band{transition:none}}
@@ -519,7 +538,7 @@ setTimeout(function(){g.classList.add("gn-fertig");document.documentElement.clas
 document.addEventListener("keydown",function(e){if(e.key!=="Escape")return;if(has("gn-sub"))back.click();else if(has("gn-open"))trig.click()});
 addEventListener("pageshow",function(e){if(e.persisted&&has("gn-open"))trig.click()})})()</script>
 <main class="wrap">
-<h1 class="st-h">story</h1>
+<h1 class="st-h st-hs">story</h1>
 <section class="st-sp" id="stsp" aria-label="Business ideas David tested"></section>
 <section class="st-karte" aria-label="Business ideas David tested" hidden>
 <div class="st-graph" id="stg" role="group" aria-label="16 business ideas from 2022 to today" style="height:411.04px"></div>
@@ -644,11 +663,18 @@ w.addEventListener("pointercancel",function(e){if(!s||e.pointerId!==s.id)return;
 w.addEventListener("click",function(){if(bt<0)return;var z=bt;bt=-1;zeige(z)});
 if(P)P.addEventListener("click",function(e){var p=e.target.closest("button");if(p)geh(+p.getAttribute("data-k"))});
 return{geh:geh,neu:function(){mass();setze(true)}}}
+// Fenster nur bis knapp unter den Speicherbalken (David 16.11.2026 15:52, Wortlaut im CSS bei .st-blatt); spLage liefert
+// die Stelle einer Idee im Übersichtsbalken für den Balken im Fenster (Wortlaut im CSS bei .st-zb)
+var spLage=null;
+function ob(){var b=document.querySelector(".st-spbar"),u=b?b.getBoundingClientRect().bottom:-1;
+if(u>0&&u<innerHeight/2)blatt.style.setProperty("--st-oben",Math.round((u+10)*3)/3+"px");else blatt.style.removeProperty("--st-oben")}
 function oeffne(i){var s=S[i],b=s.b||{},o=[],nm=esc(s.n),sp=nm.lastIndexOf(" ");akt=i;M=b.m||[];
 o.push('<button class="st-sx" type="button" aria-label="Close">'+D.zu+'</button>');
 o.push('<div class="st-tk"><h2 class="st-titel" id="stt">'+nm.slice(0,sp+1)+'<span class="st-nw">'+nm.slice(sp+1)+D.pf+'</span></h2>'+
 '<button class="st-wahl" type="button" aria-haspopup="true" aria-expanded="false" aria-label="Show another idea"></button></div>');
 o.push('<p class="st-zeit">'+tx(b.zeit||(s.s+(s.e&&s.e!=="now"?" to "+s.e:"")))+(b.marke?' · '+tx(b.marke):'')+'</p>');
+var L=spLage&&spLage(i);if(L)o.push('<div class="st-zb" role="img" aria-label="Share of time, '+nm+' highlighted"><b style="left:'+
+L.l.toFixed(3)+'%;width:'+L.w.toFixed(3)+'%;background:'+s.f+'"></b></div>');
 if(M.length)o.push('<div class="st-wisch"><div class="st-band">'+M.map(folie).join("")+'</div></div>'+punkte(M.length)+'<p class="st-wort"></p>');
 function zl(z){return'<li>'+(IC[z[0]]||IC.idee)+'<p>'+tx(z[1])+'</p></li>'}
 if(b.z&&b.z.length)o.push('<ul class="st-zeilen">'+b.z.map(zl).join("")+'</ul>');
@@ -659,7 +685,7 @@ o.push('<div class="st-q"><p class="st-qd">'+tx(q.d)+(q.s?' · '+tx(q.s):'')+'</
 (q.k?'<p class="st-qk">'+tx(q.k)+'</p>':'')+(q.b&&q.b.length?'<ul class="st-qb">'+q.b.map(beleg).join("")+'</ul>':'')+'</div>')});o.push('</div>')}
 if(b.e&&b.e.length){o.push('<h3 class="st-sh">Evidence</h3><ul class="st-gruppe st-el">'+b.e.map(beleg).join("")+'</ul>')}
 inh.innerHTML=o.join("");sch.hidden=true;inh.scrollTop=0;blatt.classList.remove("zieht");blatt.style.transform="";
-if(!blatt.open){blatt.showModal();R.classList.add("st-zu");blatt.getBoundingClientRect();blatt.classList.add("auf")}
+if(!blatt.open){ob();blatt.showModal();R.classList.add("st-zu");blatt.getBoundingClientRect();blatt.classList.add("auf")}
 var w=inh.querySelector(".st-wisch");wb=w?wisch(w,inh.querySelector(".st-punkte"),inh.querySelector(".st-wort")):null;
 inh.focus({preventScroll:true})}
 // Pfeil am Titel: statt Apples grauer Auswahl die Liste mit den Farbquadraten (David 16.11.2026 12:2x), unter dem Titel
@@ -717,7 +743,10 @@ var bar=sp.firstChild;
 function breiten(){var W=bar.clientWidth-(T.length-1),m=5,klein={},frei=W,rest=sum,neu=1;
 while(neu){neu=0;T.forEach(function(t){if(!klein[t.i]&&t.d/rest*frei<m){klein[t.i]=1;frei-=m;rest-=t.d;neu=1}})}
 [].forEach.call(bar.children,function(b,k){var t=T[k];b.style.width=(klein[t.i]?m:t.d/rest*frei).toFixed(3)+"px"})}
-breiten();fest();addEventListener("resize",function(){breiten();fest()});
+spLage=function(i){if(S[i].g)return{l:0,w:100};var k=-1;T.forEach(function(t,j){if(t.i===i)k=j});
+var B=bar.getBoundingClientRect(),c=k<0?null:bar.children[k].getBoundingClientRect();if(!c||!B.width)return null;
+return{l:(c.left-B.left)/B.width*100,w:c.width/B.width*100}};
+breiten();fest();addEventListener("resize",function(){breiten();fest();if(blatt.open)ob()});
 requestAnimationFrame(function(){requestAnimationFrame(function(){R.classList.add("st-splos");
 [].forEach.call(sp.querySelectorAll(".st-spz"),function(z,k){z.style.transitionDelay=(.25+k*.025)+"s"})})});
 setTimeout(function(){[].forEach.call(sp.querySelectorAll(".st-spz"),function(z){z.style.transitionDelay=""})},1500);
