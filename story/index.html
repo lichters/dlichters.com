@@ -394,6 +394,18 @@ transform:translate3d(0,100%,0);transition:transform .42s cubic-bezier(.32,.72,0
 .st-blatt.zieht{transition:none}
 .st-blatt::backdrop{background:rgba(0,0,0,.48);opacity:0;transition:opacity .42s}
 .st-blatt.auf::backdrop{opacity:1}
+/* Nur mit dem Speicherbalken. David 16.11.2026 16:3x, woertlich: "Mach bitte auch so, dass, wenn man das Popup geöffnet hat,
+   der Balken im Hintergrund immer noch die komplette Helligkeit hat. Der Hintergrund soll also dunkler sein, wenn man das
+   Popup öffnet, aber alles außer dem Balken." Der ::backdrop liegt in der obersten Ebene über allem, deshalb ist er hier
+   durchsichtig (er fängt weiter die Tipps neben dem Fenster ab), und die Abdunklung ist eine eigene feste Ebene in der Seite:
+   gleiche Farbe und Blende wie vorher, über Menüstrichen (z-index 9999), "Story" und "5 years"; der Balken liegt bei
+   offenem Fenster darüber und bleibt voll hell. Beim Herunterziehen bleibt sie wie vorher stehen, beim Schließen blendet
+   sie mit dem Fenster aus. */
+.st-bh::backdrop{background:transparent}
+.st-dunkel{position:fixed;top:0;right:0;bottom:0;left:0;z-index:10000;background:rgba(0,0,0,.48);opacity:0;pointer-events:none;
+transition:opacity .42s}
+html.st-dk .st-dunkel{opacity:1}
+html.st-zu .st-spbar{position:relative;z-index:10001}
 @media (min-width:760px){.st-blatt{left:50%;right:auto;bottom:24px;width:680px;margin-left:-340px;height:calc(100% - var(--st-oben,48px) - 24px);border-radius:18px}
 .st-blatt{transform:translate3d(0,calc(100% + 24px),0)}}
 .st-inhalt{position:relative;height:100%;overflow-x:hidden;overflow-y:auto;overscroll-behavior:contain;-webkit-overflow-scrolling:touch;
@@ -554,7 +566,8 @@ addEventListener("pageshow",function(e){if(e.persisted&&has("gn-open"))trig.clic
 <section class="st-karte" aria-label="Business ideas David tested" hidden>
 <div class="st-graph" id="stg" role="group" aria-label="16 business ideas from 2022 to today" style="height:411.04px"></div>
 </section>
-<dialog class="st-blatt" id="stb" aria-labelledby="stt"><div class="st-inhalt" id="sti" tabindex="-1" autofocus></div><div class="st-schleier" id="sts" hidden></div></dialog>
+<div class="st-dunkel" aria-hidden="true"></div>
+<dialog class="st-blatt st-bh" id="stb" aria-labelledby="stt"><div class="st-inhalt" id="sti" tabindex="-1" autofocus></div><div class="st-schleier" id="sts" hidden></div></dialog>
 <template id="stl"><ul class="st-liste">
 <li><button class="st-z" type="button" data-i="0"><i style="background:#8e8e93"></i><span class="st-n">Obsessed with money</span><span class="st-d">2018-06-23</span></button></li>
 <li><button class="st-z" type="button" data-i="1"><i style="background:#0091ff"></i><span class="st-n">Fiverr</span><span class="st-d">2022-05-17</span></button></li>
@@ -705,7 +718,7 @@ o.push('<div class="st-q"><p class="st-qd">'+tx(q.d)+(q.s?' · '+tx(q.s):'')+'</
 (q.k?'<p class="st-qk">'+tx(q.k)+'</p>':'')+(q.b&&q.b.length?'<ul class="st-qb">'+q.b.map(beleg).join("")+'</ul>':'')+'</div>')});o.push('</div>')}
 if(b.e&&b.e.length){o.push('<h3 class="st-sh">Evidence</h3><ul class="st-gruppe st-el">'+b.e.map(beleg).join("")+'</ul>')}
 inh.innerHTML=o.join("");sch.hidden=true;inh.scrollTop=0;blatt.classList.remove("zieht");blatt.style.transform="";
-if(!blatt.open){ob();blatt.showModal();R.classList.add("st-zu");blatt.getBoundingClientRect();blatt.classList.add("auf")}zbLage();
+if(!blatt.open){ob();blatt.showModal();R.classList.add("st-zu");blatt.getBoundingClientRect();blatt.classList.add("auf");R.classList.add("st-dk")}zbLage();
 var w=inh.querySelector(".st-wisch");wb=w?wisch(w,inh.querySelector(".st-punkte"),inh.querySelector(".st-wort")):null;
 inh.focus({preventScroll:true})}
 // Pfeil am Titel: statt Apples grauer Auswahl die Liste mit den Farbquadraten (David 16.11.2026 12:2x), unter dem Titel
@@ -718,7 +731,7 @@ if(n)m.style.setProperty("--zh",Math.max(20,Math.min(30,Math.floor((hoch-20)/n*1
 var z=m.querySelector('.st-z[data-i="'+akt+'"]');if(z)m.scrollTop=Math.max(0,z.offsetTop+z.offsetHeight/2-m.clientHeight/2);
 sch.hidden=false;k.setAttribute("aria-expanded","true");m.getBoundingClientRect();m.classList.add("auf");
 if(z&&R.classList.contains("st-tasten"))z.focus({preventScroll:true})}
-function schliesse(){if(!blatt.open||zu)return;zu=1;sch.hidden=true;blatt.classList.remove("zieht");blatt.style.transform="";blatt.classList.remove("auf");
+function schliesse(){if(!blatt.open||zu)return;zu=1;sch.hidden=true;blatt.classList.remove("zieht");blatt.style.transform="";blatt.classList.remove("auf");R.classList.remove("st-dk");
 setTimeout(function(){blatt.close();R.classList.remove("st-zu");zu=0;var z=box.querySelector('[data-i="'+akt+'"]');if(z&&R.classList.contains("st-tasten"))z.focus({preventScroll:true})},420)}
 box.addEventListener("click",function(e){var g=e.target.closest("[data-i]");if(g)oeffne(+g.getAttribute("data-i"))});
 box.addEventListener("keydown",function(e){if(e.key!=="Enter"&&e.key!==" ")return;var g=e.target.closest("[data-i]");if(g){e.preventDefault();oeffne(+g.getAttribute("data-i"))}});
@@ -758,10 +771,9 @@ var sum=T.reduce(function(a,t){return a+t.d},0);
 // Rechts neben "Story" die Zeit aller Balken zusammen, auf ganze Jahre gerundet (David 16.11.2026 16:13: "Statt "1TB of 2TB"
 // soll das "5 years" sagen", Wortlaut im CSS bei .st-hk)
 var jz=document.getElementById("sthz");if(jz){var jr=Math.round(sum/(365.25*864e5));jz.textContent=jr===1?"1 year":jr+" years"}
-function pz(t){var p=t.d/sum*100;return p>=1?Math.round(p)+"%":p>=.05?p.toFixed(1)+"%":"<0.1%"}
 sp.innerHTML='<div class="st-spbar" role="img" aria-label="Share of time per idea">'+T.map(function(t){return'<b data-i="'+t.i+'" style="background:'+t.s.f+'"></b>'}).join("")+
 '</div><ul class="st-splg">'+S.map(function(s,i){var t=T.filter(function(t){return t.i===i})[0];
-return'<li><button class="st-spz" type="button" data-i="'+i+'"><i style="background:'+s.f+'"></i>'+esc(s.n)+' '+(t?pz(t):"since "+s.s.slice(0,4))+'</button></li>'}).join("")+'</ul>';
+return'<li><button class="st-spz" type="button" data-i="'+i+'"><i style="background:'+s.f+'"></i>'+esc(s.n)+(t?'':' since '+s.s.slice(0,4))+'</button></li>'}).join("")+'</ul>';
 var bar=sp.firstChild;
 function breiten(){var W=bar.clientWidth-(T.length-1),m=5,klein={},frei=W,rest=sum,neu=1;
 while(neu){neu=0;T.forEach(function(t){if(!klein[t.i]&&t.d/rest*frei<m){klein[t.i]=1;frei-=m;rest-=t.d;neu=1}})}
