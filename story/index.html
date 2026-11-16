@@ -426,7 +426,8 @@ transform:translate3d(-50%,-6px,0) scale(.97);transform-origin:50% 0;transition:
 /* David 16.11.2026 15:52, woertlich: "Mach, dass jedes Popup direkt unter den zwei Daten, darunter, nochmal den Balken hat:
    komplett grau bis zum Startdatum, dann ausgemalt in der passenden Farbe vom Startdatum bis zum Enddatum und dann wieder
    grau. Das ist genau derselbe Balken, wo das alles andere bis zum Startdatum grau ist." Derselbe Balken wie oben (10 px,
-   ganz gerundet), nur die eigene Idee farbig an ihrer Stelle im Übersichtsbalken, mit der weißen 1-px-Fuge von oben; die
+   ganz gerundet, im Skript bei zbLage auf dieselben Kanten gelegt, "Beide balken sollen gkeich lang sein"), farbig vom
+   Anfang des eigenen Segments oben bis zum echten Ende (Regel im Skript bei spLage), mit der weißen 1-px-Fuge von oben; die
    graue Stufe "Obsessed with money" (seit 2018 bis heute) füllt ihn ganz. */
 .st-zb{position:relative;height:10px;margin:12px 0 0;border-radius:5px;background:#d1d1d6;overflow:hidden}
 .st-zb b{position:absolute;top:0;bottom:0;box-shadow:0 0 0 1px #fff}
@@ -684,9 +685,9 @@ if(u>0&&u<innerHeight/2)blatt.style.setProperty("--st-oben",Math.round((u+10)*3)
 function zbLage(){var z=inh.querySelector(".st-zb"),b=document.querySelector(".st-spbar");if(!z||!b)return;z.style.marginLeft="";z.style.width="";
 var B=b.getBoundingClientRect(),Z=z.getBoundingClientRect(),F=blatt.getBoundingClientRect(),l=Math.max(B.left,F.left+16),r=Math.min(B.right,F.right-16);
 if(r-l<40)return;z.style.marginLeft=(l-Z.left)+"px";z.style.width=(r-l)+"px";
-// die farbige Stelle dann in px aus dem oberen Balken, damit beide Kanten auf denselben Gerätepixel fallen
-var g=b.querySelector('b[data-i="'+z.getAttribute("data-i")+'"]'),e=z.firstChild,c,k;if(!g||!e)return;
-c=g.getBoundingClientRect();k=(r-l)/B.width;e.style.left=(c.left-B.left)*k+"px";e.style.width=c.width*k+"px"}
+// die farbige Stelle dann in px aus dem oberen Balken (spLage), damit der Anfang auf denselben Gerätepixel fällt wie oben
+var L=spLage&&spLage(+z.getAttribute("data-i")),e=z.firstChild,k;if(!L||L.a==null||!e)return;
+k=(r-l)/B.width;e.style.left=L.a*k+"px";e.style.width=(L.e-L.a)*k+"px"}
 function oeffne(i){var s=S[i],b=s.b||{},o=[],nm=esc(s.n),sp=nm.lastIndexOf(" ");akt=i;M=b.m||[];
 o.push('<button class="st-sx" type="button" aria-label="Close">'+D.zu+'</button>');
 o.push('<div class="st-tk"><h2 class="st-titel" id="stt">'+nm.slice(0,sp+1)+'<span class="st-nw">'+nm.slice(sp+1)+D.pf+'</span></h2>'+
@@ -765,9 +766,20 @@ var bar=sp.firstChild;
 function breiten(){var W=bar.clientWidth-(T.length-1),m=5,klein={},frei=W,rest=sum,neu=1;
 while(neu){neu=0;T.forEach(function(t){if(!klein[t.i]&&t.d/rest*frei<m){klein[t.i]=1;frei-=m;rest-=t.d;neu=1}})}
 [].forEach.call(bar.children,function(b,k){var t=T[k];b.style.width=(klein[t.i]?m:t.d/rest*frei).toFixed(3)+"px"})}
-spLage=function(i){if(S[i].g)return{l:0,w:100};var k=-1;T.forEach(function(t,j){if(t.i===i)k=j});
-var B=bar.getBoundingClientRect(),c=k<0?null:bar.children[k].getBoundingClientRect();if(!c||!B.width)return null;
-return{l:(c.left-B.left)/B.width*100,w:c.width/B.width*100}};
+// Stelle der Idee für den Balken im Fenster. Anfang: linke Kante ihres Segments oben. Ende (David 16.11.2026 16:2x,
+// woertlich: "In dem Balken, der beim Pop-up dann angezeigt wird, soll das Startdatum auf dem Balken genauso markiert sein
+// wie auf dem Hauptbalken beim Überblick. Aber das Enddatum, weil ja jetzt mehr Platz ist auf dem grauen Balken, soll
+// wirklich da markiert sein, wo es auch aufgehört hat, nicht, wo das Nächste anfängt. ... Auch bei allen anderen Pop-ups
+// soll das so weit gehen, wie das Enddatum passt."): Jedes Segment oben steht für die Zeit von seinem Start bis Start plus
+// seine Dauer d (wie in der Breitenrechnung), gleichmäßig über seine echte Breite. Das Ende (Ende des letzten Tags) liegt im
+// Segment mit dem spätesten Start davor, begrenzt auf dessen Kanten; läuft die Idee noch (now oder Ende nach heute), bis
+// ganz rechts; ohne Enddatum bis zur rechten Kante des eigenen Segments.
+spLage=function(i){var s=S[i];if(s.g)return{l:0,w:100};var k=-1;T.forEach(function(t,j){if(t.i===i)k=j});
+var B=bar.getBoundingClientRect();if(k<0||!B.width)return null;var Q=[].map.call(bar.children,function(c){return c.getBoundingClientRect()}),
+a=Q[k].left-B.left,e=Q[k].right-B.left,E,K=-1,x;
+if(s.e){E=s.e==="now"?Infinity:tg(s.e)+864e5;if(E>heute)e=B.width;else{T.forEach(function(t,j){if(tg(t.s.s)<E)K=j});
+if(K>=0){x=Q[K].left-B.left+(E-tg(T[K].s.s))/T[K].d*Q[K].width;e=Math.max(Q[K].left-B.left,Math.min(Q[K].right-B.left,x))}}}
+if(e<=a)e=Q[k].right-B.left;return{l:a/B.width*100,w:(e-a)/B.width*100,a:a,e:e}};
 breiten();fest();addEventListener("resize",function(){breiten();fest();if(blatt.open){ob();zbLage()}});
 requestAnimationFrame(function(){requestAnimationFrame(function(){R.classList.add("st-splos");
 [].forEach.call(sp.querySelectorAll(".st-spz"),function(z,k){z.style.transitionDelay=(.25+k*.025)+"s"})})});
