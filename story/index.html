@@ -326,6 +326,16 @@ font:600 32px/36px -apple-system,BlinkMacSystemFont,"SF Pro Display","Helvetica 
 .st-graph [data-i]{cursor:pointer;outline:none}
 .st-tasten .st-graph [data-i]:focus-visible rect+rect{stroke:#007afe;stroke-width:2px}
 .st-graph .st-bn{font-size:11px}
+/* David 16.11.2026 13:1x zu fünf Entwürfen, wörtlich: "Alle 5 schlechter als jetzt. Das soll weiter so ein graph sein aber
+   vom design her besser. Nicht extra text oder slides ider so. Und übergängen in den balken ist nicht schön". Zur zweiten
+   Runde 13:2x, wörtlich: "Animation ist gut und strichel linie auch. Versuch die linien mal eckig statt rund zu machen mit
+   verscheidenen leveln an abrundung für mich zum wählen", zu 0, 2, 4, 6 px und rund dann 13:3x: "Lass bei ganz gerundet".
+   Seitdem gestrichelte Jahreslinien (#d1d1d6, 1 px, Strich 2, Lücke 3) hinter den Balken statt der Jahresstriche unter
+   der Achse, wie in Apples Health-App; ein weißer Rand um jeden Namen, damit keine Linie durch Buchstaben läuft. Beim
+   Öffnen wachsen die Balken (Skript: wachse()), beim Drücken wird der Balken sofort blasser (st-druck), Balken ganz rund. */
+.st-graph text.st-bn{paint-order:stroke;stroke:#fff;stroke-width:4px;stroke-linejoin:round}
+.st-graph [data-i]{transition:opacity .22s ease}
+.st-graph [data-i].st-druck{opacity:.45;transition:none}
 .st-liste{list-style:none;margin:0;padding:0}
 .st-z{all:unset;box-sizing:border-box;display:flex;align-items:center;gap:10px;width:100%;min-height:30px;padding:5px 0;cursor:pointer;
 -webkit-tap-highlight-color:transparent}
@@ -544,6 +554,8 @@ function nm(g){var t=kurz(g.s.k||g.s.n,g.l-4);
 return t?'<text class="st-bn" x="'+(g.l-4).toFixed(2)+'" y="'+(g.y+row/2).toFixed(2)+'" text-anchor="end"'+
 ' dominant-baseline="central" fill="#1d1d1f">'+esc(t)+'</text>':""}
 o.push('<svg xmlns="http://www.w3.org/2000/svg" width="'+W+'" height="'+H+'" viewBox="0 0 '+W+' '+H+'">');
+for(var yj=new Date(first).getFullYear()+1,xj;(xj=x(new Date(yj,0,1).getTime()))<W-1;yj++)o.push('<line x1="'+(xj+.5).toFixed(2)+
+'" y1="0" x2="'+(xj+.5).toFixed(2)+'" y2="'+h+'" stroke="#d1d1d6" stroke-width="1" stroke-dasharray="2 3"/>');
 G.forEach(function(g){var s=g.s,l=g.l,w=g.w,y=g.y;
 o.push('<g data-i="'+g.i+'" tabindex="0" role="button" aria-label="'+esc(s.n)+'"><title>'+esc(s.n)+'</title><rect x="'+(l-8).toFixed(2)+'" y="'+y.toFixed(2)+'" width="'+(w+16).toFixed(2)+'" height="'+row.toFixed(2)+
 '" fill="transparent"/><rect x="'+l.toFixed(2)+'" y="'+(y+(row-bar)/2).toFixed(2)+'" width="'+w.toFixed(2)+'" height="'+bar.toFixed(2)+'" rx="'+(bar/2).toFixed(2)+'" fill="'+s.f+'"/>'+
@@ -551,11 +563,24 @@ o.push('<g data-i="'+g.i+'" tabindex="0" role="button" aria-label="'+esc(s.n)+'"
 o.push('<rect x="0" y="'+h+'" width="'+W+'" height="1" fill="#d2d2d7"/>');
 var y0=new Date(first).getFullYear(),y1=new Date(hor).getFullYear();
 for(var y=y0;y<=y1;y++){var a=y===y0?first:new Date(y,0,1).getTime(),b=y===y1?hor:new Date(y+1,0,1).getTime(),tw=cv.measureText(String(y)).width;
-if(y>y0)o.push('<rect x="'+x(a).toFixed(2)+'" y="'+h+'" width="1" height="5" fill="#6e6e73"/>');
 var mj=y===y0&&y<y1?(x(new Date(y,0,1).getTime())+x(b))/2:(x(a)+x(b))/2;
 if(x(b)-x(a)>=tw+4)o.push('<text x="'+Math.max(mj,tw/2).toFixed(2)+'" y="'+(h+12)+'" text-anchor="middle" dominant-baseline="central" fill="#6e6e73">'+y+'</text>')}
 o.push('</svg>');box.innerHTML=o.join("")}
-zeichne();var rz=0;addEventListener("resize",function(){if(rz)return;rz=requestAnimationFrame(function(){rz=0;zeichne();if(wb)wb.neu()})});
+// Beim Öffnen wachsen die Balken (David 16.11.2026 13:2x „Animation ist gut“): erst der graue von links herein, dann jede Idee
+// von unten nach oben aus ihrem Punkt zur vollen Länge, die Namen blenden mit ein. Läuft im selben Schritt wie das erste
+// Zeichnen, damit nie der fertige Graph aufblitzt; ohne Bewegung (Systemeinstellung) steht alles sofort da.
+function wachse(){if(matchMedia("(prefers-reduced-motion: reduce)").matches)return;var A=[],k=0;
+[].forEach.call(box.querySelectorAll("g[data-i]"),function(g){var r=g.querySelectorAll("rect")[1],t=g.querySelector("text.st-bn");if(!r)return;
+var w=+r.getAttribute("width"),bh=+r.getAttribute("height"),grau=S[+g.getAttribute("data-i")].g;
+A.push({r:r,t:t,w:w,bh:bh,d:grau?0:260+k++*42,l:grau?900:620});r.setAttribute("width",bh);r.style.opacity="0";if(t)t.style.opacity="0"});
+var t0=performance.now();function lauf(n){var f=1;A.forEach(function(a){var p=Math.max(0,Math.min(1,(n-t0-a.d)/a.l)),e=1-Math.pow(1-p,4);if(p<1)f=0;
+a.r.setAttribute("width",(a.bh+(a.w-a.bh)*e).toFixed(2));a.r.style.opacity=String(Math.min(1,p*5));if(a.t)a.t.style.opacity=String(Math.max(0,Math.min(1,(p-.25)*2.5)))});
+if(!f)requestAnimationFrame(lauf)}requestAnimationFrame(lauf)}
+zeichne();wachse();var rz=0;addEventListener("resize",function(){if(rz)return;rz=requestAnimationFrame(function(){rz=0;zeichne();if(wb)wb.neu()})});
+// Antwort schon beim Berühren: der gedrückte Balken wird sofort blasser, beim Loslassen oder Wegziehen wieder voll
+function hebe(){[].forEach.call(box.querySelectorAll(".st-druck"),function(e){e.classList.remove("st-druck")})}
+box.addEventListener("pointerdown",function(e){var g=e.target.closest("[data-i]");if(g)g.classList.add("st-druck")});
+box.addEventListener("pointerup",hebe);box.addEventListener("pointercancel",hebe);box.addEventListener("pointerleave",hebe);
 function meta(b){return tx(b.m)+(b.h?(b.m?' · ':'')+'<a href="'+esc(b.h)+'" target="_blank" rel="noopener">Open chat</a>':'')}
 function beleg(b){return'<li class="st-e">'+(b.a?'<p class="st-ea">'+tx(b.a)+'</p>':'')+(b.z?'<p class="st-ez"'+(b.l?' lang="'+b.l+'"':'')+'>'+tx(b.z)+'</p>':'')+
 (b.m||b.h?'<p class="st-em">'+meta(b)+'</p>':'')+'</li>'}
