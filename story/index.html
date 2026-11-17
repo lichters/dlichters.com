@@ -451,8 +451,9 @@ justify-content:center;width:36px;height:36px;margin:0;padding:0;border:0;border
    unter dem Titel fällt weg; "ended on JJJJ-MM-TT" nur bei echtem Ende (dasselbe Ende, bis zu dem der farbige Teil geht; nicht
    bei laufenden Ideen und nicht ohne Ende), 6 px hinter dem farbigen Ende, passt es dort nicht, rechtsbündig 6 px vor dem
    farbigen Anfang (Skript: zbLage). Seit 16.11.2026 19:5x (David, woertlich: "Beide balken gleich dünn. Mach den dadrin halt
-   kleiner"): beide Balken 10 px, die Schrift 8 px halbfett und mittig im zweiten, der Abstand zum bunten bleibt 10 px. */
-.st-ze{position:absolute;top:0;left:0;color:#48484a;font:600 8px/10px -apple-system,BlinkMacSystemFont,"SF Pro Text","Helvetica Neue",Helvetica,Arial,sans-serif;letter-spacing:.02em;white-space:nowrap;pointer-events:none}
+   kleiner"): beide Balken 10 px, die Schrift 8 px halbfett und mittig im zweiten, der Abstand zum bunten bleibt 10 px.
+   Seit 17.11.2026 12:46 kein Datum mehr im Balken (David, woertlich: "Mach dafür die datums aus dem balken"); das Ende steht
+   in der Übersicht hinter dem Startdatum (Regel bei .st-spd), für Vorleseprogramme weiter im aria-label des Balkens. */
 /* Zwei Balken in jedem Fenster (David 16.11.2026 18:4x, woertlich: "Und mach das jedes ab jetzt zwei balken direkt
    übereinander hat mit einer balken dicke platz. Oben der bunte dadrunter der einzelne"): oben der bunte wie der
    Übersichtsbalken (gleiche Stücke, Breiten, 1-px-Fugen, Höhe, Rundung und Kanten; im Skript spBunt, spBreiten, zbLage),
@@ -530,10 +531,15 @@ stroke-linejoin:round}
 font:400 12px/16px -apple-system,BlinkMacSystemFont,"SF Pro Text","Helvetica Neue",Helvetica,Arial,sans-serif;letter-spacing:0;cursor:pointer;-webkit-tap-highlight-color:transparent;transition:opacity .22s ease}
 .st-spz i{flex:none;width:10px;height:10px;border-radius:50%}
 /* Startdatum rechtsbündig an der rechten Balkenkante (David 16.11.2026 18:2x bis 18:4x, Wortlaut bei UEBERSICHT): Jahr schwarz,
-   Rest grau wie "5 years", gleich breite Ziffern; der Name läuft bis 8 px vor das Datum (4 px Lücke der Zeile plus 4 px hier) */
+   Rest grau wie "5 years", gleich breite Ziffern; der Name läuft bis 8 px vor das Datum (4 px Lücke der Zeile plus 4 px hier).
+   Dahinter das Ende (David 17.11.2026 12:46, Wortlaut bei UEBERSICHT): " - MM-TT" grau wie der Rest, nur bei echtem Ende
+   (vorbei, nicht "now", nicht die graue Stufe, dieselbe Regel wie früher "ended on"); ohne Ende " - 00-00" im hellen Grau des Hintergrunds
+   (#f2f2f7 wie body, also unsichtbar; David 17.11.2026 12:5x, woertlich: „Nicht weiß weiß, ich meinte das helle grau vom hintergrund“) und für Vorleseprogramme verborgen, damit die Startdaten untereinander stehen. Ohne Ende sind Apple Dev (now), Ecommerce
+   (Ende 2027-01-01 noch nicht erreicht), Obsessed with money (grau, bis heute) und Scam-baiting (kein Ende gefunden). */
 .st-spn{min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 .st-spd{flex:none;margin-left:auto;padding-left:4px;color:#78777c;font-variant-numeric:tabular-nums;white-space:nowrap}
 .st-spj{color:#000}
+.st-spo{color:#f2f2f7}
 .st-spdruck{opacity:.45!important;transition:none!important}
 @media (prefers-reduced-motion:no-preference){html:not(.st-splos) .st-spbar{clip-path:inset(0 100% 0 0 round 5px)}
 .st-spbar{transition:clip-path .9s cubic-bezier(.25,1,.5,1)}html:not(.st-splos) .st-spz{opacity:0}.st-spz{transition:opacity .35s ease}}
@@ -734,13 +740,12 @@ function zbLage(){var z=inh.querySelector(".st-zb"),f=inh.querySelector(".st-zf"
 var B=b.getBoundingClientRect(),F=inh.getBoundingClientRect(),l=Math.max(B.left,F.left+16),r=Math.min(B.right,F.right-16);if(r-l<40)return;
 [z,f].forEach(function(x){if(x){x.style.marginLeft=(l-x.getBoundingClientRect().left)+"px";x.style.width=(r-l)+"px"}});
 if(f&&spBreiten)spBreiten(f);
-var i=+z.getAttribute("data-i"),s=S[i],L=spLage&&spLage(i,f),e=z.firstChild,t=z.querySelector(".st-ze"),k=f?1:(r-l)/B.width;if(!L||!e)return;
-var lab="Share of time, "+s.n+" highlighted";if(L.a==null){e.style.left=L.l+"%";e.style.width=L.w+"%";if(t)t.hidden=true;z.setAttribute("aria-label",lab);return}
-var a=L.a*k,en=L.e*k,bw=r-l,ende=!s.g&&s.e&&s.e!=="now"&&tag(s.e)+864e5<=Date.now()?s.e:"";
+var i=+z.getAttribute("data-i"),s=S[i],L=spLage&&spLage(i,f),e=z.firstChild,k=f?1:(r-l)/B.width;if(!L||!e)return;
+var lab="Share of time, "+s.n+" highlighted";if(L.a==null){e.style.left=L.l+"%";e.style.width=L.w+"%";z.setAttribute("aria-label",lab);return}
+var a=L.a*k,en=L.e*k,ende=!s.g&&s.e&&s.e!=="now"&&tag(s.e)+864e5<=Date.now()?s.e:"";
 e.style.left=a+"px";e.style.width=(en-a)+"px";
-// "ended on" (Wortlaut im CSS bei .st-ze): 6 px hinter dem farbigen Ende, sonst rechtsbündig 6 px davor; nie in die runden Enden
-if(t){t.hidden=!ende;if(ende){t.textContent="ended on "+ende;var tw=t.offsetWidth;
-if(en+6+tw<=bw-5)t.style.left=(en+6)+"px";else if(a-6-tw>=5)t.style.left=(a-6-tw)+"px";else t.hidden=true;lab+=", ended on "+ende}}
+// Kein Datum mehr im Balken (David 17.11.2026 12:46, Wortlaut im CSS bei .st-zb); das Ende nur noch für Vorleseprogramme
+if(ende)lab+=", ended on "+ende;
 z.setAttribute("aria-label",lab)}
 // Scrollbereich: mit dem Speicherbalken das Fenster selbst (Wortlaut im CSS bei .st-blatt.st-bh), sonst die Karte
 var SB=blatt.classList.contains("st-bh");
@@ -768,7 +773,7 @@ var mit=ERST[i]>=0;ro.classList.toggle("st-nb",!mit);if(mit&&wb)wb.neu(ERST[i])}
 function oeffne(i){var o=['<div class="st-tk"><h2 class="st-titel" id="stt"></h2><select class="st-wahl" aria-label="Show another idea">'+
 S.map(function(x,j){return'<option value="'+j+'">'+esc(x.n)+'</option>'}).join("")+'</select></div>','<div class="st-fk"><p class="st-fd"></p><p class="st-fz"></p></div>'];
 if(spBunt)o.push(spBunt());
-o.push('<div class="st-zb" data-i="'+i+'" role="img"><b></b><span class="st-ze" hidden></span></div>');
+o.push('<div class="st-zb" data-i="'+i+'" role="img"><b></b></div>');
 if(A.length)o.push('<div class="st-bilder"><div class="st-wisch"><div class="st-band">'+A.map(folie).join("")+'</div></div>'+leiste()+'<p class="st-wort"></p></div>');
 o.push('<div class="st-teil"></div>');
 inh.innerHTML='<div class="st-xs"><button class="st-sx" type="button" aria-label="Close">'+D.zu+'</button></div><div class="st-rolle">'+
@@ -808,7 +813,8 @@ var sum=T.reduce(function(a,t){return a+t.d},0);
 // soll das "5 years" sagen", Wortlaut im CSS bei .st-hk)
 var jz=document.getElementById("sthz");if(jz){var jr=Math.round(sum/(365.25*864e5));jz.textContent=jr===1?"1 year":jr+" years"}
 sp.innerHTML='<div class="st-spbar" role="img" aria-label="Share of time per idea">'+T.map(function(t){return'<b data-i="'+t.i+'" style="background:'+t.s.f+'"></b>'}).join("")+
-'</div><ul class="st-splg">'+S.map(function(s,i){var dz=esc(s.s).replace(/^\d{4}/,'<span class="st-spj">$&</span>');
+'</div><ul class="st-splg">'+S.map(function(s,i){var dz=esc(s.s).replace(/^\d{4}/,'<span class="st-spj">$&</span>'),
+ee=!s.g&&s.e&&s.e!=="now"&&tg(s.e)+864e5<=Date.now()?s.e:"";dz+=ee?" - "+esc(ee.slice(5)):'<span class="st-spo" aria-hidden="true"> - 00-00</span>';
 return'<li><button class="st-spz" type="button" data-i="'+i+'"><i style="background:'+s.f+'"></i><span class="st-spn">'+esc(s.n)+
 '</span> <span class="st-spd">'+dz+'</span></button></li>'}).join("")+'</ul>';
 var bar=sp.firstChild;
