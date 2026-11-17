@@ -693,7 +693,7 @@ var A=[],ERST=[];S.forEach(function(s,i){var m=(s.b||{}).m||[];ERST[i]=m.length?
 // Umriss w x h, r = APPLE_R mal kurze Seite, in jeder Ecke Apples Kurve (EK: 12 Punkte in Vielfachen von r, von der Kante oben
 // bis zur Kante seitlich), dazwischen gerade; im Uhrzeigersinn ab dem Ende der Ecke oben links
 var EK=[1.52866471, 0, 1.08849323, 0, 0.86840689, 0, 0.66993427, 0.065496, 0.63149399, 0.074911, 0.37282392, 0.16905899, 0.16906001, 0.37282401, 0.074911, 0.63149399, 0.065496, 0.66993427, 0, 0.86840701, 0, 1.08849299, 0, 1.52866471];
-function eckpfad(w,h){var r=0.11845*Math.min(w,h);function p(i,sx,sy){var x=EK[2*i]*r,y=EK[2*i+1]*r;return+(sx?w-x:x).toFixed(3)+" "+(+(sy?h-y:y).toFixed(3))}
+function eckpfad(w,h){var r=0.08883*Math.min(w,h);function p(i,sx,sy){var x=EK[2*i]*r,y=EK[2*i+1]*r;return+(sx?w-x:x).toFixed(3)+" "+(+(sy?h-y:y).toFixed(3))}
 function hin(sx,sy){return"C"+p(1,sx,sy)+" "+p(2,sx,sy)+" "+p(3,sx,sy)+"L"+p(4,sx,sy)+"C"+p(5,sx,sy)+" "+p(6,sx,sy)+" "+p(7,sx,sy)+"L"+p(8,sx,sy)+
 "C"+p(9,sx,sy)+" "+p(10,sx,sy)+" "+p(11,sx,sy)}
 function her(sx,sy){return"C"+p(10,sx,sy)+" "+p(9,sx,sy)+" "+p(8,sx,sy)+"L"+p(7,sx,sy)+"C"+p(6,sx,sy)+" "+p(5,sx,sy)+" "+p(4,sx,sy)+"L"+p(3,sx,sy)+
