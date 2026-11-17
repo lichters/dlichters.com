@@ -461,7 +461,11 @@ justify-content:center;width:36px;height:36px;margin:0;padding:0;border:0;border
 .st-zf{display:flex;gap:1px;height:10px;margin:12px 0 0;border-radius:5px;background:#fff;overflow:hidden;pointer-events:none}
 .st-zf b{flex:none;height:100%}
 .st-zf+.st-zb{margin-top:10px}
-.st-wisch{position:relative;margin:20px -7.142857% 0;overflow:hidden;background:#fff;aspect-ratio:4/3;touch-action:pan-y;
+/* Über dem Rahmen so viel Weiß wie darunter bis zur Leiste (David 17.11.2026 18:04, woertlich, mit seinem Handybild des Fensters
+   Obsessed with money: "Mach den weißen abstand vom oberen fotorand so groß wie den vom unteren foto rand"): 39 px statt 20.
+   In seinem Bild (923 px breit für 393 pt, 2,35 px je Punkt) 48 px über dem Foto und 92 px darunter, also 20 und 39. Ist ein
+   Bild breiter als 4:3, kommt oben und unten dasselbe Weiß des Rahmens dazu, die Abstände bleiben gleich. */
+.st-wisch{position:relative;margin:39px -7.142857% 0;overflow:hidden;background:#fff;aspect-ratio:4/3;touch-action:pan-y;
 -webkit-user-select:none;user-select:none}
 .st-band{display:flex;height:100%;transform:translate3d(0,0,0);transition:transform .45s cubic-bezier(.25,.1,.25,1);will-change:transform}
 @media(prefers-reduced-motion:reduce){.st-band{transition:none}}
@@ -473,12 +477,25 @@ justify-content:center;width:36px;height:36px;margin:0;padding:0;border:0;border
 -webkit-tap-highlight-color:transparent;-webkit-touch-callout:none}
 .st-vid{cursor:pointer}
 .st-folie img{display:block;pointer-events:none;-webkit-user-drag:none}
-.st-folie b{position:absolute;left:50%;top:50%;width:48px;height:48px;margin:-24px 0 0 -24px;border-radius:50%;background:rgba(0,0,0,.45);
+.st-folie b{position:absolute;z-index:1;left:50%;top:50%;width:48px;height:48px;margin:-24px 0 0 -24px;border-radius:50%;background:rgba(0,0,0,.45);
 pointer-events:none}
 .st-folie b::after{content:"";position:absolute;left:18px;top:14px;border-style:solid;border-width:10px 0 10px 16px;
 border-color:transparent transparent transparent #fff}
-.st-folie video{display:block;pointer-events:none}
+.st-folie video{display:block;object-fit:fill;pointer-events:none}
 .st-spielt img,.st-laeuft b{display:none}
+/* Seit dem Zuschnitt (17.11.2026, Regel bei .st-rund) malt ein gerundetes Video in eigener Ebene über dem später eingefügten
+   Abspielzeichen; z-index 1 hält das Zeichen beim Anhalten wieder sichtbar darüber. object-fit fill: das Video füllt die auf
+   ganze Punkte gerundete Box wie das Bild (Verzerrung unter 0,5 %), sonst blieb oben und unten 1 Gerätepixel Rand im Zuschnitt. */
+/* Apples Ecke für jedes Bild, das den Bildschirmrand nicht berührt (David 17.11.2026 18:03, Wortlaut und Maße bei APPLE_R):
+   im Rahmen bekommt die Folie st-rund und ihren Zuschnitt --k vom Skript (mass()), sobald ihr Bild mit Weiß an den Seiten steht
+   (höher als 4:3, ab 760 px Breite jedes); Bilder über die ganze Breite bleiben eckig. Die kleinen Bilder der Leiste stehen nie
+   am Rand (die Leiste blendet 20 px vor dem Rand aus) und haben die Ecke immer, als Maske für 20 x 30 und 30 x 30 (--m0, --m1
+   an der Leiste), die beim Wechsel mit der Breite mitwächst. Warum Zuschnitt und Maske: bei APPLE_R. corner-shape kann WebKit
+   nicht verlässlich. */
+.st-rund>img,.st-rund>video{-webkit-clip-path:var(--k);clip-path:var(--k)}
+.st-lk img{-webkit-mask-image:var(--m0);-webkit-mask-size:100% 100%;-webkit-mask-repeat:no-repeat;mask-image:var(--m0);mask-size:100% 100%;
+mask-repeat:no-repeat}
+.st-lk.an img{-webkit-mask-image:var(--m1);mask-image:var(--m1)}
 /* Leiste mit ALLEN Bildern der Seite (David 16.11.2026 19:2x, woertlich: "Und mach das unten ALLE bilder der /story seite
    angezeigt werden und wenn man auf eins das zu einem abderen business gehört gescrollt hat soll sich der zweite balken und die
    überschrift oben ändern"): nach Ideen in Listenreihenfolge; Ziehen oder Wischen auf ein Bild einer anderen Idee wechselt
@@ -487,10 +504,12 @@ border-color:transparent transparent transparent #fff}
 -webkit-mask-image:linear-gradient(90deg,transparent 20px,#000 34px,#000 calc(100% - 34px),transparent calc(100% - 20px));
 mask-image:linear-gradient(90deg,transparent 20px,#000 34px,#000 calc(100% - 34px),transparent calc(100% - 20px))}
 .st-lb{display:flex;height:100%;transform:translate3d(0,0,0);transition:transform .3s cubic-bezier(.25,.1,.25,1);will-change:transform}
-.st-lk{-webkit-appearance:none;appearance:none;flex:none;width:20px;height:30px;margin:0 1.5px;padding:0;border:0;border-radius:3px;
-overflow:hidden;background:#f2f2f7;cursor:pointer;transition:width .3s cubic-bezier(.25,.1,.25,1),margin .3s cubic-bezier(.25,.1,.25,1);
+/* Die kleinen Bilder haben seit 17.11.2026 18:03 Apples Ecke wie alle Bilder ohne Bildschirmrand (Regel bei .st-rund, statt
+   3 px Kreis); das Grau beim Laden liegt dafür im Bild selbst, damit es dieselbe Ecke hat. */
+.st-lk{-webkit-appearance:none;appearance:none;flex:none;width:20px;height:30px;margin:0 1.5px;padding:0;border:0;border-radius:0;
+overflow:hidden;background:none;cursor:pointer;transition:width .3s cubic-bezier(.25,.1,.25,1),margin .3s cubic-bezier(.25,.1,.25,1);
 -webkit-tap-highlight-color:transparent}
-.st-lk img{display:block;width:100%;height:100%;object-fit:cover;pointer-events:none;-webkit-user-drag:none}
+.st-lk img{display:block;width:100%;height:100%;object-fit:cover;background:#f2f2f7;pointer-events:none;-webkit-user-drag:none}
 .st-lk.an{width:30px;margin:0 11px}
 .st-ohne,.st-ohne .st-lk{transition:none!important}
 @media(prefers-reduced-motion:reduce){.st-lb,.st-lk{transition:none}}
@@ -670,6 +689,19 @@ var akt=-1,zu=0,wb=null,IC=D.ic||{};
 // Alle Bilder und Videos der Seite in einer Reihe (Wortlaut im CSS bei .st-leiste): nach Ideen in Listenreihenfolge, je Idee in
 // ihrer Reihenfolge; ERST[i] ist das erste Bild der Idee i, -1 ohne Bilder. Bilder und kleine Bilder laden erst in der Nähe.
 var A=[],ERST=[];S.forEach(function(s,i){var m=(s.b||{}).m||[];ERST[i]=m.length?A.length:-1;m.forEach(function(x,k){A.push({m:x,i:i,k:k,n:m.length})})});
+// Apples Ecke als Umriss über das ganze Bild (Wortlaut und Maße bei APPLE_R in website_story.py, Regel im CSS bei .st-rund):
+// Umriss w x h, r = APPLE_R mal kurze Seite, in jeder Ecke Apples Kurve (EK: 12 Punkte in Vielfachen von r, von der Kante oben
+// bis zur Kante seitlich), dazwischen gerade; im Uhrzeigersinn ab dem Ende der Ecke oben links
+var EK=[1.52866471, 0, 1.08849323, 0, 0.86840689, 0, 0.66993427, 0.065496, 0.63149399, 0.074911, 0.37282392, 0.16905899, 0.16906001, 0.37282401, 0.074911, 0.63149399, 0.065496, 0.66993427, 0, 0.86840701, 0, 1.08849299, 0, 1.52866471];
+function eckpfad(w,h){var r=0.11845*Math.min(w,h);function p(i,sx,sy){var x=EK[2*i]*r,y=EK[2*i+1]*r;return+(sx?w-x:x).toFixed(3)+" "+(+(sy?h-y:y).toFixed(3))}
+function hin(sx,sy){return"C"+p(1,sx,sy)+" "+p(2,sx,sy)+" "+p(3,sx,sy)+"L"+p(4,sx,sy)+"C"+p(5,sx,sy)+" "+p(6,sx,sy)+" "+p(7,sx,sy)+"L"+p(8,sx,sy)+
+"C"+p(9,sx,sy)+" "+p(10,sx,sy)+" "+p(11,sx,sy)}
+function her(sx,sy){return"C"+p(10,sx,sy)+" "+p(9,sx,sy)+" "+p(8,sx,sy)+"L"+p(7,sx,sy)+"C"+p(6,sx,sy)+" "+p(5,sx,sy)+" "+p(4,sx,sy)+"L"+p(3,sx,sy)+
+"C"+p(2,sx,sy)+" "+p(1,sx,sy)+" "+p(0,sx,sy)}
+return"M"+p(0,0,0)+"L"+p(0,1,0)+hin(1,0)+"L"+p(11,1,1)+her(1,1)+"L"+p(0,0,1)+hin(0,1)+"L"+p(11,0,0)+her(0,0)+"Z"}
+// dieselbe Form als Maske, für die kleinen Bilder der Leiste (ganze Pixelgrößen, Grund bei APPLE_R in website_story.py)
+function eckmaske(w,h){return"url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 "+w+" "+h+
+"' preserveAspectRatio='none'%3E%3Cpath d='"+eckpfad(w,h)+"'/%3E%3C/svg%3E\")"}
 function folie(x){var m=x.m;return'<div class="st-folie'+(m.t!=="bild"?' st-vid':'')+'"><img src="'+esc(m.t==="bild"?m.d:(m.p||m.k))+'" alt="'+esc(m.c)+
 '" decoding="async" draggable="false" loading="lazy">'+(m.t!=="bild"?'<b></b>':'')+'</div>'}
 // Leiste mit den kleinen Bildern unter dem Rahmen wie in Fotos (Maße und Wortlaut im CSS bei .st-fk und .st-leiste)
@@ -677,10 +709,21 @@ function leiste(){return'<div class="st-leiste"><div class="st-lb">'+A.map(funct
 '" aria-label="'+esc(S[x.i].n)+', '+(x.k+1)+' of '+x.n+'"><img src="'+esc(x.m.k)+'" alt="" decoding="async" draggable="false" loading="lazy"></button>'}).join("")+'</div></div>'}
 function wisch(w,L,T,K){var b=w.firstChild,k=[].slice.call(b.children),n=k.length,i=0,ic=-1,s=null,dx=0,dr=0,bt=-1,
 lb=L.firstChild,lk=[].slice.call(lb.children),kd=K.firstChild,kz=K.lastChild,lx=0,ls=null,lw=0,vz=-1;
-// Rahmen 4:3 über die ganze Breite, jedes Bild ganz darin (zu hohe mit Weiß links und rechts, zu breite oben und unten)
-function mass(){var W=w.clientWidth,h=Math.round(W*75)/100;w.style.height=h+"px";
-k.forEach(function(f,j){var m=A[j].m,r=Math.min(W/(m.w||1),h/(m.h||1)),g=f.firstChild;g.style.width=((m.w||1)*r).toFixed(2)+"px";
-g.style.height=((m.h||1)*r).toFixed(2)+"px";var v=f.querySelector("video");if(v){v.style.width=g.style.width;v.style.height=g.style.height}})}
+// Rahmen 4:3 über die ganze Breite, jedes Bild ganz darin (zu hohe mit Weiß links und rechts, zu breite oben und unten).
+// Steht ein Bild mit Weiß an den Seiten, berührt es den Bildschirmrand nicht und bekommt Apples Ecke (st-rund und der Zuschnitt
+// --k aus eckpfad(), Wortlaut im CSS bei .st-rund). Rand ist der sichtbare Bereich des Fensters ohne Scrollleiste.
+// Erst die feste Höhe lösen: mit ihr leitet aspect-ratio die Breite aus der alten Höhe ab, und beim Drehen mit offenem Fenster
+// blieb der Rahmen auf der alten Breite stehen (bei 390 auf 1280 px gemessen 390 statt 680 breit, 17.11.2026 19:0x).
+function mass(){w.style.height="";var W=w.clientWidth,h=Math.round(W*75)/100,F=w.getBoundingClientRect(),q=sc(),Q=q.getBoundingClientRect(),
+ql=Q.left+q.clientLeft,qr=ql+q.clientWidth;w.style.height=h+"px";
+// Gerundete Bilder haben ganze Punkte als Größe: Safari setzt Bilder auf ganze Gerätepixel, bei 227,28 x 294,75 schnitt diese
+// Kante rechts 0,84 Gerätepixel vom Zuschnitt ab (r rechts 78,7 und 79,3 statt 80,8; 17.11.2026 18:5x, iPhone 16, 3x).
+k.forEach(function(f,j){var m=A[j].m,r=Math.min(W/(m.w||1),h/(m.h||1)),g=f.firstChild,iw=+((m.w||1)*r).toFixed(2),ih=+((m.h||1)*r).toFixed(2),
+x=F.left+(W-iw)/2,rund=x>ql+.5&&x+iw<qr-.5;if(rund){iw=Math.floor(iw);ih=Math.floor(ih)}
+g.style.width=iw+"px";g.style.height=ih+"px";f.classList.toggle("st-rund",rund);
+if(rund)f.style.setProperty("--k","path('"+eckpfad(iw,ih)+"')");else f.style.removeProperty("--k");
+var v=f.querySelector("video");if(v){v.style.width=g.style.width;v.style.height=g.style.height}})}
+L.style.setProperty("--m0",eckmaske(20,30));L.style.setProperty("--m1",eckmaske(30,30));
 // Video im Rahmen (Wortlaut im CSS bei .st-folie): erst beim Tippen geladen, stumm und endlos nur bei Schleifen
 function stop(){if(vz<0)return;var f=k[vz],v=f.querySelector("video");if(v){v.pause();v.removeAttribute("src");v.load();f.removeChild(v)}
 f.classList.remove("st-spielt","st-laeuft");vz=-1}
