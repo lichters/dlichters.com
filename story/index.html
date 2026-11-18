@@ -507,7 +507,8 @@ justify-content:center;width:36px;height:36px;margin:0;padding:0;border:0;border
    ganze Punkte gerundete Box wie das Bild (Verzerrung unter 0,5 %), sonst blieb oben und unten 1 Gerätepixel Rand im Zuschnitt. */
 /* Apples Ecke für jedes Bild, das den Bildschirmrand nicht berührt (David 17.11.2026 18:03, Wortlaut und Maße bei APPLE_R):
    im Rahmen bekommt die Folie st-rund und ihren Zuschnitt --k vom Skript (mass()), sobald ihr Bild mit Weiß an den Seiten steht
-   (höher als 4:3, ab 760 px Breite jedes); Bilder über die ganze Breite bleiben eckig. Die kleinen Bilder der Leiste stehen nie
+   (höher als 4:3, ab 760 px Breite jedes); Bilder über die ganze Breite bleiben eckig, seit 18.11.2026 23:4x auch jedes Bild
+   und Video im Format 4:3 oder flacher (Wortlaut im Skript bei mass()). Die kleinen Bilder der Leiste stehen nie
    am Rand (die Leiste blendet 20 px vor dem Rand aus) und haben die Ecke immer, als Maske für 20 x 30 und 30 x 30 (--m0, --m1
    an der Leiste), die beim Wechsel mit der Breite mitwächst. Warum Zuschnitt und Maske: bei APPLE_R. corner-shape kann WebKit
    nicht verlässlich. */
@@ -572,6 +573,10 @@ font:400 12px/16px -apple-system,BlinkMacSystemFont,"SF Pro Text","Helvetica Neu
 .st-spn{min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 .st-spd{flex:none;margin-left:auto;padding-left:4px;color:#78777c;font-variant-numeric:tabular-nums;white-space:nowrap}
 .st-spj{color:#000}
+/* David 18.11.2026 23:5x, wörtlich: „2022-04-17 mach das datum auf der /story überblicksseite schwar und fett“: nur dieses
+   Startdatum (Minecraft YouTuber, der Anfang der Story) ganz schwarz, das Ende dahinter bleibt grau. Gleich danach, wörtlich:
+   „Doch nicht fett, nur schwarz“, also normale Stärke wie die anderen Daten. */
+.st-spf{color:#000}
 .st-spo{color:#f2f2f7}
 .st-spdruck{opacity:.45!important;transition:none!important}
 @media (prefers-reduced-motion:no-preference){html:not(.st-splos) .st-spbar{clip-path:inset(0 100% 0 0 round 5px)}
@@ -738,10 +743,13 @@ lb=L.firstChild,lk=[].slice.call(lb.children),kd=K.firstChild,kz=K.lastChild,lx=
 // blieb der Rahmen auf der alten Breite stehen (bei 390 auf 1280 px gemessen 390 statt 680 breit, 17.11.2026 19:0x).
 function mass(){w.style.height="";var W=w.clientWidth,h=Math.round(W*75)/100,F=w.getBoundingClientRect(),q=sc(),Q=q.getBoundingClientRect(),
 ql=Q.left+q.clientLeft,qr=ql+q.clientWidth;w.style.height=h+"px";
+// Bilder und Videos im Format 4:3 oder flacher sind nie gerundet (David 18.11.2026 23:4x, wörtlich: „Fotos die 4:3 oder flacher
+// sind kriegen keine gerundeten ecken!“, dann „Videos die 4:3 oder flacher sind kriegen auch keine gerundeten ecken!“), mit
+// 0,01 Spiel, weil seine 4:3-Zuschnitte 1178 x 884 sind (1,3326). Der graue Rahmen bleibt, dann eckig.
 // Gerundete Bilder haben ganze Punkte als Größe: Safari setzt Bilder auf ganze Gerätepixel, bei 227,28 x 294,75 schnitt diese
 // Kante rechts 0,84 Gerätepixel vom Zuschnitt ab (r rechts 78,7 und 79,3 statt 80,8; 17.11.2026 18:5x, iPhone 16, 3x).
 k.forEach(function(f,j){var m=A[j].m,r=Math.min(W/(m.w||1),h/(m.h||1)),g=f.firstChild,iw=+((m.w||1)*r).toFixed(2),ih=+((m.h||1)*r).toFixed(2),
-x=F.left+(W-iw)/2,rund=x>ql+.5&&x+iw<qr-.5;if(rund){iw=Math.floor(iw);ih=Math.floor(ih)}
+x=F.left+(W-iw)/2,rund=(m.w||1)/(m.h||1)<4/3-.01&&x>ql+.5&&x+iw<qr-.5;if(rund){iw=Math.floor(iw);ih=Math.floor(ih)}
 g.style.width=iw+"px";g.style.height=ih+"px";f.classList.toggle("st-rund",rund);
 var d=rund?eckpfad(iw,ih,Math.min(0.06149*document.documentElement.clientWidth,Math.min(iw,ih)/3.05732942)):"M0 0H"+iw+"V"+ih+"H0Z";
 if(rund)f.style.setProperty("--k","path('"+d+"')");else f.style.removeProperty("--k");
@@ -931,7 +939,7 @@ var sum=T.reduce(function(a,t){return a+t.d},0);
 // soll das "5 years" sagen", Wortlaut im CSS bei .st-hk)
 var jz=document.getElementById("sthz");if(jz){var jr=Math.round(sum/(365.25*864e5));jz.textContent=jr===1?"1 year":jr+" years"}
 sp.innerHTML='<div class="st-spbar" role="img" aria-label="Share of time per idea">'+T.map(function(t){return'<b data-i="'+t.i+'" style="background:'+t.s.f+'"></b>'}).join("")+
-'</div><ul class="st-splg">'+S.map(function(s,i){var dz=esc(s.s).replace(/^\d{4}/,'<span class="st-spj">$&</span>'),
+'</div><ul class="st-splg">'+S.map(function(s,i){var dz=s.s==="2022-04-17"?'<span class="st-spf">'+esc(s.s)+'</span>':esc(s.s).replace(/^\d{4}/,'<span class="st-spj">$&</span>'),
 ee=!s.g&&s.e&&s.e!=="now"&&tg(s.e)+864e5<=Date.now()?s.e:"";dz+=ee?" - "+esc(ee.slice(5)):'<span class="st-spo" aria-hidden="true"> - 00-00</span>';
 return'<li><button class="st-spz" type="button" data-i="'+i+'"><i style="background:'+s.f+'"></i><span class="st-spn">'+esc(s.n)+
 '</span> <span class="st-spd">'+dz+'</span></button></li>'}).join("")+'</ul>';
