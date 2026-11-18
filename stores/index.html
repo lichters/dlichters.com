@@ -18,7 +18,7 @@ body{margin:0;background:var(--bg);color:var(--text);font:17px/1.47 -apple-syste
 "Helvetica Neue",Helvetica,Arial,sans-serif;letter-spacing:-.01em;-webkit-font-smoothing:antialiased}
 main{max-width:720px;margin:0 auto;padding:28px 16px 72px}
 p{margin:0;overflow-wrap:break-word}
-h1{margin:0;font-weight:700;font-size:clamp(40px,10.6vw,64px);line-height:1.05;letter-spacing:-.028em}
+h1{margin:0;font-weight:700;font-size:clamp(34px,9vw,54px);line-height:1.07;letter-spacing:-.025em}
 .grad{color:var(--link)}
 @supports ((-webkit-background-clip:text) or (background-clip:text)){.grad{background:var(--grad);
 -webkit-background-clip:text;background-clip:text;color:transparent}}
@@ -34,6 +34,10 @@ border-width:14px 0 14px 24px;border-color:transparent transparent transparent v
 .store figcaption{display:flex;flex-direction:column;margin-top:8px}
 .store strong{font-weight:600;line-height:1.3}
 .store span{margin-top:2px;color:var(--muted);font-size:15px;line-height:1.35;letter-spacing:-.005em}
+.laden{display:block;min-width:0;color:inherit;text-decoration:none;-webkit-tap-highlight-color:transparent}
+.laden:active{opacity:.85}
+.store .dom{color:var(--link)}
+@media (hover:hover){.laden:hover .dom{text-decoration:underline}}
 .hinweis{margin-top:-8px;color:var(--muted);font-size:15px;line-height:1.35;letter-spacing:-.005em}
 .own{display:grid;gap:20px}
 .zahl{font-size:clamp(56px,16vw,80px);font-weight:700;line-height:1;letter-spacing:-.035em}
@@ -58,28 +62,34 @@ main{padding-top:64px}
 <main>
 
 <header>
-<h1>We’re<br class="handy"> <span class="grad">David and Timo.</span></h1>
-<p class="lead">Timo is a coach in a paid dropshipping program and has coached 75 students so far. I’m David, and I made 13 Shopify themes for 11 of them, each built around the student’s product.</p>
+<h1>We’re<br class="handy"> David and Timo.</h1>
+<p class="lead">Timo is a coach at eComwarts Elite and has coached 75 students so far. I’m David, and I made 13 Shopify themes for 11 of them, each built around the student’s product.</p>
 </header>
 
 <section aria-labelledby="h-stores">
 <div class="sec"><h2 id="h-stores">Store designs I built</h2></div>
 <div class="stores">
 
+<a class="laden" href="https://nuverni.com" target="_blank" rel="noopener">
 <figure class="store">
 <img src="img/nuverni.jpg" width="1170" height="930" alt="The nuverni product page on a phone: first product image and product title" decoding="async">
-<figcaption><strong>nuverni</strong><span>Nail files for dogs</span></figcaption>
+<figcaption><strong>nuverni</strong><span>Nail files for dogs</span><span class="dom">nuverni.com</span></figcaption>
 </figure>
+</a>
 
+<a class="laden" href="https://theveluxe.com" target="_blank" rel="noopener">
 <figure class="store">
 <img src="img/veluxe.jpg" width="1170" height="930" alt="The VELUXE product page on a phone: first product image and product title" loading="lazy" decoding="async">
-<figcaption><strong>VELUXE</strong><span>Knit hats for dogs</span></figcaption>
+<figcaption><strong>VELUXE</strong><span>Knit hats for dogs</span><span class="dom">theveluxe.com</span></figcaption>
 </figure>
+</a>
 
+<a class="laden" href="https://peekandplay.store" target="_blank" rel="noopener">
 <figure class="store">
 <img src="img/peekandplay.jpg" width="1170" height="1014" alt="The Peek and Play product page on a phone: first product image and product title" loading="lazy" decoding="async">
-<figcaption><strong>Peek and Play</strong><span>Toys for kids</span></figcaption>
+<figcaption><strong>Peek and Play</strong><span>Toys for kids</span><span class="dom">peekandplay.store</span></figcaption>
 </figure>
+</a>
 
 <p class="hinweis">Shown with each owner’s permission.</p>
 </div>
@@ -90,12 +100,10 @@ main{padding-top:64px}
 <div class="own">
 <div>
 <p class="zahl grad">$10.2k</p>
-<p>in sales in its first 9 weeks.</p>
-<p class="quelle">Total sales in Shopify Analytics, from launch on July&nbsp;7 to September&nbsp;7,&nbsp;2026.</p>
+<p>in sales in its first few weeks.</p>
 </div>
 <figure class="foto">
 <img class="shot" src="img/umsatz.jpg" width="1512" height="2016" alt="Photo of a screen showing our Shopify home: US$10,320.11 in total sales from July 8 to September 20, 2026" loading="lazy" decoding="async">
-<figcaption class="quelle">Photo of our Shopify home on September&nbsp;22, 2026: US$10,320.11 in total sales from July&nbsp;8 to September&nbsp;20.</figcaption>
 </figure>
 </div>
 </section>
@@ -104,7 +112,6 @@ main{padding-top:64px}
 <p>If you like the work, I’d redesign one of your members’ stores and answer their questions about it, free, and you pick who.</p>
 <p class="ablauf">They send me their store link, I build a new theme for their product, and they upload it themselves with a short checklist. I don’t need access to their store.</p>
 <p class="ablauf">It works best for a member who already gets visitors but few or no sales: a theme changes what visitors see, not how many come.</p>
-<p class="ablauf">With their OK, you can share the before and after with your members.</p>
 <p class="schluss">If you want that, just reply to my message.</p>
 </section>
 
