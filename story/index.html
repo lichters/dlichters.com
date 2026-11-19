@@ -564,13 +564,46 @@ overflow:hidden;background:none;cursor:pointer;transition:width .3s cubic-bezier
 /* David 19.11.2026 13:2x, wörtlich: „Ersetz den grauen Text, der jeweils unter allen Bildern auf /Story ist, der ganz unten ist,
    diesen kleinen grauen Satz, der jeweils da ist, durch das Wort Explanation (unterstrichen) und in dem Blau das apple für den
    hier text nutzt.“ Blau #06c von apple.com, gemessen 19.11.2026 auf /de/shop/buy-iphone/iphone-17 (--sk-body-link-color #06c,
-   34 Links in rgb(0,102,204)); Unterstrich wie bei Apples Links (Dicke und Abstand auto). Tippen zeigt den grauen Satz wie
-   vorher (st-erk.auf), nochmal Tippen wieder das Wort. Die Tippfläche reicht 12 px nach oben (bis zur Leiste), 14 px nach
-   unten und 12 px zur Seite. */
+   34 Links in rgb(0,102,204)); Unterstrich wie bei Apples Links (Dicke und Abstand auto). Die Tippfläche reicht 12 px nach
+   oben (bis zur Leiste), 14 px nach unten und 12 px zur Seite.
+   13:3x mit Bildschirmfoto (roter Bereich genau 4:3 ab der Oberkante des Titels, grüner darunter bis zum Ende der kleinen
+   Bilder), wörtlich: „Sobald man dann auf Explanation drückt ... Das Bild soll nach oben rutschen in den roten Bereich. Der rote
+   Bereich ist genau 4:3 wie vorher. Also: Bild rutscht nach oben, und im grünen Bereich ist dann derselbe weiße Hintergrund wie
+   vom Rest von der Pop-Up-Karte, aber halt mit dem Erklärtext drauf. Und das Explanation-Text ist immer noch genau am gleichen
+   Ort. Und das soll animiert sein, wie Apple das animieren würde: Das Bild rutscht nach oben, während der Überschriftbalken und
+   das Datum durchsichtig werden, aber die bleiben trotzdem über dem Bild. Das Bild rutscht quasi darunter. Bis das dann an dem
+   Punkt angekommen ist, wo es ankommen soll, sind Schrift und die beiden Balken komplett durchsichtig auf 0. Während das Bild
+   hochrutscht, rutscht die Box mit dem Text auch hoch von hinter der Bilder-Übersicht ... Die kleinen Bilder werden mit
+   derselben Geschwindigkeit durchsichtig wie die Überschrift und die Balken.“
+   Umsetzung: st-erkl an .st-rolle. Der Rahmen rutscht um --erk-d hoch, bis seine Oberkante auf der Oberkante der
+   Großbuchstaben des Titels liegt (Davids roter Bereich beginnt dort, 478 px bei 2,35 px je Punkt). Titel, Datum, beide
+   Balken, Leiste und die weiße Decke über der Lücke zwischen Rahmen und Leiste (.st-erkdeck) liegen über dem Rahmen und gehen
+   in derselben Zeit auf 0. Der Kasten (.st-erkbox in .st-erkclip) hängt unter dem Rahmen und kommt hinter Decke und Leiste
+   hervor; Lage und Strecke rechnet erkLage() im Skript. Bewegung wie Apples Verschieben: Feder mit Dämpfung 1 und Antwort
+   0,4 s (WWDC 2018, Designing Fluid Interfaces), als linear() über 0,5 s, ohne linear() Apples Blattkurve
+   cubic-bezier(.32,.72,0,1). Im Kasten steht der graue Satz von vorher in Apples Fließtext (17 px, 1,47059, -0,022 em).
+   Nochmal Tippen fährt alles auf demselben Weg zurück; bei reduzierter Bewegung springt das Bild, nur die Blenden bleiben. */
 .st-erk{position:relative;margin:0;padding:0;border:0;background:none;-webkit-appearance:none;appearance:none;color:#06c;
 font:inherit;letter-spacing:inherit;text-decoration:underline;cursor:pointer;-webkit-tap-highlight-color:transparent}
-.st-erk.auf{color:#6e6e73;text-decoration:none}
 .st-erk::after{content:"";position:absolute;inset:-12px -12px -14px}
+.st-rolle{isolation:isolate}
+.st-tk,.st-fk,.st-zf,.st-zb{position:relative;z-index:2}
+.st-wisch{z-index:1}
+.st-leiste{z-index:3}
+.st-erkdeck{position:absolute;top:0;left:0;right:0;height:0;z-index:2;background:#fff;pointer-events:none}
+.st-erkclip{position:absolute;top:0;left:0;right:0;height:0;z-index:1;overflow:hidden;pointer-events:none}
+.st-erkbox{height:100%;margin:0;padding:16px 6.25% 0;box-sizing:border-box;overflow:hidden;background:#fff;color:#1d1d1f;
+font:400 17px/1.47059 -apple-system,BlinkMacSystemFont,"SF Pro Text","Helvetica Neue",Helvetica,Arial,sans-serif;letter-spacing:-.022em;text-align:left;transform:translate3d(0,var(--erk-d,0px),0)}
+.st-wisch,.st-erkbox{transition:transform .5s cubic-bezier(.32,.72,0,1);transition:transform .5s linear(0,.0403,.1318,.2439,.359,
+.4672,.5639,.6474,.7179,.7762,.8239,.8623,.8931,.9175,.9368,.952,.9638,.973,.9801,.9856,.9898,.9931,.9955,.9974,.9989,1)}
+.st-tk,.st-fk,.st-zf,.st-zb,.st-leiste,.st-erkdeck{transition:opacity .5s cubic-bezier(.32,.72,0,1);transition:opacity .5s
+linear(0,.0403,.1318,.2439,.359,.4672,.5639,.6474,.7179,.7762,.8239,.8623,.8931,.9175,.9368,.952,.9638,.973,.9801,.9856,.9898,
+.9931,.9955,.9974,.9989,1)}
+.st-erkl .st-wisch{transform:translate3d(0,calc(-1*var(--erk-d,0px)),0)}
+.st-erkl .st-erkbox{transform:translate3d(0,0,0)}
+.st-erkl .st-tk,.st-erkl .st-fk,.st-erkl .st-zf,.st-erkl .st-zb,.st-erkl .st-leiste,.st-erkl .st-erkdeck{opacity:0;pointer-events:none}
+@media(prefers-reduced-motion:reduce){.st-wisch,.st-erkbox{transition:none}
+.st-tk,.st-fk,.st-zf,.st-zb,.st-leiste,.st-erkdeck{transition:opacity .2s ease}}
 .st-sp{max-width:700px;margin:0 auto}
 .st-spbar{display:flex;gap:1px;height:10px;border-radius:5px;background:#fff;overflow:hidden;-webkit-tap-highlight-color:transparent}
 .st-spbar b{flex:none;height:100%;cursor:pointer;transition:opacity .22s ease}
@@ -750,9 +783,21 @@ function frei(){var v=ve();if(v.getAttribute("src"))return;try{var p=v.play();if
 function ton(m){return m.t==="video"&&!m.s}
 function wisch(w,L,T,K){var b=w.firstChild,k=[].slice.call(b.children),n=k.length,i=0,ic=-1,s=null,dx=0,dr=0,bt=-1,
 lb=L.firstChild,lk=[].slice.call(lb.children),kd=K.firstChild,kz=K.lastChild,lx=0,ls=null,lw=0,vz=-1,lr=0,le=1;
-// „Explanation“ statt des grauen Satzes (Wortlaut im CSS bei .st-erk): Tippen zeigt den Satz, nochmal Tippen wieder das Wort
-T.onclick=function(e){var b=e.target.closest(".st-erk");if(!b)return;var auf=!b.classList.contains("auf");b.classList.toggle("auf",auf);
-b.setAttribute("aria-expanded",auf?"true":"false");b.textContent=auf?A[i].m.c||"":"Explanation"};
+// „Explanation“ (Wortlaut im CSS bei .st-erk): Tippen schiebt das Bild hoch und zeigt darunter den Kasten mit dem Satz,
+// nochmal Tippen fährt zurück. erkLage() rechnet in Punkten der Karte (ohne Verkleinerung SK): kt Oberkante der
+// Großbuchstaben im Titel (unsichtbarer Strich von 1cap Höhe auf der Grundlinie), wt Oberkante des Rahmens ohne Verschiebung,
+// lu Unterkante der Leiste; Strecke d = wt - kt. Ohne Übergang gesetzt, aufgerufen von neu() (Öffnen, Ideenwechsel, Drehen).
+var bi=w.parentNode,RO=bi.parentNode,EC=bi.querySelector(".st-erkclip"),EB=EC&&EC.firstChild,ED=bi.querySelector(".st-erkdeck"),EA=0;
+function erkLage(){if(!EC)return;var R=RO.getBoundingClientRect().top,h=RO.querySelector(".st-titel"),kt=0;
+function y(v){return(v-R)/SK}
+if(h){var p=document.createElement("i"),q;p.style.cssText="display:inline-block;width:0;height:1cap;vertical-align:baseline";
+h.appendChild(p);q=p.getBoundingClientRect();h.removeChild(p);kt=y(q.top);if(q.height<.5)kt-=.705*parseFloat(getComputedStyle(h).fontSize)}
+var H=parseFloat(getComputedStyle(w).height),lt=y(L.getBoundingClientRect().top),wt=lt-parseFloat(getComputedStyle(L).marginTop)-H,
+lu=lt+L.offsetHeight,d=Math.max(0,wt-kt),o=wt+H;w.style.transition=EB.style.transition="none";
+RO.style.setProperty("--erk-d",d+"px");EC.style.top=o-d+"px";EC.style.height=lu-o+d+"px";ED.style.top=o+"px";ED.style.height=lu-o+"px";
+EB.getBoundingClientRect();w.style.transition=EB.style.transition=""}
+function erk(auf){EA=auf?1:0;RO.classList.toggle("st-erkl",!!auf);var b=T.firstChild;if(b)b.setAttribute("aria-expanded",auf?"true":"false")}
+T.onclick=function(e){if(e.target.closest(".st-erk"))erk(!EA)};
 // Rahmen 4:3 über die ganze Breite, jedes Bild ganz darin (zu hohe mit Weiß links und rechts, zu breite oben und unten).
 // Steht ein Bild mit Weiß an den Seiten, berührt es den Bildschirmrand nicht und bekommt Apples Ecke (st-rund und der Zuschnitt
 // --k aus eckpfad(), Wortlaut im CSS bei .st-rund). Rand ist der sichtbare Bereich des Fensters ohne Scrollleiste.
@@ -803,7 +848,7 @@ function mi(j,c){return c<0||j<c?j*23+11.5:j>c?j*23+40.5:j*23+26}
 function unter(x){var p=L.clientWidth/2-x,c=ic,be=0,bd=1/0;[Math.round((p-11.5)/23),Math.round((p-40.5)/23),c].forEach(function(j){
 j=Math.max(0,Math.min(n-1,j));var d=Math.abs(mi(j,c)-p);if(d<bd){bd=d;be=j}});return be}
 // Datum, Uhrzeit und Wörter des Bilds; gehört es zu einer anderen Idee, wechselt das Fenster zu ihr
-function inhalt(){var x=A[i],m=x.m;if(vz>=0&&vz!==i)stop();T.innerHTML=m.c?'<button class="st-erk" type="button" aria-expanded="false">Explanation</button>':"";kd.textContent=m.ad||"";kz.textContent=m.az||"";if(x.i!==akt)idee(x.i,1)}
+function inhalt(){var x=A[i],m=x.m;if(vz>=0&&vz!==i)stop();if(EB)EB.textContent=m.c||"";kd.textContent=m.ad||"";kz.textContent=m.az||"";if(x.i!==akt)idee(x.i,1)}
 function zeig(sofort){inhalt();le=1;if(sofort)lb.classList.add("st-ohne");
 if(ic!==i){if(ic>=0){lk[ic].classList.remove("an");lk[ic].removeAttribute("aria-current")}lk[i].classList.add("an");lk[i].setAttribute("aria-current","true");ic=i}
 lx=L.clientWidth/2-mi(i,i);lb.style.transform="translate3d("+lx+"px,0,0)";if(sofort){lb.getBoundingClientRect();lb.classList.remove("st-ohne")}}
@@ -862,7 +907,7 @@ L.addEventListener("pointerup",lauf);L.addEventListener("pointercancel",lauf);
 L.addEventListener("click",function(e){if(lw){lw=0;return}var p=e.target.closest(".st-lk");if(p)geh(+p.getAttribute("data-k"))});
 return{geh:geh,stop:stop,bild:function(){return k[i].querySelector("video")||k[i].firstChild},
 ende:function(){stop();if(lr){cancelAnimationFrame(lr);lr=0}if(io)io.disconnect();document.removeEventListener("visibilitychange",sv)},
-neu:function(z){mass();if(z!=null)i=z;geh(i,true)}}}
+neu:function(z){mass();erkLage();if(z!=null)i=z;geh(i,true)}}}
 // spLage liefert die Stelle einer Idee im bunten Balken für den einzelnen Balken im Fenster (Wortlaut im CSS bei .st-zb),
 // spBunt und spBreiten bauen den bunten Balken im Fenster wie den Übersichtsbalken (Wortlaut im CSS bei .st-zf)
 var spLage=null,spBunt=null,spBreiten=null;
@@ -920,7 +965,8 @@ function oeffne(i){var o=['<div class="st-tk"><h2 class="st-titel" id="stt"></h2
 S.map(function(x,j){return'<option value="'+j+'">'+esc(x.n)+'</option>'}).join("")+'</select></div>','<div class="st-fk"><p class="st-fd"></p><p class="st-fz"></p></div>'];
 if(spBunt)o.push(spBunt());
 o.push('<div class="st-zb" data-i="'+i+'" role="img"><b></b></div>');
-if(A.length)o.push('<div class="st-bilder"><div class="st-wisch"><div class="st-band">'+A.map(folie).join("")+'</div></div>'+leiste()+'<p class="st-wort"></p></div>');
+if(A.length)o.push('<div class="st-bilder"><div class="st-wisch"><div class="st-band">'+A.map(folie).join("")+'</div></div>'+leiste()+'<p class="st-wort"><button class="st-erk" type="button" aria-expanded="false">Explanation</button></p>'+
+'<div class="st-erkdeck"></div><div class="st-erkclip"><p class="st-erkbox"></p></div></div>');
 inh.innerHTML='<div class="st-xs"><button class="st-sx" type="button" aria-label="Close">'+D.zu+'</button></div><div class="st-rolle">'+
 o.join("")+'</div>';inh.scrollTop=0;blatt.classList.remove("zieht");blatt.style.transform="";
 if(!blatt.open){blatt.showModal();R.classList.add("st-zu");blatt.scrollTop=0;blatt.getBoundingClientRect();blatt.classList.add("auf");
