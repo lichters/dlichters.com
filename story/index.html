@@ -561,6 +561,16 @@ overflow:hidden;background:none;cursor:pointer;transition:width .3s cubic-bezier
 .st-ohne,.st-ohne .st-lk{transition:none!important}
 @media(prefers-reduced-motion:reduce){.st-lb,.st-lk{transition:none}}
 .st-wort{min-height:16px;margin:12px 0 0;color:#6e6e73;font:400 12px/1.33337 -apple-system,BlinkMacSystemFont,"SF Pro Text","Helvetica Neue",Helvetica,Arial,sans-serif;letter-spacing:-.01em;text-align:center}
+/* David 19.11.2026 13:2x, wörtlich: „Ersetz den grauen Text, der jeweils unter allen Bildern auf /Story ist, der ganz unten ist,
+   diesen kleinen grauen Satz, der jeweils da ist, durch das Wort Explanation (unterstrichen) und in dem Blau das apple für den
+   hier text nutzt.“ Blau #06c von apple.com, gemessen 19.11.2026 auf /de/shop/buy-iphone/iphone-17 (--sk-body-link-color #06c,
+   34 Links in rgb(0,102,204)); Unterstrich wie bei Apples Links (Dicke und Abstand auto). Tippen zeigt den grauen Satz wie
+   vorher (st-erk.auf), nochmal Tippen wieder das Wort. Die Tippfläche reicht 12 px nach oben (bis zur Leiste), 14 px nach
+   unten und 12 px zur Seite. */
+.st-erk{position:relative;margin:0;padding:0;border:0;background:none;-webkit-appearance:none;appearance:none;color:#06c;
+font:inherit;letter-spacing:inherit;text-decoration:underline;cursor:pointer;-webkit-tap-highlight-color:transparent}
+.st-erk.auf{color:#6e6e73;text-decoration:none}
+.st-erk::after{content:"";position:absolute;inset:-12px -12px -14px}
 .st-sp{max-width:700px;margin:0 auto}
 .st-spbar{display:flex;gap:1px;height:10px;border-radius:5px;background:#fff;overflow:hidden;-webkit-tap-highlight-color:transparent}
 .st-spbar b{flex:none;height:100%;cursor:pointer;transition:opacity .22s ease}
@@ -740,6 +750,9 @@ function frei(){var v=ve();if(v.getAttribute("src"))return;try{var p=v.play();if
 function ton(m){return m.t==="video"&&!m.s}
 function wisch(w,L,T,K){var b=w.firstChild,k=[].slice.call(b.children),n=k.length,i=0,ic=-1,s=null,dx=0,dr=0,bt=-1,
 lb=L.firstChild,lk=[].slice.call(lb.children),kd=K.firstChild,kz=K.lastChild,lx=0,ls=null,lw=0,vz=-1,lr=0,le=1;
+// „Explanation“ statt des grauen Satzes (Wortlaut im CSS bei .st-erk): Tippen zeigt den Satz, nochmal Tippen wieder das Wort
+T.onclick=function(e){var b=e.target.closest(".st-erk");if(!b)return;var auf=!b.classList.contains("auf");b.classList.toggle("auf",auf);
+b.setAttribute("aria-expanded",auf?"true":"false");b.textContent=auf?A[i].m.c||"":"Explanation"};
 // Rahmen 4:3 über die ganze Breite, jedes Bild ganz darin (zu hohe mit Weiß links und rechts, zu breite oben und unten).
 // Steht ein Bild mit Weiß an den Seiten, berührt es den Bildschirmrand nicht und bekommt Apples Ecke (st-rund und der Zuschnitt
 // --k aus eckpfad(), Wortlaut im CSS bei .st-rund). Rand ist der sichtbare Bereich des Fensters ohne Scrollleiste.
@@ -790,7 +803,7 @@ function mi(j,c){return c<0||j<c?j*23+11.5:j>c?j*23+40.5:j*23+26}
 function unter(x){var p=L.clientWidth/2-x,c=ic,be=0,bd=1/0;[Math.round((p-11.5)/23),Math.round((p-40.5)/23),c].forEach(function(j){
 j=Math.max(0,Math.min(n-1,j));var d=Math.abs(mi(j,c)-p);if(d<bd){bd=d;be=j}});return be}
 // Datum, Uhrzeit und Wörter des Bilds; gehört es zu einer anderen Idee, wechselt das Fenster zu ihr
-function inhalt(){var x=A[i],m=x.m;if(vz>=0&&vz!==i)stop();T.textContent=m.c||"";kd.textContent=m.ad||"";kz.textContent=m.az||"";if(x.i!==akt)idee(x.i,1)}
+function inhalt(){var x=A[i],m=x.m;if(vz>=0&&vz!==i)stop();T.innerHTML=m.c?'<button class="st-erk" type="button" aria-expanded="false">Explanation</button>':"";kd.textContent=m.ad||"";kz.textContent=m.az||"";if(x.i!==akt)idee(x.i,1)}
 function zeig(sofort){inhalt();le=1;if(sofort)lb.classList.add("st-ohne");
 if(ic!==i){if(ic>=0){lk[ic].classList.remove("an");lk[ic].removeAttribute("aria-current")}lk[i].classList.add("an");lk[i].setAttribute("aria-current","true");ic=i}
 lx=L.clientWidth/2-mi(i,i);lb.style.transform="translate3d("+lx+"px,0,0)";if(sofort){lb.getBoundingClientRect();lb.classList.remove("st-ohne")}}
