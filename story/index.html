@@ -394,6 +394,10 @@ transform:translate3d(0,100%,0);transition:transform .42s cubic-bezier(.32,.72,0
    Safari beim seitlichen Wischen senkrecht scrollen, das war das Abrutschen). Passt der Inhalt nicht in die Karte, wird nur der
    Bildrahmen kleiner, 4:3 und mittig (Skript: passeH); auf Davids iPhone (390 x 699 und 402 x 714) bleibt er über die ganze
    Breite. Reicht auch der kleinste Rahmen (160 px) nicht, etwa quer, wird der ganze Inhalt kleiner (scale), gescrollt wird nie.
+   Seit 19.11.2026 bleibt der Rahmen über die ganze Breite, solange es irgend geht (David 19.11.2026 09:0x, wörtlich, mit seinem Handybild aus einem Browser mit niedrigerem Fenster (4:3-Bild 386 statt 393 px breit, 3,6 px Weiß an jeder Seite): „Die ganzen 4:3 bilder sollen den rand berühren“, dann „Und alle die flacher als 4:3 sind auch“):
+   zuerst werden die zwei gleichen Abstände über und unter dem Rahmen kleiner (39 bis 12 px), ab 760 px Breite dann die Karte
+   schmaler (bis 393 px), erst danach der Rahmen und zuletzt alles (Skript: passeH). Bilder ab 4:3 gehen über die ganze
+   Rahmenbreite (Skript: mass()).
    Wischen nach unten, das oberhalb des sichtbaren Bilds beginnt (bei breiten Bildern auch im Weiß darüber), zieht das Fenster
    mit und schließt es (Skript bei zlos); auf Bild und Leiste geht nur links und rechts. */
 .st-blatt.st-bh{top:0;height:100%;border-radius:0;background:transparent;overflow:hidden;overscroll-behavior:none;touch-action:none}
@@ -748,8 +752,10 @@ ql=Q.left+q.clientLeft,qr=ql+q.clientWidth;w.style.height=h+"px";
 // 0,01 Spiel, weil seine 4:3-Zuschnitte 1178 x 884 sind (1,3326). Der graue Rahmen bleibt, dann eckig.
 // Gerundete Bilder haben ganze Punkte als Größe: Safari setzt Bilder auf ganze Gerätepixel, bei 227,28 x 294,75 schnitt diese
 // Kante rechts 0,84 Gerätepixel vom Zuschnitt ab (r rechts 78,7 und 79,3 statt 80,8; 17.11.2026 18:5x, iPhone 16, 3x).
+// Bilder ab 4:3 und flacher berühren den Rand (Wortlaut bei passeH): auch die knapp höheren 4:3-Zuschnitte (1178 x 884,
+// 1526 x 1146) gehen über die ganze Rahmenbreite statt 0,1 bis 0,3 px Weiß an den Seiten, gestreckt höchstens 0,75 %.
 k.forEach(function(f,j){var m=A[j].m,r=Math.min(W/(m.w||1),h/(m.h||1)),g=f.firstChild,iw=+((m.w||1)*r).toFixed(2),ih=+((m.h||1)*r).toFixed(2),
-x=F.left+(W-iw)/2,rund=(m.w||1)/(m.h||1)<4/3-.01&&x>ql+.5&&x+iw<qr-.5;if(rund){iw=Math.floor(iw);ih=Math.floor(ih)}
+x=F.left+(W-iw)/2,rund=(m.w||1)/(m.h||1)<4/3-.01&&x>ql+.5&&x+iw<qr-.5;if(rund){iw=Math.floor(iw);ih=Math.floor(ih)}else if((m.w||1)/(m.h||1)>=4/3-.01&&iw<W){iw=W;ih=Math.min(h,+(W*(m.h||1)/(m.w||1)).toFixed(2))}
 g.style.width=iw+"px";g.style.height=ih+"px";f.classList.toggle("st-rund",rund);
 var d=rund?eckpfad(iw,ih,Math.min(0.06149*document.documentElement.clientWidth,Math.min(iw,ih)/3.05732942)):"M0 0H"+iw+"V"+ih+"H0Z";
 if(rund)f.style.setProperty("--k","path('"+d+"')");else f.style.removeProperty("--k");
@@ -872,10 +878,19 @@ function passe(h){h.style.fontSize="";var w=h.clientWidth,sw=h.scrollWidth;if(w&
 // Alles passt ohne Scrollen in die Karte (David 18.11.2026 21:3x, Wortlaut im CSS bei .st-blatt.st-bh): ist der Inhalt
 // höher, wird nur der Bildrahmen kleiner, 4:3 und mittig; mass() richtet die Bilder danach auf die neue Breite aus. Reicht auch
 // der kleinste Rahmen nicht (quer), wird der ganze Inhalt kleiner (SK; Finger in Rahmen und Leiste rechnen damit), nie Scrollen.
-var SK=1;
-function passeH(){var w=inh.querySelector(".st-wisch"),ro=inh.querySelector(".st-rolle");if(!w||!ro)return;
-ro.style.transform="";SK=1;w.style.width="";w.style.marginLeft="";w.style.marginRight="";if(ro.classList.contains("st-nb"))return;w.style.height="";
-var W=w.clientWidth,zv=ro.offsetHeight-inh.clientHeight;if(zv<=0)return;
+// Seit 19.11.2026 bleibt der Rahmen über die ganze Breite, solange es geht (David 19.11.2026 09:0x, wörtlich, mit seinem Handybild aus einem Browser mit niedrigerem Fenster (4:3-Bild 386 statt 393 px breit, 3,6 px Weiß an jeder Seite): „Die ganzen 4:3 bilder sollen den rand berühren“, dann „Und alle die flacher als 4:3 sind auch“):
+// erst die zwei gleichen Abstände über und unter dem Rahmen (39 px, David 17.11. 18:04: oben so groß wie unten) bis 12 px, ab
+// 760 px Breite dann die Karte schmaler (bis 393 px, Titel und Balken neu), erst dann der Rahmen wie vorher und zuletzt scale.
+var SK=1,GR=window.matchMedia?matchMedia("(min-width:760px)"):{matches:false};
+function passeH(){var w=inh.querySelector(".st-wisch"),ro=inh.querySelector(".st-rolle"),le=inh.querySelector(".st-leiste"),
+ht=inh.querySelector(".st-titel"),bw=inh.style.width;if(!w||!ro)return;
+ro.style.transform="";SK=1;w.style.width="";w.style.marginLeft="";w.style.marginRight="";w.style.marginTop="";if(le)le.style.marginTop="";
+inh.style.width="";if(bw&&ht)passe(ht);if(ro.classList.contains("st-nb")){if(bw)zbLage();return}w.style.height="";
+var W=w.clientWidth,zv=ro.offsetHeight-inh.clientHeight;
+if(zv>0&&le){var lu=Math.min(27,zv/2);w.style.marginTop=le.style.marginTop=(39-lu)+"px";zv=ro.offsetHeight-inh.clientHeight}
+if(zv>0&&GR.matches){var cw=inh.clientWidth,nb=Math.max(393,Math.floor(cw-zv*4/3));if(nb<cw){inh.style.width=nb+"px";if(ht)passe(ht);
+W=w.clientWidth;zv=ro.offsetHeight-inh.clientHeight}}
+if(inh.style.width!==bw)zbLage();if(zv<=0)return;
 var nw=Math.max(160,Math.floor((W*.75-zv)*4/3)),m=(w.parentNode.clientWidth-nw)/2;
 w.style.width=nw+"px";w.style.marginLeft=m+"px";w.style.marginRight=m+"px";
 var hh=ro.offsetHeight;if(hh>inh.clientHeight){SK=inh.clientHeight/hh;ro.style.transformOrigin="50% 0";ro.style.transform="scale("+SK+")"}}
