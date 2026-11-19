@@ -499,7 +499,9 @@ justify-content:center;width:36px;height:36px;margin:0;padding:0;border:0;border
    Ton aus und wieder an; wer ihn ausschaltet, bekommt auch die nächsten Videos ohne Ton. Safari erlaubt Ton ohne Tippen nur
    einem Video-Element, das schon einmal beim Tippen gestartet wurde: Deshalb spielen alle Videos im selben Element, das beim
    Tippen auf eine Idee einmal freigeschaltet wird (frei()). Lehnt ein Browser den Ton trotzdem ab, läuft das Video stumm
-   weiter, Tippen schaltet ihn an. */
+   weiter, Tippen schaltet ihn an.
+   Seit 19.11.2026 16:2x (David, wörtlich: „Und videos antippen auf /story soll nichtmehr stummschalten“): Tippen auf ein
+   laufendes Video schaltet den Ton nie mehr aus. Es schaltet ihn nur noch an, wenn der Browser ihn abgelehnt hat. */
 .st-folie{position:relative;flex:none;display:flex;align-items:center;justify-content:center;width:100%;height:100%;
 -webkit-tap-highlight-color:transparent;-webkit-touch-callout:none}
 .st-vid{cursor:pointer}
@@ -936,7 +938,7 @@ var g=(k[i].querySelector("video")||k[i].firstChild).getBoundingClientRect();if(
 w.addEventListener("pointercancel",function(e){if(!s||e.pointerId!==s.id)return;s=null;if(dr){dr=0;b.style.transition="";dx=0;setze()}});
 w.addEventListener("pointermove",zZieh);w.addEventListener("pointerup",zLos);w.addEventListener("pointercancel",zLos);
 w.addEventListener("click",function(){if(bt<0)return;var z=bt;bt=-1;var m=A[z].m;if(m.t==="bild")return;var v=k[z].querySelector("video");
-if(!RB&&v&&!v.paused){if(ton(m)){v.muted=!v.muted;TS=v.muted?1:0}return}
+if(!RB&&v&&!v.paused){if(ton(m)&&v.muted){v.muted=false;TS=0}return}
 if(!v||v.paused){v=spiel(z);if(ton(m)){v.muted=false;TS=0}}else v.pause()});
 // Leiste ziehen wie in Fotos: beim Ziehen sind alle kleinen Bilder klein, das Bild unter der Mitte steht sofort oben (mit
 // Wechsel der Idee). Beim Loslassen gleitet sie mit der Geschwindigkeit des Fingers weiter und bremst wie Fotos (gleite, Werte
