@@ -605,16 +605,27 @@ font:400 17px/1.47059 -apple-system,BlinkMacSystemFont,"SF Pro Text","Helvetica 
 .st-erkz{margin:0 0 4px;font-size:15px;font-weight:400;line-height:20px;letter-spacing:normal}
 .st-erkz:empty{display:none}
 .st-erkt{margin:0}
-.st-wisch,.st-erkbox{transition:transform .5s cubic-bezier(.32,.72,0,1);transition:transform .5s linear(0,.0403,.1318,.2439,.359,
-.4672,.5639,.6474,.7179,.7762,.8239,.8623,.8931,.9175,.9368,.952,.9638,.973,.9801,.9856,.9898,.9931,.9955,.9974,.9989,1)}
-.st-tk,.st-fk,.st-zf,.st-zb,.st-leiste,.st-erkdeck{transition:opacity .5s cubic-bezier(.32,.72,0,1);transition:opacity .5s
-linear(0,.0403,.1318,.2439,.359,.4672,.5639,.6474,.7179,.7762,.8239,.8623,.8931,.9175,.9368,.952,.9638,.973,.9801,.9856,.9898,
-.9931,.9955,.9974,.9989,1)}
+/* Hintergrund bei Explanation (David 19.11.2026 15:1x, wörtlich: „Der Hintergrund, wenn man „Explanation“ geklickt hat, soll
+   diese Farbe sein und in einem smoothen Übergang dahin gehen, genauso wie die Balken, die smooth verschwinden. F6F6F9“):
+   offen wird alles, was vorher Weiß der Karte war, #f6f6f9: die Karte selbst, der Bildrahmen (das Weiß neben hohen und über
+   flachen Bildern), der Kasten, die Decke und die Lücken im bunten Balken. Dieselbe Dauer und Kurve wie die Blenden, beim
+   Zurücktippen derselbe Weg zurück. Die Karte hört über :has() auf st-erkl an .st-rolle; die Rolle wird bei jedem Öffnen neu
+   gebaut, also muss nichts zurückgesetzt werden. */
+.st-wisch,.st-erkbox{transition:transform .5s cubic-bezier(.32,.72,0,1),background-color .5s cubic-bezier(.32,.72,0,1);
+transition:transform .5s linear(0,.0403,.1318,.2439,.359,.4672,.5639,.6474,.7179,.7762,.8239,.8623,.8931,.9175,.9368,.952,.9638,.973,.9801,.9856,.9898,.9931,.9955,.9974,.9989,1),background-color .5s linear(0,.0403,.1318,.2439,.359,.4672,.5639,.6474,.7179,.7762,.8239,.8623,.8931,.9175,.9368,.952,.9638,.973,.9801,.9856,.9898,.9931,.9955,.9974,.9989,1)}
+.st-tk,.st-fk,.st-zf,.st-zb,.st-leiste,.st-erkdeck{transition:opacity .5s cubic-bezier(.32,.72,0,1),
+background-color .5s cubic-bezier(.32,.72,0,1);transition:opacity .5s linear(0,.0403,.1318,.2439,.359,.4672,.5639,.6474,.7179,.7762,.8239,.8623,.8931,.9175,.9368,.952,.9638,.973,.9801,.9856,.9898,.9931,.9955,.9974,.9989,1),background-color .5s linear(0,.0403,.1318,.2439,.359,.4672,.5639,.6474,.7179,.7762,.8239,.8623,.8931,.9175,.9368,.952,.9638,.973,.9801,.9856,.9898,.9931,.9955,.9974,.9989,1)}
+.st-bh .st-inhalt{transition:background-color .5s cubic-bezier(.32,.72,0,1);transition:background-color .5s linear(0,.0403,.1318,.2439,.359,.4672,.5639,.6474,.7179,.7762,.8239,.8623,.8931,.9175,.9368,.952,.9638,.973,.9801,.9856,.9898,.9931,.9955,.9974,.9989,1)}
+.st-blatt:not(.st-bh):not(.zieht){transition:transform .42s cubic-bezier(.32,.72,0,1),background-color .5s cubic-bezier(.32,.72,0,1);
+transition:transform .42s cubic-bezier(.32,.72,0,1),background-color .5s linear(0,.0403,.1318,.2439,.359,.4672,.5639,.6474,.7179,.7762,.8239,.8623,.8931,.9175,.9368,.952,.9638,.973,.9801,.9856,.9898,.9931,.9955,.9974,.9989,1)}
 .st-erkl .st-wisch{transform:translate3d(0,calc(-1*var(--erk-d,0px)),0)}
 .st-erkl .st-erkbox{transform:translate3d(0,0,0)}
 .st-erkl .st-tk,.st-erkl .st-fk,.st-erkl .st-zf,.st-erkl .st-zb,.st-erkl .st-leiste,.st-erkl .st-erkdeck{opacity:0;pointer-events:none}
-@media(prefers-reduced-motion:reduce){.st-wisch,.st-erkbox{transition:none}
-.st-tk,.st-fk,.st-zf,.st-zb,.st-leiste,.st-erkdeck{transition:opacity .2s ease}}
+.st-bh .st-inhalt:has(.st-erkl),.st-blatt:not(.st-bh):has(.st-erkl),.st-erkl .st-wisch,.st-erkl .st-erkbox,.st-erkl .st-erkdeck,
+.st-erkl .st-zf{background-color:#f6f6f9}
+@media(prefers-reduced-motion:reduce){.st-wisch,.st-erkbox,.st-bh .st-inhalt{transition:background-color .2s ease}
+.st-tk,.st-fk,.st-zf,.st-zb,.st-leiste,.st-erkdeck{transition:opacity .2s ease,background-color .2s ease}
+.st-blatt:not(.st-bh):not(.zieht){transition:transform .42s cubic-bezier(.32,.72,0,1),background-color .2s ease}}
 .st-sp{max-width:700px;margin:0 auto}
 .st-spbar{display:flex;gap:1px;height:10px;border-radius:5px;background:#fff;overflow:hidden;-webkit-tap-highlight-color:transparent}
 .st-spbar b{flex:none;height:100%;cursor:pointer;transition:opacity .22s ease}
