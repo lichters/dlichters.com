@@ -594,38 +594,46 @@ font:inherit;letter-spacing:inherit;text-decoration:underline;cursor:pointer;-we
 .st-erkclip{position:absolute;top:0;left:0;right:0;height:0;z-index:1;overflow:hidden;pointer-events:none}
 .st-erkbox{height:100%;margin:0;padding:16px 6.25% 0;box-sizing:border-box;overflow:hidden;background:#fff;color:#1d1d1f;
 font:400 17px/1.47059 -apple-system,BlinkMacSystemFont,"SF Pro Text","Helvetica Neue",Helvetica,Arial,sans-serif;letter-spacing:-.022em;text-align:left;transform:translate3d(0,var(--erk-d,0px),0)}
-/* Oberste Zeile im Kasten (David 19.11.2026 13:5x, Wortlaut bei WOCHENTAGE in website_story.py): „Saturday · 2018-06-23 ·
-   10:03 UTC+2“, darunter der Text (ERKLAERUNGEN, sonst die Wörter der Karte). Ohne Uhrzeit nur Wochentag und Datum.
-   Größe wie Davids Beispiel aus Apples Fotos-Info (14:1x, wörtlich: „Guck dir hier mal bei meinem Beispiel an, wie breit der
-   Screenshot ist, den ich gemacht habe, und wie hoch die Buchstaben sind, und dann mach das, dass es genau so ist. Bei den
-   Datums unter Explanation bei /Story“): Bild 1178 px breit, also 3 px je Punkt; das T von „Thursday“ 31,6 px hoch, also 10,5 pt
-   Großbuchstaben, bei SF Pro (Großbuchstaben 0,7046 em) 15 pt; Stamm 4,0 px = 0,089 em, also normale Stärke. Laufweite normal:
-   seine Zeile „Thursday • 19. Nov 2026 • 13:21“ ist im Bild 654 px = 218 pt breit (Tinte), hier mit 15 px gemessen 217,9 px
-   (Großbuchstaben 10,57 px). Zeile 20 px wie Apples Stil Subheadline. */
-.st-erkz{margin:0 0 4px;font-size:15px;font-weight:400;line-height:20px;letter-spacing:normal}
+/* Datumszeile (David 19.11.2026 13:5x, Wortlaut bei WOCHENTAGE in website_story.py): „Saturday · 2018-06-23 · 10:03 UTC+2“,
+   ohne Uhrzeit nur Wochentag und Datum. Größe wie Davids Beispiel aus Apples Fotos-Info (14:1x, wörtlich: „Guck dir hier mal
+   bei meinem Beispiel an, wie breit der Screenshot ist, den ich gemacht habe, und wie hoch die Buchstaben sind, und dann mach
+   das, dass es genau so ist. Bei den Datums unter Explanation bei /Story“): Bild 1178 px breit, also 3 px je Punkt; das T von
+   „Thursday“ 31,6 px hoch, also 10,5 pt Großbuchstaben, bei SF Pro (Großbuchstaben 0,7046 em) 15 pt; Stamm 4,0 px = 0,089 em,
+   also normale Stärke. Laufweite normal: seine Zeile „Thursday • 19. Nov 2026 • 13:21“ ist im Bild 654 px = 218 pt breit
+   (Tinte), hier mit 15 px gemessen 217,9 px (Großbuchstaben 10,57 px). Zeile 20 px wie Apples Stil Subheadline.
+   Farben (David 19.11.2026 15:1x, wörtlich: „Der Hintergrund, wenn man „Explanation“ geklickt hat, soll diese Farbe sein und in
+   einem smoothen Übergang dahin gehen, genauso wie die Balken, die smooth verschwinden. F6F6F9“; dann 15:4x mit einem Bild aus
+   Apples Fotos, wörtlich: „Man macht das von den Farben her so: das direkt über dem Explanation-Knopf, das Datum ist da drüber,
+   dann so ein Strich und dann der weiße Bereich, in dem der Text drin ist.“): der Text steht im Weiß der Karte, darunter ein
+   Strich über die ganze Breite und das graue Feld #f6f6f9 bis zum Kartenende, darin das Datum und Explanation. Gemessen in
+   seinem Bild (1179 px breit, 3 px je Punkt): oben Weiß 255, Strich 3 px = 1 pt in (235, 235, 237), darunter (247, 247, 249);
+   die Großbuchstaben des Datums beginnen 62 px = 20,7 pt unter der Oberkante des Strichs, hier 1 + 15 + 4,8 px. Vom Datum bis
+   Explanation 16 px. Das Feld (.st-erkfuss) liegt hinter allem (z-index -1 in der Rolle), seine Lage rechnet erkLage(); es
+   blendet mit derselben Kurve und Dauer ein, mit der die Balken ausblenden. Bildrahmen und Kasten bleiben weiß. */
+.st-erkfuss{position:absolute;top:0;left:0;right:0;height:0;z-index:-1;box-sizing:border-box;border-top:1px solid #ebebed;
+background:#f6f6f9;opacity:0;pointer-events:none}
+.st-erkz{margin:15px 0 0;padding:0 6.25%;color:#1d1d1f;font:400 15px/20px -apple-system,BlinkMacSystemFont,"SF Pro Text","Helvetica Neue",Helvetica,Arial,sans-serif;letter-spacing:normal;text-align:left}
 .st-erkz:empty{display:none}
 .st-erkt{margin:0}
-/* Hintergrund bei Explanation (David 19.11.2026 15:1x, wörtlich: „Der Hintergrund, wenn man „Explanation“ geklickt hat, soll
-   diese Farbe sein und in einem smoothen Übergang dahin gehen, genauso wie die Balken, die smooth verschwinden. F6F6F9“):
-   offen wird alles, was vorher Weiß der Karte war, #f6f6f9: die Karte selbst, der Bildrahmen (das Weiß neben hohen und über
-   flachen Bildern), der Kasten, die Decke und die Lücken im bunten Balken. Dieselbe Dauer und Kurve wie die Blenden, beim
-   Zurücktippen derselbe Weg zurück. Die Karte hört über :has() auf st-erkl an .st-rolle; die Rolle wird bei jedem Öffnen neu
-   gebaut, also muss nichts zurückgesetzt werden. */
-.st-wisch,.st-erkbox{transition:transform .5s cubic-bezier(.32,.72,0,1),background-color .5s cubic-bezier(.32,.72,0,1);
-transition:transform .5s linear(0,.0403,.1318,.2439,.359,.4672,.5639,.6474,.7179,.7762,.8239,.8623,.8931,.9175,.9368,.952,.9638,.973,.9801,.9856,.9898,.9931,.9955,.9974,.9989,1),background-color .5s linear(0,.0403,.1318,.2439,.359,.4672,.5639,.6474,.7179,.7762,.8239,.8623,.8931,.9175,.9368,.952,.9638,.973,.9801,.9856,.9898,.9931,.9955,.9974,.9989,1)}
-.st-tk,.st-fk,.st-zf,.st-zb,.st-leiste,.st-erkdeck{transition:opacity .5s cubic-bezier(.32,.72,0,1),
-background-color .5s cubic-bezier(.32,.72,0,1);transition:opacity .5s linear(0,.0403,.1318,.2439,.359,.4672,.5639,.6474,.7179,.7762,.8239,.8623,.8931,.9175,.9368,.952,.9638,.973,.9801,.9856,.9898,.9931,.9955,.9974,.9989,1),background-color .5s linear(0,.0403,.1318,.2439,.359,.4672,.5639,.6474,.7179,.7762,.8239,.8623,.8931,.9175,.9368,.952,.9638,.973,.9801,.9856,.9898,.9931,.9955,.9974,.9989,1)}
-.st-bh .st-inhalt{transition:background-color .5s cubic-bezier(.32,.72,0,1);transition:background-color .5s linear(0,.0403,.1318,.2439,.359,.4672,.5639,.6474,.7179,.7762,.8239,.8623,.8931,.9175,.9368,.952,.9638,.973,.9801,.9856,.9898,.9931,.9955,.9974,.9989,1)}
-.st-blatt:not(.st-bh):not(.zieht){transition:transform .42s cubic-bezier(.32,.72,0,1),background-color .5s cubic-bezier(.32,.72,0,1);
-transition:transform .42s cubic-bezier(.32,.72,0,1),background-color .5s linear(0,.0403,.1318,.2439,.359,.4672,.5639,.6474,.7179,.7762,.8239,.8623,.8931,.9175,.9368,.952,.9638,.973,.9801,.9856,.9898,.9931,.9955,.9974,.9989,1)}
+.st-wisch,.st-erkbox{transition:transform .5s cubic-bezier(.32,.72,0,1);transition:transform .5s linear(0,.0403,.1318,.2439,.359,.4672,.5639,.6474,.7179,.7762,.8239,.8623,.8931,.9175,.9368,.952,.9638,.973,.9801,.9856,.9898,.9931,.9955,.9974,.9989,1)}
+.st-tk,.st-fk,.st-zf,.st-zb,.st-leiste,.st-erkdeck,.st-erkfuss{transition:opacity .5s cubic-bezier(.32,.72,0,1);
+transition:opacity .5s linear(0,.0403,.1318,.2439,.359,.4672,.5639,.6474,.7179,.7762,.8239,.8623,.8931,.9175,.9368,.952,.9638,.973,.9801,.9856,.9898,.9931,.9955,.9974,.9989,1)}
 .st-erkl .st-wisch{transform:translate3d(0,calc(-1*var(--erk-d,0px)),0)}
 .st-erkl .st-erkbox{transform:translate3d(0,0,0)}
 .st-erkl .st-tk,.st-erkl .st-fk,.st-erkl .st-zf,.st-erkl .st-zb,.st-erkl .st-leiste,.st-erkl .st-erkdeck{opacity:0;pointer-events:none}
-.st-bh .st-inhalt:has(.st-erkl),.st-blatt:not(.st-bh):has(.st-erkl),.st-erkl .st-wisch,.st-erkl .st-erkbox,.st-erkl .st-erkdeck,
-.st-erkl .st-zf{background-color:#f6f6f9}
-@media(prefers-reduced-motion:reduce){.st-wisch,.st-erkbox,.st-bh .st-inhalt{transition:background-color .2s ease}
-.st-tk,.st-fk,.st-zf,.st-zb,.st-leiste,.st-erkdeck{transition:opacity .2s ease,background-color .2s ease}
-.st-blatt:not(.st-bh):not(.zieht){transition:transform .42s cubic-bezier(.32,.72,0,1),background-color .2s ease}}
+.st-erkl .st-erkfuss{opacity:1}
+/* Zurück (David 19.11.2026 15:3x, Wortlaut im Skript bei zAn): offen nimmt der Kasten den Finger an; solange einer zieht,
+   kommen Lage und Blenden aus --erk-p (1 offen, 0 zu), ohne Übergang. */
+.st-erkl .st-erkclip{pointer-events:auto;touch-action:none}
+.st-erkzieh .st-wisch,.st-erkzieh .st-erkbox,.st-erkzieh .st-tk,.st-erkzieh .st-fk,.st-erkzieh .st-zf,.st-erkzieh .st-zb,
+.st-erkzieh .st-leiste,.st-erkzieh .st-erkdeck,.st-erkzieh .st-erkfuss{transition:none}
+.st-erkl.st-erkzieh .st-wisch{transform:translate3d(0,calc(-1*var(--erk-d,0px)*var(--erk-p,1)),0)}
+.st-erkl.st-erkzieh .st-erkbox{transform:translate3d(0,calc(var(--erk-d,0px)*(1 - var(--erk-p,1))),0)}
+.st-erkl.st-erkzieh .st-tk,.st-erkl.st-erkzieh .st-fk,.st-erkl.st-erkzieh .st-zf,.st-erkl.st-erkzieh .st-zb,
+.st-erkl.st-erkzieh .st-leiste,.st-erkl.st-erkzieh .st-erkdeck{opacity:calc(1 - var(--erk-p,1))}
+.st-erkl.st-erkzieh .st-erkfuss{opacity:var(--erk-p,1)}
+@media(prefers-reduced-motion:reduce){.st-wisch,.st-erkbox{transition:none}
+.st-tk,.st-fk,.st-zf,.st-zb,.st-leiste,.st-erkdeck,.st-erkfuss{transition:opacity .2s ease}}
 .st-sp{max-width:700px;margin:0 auto}
 .st-spbar{display:flex;gap:1px;height:10px;border-radius:5px;background:#fff;overflow:hidden;-webkit-tap-highlight-color:transparent}
 .st-spbar b{flex:none;height:100%;cursor:pointer;transition:opacity .22s ease}
@@ -808,21 +816,57 @@ lb=L.firstChild,lk=[].slice.call(lb.children),kd=K.firstChild,kz=K.lastChild,lx=
 // „Explanation“ (Wortlaut im CSS bei .st-erk): Tippen schiebt das Bild hoch und zeigt darunter den Kasten mit dem Satz,
 // nochmal Tippen fährt zurück. erkLage() rechnet in Punkten der Karte (ohne Verkleinerung SK): kt Oberkante der
 // Großbuchstaben im Titel (unsichtbarer Strich von 1cap Höhe auf der Grundlinie), wt Oberkante des Rahmens ohne Verschiebung,
-// lu Unterkante der Leiste; Strecke d = wt - kt. Ohne Übergang gesetzt, aufgerufen von neu() (Öffnen, Ideenwechsel, Drehen).
-var bi=w.parentNode,RO=bi.parentNode,EC=bi.querySelector(".st-erkclip"),EB=EC&&EC.firstChild,EZ=EB&&EB.firstChild,ET=EB&&EB.lastChild,ED=bi.querySelector(".st-erkdeck"),EA=0;
+// fu Oberkante des grauen Felds mit dem Datum, 52 px über Explanation (Strich 1, Abstand 15, Datum 20, Abstand 16; Wortlaut im
+// CSS bei .st-erkfuss), kb Unterkante der Karte; Strecke d = wt - kt. Ohne Übergang gesetzt, aufgerufen von neu() (Öffnen,
+// Ideenwechsel, Drehen).
+var bi=w.parentNode,RO=bi.parentNode,EC=bi.querySelector(".st-erkclip"),EB=EC&&EC.firstChild,ET=EB&&EB.firstChild,
+EF=bi.querySelector(".st-erkfuss"),EZ=EF&&EF.firstChild,ED=bi.querySelector(".st-erkdeck"),EA=0,EDd=0;
 function erkLage(){if(!EC)return;var R=RO.getBoundingClientRect().top,h=RO.querySelector(".st-titel"),kt=0;
 function y(v){return(v-R)/SK}
 if(h){var p=document.createElement("i"),q;p.style.cssText="display:inline-block;width:0;height:1cap;vertical-align:baseline";
 h.appendChild(p);q=p.getBoundingClientRect();h.removeChild(p);kt=y(q.top);if(q.height<.5)kt-=.705*parseFloat(getComputedStyle(h).fontSize)}
 var H=parseFloat(getComputedStyle(w).height),lt=y(L.getBoundingClientRect().top),wt=lt-parseFloat(getComputedStyle(L).marginTop)-H,
-lu=lt+L.offsetHeight,d=Math.max(0,wt-kt),o=wt+H;w.style.transition=EB.style.transition="none";
-RO.style.setProperty("--erk-d",d+"px");EC.style.top=o-d+"px";EC.style.height=lu-o+d+"px";ED.style.top=o+"px";ED.style.height=lu-o+"px";
+fu=y(T.getBoundingClientRect().top)-52,kb=y(inh.getBoundingClientRect().bottom),d=Math.max(0,wt-kt),o=wt+H;EDd=d;
+w.style.transition=EB.style.transition="none";RO.style.setProperty("--erk-d",d+"px");EC.style.top=o-d+"px";
+EC.style.height=Math.max(0,fu-o+d)+"px";ED.style.top=o+"px";ED.style.height=Math.max(0,fu-o)+"px";
+if(EF){EF.style.top=fu+"px";EF.style.height=Math.max(0,kb-fu+1)+"px"}
 EB.getBoundingClientRect();w.style.transition=EB.style.transition="";passT()}
 // Passt der Text nicht in den Kasten (kleine iPhones, gemessen 19.11.2026 bei 375 x 548: die zwei längsten Texte 7,9 px zu
-// lang), wird nur er kleiner, in ganzen Pixeln von 17 bis 13; die Zeile mit dem Datum bleibt 15 px.
+// lang), wird nur er kleiner, in ganzen Pixeln von 17 bis 13; das Datum im grauen Feld bleibt 15 px.
 function passT(){if(!ET)return;ET.style.fontSize="";for(var n=17;n>13&&EB.scrollHeight>EB.clientHeight+.5;n--)ET.style.fontSize=n-1+"px"}
-function erk(auf){EA=auf?1:0;RO.classList.toggle("st-erkl",!!auf);var b=T.firstChild;if(b)b.setAttribute("aria-expanded",auf?"true":"false")}
+// Zurück aus Explanation (David 19.11.2026 15:3x, wörtlich: „Wenn man im Explanation-Menü ist und man auf das Bild tippt, soll
+// man wieder zurückkommen. Oder wenn man den Textblock, der da dann ist, runterzieht, soll man zurückkommen. Oder wenn man noch
+// mal auf Explanation drückt, soll man zurückkommen. Alle drei sollen funktionieren.“): Explanation schaltet wie bisher (erk),
+// Tippen auf den Rahmen schließt (im pointerup von w). Ziehen am Kasten, und senkrecht nach unten auf dem sichtbaren Bild:
+// Kasten und Bild folgen dem Finger 1:1 ab ihrer jetzigen Lage (auch mitten in der Bewegung), die Blenden im selben Verhältnis
+// (--erk-p). Über die Enden gibt es nach wie bei Apple (x D 0,55 / (D + 0,55 x), D die Strecke). Beim Loslassen zählt die Lage
+// plus Schwung (Apples Projektion v x 0,998 / 0,002, v in px/ms über die letzten 30 ms): über die halbe Strecke schließt es,
+// sonst geht es wieder auf. Der Rest läuft mit derselben Feder (Dämpfung 1, Antwort 0,4 s), aber mit der Geschwindigkeit des
+// Fingers als Anfang (feder), damit zwischen Ziehen und Gleiten keine Naht ist; höchstens 1,5 x 2π/0,4 je s, dann schwingt sie
+// kaum über (2,5 %). Ohne linear() und bei reduzierter Bewegung gilt der Übergang aus dem CSS.
+var Z=null,Z0=null,ZK=0,LIN=!!(window.CSS&&CSS.supports&&CSS.supports("transition-timing-function","linear(0,1)"));
+function zEl(){return[w,EB,ED,EF,L].concat([].slice.call(RO.querySelectorAll(".st-tk,.st-fk,.st-zf,.st-zb")))}
+function zTF(f){clearTimeout(ZK);zEl().forEach(function(x){if(x)x.style.transitionTimingFunction=f});if(f)ZK=setTimeout(function(){zTF("")},600)}
+function feder(vr){var Wn=2*Math.PI/.4,v=Math.max(-Wn,Math.min(1.5*Wn,vr)),Dt=.5,e=1-(1+(Wn-v)*Dt)*Math.exp(-Wn*Dt),o=[];
+for(var n=0;n<=50;n++){var t=Dt*n/50;o.push(+((1-(1+(Wn-v)*t)*Math.exp(-Wn*t))/e).toFixed(4))}return"linear("+o.join(",")+")"}
+function zSetze(y){var D=Math.max(EDd,1),u;if(y<0){u=-y;y=-u*D*.55/(D+.55*u)}else if(y>D){u=y-D;y=D+u*D*.55/(D+.55*u)}
+Z.ye=y;RO.style.setProperty("--erk-p",1-y/D)}
+// yd: wo der Finger aufsetzte; gezählt wird ab 8 px dahinter (die Schwelle), so springt nichts und kein Weg geht verloren
+function zAn(e,el,yd){var m=getComputedStyle(EB).transform,b0=m&&m!=="none"?new DOMMatrixReadOnly(m).m42:0;
+Z={id:e.pointerId,el:el,y0:yd+(e.clientY>=yd?8:-8),b0:b0,ye:b0,q:[[e.timeStamp,e.clientY]]};try{el.setPointerCapture(e.pointerId)}catch(_){}
+zTF("");zSetze(b0);RO.classList.add("st-erkzieh")}
+function zZieh(e){if(!Z||e.pointerId!==Z.id)return;Z.q.push([e.timeStamp,e.clientY]);if(Z.q.length>12)Z.q.shift();
+zSetze(Z.b0+(e.clientY-Z.y0)/SK)}
+function zLos(e){if(!Z||e.pointerId!==Z.id)return;var t=Z,q=t.q,a=q[q.length-1],j=q.length-2,v=0,D=Math.max(EDd,1);Z=null;
+while(j>0&&a[0]-q[j][0]<30)j--;if(e.type==="pointerup"&&j>=0&&e.timeStamp-a[0]<100&&a[0]>q[j][0])v=(a[1]-q[j][1])/(a[0]-q[j][0])/SK;
+var y=t.ye,zu=e.type==="pointerup"&&y+v*499>D/2,ziel=zu?D:0,R=Math.abs(ziel-y),f=LIN&&!RB&&R>1?feder(v*(ziel>y?1:-1)*1000/R):"";
+getComputedStyle(EB).transform;RO.classList.remove("st-erkzieh");if(zu)erk(0,f);else zTF(f)}
+function erk(auf,f){EA=auf?1:0;RO.classList.toggle("st-erkl",!!auf);zTF(f||"");var b=T.firstChild;if(b)b.setAttribute("aria-expanded",auf?"true":"false")}
 T.onclick=function(e){if(e.target.closest(".st-erk"))erk(!EA)};
+if(EC){EC.addEventListener("pointerdown",function(e){Z0=null;if(!EA||Z||e.button>0||!e.isPrimary)return;Z0={id:e.pointerId,x:e.clientX,y:e.clientY}});
+EC.addEventListener("pointermove",function(e){if(Z){zZieh(e);return}if(!Z0||e.pointerId!==Z0.id)return;var mx=e.clientX-Z0.x,my=e.clientY-Z0.y;
+if(Math.abs(mx)<8&&Math.abs(my)<8)return;var a=Z0;Z0=null;if(Math.abs(mx)<=Math.abs(my)){zAn(e,EC,a.y);zZieh(e)}});
+EC.addEventListener("pointerup",function(e){Z0=null;zLos(e)});EC.addEventListener("pointercancel",function(e){Z0=null;zLos(e)})}
 // Rahmen 4:3 über die ganze Breite, jedes Bild ganz darin (zu hohe mit Weiß links und rechts, zu breite oben und unten).
 // Steht ein Bild mit Weiß an den Seiten, berührt es den Bildschirmrand nicht und bekommt Apples Ecke (st-rund und der Zuschnitt
 // --k aus eckpfad(), Wortlaut im CSS bei .st-rund). Rand ist der sichtbare Bereich des Fensters ohne Scrollleiste.
@@ -880,14 +924,17 @@ lx=L.clientWidth/2-mi(i,i);lb.style.transform="translate3d("+lx+"px,0,0)";if(sof
 function geh(z,sofort){ruhe();i=Math.max(0,Math.min(n-1,z));dx=0;vor(i);setze(sofort);zeig(sofort);selbst()}
 w.addEventListener("pointerdown",function(e){if(e.button>0||!e.isPrimary)return;s={x:e.clientX,y:e.clientY,id:e.pointerId,t:e.timeStamp};dx=0;dr=0;bt=-1});
 w.addEventListener("pointermove",function(e){if(!s||e.pointerId!==s.id)return;var mx=e.clientX-s.x,my=e.clientY-s.y;
-if(!dr){if(Math.abs(mx)<8&&Math.abs(my)<8)return;if(Math.abs(my)>=Math.abs(mx)||n<2){s=null;return}dr=1;b.style.transition="none";
+if(!dr){if(Math.abs(mx)<8&&Math.abs(my)<8)return;if(Math.abs(my)>=Math.abs(mx)||n<2){
+if(EA&&my>0&&Math.abs(my)>=Math.abs(mx)&&!zoben(s.y))zAn(e,w,s.y);s=null;return}dr=1;b.style.transition="none";
 try{w.setPointerCapture(e.pointerId)}catch(_){}}
 dx=((i===0&&mx>0)||(i===n-1&&mx<0)?mx/3:mx)/SK;setze()});
 w.addEventListener("pointerup",function(e){if(!s||e.pointerId!==s.id)return;var t=s;s=null;
 if(dr){dr=0;b.style.transition="";var W=w.clientWidth,v=dx/Math.max(16,e.timeStamp-t.t),z=i;if(dx<-W/4||v<-.3&&dx<-20)z=i+1;
 else if(dx>W/4||v>.3&&dx>20)z=i-1;geh(z);return}
+if(EA){erk(0);return}
 var g=(k[i].querySelector("video")||k[i].firstChild).getBoundingClientRect();if(t.x>=g.left&&t.x<=g.right&&t.y>=g.top&&t.y<=g.bottom)bt=i});
 w.addEventListener("pointercancel",function(e){if(!s||e.pointerId!==s.id)return;s=null;if(dr){dr=0;b.style.transition="";dx=0;setze()}});
+w.addEventListener("pointermove",zZieh);w.addEventListener("pointerup",zLos);w.addEventListener("pointercancel",zLos);
 w.addEventListener("click",function(){if(bt<0)return;var z=bt;bt=-1;var m=A[z].m;if(m.t==="bild")return;var v=k[z].querySelector("video");
 if(!RB&&v&&!v.paused){if(ton(m)){v.muted=!v.muted;TS=v.muted?1:0}return}
 if(!v||v.paused){v=spiel(z);if(ton(m)){v.muted=false;TS=0}}else v.pause()});
@@ -991,7 +1038,7 @@ S.map(function(x,j){return'<option value="'+j+'">'+esc(x.n)+'</option>'}).join("
 if(spBunt)o.push(spBunt());
 o.push('<div class="st-zb" data-i="'+i+'" role="img"><b></b></div>');
 if(A.length)o.push('<div class="st-bilder"><div class="st-wisch"><div class="st-band">'+A.map(folie).join("")+'</div></div>'+leiste()+'<p class="st-wort"><button class="st-erk" type="button" aria-expanded="false">Explanation</button></p>'+
-'<div class="st-erkdeck"></div><div class="st-erkclip"><div class="st-erkbox"><p class="st-erkz"></p><p class="st-erkt"></p></div></div></div>');
+'<div class="st-erkfuss"><p class="st-erkz"></p></div><div class="st-erkdeck"></div><div class="st-erkclip"><div class="st-erkbox"><p class="st-erkt"></p></div></div></div>');
 inh.innerHTML='<div class="st-xs"><button class="st-sx" type="button" aria-label="Close">'+D.zu+'</button></div><div class="st-rolle">'+
 o.join("")+'</div>';inh.scrollTop=0;blatt.classList.remove("zieht");blatt.style.transform="";
 if(!blatt.open){blatt.showModal();R.classList.add("st-zu");blatt.scrollTop=0;blatt.getBoundingClientRect();blatt.classList.add("auf");
