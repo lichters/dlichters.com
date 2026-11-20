@@ -1,6 +1,7 @@
+User-agent: Googlebot-Image
+Disallow: /
+
 User-agent: *
-Disallow: /sundayace.com/
-Disallow: /gigglepeek.com/
-Disallow: /plushsweep.com/
+Disallow:
 
 Sitemap: https://dlichters.com/sitemap.xml
