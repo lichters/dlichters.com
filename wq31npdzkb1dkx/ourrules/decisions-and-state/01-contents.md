@@ -144,7 +144,6 @@ A voice interface to the AI. 0 questions since the last code change of 2026-10-3
 ### 3.10 Admin
 
 - **Age:** David is 16 (born 10 January 2010).
-- **Court application (§ 112 German Civil Code, business authorization for minors):** filed at the local court in Krefeld on 2026-10-16. At 18 it is probably no longer needed; David to confirm whether it lapses.
 - **Bank:** new business account at Deutsche Bank expected in one to two weeks (as of early November). Until then payouts go to his old savings-bank account; switch before closing that account (3 to 5 business days pause). Shopify bank account entered 2026-11-06. VAT ID field in Shopify: "I don't have one". Trade registration only from about 20,000 EUR (never raise as a blocker).
 - **Mail:** shop mails of all stores as [storename]@lichters.email (domain at Spaceship, catch-all to Gmail, renews 2027-08-08 at 25.04 USD a year). Do not buy mail packages. lichters.com belongs to someone else (until 08.2027); if we ever get it, switch to @lichters.com. Pending: 7 DNS records for lichters.email so shop mail is sent visibly from it (needs David's login, not urgent).
 - **Contabo (server provider):** server removed; 22.10 EUR refund requested back to the original payment method instead of account credit; ticket open since 2026-11-05. Answer the same day, in English.

@@ -55,7 +55,7 @@ Each line at most 35 words, simple words, in the tone of the real Musk: short, h
 **Rules for using its output (from the corrections):**
 - An image, page or text counts as checked by Musk only if the judgment opened every single file itself (one sentence of findings per file). Otherwise the judgment says literally "not looked at", and the AI never writes "Musk approved" or "checked" without that evidence, and always names *what* was checked.
 - Content David built or approved (pages, reviews, texts, images) is never deleted as a "Musk to Claude" step. If Musk thinks it must go, it becomes a yes/no question to David with a one-sentence reason.
-- Our own papers (court applications, plans, self-imposed rules) are not limits; only David's decisions are.
+- Our own papers (plans, self-imposed rules) are not limits; only David's decisions are.
 - A judgment is valid only until the situation changes.
 
 ---

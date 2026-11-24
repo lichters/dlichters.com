@@ -46,6 +46,5 @@ I've used a habit tracker app since at least 2023. My honest results:
 
 - In 2023 I kept a daily gratitude list. Later I admitted most of it wasn't true: I wrote things only to keep the streak. That's why honesty is rule number one.
 - In autumn 2025 in Canada, I got a new friend to come to the gym with me every day, and soon my whole tracker was green again.
-- Around new year 2026 I set a rule: if my week isn't 100% green, I give away 100 € on Monday. I wouldn't recommend it.
 - In summer 2026 I worked hard for about a month mostly because someone expected a call from me at a fixed time.
 - In September 2026 I asked an AI to coach me. Business had been green for years, but the other habits were almost empty. So the first goal wasn't more Business. It was one single week with every habit ticked.
