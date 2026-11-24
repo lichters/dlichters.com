@@ -142,7 +142,6 @@ These cost David many repeats. Never mention them as a blocker, open task, remin
 | Stripe | "STRIPE IST GEREGELT" (2026-09-09, sixth time). |
 | Business registration (Gewerbe) | Needed only from 20,000 USD revenue (2026-09-09). |
 | 01.09.2027 as a deadline | Withdrawn 2026-09-23: "Ich bin am 1.9 nicht 1 Jahr weg. Vergiss das." Urgency comes from measured facts (13 months, about 3,000 USD spent, 0 paying customers by Sept 2026), not invented dates. An invented deadline is a lie even if it motivates. |
-| Family-court application text as product filter | 2026-11-01: "der antrag beim gericht ist scheiss egal, ignorier was dadrin steht." Never drop a product because of it. |
 | Meta setup steps: business manager, card, account limit, connecting Shopify and the page to Meta, the domain verification code, DMARC at the registrar, dataset/pixel, ad start, AI access to the business manager | 2026-10-04 (David and Timo): they do it themselves. "hör auf uns aufzuhalten ... sag das nie wieder." AI access to the business manager: NO, never ask again ("Spart mir 15 minuten und dafür werden wir gebannt"). React only when they report ads are running. |
 | Test purchase | 2026-10-04: "streich dir testkauf für immer, sag nie wieder wir sollen einen testkauf machen es klappt alles". |
 | Apple developer display name typo | Did not block submission (2026-10-22); fixed 2026-10-31. |

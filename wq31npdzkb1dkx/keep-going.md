@@ -16,8 +16,6 @@ After a few months the grid shows your real average. 80% filled with a few gaps 
 
 **That is why there is no streak that falls to zero.** A streak says one missed day erased everything. That is false, and it makes people quit. The grid keeps every tick.
 
-**If everything has felt pointless for weeks, or you think about hurting yourself,** talk to a trusted adult today or call a crisis line in your country. That comes before any habit.
-
 ## How to start
 
 1. **When you miss a day, tick the next one.** Never miss two in a row if you can help it. Missed three days? Do not restart from zero. Tick today.

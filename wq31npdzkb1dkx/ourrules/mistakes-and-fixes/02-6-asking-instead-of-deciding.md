@@ -45,8 +45,6 @@ Part 2 of 3 of "Mistakes and fixes: every recorded AI mistake and the rule it pr
 
 **2026-08-14 (three times), old leads and old bot conversations analysed** and presented as a "hard truth" built on 219 of 222 dead conversations from an old bot version. "hör endlich auf alte gespräche zu analysieren. die sind von vor einem jahr."
 
-**2026-11-01, a product dropped because of a court application text.** "scheiss egal, ignorier was dadrin steht."
-
 ## 9. Messages to people
 
 **2026-08-13, outreach drafts invented a persona.** All 7 ready form messages claimed things about David that were false (building an architecture firm, raising kids). Cause: the targeting filter judged a private social profile while the message went to a business form, and the writer resolved the contradiction by inventing a peer identity. Rule: never assert anything about David's business, family or profession that is not true.

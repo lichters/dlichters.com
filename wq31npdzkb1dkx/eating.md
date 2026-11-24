@@ -23,6 +23,6 @@ This is our own rule, not a study result. It is simple: no counting, no weighing
 ## Mistakes
 
 - **Starving yourself.** The rule is about what you eat, not how little. Eat until you are full.
-- **Diet rules and calorie counting.** Not needed. If eating or your weight worries you, talk to a parent or doctor.
+- **Diet rules and calorie counting.** Not needed.
 
 More habits: https://dlichters.com/wq31npdzkb1dkx/index.md
