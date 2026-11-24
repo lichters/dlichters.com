@@ -23,13 +23,12 @@ On a rest day, tick it with a 30-minute walk outside. Rest days are part of the 
 5. **Form before weight.** If you have to swing it, it is too heavy.
 6. **Train about 5 days a week, not 7.** Muscles grow while you rest.
 7. **Eat and sleep for it.** Enough food, protein from normal meals, 8 to 10 hours of sleep.
-8. **Under 18:** many gyms need a parent to sign.
 
 ## Mistakes
 
 - **Training 7 days a week.** Usually means worse results and sore joints.
 - **Never adding weight.** The same 20 kg for months is maintenance, not training.
-- **Chasing supplements.** Food, sleep and showing up matter far more. Under 18, talk to a doctor before taking anything. Never touch steroids or other "enhancers".
+- **Chasing supplements.** Food, sleep and showing up matter far more. Never touch steroids or other "enhancers".
 - **Quitting after a bad week.** Two missed days in a row is where habits die, so get back on the next day.
 
 ## What happened when I tried it

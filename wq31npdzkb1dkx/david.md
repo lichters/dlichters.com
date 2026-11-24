@@ -44,7 +44,7 @@ Source: David's own correction in chat, 2026-10-17 (memory note "davids-echte-za
 - **Body:** he is no longer the most muscular in his class; he lost it and is now close to average (2026-10-17 evening).
 - **His real problem was knowledge.** The fix: have AI transcribe and explain hundreds of YouTube videos and rebuild the best competitors 1:1.
 
-**How these numbers may be used:** for the guide, the website and any pitch use ONLY these values; if unsure, ask David instead of quoting his notes. Never tell any of it as a solved problem. "Mowing lawns instead of online" is demotivating advice; the right version is about 1 hour a day of simple paid work on the side. In the Lichters app these numbers sit under "What it cost me".
+**How these numbers may be used:** for the guide, the website and any pitch use ONLY these values; if unsure, ask David instead of quoting his notes. Never tell any of it as a solved problem. "Mowing lawns instead of online" is demotivating advice; the right version is his own tip: "Better to lose 1 year doing a mini job every day for crap pay until you have $10k starting capital than to lose 3 years because you don't dare to put money into ideas." In the Lichters app these numbers sit under "What it cost me".
 
 ## Goals
 

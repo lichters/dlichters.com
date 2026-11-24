@@ -38,7 +38,6 @@ Part 1 of 6 of "Research results: everything we asked Perplexity, condensed". Ma
 - [US sales tax](#us-sales-tax) (4)
 - [Other countries: UK, Canada, Australia, New Zealand](#other-countries-uk-canada-australia-new-zealand) (6)
 - [US law: FTC rules, labeling, privacy, imprint](#us-law-ftc-rules-labeling-privacy-imprint) (17)
-- [Minors and payment providers (historical)](#minors-and-payment-providers-historical) (2)
 - [AI tools, Claude, Meta and Shopify connectors](#ai-tools-claude-meta-and-shopify-connectors) (10)
 - [Other tools](#other-tools) (4)
 - [Cold email](#cold-email) (1)

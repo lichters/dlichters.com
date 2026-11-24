@@ -54,14 +54,6 @@ No study quantifies the conversion loss of a visible contradiction ("no cancella
 **"30-day money-back guarantee" vs "satisfaction guarantee"** (2026-10-09)  
 No direct conversion test. FTC guides allow both terms only with full purchase price refund on request and clearly disclosed material conditions; "satisfaction" is no safe substitute for "exchange/store credit only" (16 CFR 239.3). Contradictions between badge and policy create deception risk that fine print does not cure. Under Part 435 a blanket "no cancellations" clause cannot cut the statutory cancel right for unshipped orders; refund within 7 working days.
 
-## Minors and payment providers (historical)
-
-**Minors (16/17) and PayPal / Shopify Payments / Whop** (2026-10-03)  
-PayPal Germany: under 18 cannot open any account, also not business; a family-court authorization under § 112 BGB extends legal capacity for the business but does not override PayPal's 18+ rule. Shopify Payments requires 18+ account holder. Whop: guardian route.
-
-**Shopify Payments age 18 (historical)** (2026-10-04)  
-A minor may work on the shop, but Shopify Payments may not be set up with his data; an adult (parent/guardian or real owner/representative) must set it up with own data as account representative, else closure.
-
 ## AI tools, Claude, Meta and Shopify connectors
 
 **Which Perplexity model to use (test of 11 models, same question)** (2026-09-28)  

@@ -38,7 +38,7 @@ Format: date, decision, reason.
 - 2026-11-02 evening: test money needed about 150 EUR, not 60 USD (the AI forgot 19% VAT): 100 USD ads with stop if no sale, 8.40 USD warm-up, tax, goods for up to 4 beds.
 - 2026-11-05: ad cap 100 EUR for the first test; 17 EUR a day.
 - 2026-11-06: Musk math: ten tests 1,208 EUR; a hit must earn back about 1,400 USD.
-- Stripe and trade registration are settled (David had to say it six times): never mention as blockers. Not blockers either: the old unfair-competition warning letter, the spending cap, his former minor status, payout delays.
+- Stripe and trade registration are settled (David had to say it six times): never mention as blockers. Not blockers either: the old unfair-competition warning letter, the spending cap, his age, payout delays.
 
 ### Ads (Meta)
 - 2026-10-03 19:35 warm-up plan: day 1 up to 20 USD, day 2 up to 30 USD, from day 3 up to 3 campaigns at 50 USD each.

@@ -27,7 +27,7 @@ What doesn't count:
 ## How to start
 
 1. **Look at your real number first.** Check your daily average in Screen Time for the last week. It's usually more than you think.
-2. **Set app limits.** On iPhone: Settings, Screen Time, App Limits, Add Limit, then Social, 30 minutes. Under 18? Ask a parent to set the passcode so you can't just press "ignore".
+2. **Set app limits.** On iPhone: Settings, Screen Time, App Limits, Add Limit, then Social, 30 minutes.
 3. **Move the apps.** Put feed apps in a folder on the last page, or delete them and use the slower browser version.
 4. **Pick a time for your 30 minutes.** After Business and Training are done. Ticks first, then feeds.
 5. **Keep the phone out of your bedroom.** That's part of the Sleep habit too.

@@ -21,4 +21,4 @@ The single most repeated finding: for almost every narrow question ("what conver
 5. https://dlichters.com/wq31npdzkb1dkx/research/results/05-suppliers-and-agents-sourcing-hand-off-paying.md (3,206 words)
    Suppliers and agents: sourcing, hand-off, paying · US warehouses and 3PL · Shipping times and DDP carriers China to US · Holiday shipping deadlines and delivery promises · US customs, duties and de minimis · US sales tax · Other countries: UK, Canada, Australia, New Zealand
 6. https://dlichters.com/wq31npdzkb1dkx/research/results/06-us-law-ftc-rules-labeling-privacy-imprint.md (3,002 words)
-   US law: FTC rules, labeling, privacy, imprint · Minors and payment providers (historical) · AI tools, Claude, Meta and Shopify connectors · Other tools · Cold email · "Who sells this already?" idea checks · Founders and billionaires: what the data says · Pet safety facts · Miscellaneous checked facts
+   US law: FTC rules, labeling, privacy, imprint · AI tools, Claude, Meta and Shopify connectors · Other tools · Cold email · "Who sells this already?" idea checks · Founders and billionaires: what the data says · Pet safety facts · Miscellaneous checked facts

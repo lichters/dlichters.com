@@ -47,8 +47,6 @@ From March 2024 to January 2025 my notes show no business project at all. School
 
 My first sale came on Halloween 2025: 25 EUR for a training guide, about three years after my first try. In January 2026 I wrote that I had reached 0 of my goals for 2025: 18,000 followers instead of 100,000.
 
-What kept me going was not a result. It was the daily tick. My best months were the ones with a green tracker, no matter what the money did.
-
-The only time I really lost was the year I stopped.
+The only reason I kept going for years is the 1/5/10 Planasy (plan + fantasy). My best months were the ones with a green tracker, no matter what the money did.
 
 Related: https://dlichters.com/wq31npdzkb1dkx/business.md

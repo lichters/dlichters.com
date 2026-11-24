@@ -55,7 +55,7 @@ Each was explicitly struck by David (or Timo); do not remind, propose or ask:
 - Renaming the TikTok channel (2026-10-04: "Nope, we leave it. Don't ask again.").
 - Meta business-manager setup, cards on ad accounts, connecting Shopify or the page to Meta, the partner's business-manager access for the AI (answer: no), Porkbun DNS entries, test purchases ("strike test purchase forever, it all works", 2026-10-04). David and Timo handle these themselves.
 - Stripe and trade registration as open tasks or blockers.
-- Waiting reasons that are settled: unfair-competition warning, spending cap, former minor status, payout delay.
+- Waiting reasons that are settled: unfair-competition warning, spending cap, his age, payout delay.
 - Speculation about Timo's personal state.
 - The exchange year date of 2027-09-01 as a deadline (withdrawn 2026-09-23).
 - Training-sheet printing and shortening the museum (2026-11-06: not on his list anymore).

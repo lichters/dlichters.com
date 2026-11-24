@@ -28,7 +28,7 @@ Tick **f** when you spent at least 1 hour of real time with friends or family to
 5. **Get them talking.** Listen more than you talk.
 6. **Remember names and come back.** The second and third conversation are where a friendship starts.
 7. **Join something.** A club, a team, a choir. Seeing the same people every week does most of the work.
-8. **Invite people.** "Want to go to the gym together?" If you are under 18, tell your parents who you are meeting and where.
+8. **Invite people.** "Want to go to the gym together?"
 
 ## Mistakes
 

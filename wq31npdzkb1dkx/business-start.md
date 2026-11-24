@@ -8,14 +8,12 @@ A first business at 13 is about money. Getting rich is the goal. You learn what 
 
 ## Why
 
-- **Experience is the real profit.** Most first attempts make nothing. What you keep is the skill: editing, selling, building, talking to strangers.
 - **Small tests are cheap at 13.** A failed test costs a few weeks. At 30 it costs rent.
-- **Results come late.** Many businesses look dead for months and then start working. Most people quit right before that point.
 
 ## How to start
 
 1. **Pick one skill you can practise every day.** Video editing, drawing, writing, coding, fitness, fixing things.
-2. **Turn it into one small offer.** Thumbnails for small YouTubers, a simple app, lawn mowing on your street.
+2. **Turn it into one small offer.** Thumbnails for small YouTubers, a simple app.
 3. **Check that someone already sells it.** If others make money with it, there is demand. If nobody sells it, that is usually a warning, not a gap.
 4. **Find your first 10 customers by hand.** Ask what they would pay for. Asking feels scary, but people notice you much less than you think, and one week of practice makes the fear of a "no" smaller. Write your first sentence down and count asks, not yeses. More: https://dlichters.com/wq31npdzkb1dkx/business.md
 5. **Decide your test length before you start.** For content or a shop, think in months. Write the date down and do not switch before it.

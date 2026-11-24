@@ -30,7 +30,7 @@ Example for b: "5 focused hours: 14:00 to 17:00 and 19:30 to 21:30, desk in my r
 
 **5. With a friend: same questions, by message.** Agree on a time, both send your answers, both reply with one honest sentence.
 
-Many AI apps are 18+. If you're younger, use the friend or parent version. Never paste private details about other people into an AI chat.
+Never paste private details about other people into an AI chat.
 
 ## Mistakes
 

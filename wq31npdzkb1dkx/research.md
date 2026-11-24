@@ -40,8 +40,6 @@ This study observes people, so it shows a link, not proof. Water instead of soda
 
 - **Killingsworth, Kahneman and Mellers, 2023.** For most people happiness keeps rising with income. https://knowledge.wharton.upenn.edu/article/does-money-buy-happiness-heres-what-the-research-says/
 - **Ruberton, 2016.** Savings you can reach predicted life satisfaction beyond income and debt. https://discovery-pp.ucl.ac.uk/id/eprint/1519781
-- **Dittmar, 2014.** People who make money and things their life goal are less happy on average. https://research.brighton.ac.uk/en/publications/the-relationship-between-materialism-and-personal-well-being-a-me/
-- **Azoulay and others, 2020.** Founders of the fastest-growing firms were 45 on average, and industry experience predicted success. https://www.ipr.northwestern.edu/our-work/working-papers/2018/wp-18-11.html
 - **Gilovich, 2000.** For the scary part of business, asking: students in an embarrassing T-shirt guessed half the room noticed. Really it was about a quarter. https://doi.org/10.1037/0022-3514.78.2.211
 - **Sandstrom and others, 2022.** A week of talking to strangers lowered fear of rejection, and it lasted. https://sussex.figshare.com/articles/journal_contribution/Talking_to_strangers_a_week-long_intervention_reduces_psychological_barriers_to_social_connection/23490227
 

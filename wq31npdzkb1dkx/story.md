@@ -4,16 +4,15 @@ I started trying to make money online at 12, tested more than 15 business models
 
 ## What it is
 
-Every business I tried since 2022, with real dates and results. Most results are 0 EUR. Success stories hide the years before the win. If your first five tries fail, that is normal.
+Every business I tried since 2022, with real dates and results. Most results are 0 EUR.
 
 ## What I would do today
 
-1. **Pick one thing and give it time.** I switched too fast. About one project I dropped, I later wrote that one or two more years of patience would probably have paid off.
-2. **Get one thing to a few thousand a month, then study how it happened,** so you can repeat it.
-3. **Sell a real shortcut.** My first sale was a guide that saves beginners time in the gym.
-4. **Keep your habits green.** My best months had a green habit tracker, whatever the money did.
-5. **Be honest with yourself.** In 2026 I wrote that I had made 0 euros and that 99 % of that was on me.
-6. **Don't wait until 18.** Waiting costs you years.
+1. **Get one thing to a few thousand a month, then study how it happened,** so you can repeat it.
+2. **Sell a real shortcut.** My first sale was a guide that saves beginners time in the gym.
+3. **Keep your habits green.** My best months had a green habit tracker, whatever the money did.
+4. **Be honest with yourself.** In 2026 I wrote that I had made 0 euros and that 99 % of that was on me.
+5. **Don't wait until 18.** Waiting costs you years.
 
 ## Mistakes
 
@@ -42,7 +41,7 @@ My summary back then: about minus 160 EUR. Only YouTube, mowing lawns and eBay w
 
 **November 2025 to August 2026: high-ticket coaching.** A few small payments, one big deal never paid, and I ended up owing a paid mentor 1,000 EUR. https://dlichters.com/wq31npdzkb1dkx/high-ticket-coaching.md
 
-I also tried a made-up trainer character with a fake weight-loss story, and a bot messaging from bought Instagram accounts. One was deception, the other was spam. The clean way: your own face, your real results, messages written by hand.
+I also tried a made-up trainer character with a fake weight-loss story, and a bot messaging from bought Instagram accounts. One was deception, the other was spam.
 
 **August 2026: form blasting.** 5,820 messages to 4,342 US companies, 15 replies, 0 sales. https://dlichters.com/wq31npdzkb1dkx/cold-outreach.md
 

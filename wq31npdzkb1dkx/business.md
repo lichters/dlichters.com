@@ -73,6 +73,6 @@ The honest numbers:
 - **From 14 to 15:** school got hard and almost no business happened. That gap cost me nearly a year.
 - **First sale of my own online product: 31 October 2025**, about three years after I started. 25 euros for a fitness guide.
 - **Coaching, by the end of 2025:** about 374 euros in total.
-- **Summer 2026:** 5,820 messages through company contact forms. 15 replies, 0 sales, over 400 dollars in AI costs in four days. Mass messaging strangers is basically spam. Build something people come to you for.
+- **Summer 2026:** 5,820 messages through company contact forms. 15 replies, 0 sales, over 400 dollars in AI costs in four days. Mass messaging strangers is basically spam.
 
 Most of my attempts made nothing or lost money. What I learned: better to lose 1 year doing a mini job every day for crap pay until you have $10k starting capital than to lose 3 years because you don't dare to put money into ideas.
