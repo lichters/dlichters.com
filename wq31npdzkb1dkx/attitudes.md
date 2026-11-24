@@ -22,7 +22,6 @@ How: write down three to five people whose judgment you respect. When someone la
 
 **4. Start early. Keep going for years.**
 Why: almost nothing works on the first try. Skills and businesses grow slowly at first, then faster. Starting at 13 instead of 23 gives you ten extra years of trying, failing and learning.
-Why I start early: then you never have the time or the dumb personality to make friends with all the other losers your age.
 
 ## Mistakes
 
