@@ -244,3 +244,5 @@ Each shared budget is attached to its two campaigns. Meta remarketing is separat
 
 
 Part 34 of 56 of "10. Google Ads and Shopping: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/10-google-ads-and-shopping.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/10-google-ads-and-shopping/33-campaign-segmentation-tiers-and-scaling-structure.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/10-google-ads-and-shopping/35-relaunching-rebuilding-and-migrating-stalled-accou.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

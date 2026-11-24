@@ -90,3 +90,5 @@ Setup facts:
 
 
 Part 16 of 56 of "10. Google Ads and Shopping: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/10-google-ads-and-shopping.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/10-google-ads-and-shopping/15-feed-optimization-titles-images-descriptions-and-p.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/10-google-ads-and-shopping/17-merchant-center-diagnostics-disapprovals-and-free.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

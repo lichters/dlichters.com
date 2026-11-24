@@ -165,3 +165,5 @@ Procedure, merged from the course variants:
 
 
 Part 18 of 49 of "4. Store Build and Shopify: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/04-store-build-and-shopify.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/04-store-build-and-shopify/17-collections-tags-and-filters.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/04-store-build-and-shopify/19-navigation-and-menus.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

@@ -141,3 +141,5 @@ Other examples in the lesson: add 3.99 to get free shipping, and add 13.4 to unl
 
 
 Part 24 of 40 of "7. Offers Pricing and Bundles: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/07-offers-pricing-and-bundles.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/07-offers-pricing-and-bundles/23-upsells-cross-sells-and-add-ons-on-the-product-pag.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/07-offers-pricing-and-bundles/25-post-purchase-and-checkout-offers.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

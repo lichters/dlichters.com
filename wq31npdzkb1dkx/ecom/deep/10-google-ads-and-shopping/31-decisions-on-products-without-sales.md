@@ -203,3 +203,5 @@ Where sources differ: the 2023 guidance starts with no device adjustment and red
 
 
 Part 31 of 56 of "10. Google Ads and Shopping: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/10-google-ads-and-shopping.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/10-google-ads-and-shopping/30-campaign-structure-and-bid-levels.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/10-google-ads-and-shopping/32-automated-and-enhanced-bidding.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

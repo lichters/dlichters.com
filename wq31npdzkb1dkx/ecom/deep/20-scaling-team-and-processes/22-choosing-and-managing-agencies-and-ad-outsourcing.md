@@ -193,3 +193,5 @@ Fee figures differ by model and by year. Both values are kept.
 
 
 Part 22 of 37 of "20. Scaling Team and Processes: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/20-scaling-team-and-processes.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/20-scaling-team-and-processes/21-link-building-delegation.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/20-scaling-team-and-processes/23-performance-review-and-benchmarks.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

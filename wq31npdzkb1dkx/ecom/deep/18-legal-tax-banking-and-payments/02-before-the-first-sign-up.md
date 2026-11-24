@@ -11,7 +11,6 @@ Part 2 of 34 of "18. Legal Tax Banking and Payments: full technical reference". 
 - Australian suppliers generally do not care whether you trade as a sole trader or through a company, so the early choice does not limit supplier approval. ** [L1405, 2021-22]
 - An EIN can be used for more than one business in the view presented, but confirm this with an accountant before relying on it. ** [L1090, 2021]
 - Get an EIN as part of the setup path. [L1277, 2020]
-- Running a store under your own name typically requires being at least 18 years old. A younger founder would normally need an adult to sign the accounts and agreements. Confirm the rules for your country or state before opening business accounts. ** [L0803, 2022]
 
 ### Structure by Country
 
@@ -56,3 +55,5 @@ Part 2 of 34 of "18. Legal Tax Banking and Payments: full technical reference". 
 
 
 Part 2 of 34 of "18. Legal Tax Banking and Payments: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/18-legal-tax-banking-and-payments.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/18-legal-tax-banking-and-payments/01-business-structure-sole-proprietor-llc-s-corp-and.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/18-legal-tax-banking-and-payments/03-forming-the-entity-and-registering-the-business.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

@@ -128,3 +128,5 @@ Case: after one setup in Smart SEO, the store has its logo, social URLs, price r
 
 
 Part 13 of 30 of "14. SEO and Content: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/14-seo-and-content.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/14-seo-and-content/12-bulk-rewrites-from-search-console-data.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/14-seo-and-content/14-product-page-seo.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

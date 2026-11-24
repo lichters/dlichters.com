@@ -256,3 +256,5 @@ Research (complete this document further)
 
 
 Part 29 of 54 of "2. Niche and Product Research: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/02-niche-and-product-research.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/02-niche-and-product-research/28-target-market-and-audience-research.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/02-niche-and-product-research/30-research-order-before-testing.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

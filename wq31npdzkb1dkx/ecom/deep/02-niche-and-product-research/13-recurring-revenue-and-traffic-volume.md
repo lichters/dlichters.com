@@ -203,3 +203,5 @@ Procedure, checking seasonality in Google Trends (2025). [L1116, 2025]
 
 
 Part 13 of 54 of "2. Niche and Product Research: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/02-niche-and-product-research.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/02-niche-and-product-research/12-demand-seasonality-and-evergreen-testing.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/02-niche-and-product-research/14-counting-keyword-volume-with-ubersuggest.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

@@ -217,3 +217,5 @@ I run a dropshipping store called [STORE NAME] on Shopify with my business partn
 
 
 Part 33 of 34 of "18. Legal Tax Banking and Payments: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/18-legal-tax-banking-and-payments.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/18-legal-tax-banking-and-payments/32-creator-content-and-usage-rights.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/18-legal-tax-banking-and-payments/34-selling-the-business-legal-tax-and-transaction-mat.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

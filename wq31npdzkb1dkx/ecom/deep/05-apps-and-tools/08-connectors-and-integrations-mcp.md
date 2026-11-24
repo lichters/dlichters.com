@@ -189,3 +189,5 @@ Both tools are strong enough for store work, so the choice matters less than sta
 
 
 Part 8 of 41 of "5. Apps and Tools: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/05-apps-and-tools.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/05-apps-and-tools/07-ai-assistants-and-custom-ai-workflows.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/05-apps-and-tools/09-product-competitor-and-ad-research-tools.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

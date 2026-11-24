@@ -239,3 +239,5 @@ Recommended order in CapCut:
 
 
 Part 22 of 41 of "5. Apps and Tools: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/05-apps-and-tools.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/05-apps-and-tools/21-photoshop-cutouts-and-retouching.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/05-apps-and-tools/23-splice-inshot-edits-imovie-and-tiktok-s-editor.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

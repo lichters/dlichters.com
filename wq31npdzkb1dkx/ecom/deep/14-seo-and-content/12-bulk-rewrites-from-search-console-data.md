@@ -44,3 +44,5 @@ You are working on an online store. For each page URL in the list below, use its
 
 
 Part 12 of 30 of "14. SEO and Content: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/14-seo-and-content.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/14-seo-and-content/11-search-listings-titles-meta-descriptions-and-snipp.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/14-seo-and-content/13-structured-data-and-rich-results.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

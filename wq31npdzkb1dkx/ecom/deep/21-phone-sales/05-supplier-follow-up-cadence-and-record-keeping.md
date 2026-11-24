@@ -345,3 +345,5 @@ When someone asks for information, it often means the conversation is ending pol
 
 
 Part 5 of 7 of "21. Phone Sales: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/21-phone-sales.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/21-phone-sales/04-running-the-supplier-call.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/21-phone-sales/06-high-probability-relationship-building-and-discove.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

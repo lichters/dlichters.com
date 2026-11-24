@@ -137,3 +137,5 @@ Hi there. My website is https://shakasurfboards.com/, and from Monday, December 
 
 
 Part 27 of 29 of "15. Email and SMS: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/15-email-and-sms.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/15-email-and-sms/26-holiday-black-friday-and-promotion-campaigns.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/15-email-and-sms/28-testing-measurement-and-optimization.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

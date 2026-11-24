@@ -144,3 +144,5 @@ The sources do not say when each range applies. Both require your own research t
 
 
 Part 27 of 54 of "2. Niche and Product Research: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/02-niche-and-product-research.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/02-niche-and-product-research/26-submitting-for-external-verification.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/02-niche-and-product-research/28-target-market-and-audience-research.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

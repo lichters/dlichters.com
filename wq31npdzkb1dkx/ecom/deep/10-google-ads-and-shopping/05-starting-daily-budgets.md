@@ -138,3 +138,5 @@ Source conflict: the one source procedure above uses $25 to $50 per day with a $
 
 
 Part 5 of 56 of "10. Google Ads and Shopping: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/10-google-ads-and-shopping.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/10-google-ads-and-shopping/04-unit-economics-before-spending-break-even-target-r.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/10-google-ads-and-shopping/06-pre-launch-compliance-and-store-readiness.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

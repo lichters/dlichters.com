@@ -247,3 +247,5 @@ The link brings customers from the partner and gives you a backlink for SEO. Thi
 
 
 Part 1 of 14 of "13. Influencers and UGC: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/13-influencers-and-ugc.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/13-influencers-and-ugc/02-building-and-qualifying-the-prospect-list.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

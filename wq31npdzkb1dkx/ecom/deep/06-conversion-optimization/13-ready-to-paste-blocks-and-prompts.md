@@ -101,3 +101,5 @@ Rework the top banner of the homepage and the part of the product page visible w
 
 
 Part 13 of 40 of "6. Conversion Optimization: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/06-conversion-optimization.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/06-conversion-optimization/12-tabs-accordions-and-collapsibles.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/06-conversion-optimization/14-copywriting-and-messaging.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

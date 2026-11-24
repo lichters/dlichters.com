@@ -182,3 +182,5 @@ Conflict on announcement bar, by purpose:
 
 
 Part 22 of 49 of "4. Store Build and Shopify: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/04-store-build-and-shopify.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/04-store-build-and-shopify/21-search-bar-in-the-header.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/04-store-build-and-shopify/23-logo-list.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

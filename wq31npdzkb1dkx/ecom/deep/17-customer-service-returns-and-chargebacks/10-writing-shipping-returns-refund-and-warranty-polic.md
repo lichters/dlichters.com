@@ -199,3 +199,5 @@ Replace the brand names, return windows and fees with the exact terms from each 
 
 
 Part 10 of 23 of "17. Customer Service Returns and Chargebacks: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/17-customer-service-returns-and-chargebacks.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/17-customer-service-returns-and-chargebacks/09-backorders-made-to-order-items-and-shipping-delay.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/17-customer-service-returns-and-chargebacks/11-refunds-timing-cancellations.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

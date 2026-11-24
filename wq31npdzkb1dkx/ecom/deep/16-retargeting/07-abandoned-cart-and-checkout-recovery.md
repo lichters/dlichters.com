@@ -233,3 +233,5 @@ Hi {customer_name}, I noticed you came back to the {product_name} page several t
 
 
 Part 7 of 10 of "16. Retargeting: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/16-retargeting.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/16-retargeting/06-ad-sequencing-timing-and-frequency.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/16-retargeting/08-promotions-holidays-and-q4-retargeting.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

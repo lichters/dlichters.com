@@ -219,3 +219,5 @@ Headline formula library [L0204, undated]:
 
 
 Part 22 of 35 of "9. Meta and Facebook Ads: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/09-meta-and-facebook-ads.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/09-meta-and-facebook-ads/21-store-versus-ad-diagnosis.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/09-meta-and-facebook-ads/23-meta-setup-settings.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

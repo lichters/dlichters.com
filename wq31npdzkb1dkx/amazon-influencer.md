@@ -1,7 +1,15 @@
 # Amazon Influencer: earning a small share when people buy what you show
 
-I tried Amazon Influencer in summer 2023, when I was 13, for about three weeks. My mistake was starting with the program instead of the audience. I treated it as a quick money trick. I have no record of a single commission: **0 euros earned.**
+You show products, and Amazon pays you a small share when people buy them through your page.
 
-**Why it didn't work:** the only reason was that I had very little experience overall. This model can still work today. Just because it didn't work for me back then doesn't mean it can't work now. With my experience today, I'm convinced almost any of these would work for me.
+## Our test (summer 2023)
 
-More: [All business models](https://dlichters.com/wq31npdzkb1dkx/index.md) · [Founder story](https://dlichters.com/wq31npdzkb1dkx/story.md)
+About three weeks. The mistake: starting with the program instead of the audience, and treating it as a quick money trick.
+
+**Result: 0 euros.** No record of a single commission.
+
+## Why it failed
+
+Too little experience overall; start with an audience, not with the program. The model can still work today.
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

@@ -223,3 +223,5 @@ Content quality and creative angle are separate variables. One failing does not 
 
 
 Part 7 of 14 of "11. TikTok and Short Video: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/11-tiktok-and-short-video.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/11-tiktok-and-short-video/06-posting-cadence-timing-and-hashtags.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/11-tiktok-and-short-video/08-engagement-comments-and-driving-traffic-to-the-sto.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

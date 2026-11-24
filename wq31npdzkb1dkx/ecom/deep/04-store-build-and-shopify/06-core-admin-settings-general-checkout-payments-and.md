@@ -135,3 +135,5 @@ Part 6 of 49 of "4. Store Build and Shopify: full technical reference". Map of a
 
 
 Part 6 of 49 of "4. Store Build and Shopify: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/04-store-build-and-shopify.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/04-store-build-and-shopify/05-business-email-phone-number-and-contact-identity.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/04-store-build-and-shopify/07-payments.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

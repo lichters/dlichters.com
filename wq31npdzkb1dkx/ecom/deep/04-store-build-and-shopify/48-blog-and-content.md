@@ -220,3 +220,5 @@ Brands we have worked with: [logo list of business customers you have sold to]
 
 
 Part 48 of 49 of "4. Store Build and Shopify: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/04-store-build-and-shopify.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/04-store-build-and-shopify/47-scaling-the-store-more-suppliers-niches-content-an.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/04-store-build-and-shopify/49-other-details.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

@@ -149,3 +149,5 @@ Lesson: when customers organically join a conversation, the brand can repurpose 
 
 
 Part 9 of 14 of "13. Influencers and UGC: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/13-influencers-and-ugc.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/13-influencers-and-ugc/08-briefs-contracts-and-usage-rights.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/13-influencers-and-ugc/10-affiliate-and-ambassador-programs.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

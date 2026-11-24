@@ -226,3 +226,5 @@ Linking the domain through DNS settings is not enough; the domain itself must be
 
 
 Part 4 of 49 of "4. Store Build and Shopify: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/04-store-build-and-shopify.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/04-store-build-and-shopify/03-store-name-domain-purchase-and-domain-connection.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/04-store-build-and-shopify/05-business-email-phone-number-and-contact-identity.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

@@ -141,3 +141,5 @@ Note on B2C stores with business customers: If you sell B2C but also get busines
 
 
 Part 20 of 28 of "1. Business Model and Strategy: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/01-business-model-and-strategy.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/01-business-model-and-strategy/19-seasonality-and-q4-planning.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/01-business-model-and-strategy/21-scaling-stores-second-stores-multiple-niches-and-d.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

@@ -218,3 +218,5 @@ Use this when you are confident a product is viable but no account is gaining tr
 
 
 Part 2 of 14 of "11. TikTok and Short Video: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/11-tiktok-and-short-video.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/11-tiktok-and-short-video/01-is-tiktok-the-right-channel-product-fit-price-and.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/11-tiktok-and-short-video/03-product-research-and-competitor-spying-on-tiktok.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

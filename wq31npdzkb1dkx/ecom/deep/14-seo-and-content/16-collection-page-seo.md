@@ -261,3 +261,5 @@ Word count: at least 300 unique words for the description [L0367, 2021-22] are c
 
 
 Part 16 of 30 of "14. SEO and Content: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/14-seo-and-content.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/14-seo-and-content/15-ai-assisted-writing.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/14-seo-and-content/17-image-seo-visual-search-and-compression.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

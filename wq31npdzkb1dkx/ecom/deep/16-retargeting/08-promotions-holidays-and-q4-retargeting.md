@@ -206,3 +206,5 @@ Set the paid budget for an offer promotion:
 
 
 Part 8 of 10 of "16. Retargeting: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/16-retargeting.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/16-retargeting/07-abandoned-cart-and-checkout-recovery.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/16-retargeting/09-retargeting-existing-customers-and-repeat-purchase.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

@@ -1,5 +1,5 @@
 <!-- part of research/results.md -->
-Part 3 of 6 of "Research results: everything we asked Perplexity, condensed". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/research/results.md · Previous: https://dlichters.com/wq31npdzkb1dkx/research/results/02-meta-ads-testing-learning-phase-and-kill-rules.md · Next: https://dlichters.com/wq31npdzkb1dkx/research/results/04-email-popups-and-lead-magnets.md
+Part 3 of 6 of "Research results: e-commerce questions we researched, condensed". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/research/results.md · Previous: https://dlichters.com/wq31npdzkb1dkx/research/results/02-meta-ads-testing-learning-phase-and-kill-rules.md · Next: https://dlichters.com/wq31npdzkb1dkx/research/results/04-email-popups-and-lead-magnets.md
 
 ## Creatives: hooks, video, UGC, AI images and video
 
@@ -75,7 +75,7 @@ Examples within 125 characters: "The smallest family member deserves a Christmas
 Hook "Does your cat climb the Christmas tree too?", second card "Every. Single. Year.", primary text with "climbs" and "knocks the ornaments off". Dropped "cat vs. tree": not used by owners nor proven as cat bed hook.
 
 **"Order by Dec 4 or it won't make it for Christmas" as hook** (2026-10-07)  
-Can push ready buyers to order earlier (concrete occasion and consequence), but no proven uplift for this wording; online experiments show time scarcity is not reliably better. Only use with a confirmed delivery basis. (David later banned "Dec 4"/deadline wording in ads.)
+Can push ready buyers to order earlier (concrete occasion and consequence), but no proven uplift for this wording; online experiments show time scarcity is not reliably better. Only use with a confirmed delivery basis. (We later stopped using deadline wording in ads.)
 
 ## Customer voice and purchase barriers
 
@@ -185,4 +185,6 @@ No proven universal saturation or distrust threshold at 100, 1,000, 10,000, 100,
 Show the histogram and make it a clickable filter at the top of the review section next to average and count. Baymard: qualitative UX evidence (helps interpret reviews, prevents misreading from the first visible reviews). No DTC A/B test on completed purchases.
 
 
-Part 3 of 6 of "Research results: everything we asked Perplexity, condensed". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/research/results.md · Previous: https://dlichters.com/wq31npdzkb1dkx/research/results/02-meta-ads-testing-learning-phase-and-kill-rules.md · Next: https://dlichters.com/wq31npdzkb1dkx/research/results/04-email-popups-and-lead-magnets.md
+Part 3 of 6 of "Research results: e-commerce questions we researched, condensed". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/research/results.md · Previous: https://dlichters.com/wq31npdzkb1dkx/research/results/02-meta-ads-testing-learning-phase-and-kill-rules.md · Next: https://dlichters.com/wq31npdzkb1dkx/research/results/04-email-popups-and-lead-magnets.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

@@ -171,3 +171,5 @@ Part 23 of 28 of "22. Mindset and Planning: full technical reference". Map of al
 
 
 Part 23 of 28 of "22. Mindset and Planning: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/22-mindset-and-planning.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/22-mindset-and-planning/22-manage-risk-and-fallback-plans.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/22-mindset-and-planning/24-mastermind-setup.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

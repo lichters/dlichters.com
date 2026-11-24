@@ -232,3 +232,5 @@ Before Black Friday and Cyber Monday, run a VIP sign-up campaign by email and SM
 
 
 Part 26 of 29 of "15. Email and SMS: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/15-email-and-sms.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/15-email-and-sms/25-product-launch-giveaway-and-event-campaigns.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/15-email-and-sms/27-gain-logic-fear-sequences.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

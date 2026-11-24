@@ -238,3 +238,5 @@ When you receive a collection of successful ads, study each one to uncover the p
 
 
 Part 8 of 63 of "12. Creatives and Ad Copy: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/12-creatives-and-ad-copy.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/12-creatives-and-ad-copy/07-avatar-documents.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/12-creatives-and-ad-copy/09-analysing-hooks-visuals-and-comments.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

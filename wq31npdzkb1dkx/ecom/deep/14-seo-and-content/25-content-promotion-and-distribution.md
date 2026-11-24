@@ -257,3 +257,5 @@ Repurposing channels for influencer content:
 
 
 Part 25 of 30 of "14. SEO and Content: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/14-seo-and-content.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/14-seo-and-content/24-featured-snippets-faq-and-voice-search.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/14-seo-and-content/26-link-building-and-off-page-seo.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

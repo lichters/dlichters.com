@@ -153,3 +153,5 @@ Worked auction example (bids and Quality Scores as stated in the lesson): [L1226
 
 
 Part 1 of 56 of "10. Google Ads and Shopping: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/10-google-ads-and-shopping.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/10-google-ads-and-shopping/02-ad-types-and-placements.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

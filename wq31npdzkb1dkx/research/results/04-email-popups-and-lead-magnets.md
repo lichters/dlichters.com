@@ -1,5 +1,5 @@
 <!-- part of research/results.md -->
-Part 4 of 6 of "Research results: everything we asked Perplexity, condensed". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/research/results.md · Previous: https://dlichters.com/wq31npdzkb1dkx/research/results/03-creatives-hooks-video-ugc-ai-images-and-video.md · Next: https://dlichters.com/wq31npdzkb1dkx/research/results/05-suppliers-and-agents-sourcing-hand-off-paying.md
+Part 4 of 6 of "Research results: e-commerce questions we researched, condensed". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/research/results.md · Previous: https://dlichters.com/wq31npdzkb1dkx/research/results/03-creatives-hooks-video-ugc-ai-images-and-video.md · Next: https://dlichters.com/wq31npdzkb1dkx/research/results/05-suppliers-and-agents-sourcing-hand-off-paying.md
 
 ## Email, popups and lead magnets
 
@@ -161,4 +161,6 @@ No public sample. Plan 50 customer contacts per 100 orders, stress case 90 (own 
 Plan 50 contacts per 100 orders, 40 % "where is my order"; stress 90 per 100, 70 % WISMO (Gorgias 19 May 2026, parcelLab 2020, Ringly 2 Oct 2026). One person handles about 6-8 tickets/hour (Head West, 10 Jan 2025): at 200 orders/day that is 7.5-18 support hours per day. AI helpdesk: Shopify Inbox free, Tidio Lyro from 32.50 USD/month for 50 conversations, Gorgias Pro higher.
 
 
-Part 4 of 6 of "Research results: everything we asked Perplexity, condensed". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/research/results.md · Previous: https://dlichters.com/wq31npdzkb1dkx/research/results/03-creatives-hooks-video-ugc-ai-images-and-video.md · Next: https://dlichters.com/wq31npdzkb1dkx/research/results/05-suppliers-and-agents-sourcing-hand-off-paying.md
+Part 4 of 6 of "Research results: e-commerce questions we researched, condensed". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/research/results.md · Previous: https://dlichters.com/wq31npdzkb1dkx/research/results/03-creatives-hooks-video-ugc-ai-images-and-video.md · Next: https://dlichters.com/wq31npdzkb1dkx/research/results/05-suppliers-and-agents-sourcing-hand-off-paying.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

@@ -249,3 +249,5 @@ Procedure for a clean image split test:
 
 
 Part 15 of 56 of "10. Google Ads and Shopping: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/10-google-ads-and-shopping.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/10-google-ads-and-shopping/14-verification-and-approval.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/10-google-ads-and-shopping/16-merchant-center-promotions.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

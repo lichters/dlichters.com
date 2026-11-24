@@ -196,3 +196,5 @@ Each PLA setup also follows the long-tail principle: product listing ads mostly 
 
 
 Part 21 of 56 of "10. Google Ads and Shopping: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/10-google-ads-and-shopping.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/10-google-ads-and-shopping/20-campaign-priority-and-the-alpha-beta-logic.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/10-google-ads-and-shopping/22-where-sources-disagree.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

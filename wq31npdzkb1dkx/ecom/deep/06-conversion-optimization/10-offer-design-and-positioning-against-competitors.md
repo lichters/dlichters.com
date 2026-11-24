@@ -219,3 +219,5 @@ Three framings appear in the sources. Each is a different choice, not a conflict
 
 
 Part 10 of 40 of "6. Conversion Optimization: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/06-conversion-optimization.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/06-conversion-optimization/09-page-types-product-page-landing-page-homepage-and.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/06-conversion-optimization/11-product-page-and-landing-page-structure.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

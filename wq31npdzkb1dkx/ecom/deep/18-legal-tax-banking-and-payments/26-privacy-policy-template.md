@@ -90,3 +90,5 @@ If you have questions about our privacy practices or this Privacy Policy, or wan
 
 
 Part 26 of 34 of "18. Legal Tax Banking and Payments: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/18-legal-tax-banking-and-payments.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/18-legal-tax-banking-and-payments/25-contact-page-and-contact-details.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/18-legal-tax-banking-and-payments/27-terms-of-service-template.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

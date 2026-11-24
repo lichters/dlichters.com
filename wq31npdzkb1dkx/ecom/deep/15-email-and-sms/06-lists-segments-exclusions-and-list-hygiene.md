@@ -167,3 +167,5 @@ Exclude emails containing these keywords by creating a segment with "Email conta
 
 
 Part 6 of 29 of "15. Email and SMS: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/15-email-and-sms.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/15-email-and-sms/05-pop-up-set-up.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/15-email-and-sms/07-welcome-series-and-new-subscriber-nurture.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

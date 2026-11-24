@@ -224,3 +224,5 @@ suppliers that sell only online already work with online retailers. If a supplie
 
 
 Part 9 of 51 of "3. Suppliers and Fulfillment: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/03-suppliers-and-fulfillment.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/03-suppliers-and-fulfillment/08-growing-from-the-launch-catalog.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/03-suppliers-and-fulfillment/10-wayfair-overstock-and-other-large-online-retailers.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

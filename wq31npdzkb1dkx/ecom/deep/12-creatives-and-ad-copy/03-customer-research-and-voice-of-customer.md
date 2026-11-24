@@ -276,3 +276,5 @@ A reply can be as short as a phrase like "great price," or as long as you want. 
 
 
 Part 3 of 63 of "12. Creatives and Ad Copy: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/12-creatives-and-ad-copy.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/12-creatives-and-ad-copy/02-team-production-and-tools.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/12-creatives-and-ad-copy/04-turning-customer-language-into-ad-material.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

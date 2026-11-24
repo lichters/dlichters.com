@@ -196,3 +196,5 @@ These units come from direct-response sales letters. They apply to high-priced o
 
 
 Part 24 of 40 of "6. Conversion Optimization: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/06-conversion-optimization.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/06-conversion-optimization/23-collecting-and-displaying-reviews.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/06-conversion-optimization/25-rules-against-fake-urgency.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

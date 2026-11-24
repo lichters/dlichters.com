@@ -149,3 +149,5 @@ Part 7 of 28 of "1. Business Model and Strategy: full technical reference". Map 
 
 
 Part 7 of 28 of "1. Business Model and Strategy: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/01-business-model-and-strategy.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/01-business-model-and-strategy/06-niche-and-market-selection-strategy.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/01-business-model-and-strategy/08-starting-capital-margins-and-profit-planning.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

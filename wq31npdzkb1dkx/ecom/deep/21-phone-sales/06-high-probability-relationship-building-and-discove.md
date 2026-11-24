@@ -196,3 +196,5 @@ Follow-up replies to question 14 are delivered in a flat tone, depending on his 
 
 
 Part 6 of 7 of "21. Phone Sales: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/21-phone-sales.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/21-phone-sales/05-supplier-follow-up-cadence-and-record-keeping.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/21-phone-sales/07-core-sales-conversation-skills-and-training.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

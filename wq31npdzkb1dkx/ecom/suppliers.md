@@ -71,8 +71,6 @@
 
 **How do I handle returns?** Ask the supplier what they accept, then write a policy that matches it.
 
-**I am under 18. Can I do this?** Don't wait until 18. Waiting costs you years.
-
 ## Checklist
 
 - [ ] Supplier confirmed exact product, no MOQ, ships to my country
@@ -108,3 +106,5 @@
 - https://dlichters.com/wq31npdzkb1dkx/ecom/shopify-store.md
 - https://dlichters.com/wq31npdzkb1dkx/ecom/customer-service.md
 - https://dlichters.com/wq31npdzkb1dkx/ecom/index.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

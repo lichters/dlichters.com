@@ -3,11 +3,9 @@
 
 > Every rule, number, setting and step we collected on this topic, rewritten in our own words from many e-commerce courses (2021 to 2026). Where advice changed over time, newer advice wins; lines marked "older advice" are kept for context. Short version: https://dlichters.com/wq31npdzkb1dkx/ecom/index.md
 
-> Sources: every statement ends with its lesson ids and year, e.g. [L0012, 2023] or [L0458, 2021; L0771, 2025]. Which course and topic each id is: https://dlichters.com/wq31npdzkb1dkx/ecom/sources.md . When statements disagree, prefer the newer year.
+> Sources: every statement ends with its lesson ids and year, e.g. [L0012, 2023] or [L0458, 2021; L0771, 2025]. When statements disagree, prefer the newer year.
 
 All chapters: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/index.md
-
-Also check: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/23-missing-from-lessons/01-contents.md (section "12 Creatives and ad copy") ; https://dlichters.com/wq31npdzkb1dkx/ecom/deep/24-course-d-2026-details/03-12-creatives-and-ad-copy.md (section "12 Creatives and Ad Copy") ; https://dlichters.com/wq31npdzkb1dkx/ecom/deep/25-full-audit-details/12-creatives-and-ad-copy.md (section "12 Creatives and Ad Copy")
 
 
 **This chapter is split into 63 pages of at most about 4,000 words so an AI can open exactly the part it needs. Pick the page whose headings match the question, open it, and answer only from what it says.**
@@ -138,3 +136,5 @@ Also check: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/23-missing-from-lesso
    Claims, compliance and legal risk · Ground rules for every claim · Health, finance and regulated claims · Superlatives, hype and numeric claims · Urgency, scarcity and sale timing · Proof, reviews and credentials · Copying competitors and third-party content · Images and product photos · Reused video and platform detection · Music, trademarks and branding · Mailings and offline tactics · Pre-launch compliance check
 63. https://dlichters.com/wq31npdzkb1dkx/ecom/deep/12-creatives-and-ad-copy/63-other-details.md (1,944 words)
    Other details · Setup and onboarding · Naming a new store · Store readiness before traffic · Scope of ad copy by business model · Coupons and reviews · Delivery tiers for large or heavy products · Outreach to website owners about broken links · Door-to-door sampling · Focus rule · Learning copywriting · Copywriting case studies · Platform updates
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

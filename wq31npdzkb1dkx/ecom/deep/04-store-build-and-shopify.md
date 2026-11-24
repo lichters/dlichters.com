@@ -3,11 +3,9 @@
 
 > Every rule, number, setting and step we collected on this topic, rewritten in our own words from many e-commerce courses (2021 to 2026). Where advice changed over time, newer advice wins; lines marked "older advice" are kept for context. Short version: https://dlichters.com/wq31npdzkb1dkx/ecom/index.md
 
-> Sources: every statement ends with its lesson ids and year, e.g. [L0012, 2023] or [L0458, 2021; L0771, 2025]. Which course and topic each id is: https://dlichters.com/wq31npdzkb1dkx/ecom/sources.md . When statements disagree, prefer the newer year.
+> Sources: every statement ends with its lesson ids and year, e.g. [L0012, 2023] or [L0458, 2021; L0771, 2025]. When statements disagree, prefer the newer year.
 
 All chapters: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/index.md
-
-Also check: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/23-missing-from-lessons/01-contents.md (section "04 Store build and Shopify") ; https://dlichters.com/wq31npdzkb1dkx/ecom/deep/24-course-d-2026-details/01-when-to-read-this.md (section "04 Store Build and Shopify") ; https://dlichters.com/wq31npdzkb1dkx/ecom/deep/25-full-audit-details/04-store-build-and-shopify.md (section "04 Store Build and Shopify")
 
 
 **This chapter is split into 49 pages of at most about 4,000 words so an AI can open exactly the part it needs. Pick the page whose headings match the question, open it, and answer only from what it says.**
@@ -106,3 +104,5 @@ Also check: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/23-missing-from-lesso
    Blog and content · Seasonal setup · Store build or outsourcing · B2B and trade pages · Learning resources and help sources
 49. https://dlichters.com/wq31npdzkb1dkx/ecom/deep/04-store-build-and-shopify/49-other-details.md (3,158 words)
    Other details · Build order: niche and modules first · Shopify build sequence · Build time: what each source says · Design priorities for a new store · Conversion-ready store (Phase 3) · Using competitor stores as benchmarks · Fixing a weak store with limited time · Store settings and theme details · Trust documents, copying and legal protection · Split testing on Shopify · Digital product stores · AI and store-building help · Tools and storage · Amazon and eBay listings · Ad settings linked to the store · Influencer marketing for niche products · Finance template (P&L) · Launch timing and traffic · Unresolved source
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

@@ -231,3 +231,5 @@ Sources disagree on the rate, because each one describes a different program or 
 
 
 Part 17 of 28 of "1. Business Model and Strategy: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/01-business-model-and-strategy.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/01-business-model-and-strategy/16-growth-levers-aov-repeat-purchases-and-customer-li.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/01-business-model-and-strategy/18-content-organic-traffic-and-audience-ownership.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

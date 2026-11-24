@@ -138,3 +138,5 @@ The hire at $5/h frees 40 owner hours per month (10 per week); the hire at $15/h
 
 
 Part 43 of 46 of "19. Metrics Finance and Tracking: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/19-metrics-finance-and-tracking.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/19-metrics-finance-and-tracking/42-market-and-competitor-estimation.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/19-metrics-finance-and-tracking/44-valuing-and-selling-a-store-numbers-buyers-check.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

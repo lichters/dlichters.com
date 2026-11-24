@@ -142,3 +142,5 @@ Sources disagree on length. Each applies in different conditions.
 
 
 Part 15 of 23 of "17. Customer Service Returns and Chargebacks: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/17-customer-service-returns-and-chargebacks.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/17-customer-service-returns-and-chargebacks/14-damaged-defective-wrong-or-missing-items-and-sizin.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/17-customer-service-returns-and-chargebacks/16-fraud-screening-and-risky-orders.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

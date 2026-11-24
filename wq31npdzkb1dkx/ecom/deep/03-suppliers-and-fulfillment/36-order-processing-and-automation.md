@@ -255,3 +255,5 @@ Capture timing differs by source, and both are recorded.
 
 
 Part 36 of 51 of "3. Suppliers and Fulfillment: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/03-suppliers-and-fulfillment.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/03-suppliers-and-fulfillment/35-supplier-location-and-reach.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/03-suppliers-and-fulfillment/37-zapier-automation-for-email-orders.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

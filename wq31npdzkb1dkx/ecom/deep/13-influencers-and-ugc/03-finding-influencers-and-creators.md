@@ -199,3 +199,5 @@ A seller testing a teddy bear product found it hard to crack with ads and turned
 
 
 Part 3 of 14 of "13. Influencers and UGC: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/13-influencers-and-ugc.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/13-influencers-and-ugc/02-building-and-qualifying-the-prospect-list.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/13-influencers-and-ugc/04-vetting-influencers-and-spotting-fakes.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

@@ -13,3 +13,5 @@ Part 23 of 28 of "1. Business Model and Strategy: full technical reference". Map
 
 
 Part 23 of 28 of "1. Business Model and Strategy: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/01-business-model-and-strategy.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/01-business-model-and-strategy/22-brand-building-private-label-and-moving-beyond-dro.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/01-business-model-and-strategy/24-team-outsourcing-agencies-and-partnerships.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

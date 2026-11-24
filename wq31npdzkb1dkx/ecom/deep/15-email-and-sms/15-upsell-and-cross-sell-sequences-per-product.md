@@ -245,3 +245,5 @@ Hey {billing first name}, it has been a while since your last purchase from {sto
 
 
 Part 15 of 29 of "15. Email and SMS: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/15-email-and-sms.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/15-email-and-sms/14-post-purchase-transactional-and-retention-flows.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/15-email-and-sms/16-source-conflicts-and-version-notes.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

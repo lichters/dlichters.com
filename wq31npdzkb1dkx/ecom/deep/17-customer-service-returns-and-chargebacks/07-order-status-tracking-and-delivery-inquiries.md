@@ -293,3 +293,5 @@ Warm regards,
 
 
 Part 7 of 23 of "17. Customer Service Returns and Chargebacks: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/17-customer-service-returns-and-chargebacks.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/17-customer-service-returns-and-chargebacks/06-support-tone-soft-skills-and-handling-difficult-cu.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/17-customer-service-returns-and-chargebacks/08-order-changes-cancellations-and-out-of-stock-handl.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

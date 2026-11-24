@@ -253,3 +253,5 @@ To check whether an ad is still running:
 
 
 Part 25 of 35 of "9. Meta and Facebook Ads: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/09-meta-and-facebook-ads.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/09-meta-and-facebook-ads/24-bottom-of-funnel-and-cold-video-campaign-mix.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/09-meta-and-facebook-ads/26-diagnosing-performance-metrics-aida-and-benchmarks.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

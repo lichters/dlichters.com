@@ -253,3 +253,5 @@ We'll be back tomorrow.
 
 
 Part 2 of 23 of "17. Customer Service Returns and Chargebacks: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/17-customer-service-returns-and-chargebacks.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/17-customer-service-returns-and-chargebacks/01-designing-the-support-operation-scope-channels-and.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/17-customer-service-returns-and-chargebacks/03-tidio-setup.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

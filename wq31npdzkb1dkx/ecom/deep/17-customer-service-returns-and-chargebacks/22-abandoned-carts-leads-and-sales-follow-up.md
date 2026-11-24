@@ -227,3 +227,5 @@ Procedure for customers who left a negative review or complaint: [L1377, 2022+]
 
 
 Part 22 of 23 of "17. Customer Service Returns and Chargebacks: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/17-customer-service-returns-and-chargebacks.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/17-customer-service-returns-and-chargebacks/21-post-sale-calls-reviews-and-customer-feedback.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/17-customer-service-returns-and-chargebacks/23-other-details.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

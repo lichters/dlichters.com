@@ -156,3 +156,5 @@ Steps to build a new pre-lander test from an existing one: [L1299, 2026]
 
 
 Part 2 of 40 of "6. Conversion Optimization: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/06-conversion-optimization.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/06-conversion-optimization/01-what-conversion-optimization-is-and-how-to-measure.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/06-conversion-optimization/03-funnel-diagnostics-finding-where-visitors-leak.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

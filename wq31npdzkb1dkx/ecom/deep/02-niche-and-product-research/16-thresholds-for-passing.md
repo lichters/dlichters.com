@@ -224,3 +224,5 @@ Sources disagree on the threshold. The 100,000 figure is used in the current tes
 
 
 Part 16 of 54 of "2. Niche and Product Research: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/02-niche-and-product-research.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/02-niche-and-product-research/15-drop-ship-friendliness-and-future-competitors.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/02-niche-and-product-research/17-common-mistakes.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

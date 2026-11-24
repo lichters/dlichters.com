@@ -171,3 +171,5 @@ Complete these steps in order before creating a Google Merchant Center, Google A
 
 
 Part 6 of 56 of "10. Google Ads and Shopping: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/10-google-ads-and-shopping.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/10-google-ads-and-shopping/05-starting-daily-budgets.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/10-google-ads-and-shopping/07-setting-up-google-accounts-ads-analytics-search-co.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

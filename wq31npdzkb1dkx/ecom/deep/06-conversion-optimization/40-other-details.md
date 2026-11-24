@@ -56,3 +56,5 @@ Part 40 of 40 of "6. Conversion Optimization: full technical reference". Map of 
 
 
 Part 40 of 40 of "6. Conversion Optimization: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/06-conversion-optimization.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/06-conversion-optimization/39-pinterest-conversion-setup.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

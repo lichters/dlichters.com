@@ -179,3 +179,5 @@ Part 8 of 28 of "1. Business Model and Strategy: full technical reference". Map 
 
 
 Part 8 of 28 of "1. Business Model and Strategy: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/01-business-model-and-strategy.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/01-business-model-and-strategy/07-customer-competitor-and-positioning-research.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/01-business-model-and-strategy/09-launch-plan-and-timeline.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

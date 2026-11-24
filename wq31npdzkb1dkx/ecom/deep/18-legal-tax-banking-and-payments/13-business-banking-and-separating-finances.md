@@ -168,3 +168,5 @@ Example:
 
 
 Part 13 of 34 of "18. Legal Tax Banking and Payments: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/18-legal-tax-banking-and-payments.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/18-legal-tax-banking-and-payments/12-accountants-lawyers-bookkeeping-and-records.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/18-legal-tax-banking-and-payments/14-business-credit-cards-rewards-and-supplier-payment.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

@@ -134,3 +134,5 @@ Thank you,
 
 
 Part 29 of 30 of "14. SEO and Content: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/14-seo-and-content.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/14-seo-and-content/28-link-sources.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/14-seo-and-content/30-youtube-and-video-seo.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

@@ -225,3 +225,5 @@ Starting quantity. The sources give different values:
 
 
 Part 31 of 49 of "4. Store Build and Shopify: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/04-store-build-and-shopify.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/04-store-build-and-shopify/30-product-media.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/04-store-build-and-shopify/32-product-page-design-and-templates.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

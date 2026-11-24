@@ -127,3 +127,5 @@ In this video you are going to learn [the specific outcome the viewer gets] and 
 
 
 Part 61 of 63 of "12. Creatives and Ad Copy: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/12-creatives-and-ad-copy.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/12-creatives-and-ad-copy/60-abandoned-cart-and-recovery-messages.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/12-creatives-and-ad-copy/62-claims-compliance-and-legal-risk.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

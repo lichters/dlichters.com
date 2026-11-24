@@ -237,3 +237,5 @@ Hello [SUPPLIER CONTACT], I'd like to run a promotion on our store. When a custo
 
 
 Part 4 of 7 of "21. Phone Sales: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/21-phone-sales.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/21-phone-sales/03-calling-abandoned-checkouts.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/21-phone-sales/05-supplier-follow-up-cadence-and-record-keeping.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

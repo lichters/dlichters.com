@@ -218,3 +218,5 @@ Procedure: planning before moving abroad for long-term travel [L1441, 2018]
 
 
 Part 6 of 34 of "18. Legal Tax Banking and Payments: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/18-legal-tax-banking-and-payments.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/18-legal-tax-banking-and-payments/05-what-to-tell-suppliers.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/18-legal-tax-banking-and-payments/07-common-mistakes.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

@@ -78,3 +78,5 @@ Part 50 of 56 of "10. Google Ads and Shopping: full technical reference". Map of
 
 
 Part 50 of 56 of "10. Google Ads and Shopping: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/10-google-ads-and-shopping.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/10-google-ads-and-shopping/49-youtube-demand-gen-and-display-prospecting.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/10-google-ads-and-shopping/51-performance-max-and-automation.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

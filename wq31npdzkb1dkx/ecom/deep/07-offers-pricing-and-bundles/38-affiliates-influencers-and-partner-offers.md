@@ -113,3 +113,5 @@ Part 38 of 40 of "7. Offers Pricing and Bundles: full technical reference". Map 
 
 
 Part 38 of 40 of "7. Offers Pricing and Bundles: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/07-offers-pricing-and-bundles.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/07-offers-pricing-and-bundles/37-high-ticket-b2b-and-negotiated-deals.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/07-offers-pricing-and-bundles/39-digital-products-services-private-label-and-direct.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

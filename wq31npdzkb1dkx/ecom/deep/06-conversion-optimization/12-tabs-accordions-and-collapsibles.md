@@ -232,3 +232,5 @@ Part 12 of 40 of "6. Conversion Optimization: full technical reference". Map of 
 
 
 Part 12 of 40 of "6. Conversion Optimization: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/06-conversion-optimization.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/06-conversion-optimization/11-product-page-and-landing-page-structure.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/06-conversion-optimization/13-ready-to-paste-blocks-and-prompts.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

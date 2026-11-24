@@ -3,11 +3,9 @@
 
 > Every rule, number, setting and step we collected on this topic, rewritten in our own words from many e-commerce courses (2021 to 2026). Where advice changed over time, newer advice wins; lines marked "older advice" are kept for context. Short version: https://dlichters.com/wq31npdzkb1dkx/ecom/index.md
 
-> Sources: every statement ends with its lesson ids and year, e.g. [L0012, 2023] or [L0458, 2021; L0771, 2025]. Which course and topic each id is: https://dlichters.com/wq31npdzkb1dkx/ecom/sources.md . When statements disagree, prefer the newer year.
+> Sources: every statement ends with its lesson ids and year, e.g. [L0012, 2023] or [L0458, 2021; L0771, 2025]. When statements disagree, prefer the newer year.
 
 All chapters: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/index.md
-
-Also check: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/23-missing-from-lessons/01-contents.md (section "17 Customer service, returns and chargebacks") ; https://dlichters.com/wq31npdzkb1dkx/ecom/deep/24-course-d-2026-details/04-16-retargeting.md (section "17 Customer Service Returns and Chargebacks") ; https://dlichters.com/wq31npdzkb1dkx/ecom/deep/25-full-audit-details/17-customer-service-returns-and-chargebacks.md (section "17 Customer Service Returns and Chargebacks")
 
 
 **This chapter is split into 23 pages of at most about 4,000 words so an AI can open exactly the part it needs. Pick the page whose headings match the question, open it, and answer only from what it says.**
@@ -58,3 +56,5 @@ Also check: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/23-missing-from-lesso
    Abandoned carts, leads and sales follow-up · Who follows up, and how fast · Abandoned checkouts: where to find them and what to send · Contact timing rules · SMS and text messages · Live chat, phone and service leads · Personal video follow-up · Phone orders · Reputation management and complaint handling · Principles of reputation work · Response standard and speed · Triage of negative reviews · Reply templates · Trustpilot: analysing the profile · Trustpilot: handling a negative profile · Subscription and cancellation complaints · Public comments and ad moderation · Imitators and public notices · Consumer complaint services · Case: a complaint service filing after a pricing error · Recovering customers and turning complaints into improvements · Mistakes that cause lasting reputation damage · Documentation, record-keeping and operational safeguards · Order and communication records · Evidence for disputes · Supplier information · Supplier relations and escalation · Insurance · Sales tax and payouts · Refund exposure and cash reserves · Sensitive files and AI-accessible folders
 23. https://dlichters.com/wq31npdzkb1dkx/ecom/deep/17-customer-service-returns-and-chargebacks/23-other-details.md (3,287 words)
    Other details · Payment, collections and chargebacks · Shipping, delivery and checkout costs · Supplier quality and supplier relations · Customer communication · Customer targeting · Platform support, accounts and policy compliance · Ads and click quality · Marketplace delivery commitments (Google Shopping Actions)
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

@@ -218,3 +218,5 @@ Part 17 of 46 of "19. Metrics Finance and Tracking: full technical reference". M
 
 
 Part 17 of 46 of "19. Metrics Finance and Tracking: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/19-metrics-finance-and-tracking.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/19-metrics-finance-and-tracking/16-platform-versus-analytics-reconciliation.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/19-metrics-finance-and-tracking/18-daily-and-weekly-ad-analysis-workflow.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

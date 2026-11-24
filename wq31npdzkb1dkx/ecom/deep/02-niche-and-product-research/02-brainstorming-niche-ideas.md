@@ -216,3 +216,5 @@ Use this as a Facebook post to your own connections or as a direct message to pe
 
 
 Part 2 of 54 of "2. Niche and Product Research: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/02-niche-and-product-research.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/02-niche-and-product-research/01-choosing-a-business-model-and-setting-research-goa.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/02-niche-and-product-research/03-step-6-ai-assisted-expansion.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

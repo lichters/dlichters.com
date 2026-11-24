@@ -232,3 +232,5 @@ Photoshop and other cut-out options:
 
 
 Part 18 of 41 of "5. Apps and Tools: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/05-apps-and-tools.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/05-apps-and-tools/17-product-options-personalization-and-digital-produc.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/05-apps-and-tools/19-product-image-editing-and-backgrounds.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

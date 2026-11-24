@@ -334,3 +334,5 @@ Blank cells mean the column has no further entries.
 
 
 Part 54 of 54 of "2. Niche and Product Research: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/02-niche-and-product-research.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/02-niche-and-product-research/53-validation-worked-niche-cases.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

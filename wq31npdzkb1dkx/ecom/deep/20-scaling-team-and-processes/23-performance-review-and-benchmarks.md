@@ -37,3 +37,5 @@ Part 23 of 37 of "20. Scaling Team and Processes: full technical reference". Map
 
 
 Part 23 of 37 of "20. Scaling Team and Processes: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/20-scaling-team-and-processes.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/20-scaling-team-and-processes/22-choosing-and-managing-agencies-and-ad-outsourcing.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/20-scaling-team-and-processes/24-access-control-and-account-security-for-helpers.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

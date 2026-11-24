@@ -172,3 +172,5 @@ Turn the 30-day roadmap into a shorter working version. Give one line per action
 
 
 Part 17 of 37 of "20. Scaling Team and Processes: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/20-scaling-team-and-processes.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/20-scaling-team-and-processes/16-pay-bonuses-retention-and-contracts.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/20-scaling-team-and-processes/18-delegating-operations-customer-service-fulfillment.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

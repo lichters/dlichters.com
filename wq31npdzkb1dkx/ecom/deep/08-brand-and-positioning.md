@@ -3,11 +3,9 @@
 
 > Every rule, number, setting and step we collected on this topic, rewritten in our own words from many e-commerce courses (2021 to 2026). Where advice changed over time, newer advice wins; lines marked "older advice" are kept for context. Short version: https://dlichters.com/wq31npdzkb1dkx/ecom/index.md
 
-> Sources: every statement ends with its lesson ids and year, e.g. [L0012, 2023] or [L0458, 2021; L0771, 2025]. Which course and topic each id is: https://dlichters.com/wq31npdzkb1dkx/ecom/sources.md . When statements disagree, prefer the newer year.
+> Sources: every statement ends with its lesson ids and year, e.g. [L0012, 2023] or [L0458, 2021; L0771, 2025]. When statements disagree, prefer the newer year.
 
 All chapters: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/index.md
-
-Also check: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/23-missing-from-lessons/01-contents.md (section "08 Brand and positioning") ; https://dlichters.com/wq31npdzkb1dkx/ecom/deep/24-course-d-2026-details/02-07-offers-pricing-and-bundles.md (section "08 Brand and Positioning") ; https://dlichters.com/wq31npdzkb1dkx/ecom/deep/25-full-audit-details/08-brand-and-positioning.md (section "08 Brand and Positioning")
 
 
 **This chapter is split into 26 pages of at most about 4,000 words so an AI can open exactly the part it needs. Pick the page whose headings match the question, open it, and answer only from what it says.**
@@ -64,3 +62,5 @@ Also check: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/23-missing-from-lesso
    Trust-based brand ethics and reputation · Honesty in claims and copy · Product accuracy and specifications · Sourcing transparency · Origin stories and founder claims · Reviews and social proof · Audience and community targeting · Originality and design · Persuasion limits · Business choice and reputation protection · Brand protection and trademarks · Trademark decisions · Registration by jurisdiction · Copyright · Copying competitors' assets · Infringement detection and reporting · Defense against copycats · Localization, expansion and exit value · Localizing for a new language market · Expanding to a second country · Domains and separate stores per market · Multi-store branding · Niche expansion and product sets · Building a brand across platforms · Brand value at sale · Exit value and the long-term goal · Marketplace listings and broker sales · Monetizing the brand through an ecosystem
 26. https://dlichters.com/wq31npdzkb1dkx/ecom/deep/08-brand-and-positioning/26-other-details.md (1,526 words)
    Other details · Product testing · Brand foundations · Storefront and content · Traffic · Pricing and offers · Email and post-purchase · Business-to-business sales · Team structure · Seasonal planning · AI and process · Learning resources
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

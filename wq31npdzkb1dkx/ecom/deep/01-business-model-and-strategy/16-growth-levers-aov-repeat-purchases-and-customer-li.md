@@ -188,3 +188,5 @@ Where sources give different values, each applies to a different scope.
 
 
 Part 16 of 28 of "1. Business Model and Strategy: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/01-business-model-and-strategy.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/01-business-model-and-strategy/15-conversion-advertorials-and-funnel-design.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/01-business-model-and-strategy/17-relationship-based-growth-dream-100-partners-affil.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

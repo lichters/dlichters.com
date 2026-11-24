@@ -248,3 +248,5 @@ Club partnership procedure:
 
 
 Part 22 of 26 of "8. Brand and Positioning: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/08-brand-and-positioning.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/08-brand-and-positioning/21-content-community-and-personal-branding.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/08-brand-and-positioning/23-packaging-inserts-and-customization-levels.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

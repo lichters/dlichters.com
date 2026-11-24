@@ -130,3 +130,5 @@ Questions about these Terms of Service should be sent to us at {Business email}.
 
 
 Part 27 of 34 of "18. Legal Tax Banking and Payments: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/18-legal-tax-banking-and-payments.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/18-legal-tax-banking-and-payments/26-privacy-policy-template.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/18-legal-tax-banking-and-payments/28-privacy-cookies-gdpr-and-marketing-consent.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

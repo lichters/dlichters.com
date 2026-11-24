@@ -232,3 +232,5 @@ Example 2, subject 'My dog ate the invoice (and what it taught me)'. Body: 'The 
 
 
 Part 24 of 29 of "15. Email and SMS: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/15-email-and-sms.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/15-email-and-sms/23-tone-and-personality-description.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/15-email-and-sms/25-product-launch-giveaway-and-event-campaigns.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

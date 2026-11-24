@@ -3,11 +3,9 @@
 
 > Every rule, number, setting and step we collected on this topic, rewritten in our own words from many e-commerce courses (2021 to 2026). Where advice changed over time, newer advice wins; lines marked "older advice" are kept for context. Short version: https://dlichters.com/wq31npdzkb1dkx/ecom/index.md
 
-> Sources: every statement ends with its lesson ids and year, e.g. [L0012, 2023] or [L0458, 2021; L0771, 2025]. Which course and topic each id is: https://dlichters.com/wq31npdzkb1dkx/ecom/sources.md . When statements disagree, prefer the newer year.
+> Sources: every statement ends with its lesson ids and year, e.g. [L0012, 2023] or [L0458, 2021; L0771, 2025]. When statements disagree, prefer the newer year.
 
 All chapters: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/index.md
-
-Also check: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/23-missing-from-lessons/01-contents.md (section "10 Google Ads and Shopping") ; https://dlichters.com/wq31npdzkb1dkx/ecom/deep/25-full-audit-details/10-google-ads-and-shopping.md (section "10 Google Ads and Shopping")
 
 
 **This chapter is split into 56 pages of at most about 4,000 words so an AI can open exactly the part it needs. Pick the page whose headings match the question, open it, and answer only from what it says.**
@@ -124,3 +122,5 @@ Also check: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/23-missing-from-lesso
    Reaching Support and Live Chat · Avoiding New Accounts · Reps, Scams and Unsolicited Offers · Agencies and Outsourcing
 56. https://dlichters.com/wq31npdzkb1dkx/ecom/deep/10-google-ads-and-shopping/56-other-details.md (3,624 words)
    Other details · Launch order and first targets · Funnel and channel mix · Scaling into advanced Google Ads types · Budget, bidding and cost signals · Campaign setup and account settings · Niche research on Google Shopping · Competitor tracking · Search terms, content and SEO · Other channels and marketplaces · Ad costs, seasonality and market data · Google Ads interface and changes · Store operations and shipping · Learning and working habits
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

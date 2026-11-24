@@ -216,3 +216,5 @@ Part 10 of 49 of "4. Store Build and Shopify: full technical reference". Map of 
 
 
 Part 10 of 49 of "4. Store Build and Shopify: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/04-store-build-and-shopify.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/04-store-build-and-shopify/09-shopify-markets.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/04-store-build-and-shopify/11-trust-badges-guarantees-and-checkout-banner.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

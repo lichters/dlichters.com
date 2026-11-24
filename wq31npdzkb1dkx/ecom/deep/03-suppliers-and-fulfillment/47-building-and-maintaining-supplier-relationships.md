@@ -134,7 +134,7 @@ Formula: greeting with the name, a sincere holiday wish for them and their famil
 
 Examples:
 - Hi Maria, wishing you and your team a great holiday season. I hope we get to work together next year.
-- Hi David, happy holidays to you and your family. Looking forward to building a partnership in the new year.
+- Hi Mark, happy holidays to you and your family. Looking forward to building a partnership in the new year.
 
 [L0939, 2020-26]
 
@@ -254,3 +254,5 @@ Procedure:
 
 
 Part 47 of 51 of "3. Suppliers and Fulfillment: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/03-suppliers-and-fulfillment.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/03-suppliers-and-fulfillment/46-cases.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/03-suppliers-and-fulfillment/48-supplier-management-sops.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

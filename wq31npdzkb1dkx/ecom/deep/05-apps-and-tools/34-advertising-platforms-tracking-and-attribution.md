@@ -199,3 +199,5 @@ Conflict note: sources disagree on when to adopt Triple Whale. One source says t
 
 
 Part 34 of 41 of "5. Apps and Tools: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/05-apps-and-tools.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/05-apps-and-tools/33-feed-optimization-for-ctr-and-competitor-monitorin.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/05-apps-and-tools/35-utm-tracking-for-partners-and-banners.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

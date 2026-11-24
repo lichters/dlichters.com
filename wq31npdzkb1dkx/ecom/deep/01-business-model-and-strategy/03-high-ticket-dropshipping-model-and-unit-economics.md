@@ -116,3 +116,5 @@ Part 3 of 28 of "1. Business Model and Strategy: full technical reference". Map 
 
 
 Part 3 of 28 of "1. Business Model and Strategy: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/01-business-model-and-strategy.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/01-business-model-and-strategy/02-print-on-demand.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/01-business-model-and-strategy/04-where-to-operate-country-market-and-legal-entity.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

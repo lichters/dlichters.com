@@ -51,3 +51,5 @@ Part 29 of 40 of "6. Conversion Optimization: full technical reference". Map of 
 
 
 Part 29 of 40 of "6. Conversion Optimization: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/06-conversion-optimization.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/06-conversion-optimization/28-cart-optimization-and-upsells.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/06-conversion-optimization/30-email-and-phone-capture-pop-ups-opt-ins-and-lead-m.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

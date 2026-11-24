@@ -244,3 +244,5 @@ Send a UGC brief to a creator in this order: [L0992, 2025-26]
 
 
 Part 8 of 14 of "13. Influencers and UGC: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/13-influencers-and-ugc.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/13-influencers-and-ugc/07-gifting-and-seeding-campaigns.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/13-influencers-and-ugc/09-running-and-optimizing-influencer-campaigns.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

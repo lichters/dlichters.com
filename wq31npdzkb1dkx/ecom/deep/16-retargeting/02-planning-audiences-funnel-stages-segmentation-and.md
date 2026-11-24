@@ -330,3 +330,5 @@ Part 2 of 10 of "16. Retargeting: full technical reference". Map of all parts: h
 
 
 Part 2 of 10 of "16. Retargeting: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/16-retargeting.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/16-retargeting/01-why-retargeting-matters-and-what-to-expect.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/16-retargeting/03-building-meta-youtube-and-other-platform-audiences.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

@@ -288,3 +288,5 @@ Procedure for a shipping cost that wipes out the margin on a product sold at MAP
 
 
 Part 24 of 51 of "3. Suppliers and Fulfillment: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/03-suppliers-and-fulfillment.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/03-suppliers-and-fulfillment/23-negotiating-better-terms.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/03-suppliers-and-fulfillment/25-price-setting-without-map.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

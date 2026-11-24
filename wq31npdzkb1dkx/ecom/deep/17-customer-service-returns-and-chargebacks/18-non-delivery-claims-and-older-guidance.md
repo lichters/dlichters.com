@@ -36,3 +36,5 @@ To contest a chargeback: [L0352, 2022]
 
 
 Part 18 of 23 of "17. Customer Service Returns and Chargebacks: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/17-customer-service-returns-and-chargebacks.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/17-customer-service-returns-and-chargebacks/17-responding-to-chargebacks-and-payment-disputes.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/17-customer-service-returns-and-chargebacks/19-automation-help-desk-and-self-service-tools.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

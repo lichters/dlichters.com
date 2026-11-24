@@ -141,3 +141,5 @@ one source's owner ladder is older advice (2021-22). Its structure still applies
 
 
 Part 25 of 28 of "22. Mindset and Planning: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/22-mindset-and-planning.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/22-mindset-and-planning/24-mastermind-setup.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/22-mindset-and-planning/26-think-creatively-and-solve-problems.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

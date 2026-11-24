@@ -176,3 +176,5 @@ Why it works: visitors only convert when they understand the terms the offer use
 
 
 Part 8 of 40 of "6. Conversion Optimization: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/06-conversion-optimization.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/06-conversion-optimization/07-ai-driven-cro-audits-setup-procedure-and-prompts.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/06-conversion-optimization/09-page-types-product-page-landing-page-homepage-and.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

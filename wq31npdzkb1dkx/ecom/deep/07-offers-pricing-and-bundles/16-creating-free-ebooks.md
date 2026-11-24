@@ -145,3 +145,5 @@ Act as an ecommerce copywriter. My product is [PRODUCT NAME]. Its main customer 
 
 
 Part 16 of 40 of "7. Offers Pricing and Bundles: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/07-offers-pricing-and-bundles.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/07-offers-pricing-and-bundles/15-bonuses-and-free-gifts.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/07-offers-pricing-and-bundles/17-fulfilment-of-gifts.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

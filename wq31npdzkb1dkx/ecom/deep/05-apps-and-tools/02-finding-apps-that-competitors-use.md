@@ -42,3 +42,5 @@ Part 2 of 41 of "5. Apps and Tools: full technical reference". Map of all parts:
 
 
 Part 2 of 41 of "5. Apps and Tools: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/05-apps-and-tools.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/05-apps-and-tools/01-choosing-and-managing-apps-principles-budget-and-s.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/05-apps-and-tools/03-domain-business-email-and-phone-setup.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

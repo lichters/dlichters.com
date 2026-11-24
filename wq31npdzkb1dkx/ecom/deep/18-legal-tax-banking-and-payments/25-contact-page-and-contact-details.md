@@ -240,3 +240,5 @@ Thank you for your feedback. I have revised our [policy name] and pasted the new
 
 
 Part 25 of 34 of "18. Legal Tax Banking and Payments: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/18-legal-tax-banking-and-payments.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/18-legal-tax-banking-and-payments/24-store-policies-and-legal-pages.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/18-legal-tax-banking-and-payments/26-privacy-policy-template.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

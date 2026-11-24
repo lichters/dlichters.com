@@ -17,3 +17,5 @@ Part 2 of 46 of "19. Metrics Finance and Tracking: full technical reference". Ma
 
 
 Part 2 of 46 of "19. Metrics Finance and Tracking: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/19-metrics-finance-and-tracking.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/19-metrics-finance-and-tracking/01-why-numbers-come-first-profit-cash-and-knowing-you.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/19-metrics-finance-and-tracking/03-unit-economics-margin-cogs-and-net-profit-per-sale.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

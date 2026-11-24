@@ -177,3 +177,5 @@ Before committing to a niche:
 
 
 Part 1 of 54 of "2. Niche and Product Research: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/02-niche-and-product-research.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/02-niche-and-product-research/02-brainstorming-niche-ideas.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

@@ -178,3 +178,5 @@ Key attributes of a product reminder ad [L1169, 2021-22]:
 
 
 Part 35 of 63 of "12. Creatives and Ad Copy: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/12-creatives-and-ad-copy.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/12-creatives-and-ad-copy/34-search-shopping-and-display-ad-copy.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/12-creatives-and-ad-copy/36-ad-formats-and-concept-templates.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

@@ -236,3 +236,5 @@ Composition: [Material Type]
 
 
 Part 32 of 49 of "4. Store Build and Shopify: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/04-store-build-and-shopify.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/04-store-build-and-shopify/31-manual-product-creation.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/04-store-build-and-shopify/33-variant-descriptions-and-variant-selection.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

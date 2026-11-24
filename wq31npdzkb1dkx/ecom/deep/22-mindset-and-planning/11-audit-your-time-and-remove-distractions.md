@@ -137,3 +137,5 @@ Part 11 of 28 of "22. Mindset and Planning: full technical reference". Map of al
 
 
 Part 11 of 28 of "22. Mindset and Planning: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/22-mindset-and-planning.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/22-mindset-and-planning/10-plan-weeks-and-days-and-prioritize.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/22-mindset-and-planning/12-find-and-break-one-weakness-with-discipline-and-ha.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

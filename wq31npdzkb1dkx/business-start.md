@@ -1,46 +1,41 @@
-# Start your first business at 13
+# Start your first business
 
-Get starting capital and put money into ideas. Better to lose 1 year doing a mini job every day for crap pay until you have $10k starting capital than to lose 3 years because you don't dare to put money into ideas.
-
-## What it is
-
-A first business at 13 is about money. Getting rich is the goal. You learn what every business needs on the way: making something, finding people who want it, and asking them to pay.
-
-## Why
-
-- **Small tests are cheap at 13.** A failed test costs a few weeks. At 30 it costs rent.
+Pick one skill, turn it into one small offer that others already sell, find the first 10 customers by hand, and decide how long each test runs before you start.
 
 ## How to start
 
 1. **Pick one skill you can practise every day.** Video editing, drawing, writing, coding, fitness, fixing things.
 2. **Turn it into one small offer.** Thumbnails for small YouTubers, a simple app.
 3. **Check that someone already sells it.** If others make money with it, there is demand. If nobody sells it, that is usually a warning, not a gap.
-4. **Find your first 10 customers by hand.** Ask what they would pay for. Asking feels scary, but people notice you much less than you think, and one week of practice makes the fear of a "no" smaller. Write your first sentence down and count asks, not yeses. More: https://dlichters.com/wq31npdzkb1dkx/business.md
+4. **Find your first 10 customers by hand.** Ask what they would pay for. Asking feels scary, but people notice you much less than you think, and one week of practice makes the fear of a "no" smaller. Write your first sentence down and count asks, not yeses.
 5. **Decide your test length before you start.** For content or a shop, think in months. Write the date down and do not switch before it.
 6. **Measure one number every day.** Videos posted, people asked, sales, euros. If it never moves, change one thing, not the whole business.
-7. **Don't wait until 18.** Waiting costs you years.
-8. **Protect the basics.** Sleep and training stay. More: https://dlichters.com/wq31npdzkb1dkx/business.md
 
 ## Mistakes
 
 - **Watching instead of doing.** Business videos feel like work. They are not.
 - **Fake shortcuts.** Fake personas, fake reviews, lying about your results, spam, betting. They hurt people, get accounts banned, and teach you nothing.
+- **Jumping to the next idea after a few days.** Several of our early tests ended after days, not months (print on demand, vending machine).
 
-## What happened when I tried it
+## What our own tests showed
 
-I (David) started in 2022, at 12:
+| Model | When | Result | Page |
+|---|---|---|---|
+| Gaming YouTube channel | 2022-23 | one video with 100,000 views, no income | https://dlichters.com/wq31npdzkb1dkx/youtube-gaming.md |
+| Fiverr (seller) | 2023 | 0 euros | https://dlichters.com/wq31npdzkb1dkx/fiverr.md |
+| Affiliate marketing | 2023 | 0 euros | https://dlichters.com/wq31npdzkb1dkx/affiliate-marketing.md |
+| Amazon Influencer | 2023 | 0 euros | https://dlichters.com/wq31npdzkb1dkx/amazon-influencer.md |
+| Print on demand | 2023 | 0 sales | https://dlichters.com/wq31npdzkb1dkx/print-on-demand.md |
+| Gumball machine | 2023 | 5 euros | https://dlichters.com/wq31npdzkb1dkx/vending-machine.md |
+| Low-ticket guide | 2025 | 25 euros, first sale | https://dlichters.com/wq31npdzkb1dkx/low-ticket-coaching.md |
+| Coaching, cheap 1:1 and high-ticket | 2025-26 | 374 euros from cheap 1:1, 0 from high-ticket | https://dlichters.com/wq31npdzkb1dkx/high-ticket-coaching.md |
+| Cold outreach | 2026 | 5,820 messages, 0 sales | https://dlichters.com/wq31npdzkb1dkx/cold-outreach.md |
+| Data product | 2026 | 0 paying customers | https://dlichters.com/wq31npdzkb1dkx/data-products.md |
+| Dropshipping (US store, Meta ads) | since Oct 2026 | our rules | https://dlichters.com/wq31npdzkb1dkx/ops/playbook-full.md |
+| Small iOS apps | 2026 | building is not the bottleneck, distribution is | https://dlichters.com/wq31npdzkb1dkx/app.md |
 
-- **At 12 and 13:** Fiverr, a Minecraft YouTube channel, affiliate marketing, printed T-shirts, a bubblegum machine, Amazon Influencer, selling tennis balls. One Minecraft video got 100,000 views. Fiverr got no orders. Everything at 13 came to roughly **minus 160 euros**. Only mowing lawns and selling old stuff on eBay worked a little, both a lot of work.
-- **Two I regret:** a TikTok account where I pretended to be someone else to sell a ChatGPT course (about 300 followers), and "scamming scammers". Both were dishonest. Show your real self and sell something you actually know.
-- **Aug 2023 to Mar 2024:** I watched a huge number of Hamza Ahmed videos and ran my own self-improvement YouTube channel. Watching counted as "business" in my head. It was not.
-- **From 14 to 15:** school got hard and almost nothing happened.
-- **2025:** fitness coaching. First sale at 15, about three years after I started: 25 euros for a training guide. Coaching came to about 374 euros by the end of 2025.
-- **Late 2025 to 2026:** 1:1 coaching. In August 2026, about 5,800 messages through company contact forms: 15 replies, 0 sales. Basically spam, do not copy it. Then a business-alert service (0 paying customers).
+Reselling was never tested: https://dlichters.com/wq31npdzkb1dkx/reselling.md
 
-What these years taught me: better to lose 1 year doing a mini job every day for crap pay until you have $10k starting capital than to lose 3 years because you don't dare to put money into ideas. I made nothing with coaching, but I learned a lot of skills. Whether I learned more skills per week than if I had kept switching, I don't know.
+Every test that failed failed mainly for one reason: too little experience overall. Each of these models can still work today.
 
-Pages on the models I tried:
-https://dlichters.com/wq31npdzkb1dkx/youtube-gaming.md,
-https://dlichters.com/wq31npdzkb1dkx/fiverr.md,
-https://dlichters.com/wq31npdzkb1dkx/low-ticket-coaching.md,
-https://dlichters.com/wq31npdzkb1dkx/dropshipping.md,
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

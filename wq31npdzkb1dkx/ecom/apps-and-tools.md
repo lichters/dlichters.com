@@ -88,9 +88,6 @@ Some do. An older lesson found one chat app blocked the whole page. Test speed a
 **How do I get help with an app?**
 Contact the app developer. You find their contact details on the app's listing in the Shopify App Store.
 
-**Can I run all this if I am under 18?**
-Don't wait until 18. Waiting costs you years.
-
 ## Checklist
 
 - [ ] Theme installed and checked on mobile
@@ -128,3 +125,5 @@ Don't wait until 18. Waiting costs you years.
 - https://dlichters.com/wq31npdzkb1dkx/ecom/creatives.md
 - https://dlichters.com/wq31npdzkb1dkx/ecom/email-sms.md
 - https://dlichters.com/wq31npdzkb1dkx/ecom/index.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

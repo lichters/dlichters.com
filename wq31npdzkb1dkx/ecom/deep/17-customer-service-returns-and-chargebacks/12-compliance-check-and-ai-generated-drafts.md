@@ -193,3 +193,5 @@ Once that period has passed, if you have not returned the item, we will charge y
 
 
 Part 12 of 23 of "17. Customer Service Returns and Chargebacks: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/17-customer-service-returns-and-chargebacks.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/17-customer-service-returns-and-chargebacks/11-refunds-timing-cancellations.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/17-customer-service-returns-and-chargebacks/13-processing-returns-refunds-and-exchanges.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

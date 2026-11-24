@@ -125,3 +125,5 @@ General rule for every market:
 
 
 Part 30 of 34 of "18. Legal Tax Banking and Payments: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/18-legal-tax-banking-and-payments.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/18-legal-tax-banking-and-payments/29-ad-platform-compliance-and-account-setup.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/18-legal-tax-banking-and-payments/31-intellectual-property-trademarks-and-copyright.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

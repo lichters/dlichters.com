@@ -245,3 +245,5 @@ Use this when time is limited:
 
 
 Part 19 of 41 of "5. Apps and Tools: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/05-apps-and-tools.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/05-apps-and-tools/18-design-branding-and-image-tools.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/05-apps-and-tools/20-logo-creation.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

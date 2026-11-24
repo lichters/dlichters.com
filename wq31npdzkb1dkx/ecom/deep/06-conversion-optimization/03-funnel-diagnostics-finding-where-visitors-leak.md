@@ -163,3 +163,5 @@ Part 3 of 40 of "6. Conversion Optimization: full technical reference". Map of a
 
 
 Part 3 of 40 of "6. Conversion Optimization: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/06-conversion-optimization.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/06-conversion-optimization/02-when-to-start-readiness-and-the-pre-traffic-launch.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/06-conversion-optimization/04-diagnosis-tree-low-checkout-completion.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

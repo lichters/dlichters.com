@@ -527,3 +527,5 @@ Reusing one Klaviyo email design across a flow: [L0477, undated]
 
 
 Part 21 of 29 of "15. Email and SMS: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/15-email-and-sms.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/15-email-and-sms/20-email-copywriting-design-and-templates.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/15-email-and-sms/22-design-method-comparison.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

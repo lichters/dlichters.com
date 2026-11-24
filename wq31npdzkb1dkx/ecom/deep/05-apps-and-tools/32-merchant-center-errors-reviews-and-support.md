@@ -91,3 +91,5 @@ Part 32 of 41 of "5. Apps and Tools: full technical reference". Map of all parts
 
 
 Part 32 of 41 of "5. Apps and Tools: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/05-apps-and-tools.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/05-apps-and-tools/31-product-feeds-google-merchant-center-and-shopping.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/05-apps-and-tools/33-feed-optimization-for-ctr-and-competitor-monitorin.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

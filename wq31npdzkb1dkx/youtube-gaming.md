@@ -1,7 +1,15 @@
-# Start a gaming YouTube channel
+# A gaming YouTube channel
 
-In October 2022, when I was 12, I started a Minecraft YouTube channel. It was my first real attempt to make money online. One video, uploaded in March 2023, reached **100,000 views**. My mistake: one big video is not a business, and I never made more like it. Later I ran a self-improvement YouTube channel, and a fitness TikTok account I started in January 2025 had about 18,000 followers by January 2026.
+You post videos about games and earn once the channel has a large, regular audience.
 
-**Why it didn't work:** the only reason was that I had very little experience overall. This model can still work today. Just because it didn't work for me back then doesn't mean it can't work now. With my experience today, I'm convinced almost any of these would work for me.
+## Our test (from October 2022)
 
-More: [All business models](https://dlichters.com/wq31npdzkb1dkx/index.md) · [Founder story](https://dlichters.com/wq31npdzkb1dkx/story.md)
+A Minecraft YouTube channel. One video, uploaded in March 2023, reached **100,000 views**. The mistake: one big video is not a business, and more videos like it never followed.
+
+**Result: no income.**
+
+## Why it failed
+
+Too little experience overall. The model can still work today.
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

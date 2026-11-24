@@ -63,7 +63,7 @@ Yes. One student had 8 months without success and then made 67,000 dollars in on
 **Can I start without experience?**
 Yes. You get better only by launching, so start fast and learn from real data.
 
-**Can I do this next to school or a job?**
+**Can I do this next to a job?**
 Yes, it can be built on the side. With 1 hour a day you move slower than someone with 4, and that is fine.
 
 **Why does the start feel so slow?**
@@ -106,3 +106,5 @@ One 2026 lesson says about 80% of success. Staying calm and executing through pr
 - https://dlichters.com/wq31npdzkb1dkx/ecom/niche-and-products.md
 - https://dlichters.com/wq31npdzkb1dkx/ecom/meta-ads.md
 - https://dlichters.com/wq31npdzkb1dkx/ecom/index.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

@@ -265,3 +265,5 @@ Procedure:
 
 
 Part 36 of 37 of "20. Scaling Team and Processes: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/20-scaling-team-and-processes.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/20-scaling-team-and-processes/35-business-partners-mentors-and-community-support.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/20-scaling-team-and-processes/37-preparing-a-store-for-sale-or-shutdown.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

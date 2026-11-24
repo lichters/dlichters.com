@@ -214,3 +214,5 @@ Ask the AI to take the pasted Amazon reviews and describe the target audience fo
 
 
 Part 31 of 54 of "2. Niche and Product Research: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/02-niche-and-product-research.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/02-niche-and-product-research/30-research-order-before-testing.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/02-niche-and-product-research/32-attention-matrix.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

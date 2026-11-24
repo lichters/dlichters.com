@@ -232,3 +232,5 @@ Part 16 of 37 of "20. Scaling Team and Processes: full technical reference". Map
 
 
 Part 16 of 37 of "20. Scaling Team and Processes: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/20-scaling-team-and-processes.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/20-scaling-team-and-processes/15-warnings-termination-and-hiring.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/20-scaling-team-and-processes/17-team-structure-roles-and-work-tools.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

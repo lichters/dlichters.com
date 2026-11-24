@@ -167,3 +167,5 @@ Test the five first-view elements:
 
 
 Part 35 of 40 of "6. Conversion Optimization: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/06-conversion-optimization.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/06-conversion-optimization/34-testing-methodology-and-the-cro-cycle.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/06-conversion-optimization/36-prioritizing-and-running-the-optimization-plan.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

@@ -16,3 +16,5 @@ Part 32 of 34 of "18. Legal Tax Banking and Payments: full technical reference".
 
 
 Part 32 of 34 of "18. Legal Tax Banking and Payments: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/18-legal-tax-banking-and-payments.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/18-legal-tax-banking-and-payments/31-intellectual-property-trademarks-and-copyright.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/18-legal-tax-banking-and-payments/33-liability-insurance-and-risk-protection.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

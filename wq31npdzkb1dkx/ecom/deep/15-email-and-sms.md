@@ -3,11 +3,9 @@
 
 > Every rule, number, setting and step we collected on this topic, rewritten in our own words from many e-commerce courses (2021 to 2026). Where advice changed over time, newer advice wins; lines marked "older advice" are kept for context. Short version: https://dlichters.com/wq31npdzkb1dkx/ecom/index.md
 
-> Sources: every statement ends with its lesson ids and year, e.g. [L0012, 2023] or [L0458, 2021; L0771, 2025]. Which course and topic each id is: https://dlichters.com/wq31npdzkb1dkx/ecom/sources.md . When statements disagree, prefer the newer year.
+> Sources: every statement ends with its lesson ids and year, e.g. [L0012, 2023] or [L0458, 2021; L0771, 2025]. When statements disagree, prefer the newer year.
 
 All chapters: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/index.md
-
-Also check: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/23-missing-from-lessons/01-contents.md (section "15 Email and SMS") ; https://dlichters.com/wq31npdzkb1dkx/ecom/deep/25-full-audit-details/15-email-and-sms.md (section "15 Email and SMS")
 
 
 **This chapter is split into 29 pages of at most about 4,000 words so an AI can open exactly the part it needs. Pick the page whose headings match the question, open it, and answer only from what it says.**
@@ -70,3 +68,5 @@ Also check: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/23-missing-from-lesso
    Testing, Measurement and Optimization · Where to Test: Campaigns or Flows · Test Design and Sequencing · Baselines and Changelog Tests · Format and Copy Tests · Frequency and Engagement Metrics · Reading Results by Inbox Provider and Domain · Judging Campaigns After the Full Send · Attribution and Reporting · Flow Audits · Claims to Treat with Care · Common Mistakes
 29. https://dlichters.com/wq31npdzkb1dkx/ecom/deep/15-email-and-sms/29-outreach-and-supplier-email.md (3,385 words)
    Outreach and Supplier Email · Mailbox setup and profile photo · Warm-up limits · Signature and unsubscribe handling · Cold outreach sequence · Subject lines · Outreach templates · Supplier follow-up · Composer fallbacks, checks and campaign settings · Pitfalls · Customer support email · Other details · Inbox and team tools · Building and owning audiences · Affiliate follow-up emails · Collecting extra shipping charges after the order · Subscriber opt-out and re-subscription · Product title tags · Sales claims (not practice rules)
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

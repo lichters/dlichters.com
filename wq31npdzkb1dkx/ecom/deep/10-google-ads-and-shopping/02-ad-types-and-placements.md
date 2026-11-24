@@ -170,3 +170,5 @@ Procedure for a target country: [L0788, undated]
 
 
 Part 2 of 56 of "10. Google Ads and Shopping: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/10-google-ads-and-shopping.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/10-google-ads-and-shopping/01-how-google-ads-works-and-where-it-fits.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/10-google-ads-and-shopping/03-interface-change-mindset.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

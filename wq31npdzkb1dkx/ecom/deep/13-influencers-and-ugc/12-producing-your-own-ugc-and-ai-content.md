@@ -135,3 +135,5 @@ Write 10 image prompts for a UGC-style photo of one person holding my book. Give
 
 
 Part 12 of 14 of "13. Influencers and UGC: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/13-influencers-and-ugc.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/13-influencers-and-ugc/11-planning-ugc-and-choosing-sources.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/13-influencers-and-ugc/13-customer-generated-content-and-reviews.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

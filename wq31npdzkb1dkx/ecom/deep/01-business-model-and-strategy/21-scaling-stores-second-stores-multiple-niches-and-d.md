@@ -158,3 +158,5 @@ Sources define maintenance mode with different levels of detail. The versions ar
 
 
 Part 21 of 28 of "1. Business Model and Strategy: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/01-business-model-and-strategy.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/01-business-model-and-strategy/20-b2b-trade-and-local-service-side-businesses.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/01-business-model-and-strategy/22-brand-building-private-label-and-moving-beyond-dro.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

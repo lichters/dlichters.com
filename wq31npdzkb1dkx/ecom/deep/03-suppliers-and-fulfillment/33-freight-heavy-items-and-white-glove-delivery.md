@@ -289,3 +289,5 @@ Procedure: arranging freight shipping on your own account (2025)
 
 
 Part 33 of 51 of "3. Suppliers and Fulfillment: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/03-suppliers-and-fulfillment.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/03-suppliers-and-fulfillment/32-customs-duties-and-cross-border-shipments.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/03-suppliers-and-fulfillment/34-pick-the-carrier-type-parcel-or-freight.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

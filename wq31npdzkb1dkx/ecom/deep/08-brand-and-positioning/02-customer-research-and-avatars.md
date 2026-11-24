@@ -181,3 +181,5 @@ Part 2 of 26 of "8. Brand and Positioning: full technical reference". Map of all
 
 
 Part 2 of 26 of "8. Brand and Positioning: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/08-brand-and-positioning.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/08-brand-and-positioning/01-what-a-brand-is-and-when-to-build-one.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/08-brand-and-positioning/03-problems-desires-beliefs-and-motivations-in-the-av.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

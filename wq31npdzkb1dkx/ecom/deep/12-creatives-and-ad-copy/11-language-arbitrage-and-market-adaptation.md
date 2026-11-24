@@ -106,3 +106,5 @@ Note: the messaging row cites [L0772, 2026] and [L0374, 2026] for structure-only
 
 
 Part 11 of 63 of "12. Creatives and Ad Copy: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/12-creatives-and-ad-copy.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/12-creatives-and-ad-copy/10-replicating-and-remixing-proven-competitor-ads.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/12-creatives-and-ad-copy/12-psychology-and-persuasion-principles.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

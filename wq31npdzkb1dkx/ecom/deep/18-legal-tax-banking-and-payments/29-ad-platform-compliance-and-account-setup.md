@@ -233,3 +233,5 @@ Part 29 of 34 of "18. Legal Tax Banking and Payments: full technical reference".
 
 
 Part 29 of 34 of "18. Legal Tax Banking and Payments: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/18-legal-tax-banking-and-payments.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/18-legal-tax-banking-and-payments/28-privacy-cookies-gdpr-and-marketing-consent.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/18-legal-tax-banking-and-payments/30-product-claims-and-advertising-legality.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

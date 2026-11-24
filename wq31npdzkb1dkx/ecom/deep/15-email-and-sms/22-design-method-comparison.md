@@ -41,3 +41,5 @@ Part 22 of 29 of "15. Email and SMS: full technical reference". Map of all parts
 
 
 Part 22 of 29 of "15. Email and SMS: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/15-email-and-sms.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/15-email-and-sms/21-flow-email-templates.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/15-email-and-sms/23-tone-and-personality-description.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

@@ -274,3 +274,5 @@ Combined audience = all website visitors (any page, matching the URL) minus visi
 
 
 Part 3 of 10 of "16. Retargeting: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/16-retargeting.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/16-retargeting/02-planning-audiences-funnel-stages-segmentation-and.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/16-retargeting/04-dynamic-product-retargeting-on-google.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

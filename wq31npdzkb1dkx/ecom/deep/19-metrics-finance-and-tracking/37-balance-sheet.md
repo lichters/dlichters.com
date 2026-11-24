@@ -98,3 +98,5 @@ Part 37 of 46 of "19. Metrics Finance and Tracking: full technical reference". M
 
 
 Part 37 of 46 of "19. Metrics Finance and Tracking: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/19-metrics-finance-and-tracking.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/19-metrics-finance-and-tracking/36-bookkeeping-p-l-balance-sheet-and-cash-flow.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/19-metrics-finance-and-tracking/38-cash-management-profit-first-taxes-and-budgeting.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

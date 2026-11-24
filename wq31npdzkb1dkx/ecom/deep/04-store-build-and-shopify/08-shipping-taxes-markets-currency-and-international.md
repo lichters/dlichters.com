@@ -204,3 +204,5 @@ Part 8 of 49 of "4. Store Build and Shopify: full technical reference". Map of a
 
 
 Part 8 of 49 of "4. Store Build and Shopify: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/04-store-build-and-shopify.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/04-store-build-and-shopify/07-payments.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/04-store-build-and-shopify/09-shopify-markets.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

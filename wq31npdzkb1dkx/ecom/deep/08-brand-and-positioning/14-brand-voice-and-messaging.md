@@ -200,3 +200,5 @@ Use the Magic Headline Formula to write 10 product name options for [PRODUCT]. E
 
 
 Part 14 of 26 of "8. Brand and Positioning: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/08-brand-and-positioning.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/08-brand-and-positioning/13-typography.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/08-brand-and-positioning/15-storytelling-and-credibility.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

@@ -248,3 +248,5 @@ Limited time: free white glove in-home delivery on purchases of [minimum amount,
 
 
 Part 13 of 40 of "7. Offers Pricing and Bundles: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/07-offers-pricing-and-bundles.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/07-offers-pricing-and-bundles/12-checking-supplier-rules-before-discounting.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/07-offers-pricing-and-bundles/14-optional-services-and-add-ons.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

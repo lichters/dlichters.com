@@ -181,3 +181,5 @@ Connecting Shopify to Meta (2022 setup, Facebook sales channel):
 
 
 Part 42 of 49 of "4. Store Build and Shopify: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/04-store-build-and-shopify.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/04-store-build-and-shopify/41-4-store-build-and-shopify-full-technical-reference.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/04-store-build-and-shopify/43-speed-apps-and-technical-health.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

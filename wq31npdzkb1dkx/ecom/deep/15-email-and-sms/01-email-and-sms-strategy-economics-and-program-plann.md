@@ -253,3 +253,5 @@ Sources differ on the share. Use each value under the conditions stated.
 
 
 Part 1 of 29 of "15. Email and SMS: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/15-email-and-sms.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/15-email-and-sms/02-platform-choice-account-setup-and-sender-identity.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

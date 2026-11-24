@@ -132,3 +132,5 @@ Part 27 of 46 of "19. Metrics Finance and Tracking: full technical reference". M
 
 
 Part 27 of 46 of "19. Metrics Finance and Tracking: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/19-metrics-finance-and-tracking.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/19-metrics-finance-and-tracking/26-google-ads-and-shopping-reporting-and-optimization.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/19-metrics-finance-and-tracking/28-email-retargeting-and-owned-channel-metrics.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

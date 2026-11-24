@@ -150,3 +150,5 @@ Note: the timing sources are not all the same age; the older (2019-2022) entries
 
 
 Part 3 of 37 of "20. Scaling Team and Processes: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/20-scaling-team-and-processes.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/20-scaling-team-and-processes/02-owner-time-task-audit-and-what-to-delegate.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/20-scaling-team-and-processes/04-documenting-processes-sops-checklists-and-training.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

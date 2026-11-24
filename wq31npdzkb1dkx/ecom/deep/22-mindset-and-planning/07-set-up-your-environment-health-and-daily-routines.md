@@ -117,3 +117,5 @@ Part 7 of 28 of "22. Mindset and Planning: full technical reference". Map of all
 
 
 Part 7 of 28 of "22. Mindset and Planning: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/22-mindset-and-planning.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/22-mindset-and-planning/06-know-your-strengths-values-and-working-style.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/22-mindset-and-planning/08-build-the-goal-ladder-and-financial-targets.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

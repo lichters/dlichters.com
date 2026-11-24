@@ -213,3 +213,5 @@ Part 7 of 56 of "10. Google Ads and Shopping: full technical reference". Map of 
 
 
 Part 7 of 56 of "10. Google Ads and Shopping: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/10-google-ads-and-shopping.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/10-google-ads-and-shopping/06-pre-launch-compliance-and-store-readiness.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/10-google-ads-and-shopping/08-shopify-without-the-feed-app-conversion-pixel-rout.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

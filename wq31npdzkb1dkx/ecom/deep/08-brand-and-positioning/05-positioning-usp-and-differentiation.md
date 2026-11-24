@@ -191,3 +191,5 @@ Part 5 of 26 of "8. Brand and Positioning: full technical reference". Map of all
 
 
 Part 5 of 26 of "8. Brand and Positioning: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/08-brand-and-positioning.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/08-brand-and-positioning/04-market-awareness-sophistication-and-segmentation.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/08-brand-and-positioning/06-differentiating-without-the-price-fight.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

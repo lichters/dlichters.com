@@ -225,3 +225,5 @@ The platform then learns that you are interested in this type of product and sho
 
 
 Part 42 of 54 of "2. Niche and Product Research: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/02-niche-and-product-research.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/02-niche-and-product-research/41-finding-products-on-tiktok-and-social-platforms.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/02-niche-and-product-research/43-tiktok-product-research-workflow.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

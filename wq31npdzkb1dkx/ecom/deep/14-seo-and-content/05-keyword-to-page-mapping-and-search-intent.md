@@ -155,3 +155,5 @@ Case, product-group keyword "L-shaped standing desk": the team checked the organ
 
 
 Part 5 of 30 of "14. SEO and Content: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/14-seo-and-content.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/14-seo-and-content/04-keyword-research-and-tools.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/14-seo-and-content/06-category-mapping-and-topical-authority.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

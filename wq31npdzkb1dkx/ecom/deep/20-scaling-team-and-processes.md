@@ -3,11 +3,9 @@
 
 > Every rule, number, setting and step we collected on this topic, rewritten in our own words from many e-commerce courses (2021 to 2026). Where advice changed over time, newer advice wins; lines marked "older advice" are kept for context. Short version: https://dlichters.com/wq31npdzkb1dkx/ecom/index.md
 
-> Sources: every statement ends with its lesson ids and year, e.g. [L0012, 2023] or [L0458, 2021; L0771, 2025]. Which course and topic each id is: https://dlichters.com/wq31npdzkb1dkx/ecom/sources.md . When statements disagree, prefer the newer year.
+> Sources: every statement ends with its lesson ids and year, e.g. [L0012, 2023] or [L0458, 2021; L0771, 2025]. When statements disagree, prefer the newer year.
 
 All chapters: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/index.md
-
-Also check: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/23-missing-from-lessons/01-contents.md (section "20 Scaling, team and processes") ; https://dlichters.com/wq31npdzkb1dkx/ecom/deep/24-course-d-2026-details/04-16-retargeting.md (section "20 Scaling Team and Processes") ; https://dlichters.com/wq31npdzkb1dkx/ecom/deep/25-full-audit-details/20-scaling-team-and-processes.md (section "20 Scaling Team and Processes")
 
 
 **This chapter is split into 37 pages of at most about 4,000 words so an AI can open exactly the part it needs. Pick the page whose headings match the question, open it, and answer only from what it says.**
@@ -86,3 +84,5 @@ Also check: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/23-missing-from-lesso
    Operating rhythm: tracking, finances and change logs · Daily and weekly checks for a live store · Tracking setup · Planning that feeds daily work · Changelogs · CRO test boards · P&L and bookkeeping · Profit allocation · Hiring thresholds tied to revenue · Reviewing metrics
 37. https://dlichters.com/wq31npdzkb1dkx/ecom/deep/20-scaling-team-and-processes/37-preparing-a-store-for-sale-or-shutdown.md (3,538 words)
    Preparing a store for sale or shutdown · Making a store sellable without the owner · Documentation and SOPs · Building and handing over the team · Contracts with staff and suppliers · Notifying suppliers and staff · Post-signing handover · Valuation factors · Portfolio buyers · Sale channels and brokers · Closing a store instead of selling · Other details · Owner role and team growth · Delegation and done-for-you services · Working setup and tools · Business identity and accounts · Store build and technical checks · Offers and average order value · Product research and validation · Competitor signals · Product range and rebranding · Sub-niches and multi-niche stores · Launch sequence and growth · Copy, direct mail and product arguments · Store updates and course materials · Owner income and reinvestment · Income beyond the own stores · Personal environment and idea generation · Case studies: store design and launch
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

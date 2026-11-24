@@ -127,3 +127,5 @@ Sources differ on when a brand investment makes sense. Each value applies to a d
 
 
 Part 1 of 26 of "8. Brand and Positioning: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/08-brand-and-positioning.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/08-brand-and-positioning/02-customer-research-and-avatars.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

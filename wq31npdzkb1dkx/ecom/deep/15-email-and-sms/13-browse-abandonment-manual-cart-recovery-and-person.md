@@ -226,3 +226,5 @@ Thank you for your patience,
 
 
 Part 13 of 29 of "15. Email and SMS: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/15-email-and-sms.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/15-email-and-sms/12-platform-walkthroughs.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/15-email-and-sms/14-post-purchase-transactional-and-retention-flows.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

@@ -1,49 +1,48 @@
-# How the Lichters app works
+# Small iOS apps as a business
 
-> Lichters is a free iPhone habit tracker (with widgets and an Apple Watch app) for six fixed daily habits on one grid for the whole year, plus friends who see each other's grids and a private vault for money ideas. No ads, no purchases, no tracking. The app is in English. The method behind it: https://dlichters.com/wq31npdzkb1dkx/index.md
+How we build and sell small iPhone apps for proven gaps in the App Store, and what we learned.
 
-## The main screen
+> We build many small iOS apps for proven gaps in the App Store, without ads, sold only through App Store search. 14 apps built by November 2026. The lesson so far: building is not the bottleneck, distribution is.
 
-- Six habits in a fixed order, shown as letters: f Friends, e Eating, b Business, t Training, o Offline, s Sleep.
-- Tick today's circle for a habit when it is done. Each tick fills a square in that habit's row of the year grid: 7 rows for the weekdays, about 52 columns for the weeks.
-- A missed day stays empty. There is no streak that falls back to zero; the year grid shows the pattern at a glance.
-- Tap a row to read exactly what counts for that habit, then set your own time, place and an optional reminder.
-- The six habits cannot be edited, removed or renamed, so the hard ones never get dropped on a bad day.
+## Before building
 
-## Friends
+- Only build where competitors provably make at least about 2,000 USD a month (measured with an app-store data tool).
+- Submit 2 apps a week; similar apps spaced apart, so Apple doesn't treat them as spam (guideline 4.3).
+- Never use straw-man or other people's accounts to get around spam rules.
 
-- Your Lichters ID comes with your iCloud account: no sign-up, no email, no password.
-- Copy your invite link and send it in any chat. It contains your Lichters ID and your first name. Whoever taps it sends you a friend request.
-- Friends you accept see your name and this year's grid; you see theirs. No chat, no feed, no likes, no public profile. Remove or block anyone at any time.
-- Technically: this year's ticks and your name are stored encrypted in the app's public iCloud (CloudKit) database. Only accepted friends get the key, plus Lichters support for help with problems. Your full history stays on your iPhone and in your own private iCloud.
-- Without iCloud the habits still work; friends need it.
+## Design rules
 
-## Money ideas vault
+- Inside, the app looks like Apple's built-in apps (Settings, Reminders, Timer). If a specific Apple screen is named, rebuild exactly that one.
+- Only Apple system colors through the API, never hex values. All buttons in system blue.
+- Colored text only on a light tint; on full color, text is white. No thin fonts.
+- Always compare side by side with real Apple apps, light and dark mode.
+- Logo: one shape showing what the app does, readable at 60 px, background a full gradient in the brand color or black, never a white tile. One brand color per app, used in logo, store headlines and accents. Build three logo options and pick the best next to the five competitor logos; it may not be the palest or least readable in that row.
+- Launch screen without a logo (iOS caches it, and an old logo kept appearing).
+- Store images light, with a realistic iPhone frame. The first image shows the one feature a stranger gets in 5 seconds.
 
-Why the privacy texts read the way they do (David's decision of 2026-10-18, option A, never "only you"): https://dlichters.com/wq31npdzkb1dkx/ourrules/app-factory-full/04-21-bug-memory-every-lesson-grouped.md section 25.
+## Money rules (free and Pro)
 
-- Tap the lightbulb and write down something you spotted that others overlook and that could make or save you money.
-- Add screenshots and links, or save straight from the share sheet ("Money Idea"), a widget, Control Center or Siri.
-- A weekly goal (3 ideas by default) and an optional reminder: at most one nudge a day (a popup on first open after 14:00, or a notification at the reminder time, 20:00 by default), none on a day you already saved an idea. If you ignore 3 in a row it drops to every other day, after 3 more to twice a week; a new idea resets it to daily. No hint repeats within 14 days.
-- Ideas are private: friends and other users never see them. Optional Face ID lock. Deleted ideas stay in Recently Deleted for 30 days.
-- Ideas sync end-to-end encrypted through your own iCloud; one extra encrypted copy only Lichters support can open. Ideas never go to any AI company.
+- The Pro offer appears once, after the welcome screen.
+- Exactly one value-based free limit that a user reaches in the first days. No nagging after that.
+- Ask for reviews only with Apple's own dialog, after positive moments: 3 requests in the first month, at least 6 days apart. Never a custom "rate us 1 to 5" pre-question (forbidden by Apple, guideline 5.6.1, and filtering bad reviews is misleading).
+- Revenue before reviews: don't change something for a few reviews if it costs sales.
+- No data sales, no ads in apps.
+- Price decisions come with a chart: revenue against churn, with the break-even point and sources.
 
-## Widgets and Watch
+## Quality system
 
-- Lichters widget: your last 6 days and today's habits on the Home Screen and Lock Screen.
-- Money Idea widget: add an idea with one tap. It never shows what you wrote.
-- Apple Watch: today's habits, ticked from the wrist, synced with the iPhone.
+- Every bug found gets an automatic check (code pattern, UI robot or design check) so it never comes back in any app.
+- Before showing an app: code rules, tests and a test robot that taps everything, cancels everything and measures contrast.
+- Check the real first launch: delete, install, tap through.
+- Real lessons: a "restore purchases" cancel showed "your purchases were restored" (an error was swallowed); a button inside an overlay above a list did nothing; store screenshots showed an old version because the script used another simulator; a subscriber in Apple's billing grace period would have lost Pro.
 
-## The Guide
+## Distribution checklist before every submission
 
-Tap "Lichters" at the top to open the Guide: what the six habits are for, lessons learned the hard way, and every business model the developer tested since 2022 with honest numbers. Once a week the app asks: How satisfied are you with your life, from 0 to 10? The answers stay on your device.
+1. Which ONE feature does a stranger understand in 5 seconds? Store image 1 shows it.
+2. A two-sentence description: what it does, for whom.
+3. Before the one-time Pro offer, the user has already put something of their own in.
+4. We used it ourselves like a customer once, first launch to purchase.
+5. A second reviewer graded store images, first launch and checkout 1 to 5; anything under 4 went back.
+6. No AI image shows someone else's character or brand.
 
-## Privacy in short
-
-Free, no ads, no tracking, no analytics, no third-party SDKs, nothing sold. Notifications are created by the iPhone itself. Face ID stays on the device. Full policy: https://dlichters.com/ai/privacy/ · Support: https://dlichters.com/ai/support/
-
-## How it is built
-
-Native SwiftUI app with four parts: the iPhone app, a widget extension (habit grid and money-idea widgets), a watchOS app and a share extension for saving ideas from other apps. Shared code lives in an app group. Friends and grids run on CloudKit's public database with per-user encryption keys; ideas on CloudKit private sync. The reminder logic is pure rules without UI so tests can check it with fixed dates.
-
-How we build apps in general: https://dlichters.com/wq31npdzkb1dkx/ourrules/app-factory.md
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

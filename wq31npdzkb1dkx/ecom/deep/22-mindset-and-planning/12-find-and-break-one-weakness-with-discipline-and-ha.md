@@ -135,3 +135,5 @@ A habit is formed by performing three steps consistently for about three to four
 
 
 Part 12 of 28 of "22. Mindset and Planning: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/22-mindset-and-planning.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/22-mindset-and-planning/11-audit-your-time-and-remove-distractions.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/22-mindset-and-planning/13-set-up-accountability-and-tracking-systems.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

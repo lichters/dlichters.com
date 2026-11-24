@@ -69,3 +69,5 @@ Moving to a new Shopify store while reusing content:
 
 
 Part 14 of 49 of "4. Store Build and Shopify: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/04-store-build-and-shopify.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/04-store-build-and-shopify/13-uploading-a-zip-file.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/04-store-build-and-shopify/15-brand-assets-logo-colors-fonts-and-image-productio.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

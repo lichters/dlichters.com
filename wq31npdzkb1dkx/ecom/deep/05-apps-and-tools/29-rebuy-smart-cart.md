@@ -159,3 +159,5 @@ Part 29 of 41 of "5. Apps and Tools: full technical reference". Map of all parts
 
 
 Part 29 of 41 of "5. Apps and Tools: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/05-apps-and-tools.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/05-apps-and-tools/28-upsells-bundles-cart-and-post-purchase-offers.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/05-apps-and-tools/30-bundle-apps.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

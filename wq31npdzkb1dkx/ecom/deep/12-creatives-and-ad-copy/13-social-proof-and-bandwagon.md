@@ -139,3 +139,5 @@ Part 13 of 63 of "12. Creatives and Ad Copy: full technical reference". Map of a
 
 
 Part 13 of 63 of "12. Creatives and Ad Copy: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/12-creatives-and-ad-copy.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/12-creatives-and-ad-copy/12-psychology-and-persuasion-principles.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/12-creatives-and-ad-copy/14-build-the-promise-from-the-four-core-emotions.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

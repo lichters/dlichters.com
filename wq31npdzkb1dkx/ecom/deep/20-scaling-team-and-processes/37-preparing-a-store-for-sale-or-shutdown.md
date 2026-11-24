@@ -240,3 +240,5 @@ A seller's wine-glass store made about $1,000 per month in net profit. The owner
 
 
 Part 37 of 37 of "20. Scaling Team and Processes: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/20-scaling-team-and-processes.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/20-scaling-team-and-processes/36-operating-rhythm-tracking-finances-and-change-logs.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

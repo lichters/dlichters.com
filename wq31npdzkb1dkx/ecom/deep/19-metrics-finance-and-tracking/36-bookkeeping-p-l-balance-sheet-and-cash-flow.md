@@ -204,3 +204,5 @@ Categories in the template, grouped by P&L section: [L0763, 2021-22]
 
 
 Part 36 of 46 of "19. Metrics Finance and Tracking: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/19-metrics-finance-and-tracking.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/19-metrics-finance-and-tracking/35-profit-errors-after-a-bogo-launch.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/19-metrics-finance-and-tracking/37-balance-sheet.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

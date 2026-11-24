@@ -227,3 +227,5 @@ Setup procedure for Claude Code in VS Code:
 
 
 Part 7 of 41 of "5. Apps and Tools: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/05-apps-and-tools.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/05-apps-and-tools/06-hiring-and-freelance-talent.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/05-apps-and-tools/08-connectors-and-integrations-mcp.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

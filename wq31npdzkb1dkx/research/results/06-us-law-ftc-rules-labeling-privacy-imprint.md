@@ -1,5 +1,5 @@
 <!-- part of research/results.md -->
-Part 6 of 6 of "Research results: everything we asked Perplexity, condensed". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/research/results.md · Previous: https://dlichters.com/wq31npdzkb1dkx/research/results/05-suppliers-and-agents-sourcing-hand-off-paying.md
+Part 6 of 6 of "Research results: e-commerce questions we researched, condensed". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/research/results.md · Previous: https://dlichters.com/wq31npdzkb1dkx/research/results/05-suppliers-and-agents-sourcing-hand-off-paying.md
 
 ## US law: FTC rules, labeling, privacy, imprint
 
@@ -54,38 +54,6 @@ No study quantifies the conversion loss of a visible contradiction ("no cancella
 **"30-day money-back guarantee" vs "satisfaction guarantee"** (2026-10-09)  
 No direct conversion test. FTC guides allow both terms only with full purchase price refund on request and clearly disclosed material conditions; "satisfaction" is no safe substitute for "exchange/store credit only" (16 CFR 239.3). Contradictions between badge and policy create deception risk that fine print does not cure. Under Part 435 a blanket "no cancellations" clause cannot cut the statutory cancel right for unshipped orders; refund within 7 working days.
 
-## AI tools, Claude, Meta and Shopify connectors
-
-**Which Perplexity model to use (test of 11 models, same question)** (2026-09-28)  
-GPT-6 Sol deep research: most sources (86) and consistent math; Claude Opus 5.5 deep research deep but missed the current pet number; GPT-6 Sol (normal) and Grok 4.7 careful and right; "Best" (auto), Nemotron, GLM unsuited for numbers (old data, undated agency blogs); Gemini only Flash, too thin. Lesson: depth does not protect against the wrong number; always check the key figure at its source. Reference figure then: Triple Whale 18 Aug 2026 pets CPM 16.27 USD, CPA 38.51, CTR 2.37 %, ROAS 1.60 (data 1 Aug 2025-31 Jul 2026); the often-quoted 9.56 USD CPM is 2025 full-year all markets.
-
-**AI automation for a two-person Shopify shop** (2026-09-29)  
-Order: Shopify Inbox Agent (0 USD) for repeat chat questions, Shopify Flow (free) with Sidekick for risk/stock/fulfillment exceptions, native AI reports of Shopify/Google/Meta, one research assistant. Gorgias, Triple Whale, Motion only after a proven volume problem. Shopify Basic 29 USD/month yearly or 39 USD monthly.
-
-**Autonomous AI agent setups in e-commerce** (2026-09-29)  
-"Best" means highest proven result at controlled risk, not maximum freedom. Daily loop: measure, diagnose, change, test, roll out, roll back. Typical missing parts before full autonomy: reliable evaluation, rollback, permissions, human approval for risky actions.
-
-**Tools that let Claude read and edit Meta ad accounts** (2026-09-30)  
-Windsor.ai Forever Free: 0 USD/month for one Meta account, read plus create/edit campaigns, ad sets, ads, budgets via MCP. Official Meta Ads MCP server recommended (Meta enforces account action locks and budget limits server-side); Claude Free suffices for a custom connector. Own Marketing API route: a Meta developer app, a system user in the Business Portfolio with app and ad account assigned, a restrictive system-user token (ads_read for reporting, ads_management for changes). Internal use by app-role people: Standard Access suffices; business verification and App Review only for Advanced Access / broader use.
-
-**Official Shopify connector (MCP) in Claude** (2026-09-30)  
-Can write products, collections, inventory and new percentage discount codes; read orders, customers, analytics; edit unpublished themes. Blocked: live theme changes, theme publishing, refunds, other payment/order actions. Fulfillment writes, full theme file operations, policies, payouts not reliably available. No extra cost; works on Claude Free.
-
-**Automating one Meta ad account with Claude** (2026-10-03)  
-Official Meta Ads MCP server since 29 Apr 2026: Meta OAuth, supports Claude, read and write, no own developer app or App Review, 0 USD during open beta. Create new objects paused and have a human confirm all writes. Never touch or work around restricted accounts.
-
-**Full Admin API access for our own AI agent on Shopify Basic** (2026-10-03)  
-Build your own single-store app in the Shopify Dev Dashboard with the GraphQL Admin API and the client-credentials token that auto-rotates every 24 h. Give only needed scopes; plan restrictions still apply.
-
-**Several Claude Max subscriptions and API prices** (2026-10-04)  
-Each founder may use his own Max subscription for his own normal work. Stacking several Max subscriptions or accounts as a quota pool to run 20-30 parallel Claude Code agents is not clean: Max is an individual consumer product, limits apply to "ordinary, individual usage", accounts may not be shared, automated/non-human use outside explicitly allowed ways is prohibited (Consumer Terms 8 Oct 2025, Help Center 22/24 Sep 2026). Reports of 13 banned Max 20x accounts in July 2026 (cause unconfirmed). Proper route for many agents: API with an organization account, API keys, workspaces, spend/rate limits. Users must be 18+ (or local age of consent).
-
-**Claude Code on the web with Max 20x** (2026-10-04)  
-Parallel cloud sessions allowed, no published maximum; they share the same 5-hour window and weekly limit as the local CLI (no extra pool). No compute fee for the cloud machine; extra usage costs extra. A local CLI with its own API key bills via the API, not Max. Decision: cloud sessions give no extra capacity.
-
-**Anthropic API prices (4 Oct 2026, unverified)** (2026-10-04)  
-USD per million tokens: Opus 5.5 input 4.00, output 20.00, cache write 5 min 5.00, 1 h 8.00, cache read 0.20, batch 2.00/10.00. Sonnet 5.5: 2.00 / 10.00, 2.50, 4.00, 0.20, batch 1.00/5.00. Haiku 4.5: 1.00 / 5.00, 1.25, 2.00, 0.10, batch 0.50/2.50. No surcharge above 200k context (up to 1 M at standard price), batch 50 % off, US-only compute 1.1x, Opus fast mode 8/40, new tokenizer from 4.7 about 30 % more tokens for the same text. We pay by subscription; numbers are only a yardstick.
-
 ## Other tools
 
 **WhatsApp Business and Google Workspace pricing** (2026-10-03)  
@@ -100,27 +68,6 @@ Store Leads: 3,108,807 Shopify stores, 75/250/450/950 USD/month, revenue modeled
 **Frame-by-frame TikTok shop scanner: does it exist?** (2026-10-14)  
 Apify "TikTok Video Text & Overlay Extractor" (1 Jun 2026) reads text, stickers, watermarks with timestamps; GitHub tiktok-extractor (24 May 2026): link to metadata, transcript, key frames, OCR; tiktokknowledgebase (17 Nov 2024). No tool maps revenue videos to Shopify domains; Kalodata, FastMoss (TikTok Shop data), PiPiADS (TikTok ads) have no proven video-to-domain route. Idea not publicly discussed (in found results).
 
-## Cold email
-
-**Cold email ramp from 40 to 70 per day (5-7 mailboxes, German SMB recipients)** (2026-09-30)  
-Raise 10-20 % every 3-5 sending days; stop raising at 1 % hard bounces, pull back or pause at 2 %; do not wait for 0.3 % spam complaints. Instantly ramp: +2 emails per mailbox per day. Google documents daily spam rates but no numeric safe ramp. Complaint rates are not a "spam budget".
-
-## "Who sells this already?" idea checks
-
-**"Who sells this already?" checks for B2B ideas (Germany/US)** (2026-10-05)  
-Expert exclusion history for litigation firms (Daubert/Frye per expert): no free complete product; competitors are proprietary databases and researched reports. Working-capital loans for craftsmen for bank commission: Tide already does it (no fee for business, success commission from lender); finanzcheckPRO via iwoca. Liquidation radar (customer list vs Bundesanzeiger dissolutions): Bundesanzeiger info service, Insolvenz-Radar (tiny free watchlist), Creditsafe. Insolvency early warning for B2B customers: Invareo 5 firms free, 200 firms 69 EUR/month; North Data 100 watchlist entries 49 EUR/month. Verdict: all occupied.
-
-## Founders and billionaires: what the data says
-
-**How self-made billionaires decided in their first years** (2026-11-06)  
-The proven common pattern is less "think big" than: spot a concrete advantage, test it against real behavior, concentrate resources on the decisive bottleneck. "Started with little or no capital" does not fit everyone: Bezos had early family and venture money, Koum had significant savings, Colin Huang was a successful founder before Pinduoduo. Evidence grades: A contemporaneous primary (letters, filings), B retrospective primary (interviews), C institutional/indirect. Bezos (Amazon 1994-1999), 1997 shareholder letter: judge investments by long-term market position, kill failing programs, fund winners; metrics customer growth and repeat purchases; IPO prospectus 15 May 1997: books chosen for huge selection, limited shelf space offline, informational buying.
-
-**How the richest e-commerce/consumer founders reached their first 100k-1M profit** (2026-11-06)  
-Breakthroughs came from a better product, credible distribution access or a more reliable supply chain, not from more ad budget. For most, the first 100k-1M profit is not publicly documented; early revenue, funding and valuation must not stand in for profit (Warby Parker, Hims had high revenue long before net profit). Shein (Chris Xu): cross-border online selling, first wedding dresses then women's fashion, SEM background; no own big production at first. Temu: started Sept 2022 inside an existing group, not a zero start.
-
-**Survivorship bias in billionaire advice** (2026-11-06)  
-Biographies show what successful people had, not how often people with those traits succeed. Denrell (Organization Science, June 2003): undersampling failures makes risky concentrated strategies look good. Azoulay, Jones, Kim & Miranda (2018/2020, about 2.7 M US founders, 2007-2014): average founding age of the top 0.1 % fastest-growing firms 45; a 50-year-old was about 1.8x as likely as a 30-year-old to be a top-growth founder. Relevant experience, risk-limited entry and medium rather than maximum risk-taking do better than the all-or-nothing young founder story; correlations, not guarantees.
-
 ## Pet safety facts
 
 **Holiday pet safety statements (checked against ASPCA/AVMA/Pet Poison Helpline)** (2026-10-04)  
@@ -131,14 +78,10 @@ Mostly correct; fixes concern xylitol in cats, grape/raisin evidence in cats, me
 **US holiday dates** (2026-10-03)  
 Thanksgiving 2026: Thursday 26 November 2026 (Black Friday 27 Nov, Cyber Monday 30 Nov). Christmas 2026 is a Friday.
 
-**Cancelling a German VPS contract (Contabo)** (2026-10-05)  
-Normal cancellation ends the VPS only at contract term end, no refund. Separate: 14-day consumer withdrawal, and a contract a minor concluded without parental consent (void/pending under § 108 BGB, unwinding possible). Contabo German T&Cs dated December 2025.
-
-**Minor's VPS contract (§ 108 BGB)** (2026-10-07)  
-A parent as legal representative can refuse approval under § 108(1) BGB without the 14-day limit (unlike consumer withdrawal); then the contract is void and payments incl. setup fees are generally refundable, minus possible counterclaims.
-
 **Facts checked for content** (2026-11-07)  
 USDA: 1,500 USD food waste per year for the average American family of four (USDA "Tips to Reduce Food Waste at Thanksgiving", 17 Nov 2020). USDA SNAP-Ed Seasonal Produce Guide lists produce per season. Scotch-Brite lint roller refill packs: Target mostly sells complete rollers, not refill-only packs.
 
 
-Part 6 of 6 of "Research results: everything we asked Perplexity, condensed". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/research/results.md · Previous: https://dlichters.com/wq31npdzkb1dkx/research/results/05-suppliers-and-agents-sourcing-hand-off-paying.md
+Part 6 of 6 of "Research results: e-commerce questions we researched, condensed". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/research/results.md · Previous: https://dlichters.com/wq31npdzkb1dkx/research/results/05-suppliers-and-agents-sourcing-hand-off-paying.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

@@ -132,3 +132,5 @@ Part 14 of 40 of "6. Conversion Optimization: full technical reference". Map of 
 
 
 Part 14 of 40 of "6. Conversion Optimization: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/06-conversion-optimization.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/06-conversion-optimization/13-ready-to-paste-blocks-and-prompts.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/06-conversion-optimization/15-unique-mechanism-and-features-to-benefits.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

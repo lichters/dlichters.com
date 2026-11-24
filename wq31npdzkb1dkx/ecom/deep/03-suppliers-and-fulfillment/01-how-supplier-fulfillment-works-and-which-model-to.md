@@ -206,3 +206,5 @@ When order volume grows, move to a private supplier to cut processing and shippi
 
 
 Part 1 of 51 of "3. Suppliers and Fulfillment: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/03-suppliers-and-fulfillment.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/03-suppliers-and-fulfillment/02-supplier-tiers-bronze-silver-gold-and-who-to-avoid.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

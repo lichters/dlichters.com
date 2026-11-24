@@ -93,3 +93,5 @@ Part 5 of 10 of "16. Retargeting: full technical reference". Map of all parts: h
 
 
 Part 5 of 10 of "16. Retargeting: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/16-retargeting.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/16-retargeting/04-dynamic-product-retargeting-on-google.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/16-retargeting/06-ad-sequencing-timing-and-frequency.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

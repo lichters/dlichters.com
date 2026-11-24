@@ -217,3 +217,5 @@ Sources give different time values. Each value applies to a different situation,
 
 
 Part 6 of 28 of "22. Mindset and Planning: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/22-mindset-and-planning.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/22-mindset-and-planning/05-visualization-and-mental-rehearsal.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/22-mindset-and-planning/07-set-up-your-environment-health-and-daily-routines.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

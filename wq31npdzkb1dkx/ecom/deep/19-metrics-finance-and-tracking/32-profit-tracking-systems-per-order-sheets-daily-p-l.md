@@ -144,3 +144,5 @@ Sources give different fee rates. Each value applies to the case described.
 
 
 Part 32 of 46 of "19. Metrics Finance and Tracking: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/19-metrics-finance-and-tracking.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/19-metrics-finance-and-tracking/31-instagram-trial-reels.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/19-metrics-finance-and-tracking/33-daily-p-l-and-funnel-trackers.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

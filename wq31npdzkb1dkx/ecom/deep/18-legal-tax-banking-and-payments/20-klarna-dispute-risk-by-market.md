@@ -97,3 +97,5 @@ Part 20 of 34 of "18. Legal Tax Banking and Payments: full technical reference".
 
 
 Part 20 of 34 of "18. Legal Tax Banking and Payments: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/18-legal-tax-banking-and-payments.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/18-legal-tax-banking-and-payments/19-payment-methods-paypal-financing-and-local-options.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/18-legal-tax-banking-and-payments/21-authorization-capture-and-out-of-stock-handling.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

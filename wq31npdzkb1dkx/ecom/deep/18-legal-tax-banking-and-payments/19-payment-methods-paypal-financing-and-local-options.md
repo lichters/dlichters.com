@@ -245,3 +245,5 @@ Please create an info graphic showing how to use [payment option, e.g. Shop Pay 
 
 
 Part 19 of 34 of "18. Legal Tax Banking and Payments: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/18-legal-tax-banking-and-payments.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/18-legal-tax-banking-and-payments/18-shopify-markets-currency-and-local-pricing.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/18-legal-tax-banking-and-payments/20-klarna-dispute-risk-by-market.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

@@ -297,3 +297,5 @@ A seven-figure store with about 3 million dollars in annual sales handled 300 to
 
 
 Part 9 of 23 of "17. Customer Service Returns and Chargebacks: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/17-customer-service-returns-and-chargebacks.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/17-customer-service-returns-and-chargebacks/08-order-changes-cancellations-and-out-of-stock-handl.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/17-customer-service-returns-and-chargebacks/10-writing-shipping-returns-refund-and-warranty-polic.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

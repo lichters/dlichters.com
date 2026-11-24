@@ -225,3 +225,5 @@ Ads often spend little overnight, when buyers are not in buying mode. [L1436, un
 
 
 Part 30 of 37 of "20. Scaling Team and Processes: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/20-scaling-team-and-processes.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/20-scaling-team-and-processes/29-duplication-methods.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/20-scaling-team-and-processes/31-protecting-a-winning-product.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

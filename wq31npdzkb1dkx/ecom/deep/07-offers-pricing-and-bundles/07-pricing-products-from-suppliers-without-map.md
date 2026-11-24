@@ -187,3 +187,5 @@ Use this procedure to set a selling price when a supplier has no MAP:
 
 
 Part 7 of 40 of "7. Offers Pricing and Bundles: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/07-offers-pricing-and-bundles.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/07-offers-pricing-and-bundles/06-map-msrp-and-wholesale-reading-supplier-pricing.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/07-offers-pricing-and-bundles/08-deciding-which-products-get-ad-spend.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

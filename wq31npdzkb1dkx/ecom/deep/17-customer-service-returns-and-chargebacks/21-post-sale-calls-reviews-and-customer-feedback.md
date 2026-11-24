@@ -256,3 +256,5 @@ Hi [customer first name], I wanted to follow up on the [product name] you receiv
 
 
 Part 21 of 23 of "17. Customer Service Returns and Chargebacks: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/17-customer-service-returns-and-chargebacks.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/17-customer-service-returns-and-chargebacks/20-post-purchase-communication-and-customer-gratitude.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/17-customer-service-returns-and-chargebacks/22-abandoned-carts-leads-and-sales-follow-up.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

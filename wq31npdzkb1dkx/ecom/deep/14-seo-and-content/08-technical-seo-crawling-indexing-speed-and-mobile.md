@@ -292,3 +292,5 @@ Older procedure (2021):
 
 
 Part 8 of 30 of "14. SEO and Content: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/14-seo-and-content.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/14-seo-and-content/07-site-structure-navigation-and-internal-linking.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/14-seo-and-content/09-duplicate-and-thin-content-canonicals-and-urls.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

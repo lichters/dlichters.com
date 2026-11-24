@@ -114,3 +114,5 @@ Part 6 of 26 of "8. Brand and Positioning: full technical reference". Map of all
 
 
 Part 6 of 26 of "8. Brand and Positioning: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/08-brand-and-positioning.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/08-brand-and-positioning/05-positioning-usp-and-differentiation.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/08-brand-and-positioning/07-brand-foundation-vision-mission-values-and-the-bra.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

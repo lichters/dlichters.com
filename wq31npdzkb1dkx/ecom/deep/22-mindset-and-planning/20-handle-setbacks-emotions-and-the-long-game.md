@@ -155,3 +155,5 @@ A student took the same course and used the same strategies, tools and informati
 
 
 Part 20 of 28 of "22. Mindset and Planning: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/22-mindset-and-planning.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/22-mindset-and-planning/19-test-pace-and-volume.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/22-mindset-and-planning/21-revenue-dips-and-reading-the-numbers.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

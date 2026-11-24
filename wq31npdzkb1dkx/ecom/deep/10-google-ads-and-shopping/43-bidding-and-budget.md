@@ -193,3 +193,5 @@ This is a long-term step and not for the first days.
 
 
 Part 43 of 56 of "10. Google Ads and Shopping: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/10-google-ads-and-shopping.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/10-google-ads-and-shopping/42-search-text-ads-and-keyword-strategy.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/10-google-ads-and-shopping/44-when-search-text-ads-add-value.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

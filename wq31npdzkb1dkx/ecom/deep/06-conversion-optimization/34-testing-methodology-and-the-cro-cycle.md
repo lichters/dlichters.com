@@ -211,3 +211,5 @@ Hypothesis: If I change [specific element on a specific page], then [named metri
 
 
 Part 34 of 40 of "6. Conversion Optimization: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/06-conversion-optimization.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/06-conversion-optimization/33-site-speed-mobile-and-technical-hygiene.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/06-conversion-optimization/35-test-ideas-list.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

@@ -56,7 +56,7 @@ A 2026 lesson splits the first 90 days into six phases:
 
 **Is dropshipping dead?** No. The model is more than 20 years old. Methods changed: cheap ads and slow shipping (2016 to 2018), branded stores (2019 to 2021), now AI.
 
-**Do I need experience?** No. You can run it next to school or a job. The model is simple, but the work is still hard.
+**Do I need experience?** No. You can run it next to a job. The model is simple, but the work is still hard.
 
 **How long until I make money?** Expect to learn first. A 2026 plan says 90 days can show real progress if you stay consistent.
 
@@ -73,8 +73,6 @@ A 2026 lesson splits the first 90 days into six phases:
 **Can I sell my store later?** A profitable site can be sold after a few years. A trend store has little brand value to sell.
 
 **Which country should I sell to?** Older advice says your own country, or the US if your country has no big online market. Our 2026 model ships from China and uses Meta ads.
-
-**I am under 18. Can I start?** Don't wait until 18. Waiting costs you years.
 
 ## Checklist
 
@@ -104,3 +102,5 @@ A 2026 lesson splits the first 90 days into six phases:
 - https://dlichters.com/wq31npdzkb1dkx/ecom/shopify-store.md
 - https://dlichters.com/wq31npdzkb1dkx/ecom/brand.md
 - https://dlichters.com/wq31npdzkb1dkx/ecom/index.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

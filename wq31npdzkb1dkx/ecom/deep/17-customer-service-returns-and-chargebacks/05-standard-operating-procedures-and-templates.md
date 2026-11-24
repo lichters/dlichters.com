@@ -229,3 +229,5 @@ If you are helping a customer by phone, chat or email and need backup, do one or
 
 
 Part 5 of 23 of "17. Customer Service Returns and Chargebacks: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/17-customer-service-returns-and-chargebacks.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/17-customer-service-returns-and-chargebacks/04-hiring-briefing-and-managing-support-staff-and-vir.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/17-customer-service-returns-and-chargebacks/06-support-tone-soft-skills-and-handling-difficult-cu.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

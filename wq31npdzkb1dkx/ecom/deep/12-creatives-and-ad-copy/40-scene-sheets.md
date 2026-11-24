@@ -102,3 +102,5 @@ Hey, thanks for checking out my store. I noticed you never finished checking out
 
 
 Part 40 of 63 of "12. Creatives and Ad Copy: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/12-creatives-and-ad-copy.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/12-creatives-and-ad-copy/39-video-ad-scripts-and-creator-briefs.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/12-creatives-and-ad-copy/41-video-production-and-editing.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

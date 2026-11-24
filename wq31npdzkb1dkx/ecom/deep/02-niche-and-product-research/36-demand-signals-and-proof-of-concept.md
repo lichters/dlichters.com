@@ -177,3 +177,5 @@ Part 36 of 54 of "2. Niche and Product Research: full technical reference". Map 
 
 
 Part 36 of 54 of "2. Niche and Product Research: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/02-niche-and-product-research.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/02-niche-and-product-research/35-product-criteria-and-selection-principles.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/02-niche-and-product-research/37-air-purifiers-a-worked-criteria-set.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

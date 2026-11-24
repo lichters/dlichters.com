@@ -254,3 +254,5 @@ Freight cost check for a new supplier:
 
 
 Part 35 of 51 of "3. Suppliers and Fulfillment: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/03-suppliers-and-fulfillment.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/03-suppliers-and-fulfillment/34-pick-the-carrier-type-parcel-or-freight.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/03-suppliers-and-fulfillment/36-order-processing-and-automation.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

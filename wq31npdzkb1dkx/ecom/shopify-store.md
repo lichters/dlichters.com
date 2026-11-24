@@ -87,9 +87,6 @@ Remove unused apps, compress images, cut slideshows and lazy-load videos.
 **How big should product images be?**
 Square, all the same size, and no larger than 1000 x 1000 px.
 
-**I am under 18. Can I do this?**
-Don't wait until 18. Waiting costs you years.
-
 ## Checklist
 
 - [ ] Store name, address, email, currency and units set
@@ -122,3 +119,5 @@ Don't wait until 18. Waiting costs you years.
 - https://dlichters.com/wq31npdzkb1dkx/ecom/conversion.md
 - https://dlichters.com/wq31npdzkb1dkx/ecom/meta-ads.md
 - https://dlichters.com/wq31npdzkb1dkx/ecom/index.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

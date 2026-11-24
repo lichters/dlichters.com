@@ -175,3 +175,5 @@ You made it into the VIP group! Here's your bumped-up 15% discount code as promi
 
 
 Part 18 of 29 of "15. Email and SMS: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/15-email-and-sms.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/15-email-and-sms/17-sms-marketing-compliance-opt-in-and-flows.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/15-email-and-sms/19-subject-lines-preview-text-and-sender-name.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

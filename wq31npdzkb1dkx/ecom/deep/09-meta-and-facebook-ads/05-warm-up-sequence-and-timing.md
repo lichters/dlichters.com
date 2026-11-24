@@ -179,3 +179,5 @@ Meta trusts accounts that look legitimate, and it associates bad experiences wit
 
 
 Part 5 of 35 of "9. Meta and Facebook Ads: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/09-meta-and-facebook-ads.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/09-meta-and-facebook-ads/04-account-trust-warm-up-and-ban-prevention.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/09-meta-and-facebook-ads/06-agency-purchased-and-alternative-ad-accounts.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

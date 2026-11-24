@@ -67,3 +67,5 @@ Part 15 of 34 of "18. Legal Tax Banking and Payments: full technical reference".
 
 
 Part 15 of 34 of "18. Legal Tax Banking and Payments: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/18-legal-tax-banking-and-payments.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/18-legal-tax-banking-and-payments/14-business-credit-cards-rewards-and-supplier-payment.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/18-legal-tax-banking-and-payments/16-funding-cash-flow-and-financing-the-business.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

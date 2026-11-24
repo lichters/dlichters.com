@@ -188,3 +188,5 @@ Sources give different ladders. Use the ladder that matches the account's stage 
 
 
 Part 27 of 37 of "20. Scaling Team and Processes: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/20-scaling-team-and-processes.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/20-scaling-team-and-processes/26-learning-phase-keep-hands-off.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/20-scaling-team-and-processes/28-scaling-meta-ads.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

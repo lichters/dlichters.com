@@ -202,3 +202,5 @@ Use this checklist in order before offering product or budget. [L0790, 2017]
 
 
 Part 4 of 14 of "13. Influencers and UGC: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/13-influencers-and-ugc.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/13-influencers-and-ugc/03-finding-influencers-and-creators.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/13-influencers-and-ugc/05-relationship-building-before-the-pitch.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

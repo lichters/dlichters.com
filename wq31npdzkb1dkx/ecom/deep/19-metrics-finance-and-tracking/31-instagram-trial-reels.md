@@ -115,3 +115,5 @@ Sources give different thresholds. Each applies to a different market or purpose
 
 
 Part 31 of 46 of "19. Metrics Finance and Tracking: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/19-metrics-finance-and-tracking.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/19-metrics-finance-and-tracking/30-influencer-affiliate-organic-and-content-measureme.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/19-metrics-finance-and-tracking/32-profit-tracking-systems-per-order-sheets-daily-p-l.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

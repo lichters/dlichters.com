@@ -189,3 +189,5 @@ The Banned List has five required sections, in this order:
 
 
 Part 28 of 63 of "12. Creatives and Ad Copy: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/12-creatives-and-ad-copy.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/12-creatives-and-ad-copy/27-upsells-order-bumps-and-downsells.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/12-creatives-and-ad-copy/29-editing-and-proofreading.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

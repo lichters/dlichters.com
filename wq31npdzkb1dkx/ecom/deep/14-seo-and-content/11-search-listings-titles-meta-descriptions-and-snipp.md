@@ -214,3 +214,5 @@ Please write a meta description for a blog post called '[post title]'. The post 
 
 
 Part 11 of 30 of "14. SEO and Content: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/14-seo-and-content.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/14-seo-and-content/10-discontinued-and-backordered-products.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/14-seo-and-content/12-bulk-rewrites-from-search-console-data.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

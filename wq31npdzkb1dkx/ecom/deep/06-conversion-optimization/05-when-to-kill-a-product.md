@@ -168,3 +168,5 @@ Scaling and winning products: once a variant wins, scale it harder rather than a
 
 
 Part 5 of 40 of "6. Conversion Optimization: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/06-conversion-optimization.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/06-conversion-optimization/04-diagnosis-tree-low-checkout-completion.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/06-conversion-optimization/06-customer-research-feedback-and-behavior-analytics.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

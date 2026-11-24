@@ -3,11 +3,9 @@
 
 > Every rule, number, setting and step we collected on this topic, rewritten in our own words from many e-commerce courses (2021 to 2026). Where advice changed over time, newer advice wins; lines marked "older advice" are kept for context. Short version: https://dlichters.com/wq31npdzkb1dkx/ecom/index.md
 
-> Sources: every statement ends with its lesson ids and year, e.g. [L0012, 2023] or [L0458, 2021; L0771, 2025]. Which course and topic each id is: https://dlichters.com/wq31npdzkb1dkx/ecom/sources.md . When statements disagree, prefer the newer year.
+> Sources: every statement ends with its lesson ids and year, e.g. [L0012, 2023] or [L0458, 2021; L0771, 2025]. When statements disagree, prefer the newer year.
 
 All chapters: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/index.md
-
-Also check: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/23-missing-from-lessons/01-contents.md (section "05 Apps and tools") ; https://dlichters.com/wq31npdzkb1dkx/ecom/deep/24-course-d-2026-details/01-when-to-read-this.md (section "05 Apps and Tools") ; https://dlichters.com/wq31npdzkb1dkx/ecom/deep/25-full-audit-details/05-apps-and-tools.md (section "05 Apps and Tools")
 
 
 **This chapter is split into 41 pages of at most about 4,000 words so an AI can open exactly the part it needs. Pick the page whose headings match the question, open it, and answer only from what it says.**
@@ -94,3 +92,5 @@ Also check: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/23-missing-from-lesso
    Affiliates, Outreach and Promotion Channels · Refersion: what it does · Refersion: pricing · Refersion: when to add it (sources disagree) · Refersion: banners and affiliate links · Other referral and creator-payment tools · Affiliate-site tools · Finding and verifying partner contacts · Building a partner target list · Influencer and creator partnerships · Giveaways and list growth · Social channels · Live shopping and shoppable video
 41. https://dlichters.com/wq31npdzkb1dkx/ecom/deep/05-apps-and-tools/41-other-details.md (1,219 words)
    Other details · Learning and course tools · Setup and official tool sources · Shopify apps and store features · B2B and trade customers · Offer and customer planning · Product map · Email, orders and tracking apps · Booking tools for service businesses · Troubleshooting apps and store errors · Backups · Tools that need verification · Product claims and compliance · Work setup and cost of living
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

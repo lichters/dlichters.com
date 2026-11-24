@@ -183,3 +183,5 @@ Use a test purchase to read a store's order number and estimate its order volume
 
 
 Part 42 of 46 of "19. Metrics Finance and Tracking: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/19-metrics-finance-and-tracking.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/19-metrics-finance-and-tracking/41-year-on-year-seasonality-and-saturation.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/19-metrics-finance-and-tracking/43-staffing-agency-and-outsourcing-economics.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

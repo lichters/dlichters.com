@@ -183,3 +183,5 @@ The purpose of this campaign is that it competes on the same results page as the
 
 
 Part 44 of 56 of "10. Google Ads and Shopping: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/10-google-ads-and-shopping.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/10-google-ads-and-shopping/43-bidding-and-budget.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/10-google-ads-and-shopping/45-brand-search-and-competitor-protection.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

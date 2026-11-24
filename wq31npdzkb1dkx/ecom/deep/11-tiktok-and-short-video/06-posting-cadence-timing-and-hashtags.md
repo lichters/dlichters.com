@@ -141,3 +141,5 @@ Each example below comes from one account or one audience. Use them as starting 
 
 
 Part 6 of 14 of "11. TikTok and Short Video: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/11-tiktok-and-short-video.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/11-tiktok-and-short-video/05-filming-editing-and-sound.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/11-tiktok-and-short-video/07-organic-testing-protocol-and-reading-results.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

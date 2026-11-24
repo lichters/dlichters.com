@@ -169,3 +169,5 @@ Sources differ on the launch number. The values below apply at different stages,
 
 
 Part 7 of 51 of "3. Suppliers and Fulfillment: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/03-suppliers-and-fulfillment.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/03-suppliers-and-fulfillment/06-supplier-responsiveness-returns-and-support.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/03-suppliers-and-fulfillment/08-growing-from-the-launch-catalog.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

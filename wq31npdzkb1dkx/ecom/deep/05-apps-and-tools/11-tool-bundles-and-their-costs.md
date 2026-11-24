@@ -119,3 +119,5 @@ Adding the 19 priced screen-only tools gives $1,255.99 per month at list price i
 
 
 Part 11 of 41 of "5. Apps and Tools: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/05-apps-and-tools.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/05-apps-and-tools/10-kalodata-and-tiktok-research.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/05-apps-and-tools/12-keyword-and-seo-research-tools.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

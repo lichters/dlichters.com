@@ -44,3 +44,5 @@ This helps them write accurate descriptions.
 
 
 Part 15 of 26 of "8. Brand and Positioning: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/08-brand-and-positioning.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/08-brand-and-positioning/14-brand-voice-and-messaging.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/08-brand-and-positioning/16-homepage-store-look-and-conversion-presentation.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

@@ -167,3 +167,5 @@ Thank you,
 
 
 Part 27 of 51 of "3. Suppliers and Fulfillment: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/03-suppliers-and-fulfillment.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/03-suppliers-and-fulfillment/26-getting-product-data-and-uploading-the-catalog.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/03-suppliers-and-fulfillment/28-shopify-setup.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

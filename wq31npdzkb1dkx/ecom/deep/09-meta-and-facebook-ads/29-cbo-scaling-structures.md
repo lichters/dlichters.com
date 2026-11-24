@@ -189,3 +189,5 @@ Procedure: Scale a winning ad set (step-up from $20)
 
 
 Part 29 of 35 of "9. Meta and Facebook Ads: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/09-meta-and-facebook-ads.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/09-meta-and-facebook-ads/28-scaling-winning-ad-sets-and-campaigns.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/09-meta-and-facebook-ads/30-retargeting-custom-audiences-and-lookalikes.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

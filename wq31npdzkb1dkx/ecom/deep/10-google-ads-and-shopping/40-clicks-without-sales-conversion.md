@@ -210,3 +210,5 @@ Diagnosing a performance drop in an underperforming alpha campaign (older advice
 
 
 Part 40 of 56 of "10. Google Ads and Shopping: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/10-google-ads-and-shopping.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/10-google-ads-and-shopping/39-troubleshooting-shopping-campaigns.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/10-google-ads-and-shopping/41-location-and-wrong-country-traffic.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

@@ -225,3 +225,5 @@ Complete these steps in this order:
 
 
 Part 1 of 14 of "11. TikTok and Short Video: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/11-tiktok-and-short-video.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/11-tiktok-and-short-video/02-devices-vpns-ips-and-multi-account-limits.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

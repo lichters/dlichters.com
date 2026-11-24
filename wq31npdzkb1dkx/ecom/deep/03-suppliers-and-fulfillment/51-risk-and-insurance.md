@@ -7,3 +7,5 @@ Part 51 of 51 of "3. Suppliers and Fulfillment: full technical reference". Map o
 
 
 Part 51 of 51 of "3. Suppliers and Fulfillment: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/03-suppliers-and-fulfillment.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/03-suppliers-and-fulfillment/50-other-details.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

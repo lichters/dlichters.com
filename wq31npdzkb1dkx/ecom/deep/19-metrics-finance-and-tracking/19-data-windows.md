@@ -167,3 +167,5 @@ The same layout is repeated for the 30 days before, so the two periods can be co
 
 
 Part 19 of 46 of "19. Metrics Finance and Tracking: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/19-metrics-finance-and-tracking.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/19-metrics-finance-and-tracking/18-daily-and-weekly-ad-analysis-workflow.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/19-metrics-finance-and-tracking/20-test-budgets-kill-rules-and-scale-decisions.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

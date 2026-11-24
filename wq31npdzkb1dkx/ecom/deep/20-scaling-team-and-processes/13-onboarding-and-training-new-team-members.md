@@ -206,3 +206,5 @@ Sources give different durations because they describe different roles and tasks
 
 
 Part 13 of 37 of "20. Scaling Team and Processes: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/20-scaling-team-and-processes.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/20-scaling-team-and-processes/12-interviewing-paid-trials-and-selecting-hires.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/20-scaling-team-and-processes/14-managing-the-team-communication-performance-and-of.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

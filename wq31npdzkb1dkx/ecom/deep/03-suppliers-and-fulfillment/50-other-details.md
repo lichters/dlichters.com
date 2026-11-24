@@ -289,3 +289,5 @@ Use the following sets of interview questions, organised by skill area, to evalu
 
 
 Part 50 of 51 of "3. Suppliers and Fulfillment: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/03-suppliers-and-fulfillment.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/03-suppliers-and-fulfillment/49-scaling-supplier-base-and-business-continuity.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/03-suppliers-and-fulfillment/51-risk-and-insurance.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

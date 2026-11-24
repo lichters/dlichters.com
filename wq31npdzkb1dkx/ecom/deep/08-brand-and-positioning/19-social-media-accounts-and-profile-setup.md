@@ -258,3 +258,5 @@ The two sources differ on linking. [L0040, 2020-26] requires active accounts bef
 
 
 Part 19 of 26 of "8. Brand and Positioning: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/08-brand-and-positioning.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/08-brand-and-positioning/18-trust-and-legitimacy-signals.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/08-brand-and-positioning/20-brand-name-search-signals.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

@@ -272,3 +272,5 @@ Sources differ on how much prior experience to require. Each applies in a differ
 
 
 Part 10 of 37 of "20. Scaling Team and Processes: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/20-scaling-team-and-processes.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/20-scaling-team-and-processes/09-recommended-hire-order.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/20-scaling-team-and-processes/11-shortlisting-rules.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

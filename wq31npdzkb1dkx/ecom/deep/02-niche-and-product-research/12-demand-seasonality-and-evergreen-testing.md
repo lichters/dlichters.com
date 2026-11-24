@@ -198,3 +198,5 @@ Procedure, Ubersuggest keyword check. [L0458, 2021-22; older]
 
 
 Part 12 of 54 of "2. Niche and Product Research: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/02-niche-and-product-research.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/02-niche-and-product-research/11-brand-loyalty-categories-that-pass.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/02-niche-and-product-research/13-recurring-revenue-and-traffic-volume.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

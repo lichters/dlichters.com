@@ -74,7 +74,7 @@ Part 17 of 41 of "5. Apps and Tools: full technical reference". Map of all parts
 
 **Notes on the two versions:**
 - Both procedures set up the same app. Follow the menu names your app version shows. [L0476, undated; L1220, undated]
-- Example for a single-product store: label "Type in your names", with sample names such as Daniel, Sarah, David, Michelle as the help text, so customers see how it works. Set the product scope to All. Then activate the app embed in the theme editor and save. [L0634, undated]
+- Example for a single-product store: label "Type in your names", with sample names such as Daniel, Sarah, Emma, Michelle as the help text, so customers see how it works. Set the product scope to All. Then activate the app embed in the theme editor and save. [L0634, undated]
 - Global Product Options adds custom input fields such as text fields to product pages, so customers can enter personalization details like names before they buy. [L0476, undated]
 - Global Product Options is a free Shopify app for personalization, such as a name field on jewelry. [L1220, undated]
 
@@ -190,3 +190,5 @@ Create a list of 20 recipes for dogs that support [PROBLEM, e.g. gut health, ski
 
 
 Part 17 of 41 of "5. Apps and Tools: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/05-apps-and-tools.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/05-apps-and-tools/16-product-upload-supplier-data-and-fulfillment-apps.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/05-apps-and-tools/18-design-branding-and-image-tools.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

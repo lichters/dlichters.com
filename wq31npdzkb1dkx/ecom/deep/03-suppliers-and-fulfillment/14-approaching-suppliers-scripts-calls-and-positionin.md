@@ -138,3 +138,5 @@ Use two approvals as the minimum before going live (2023 sources), and five as t
 
 
 Part 14 of 51 of "3. Suppliers and Fulfillment: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/03-suppliers-and-fulfillment.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/03-suppliers-and-fulfillment/13-preparing-the-business-and-store-before-outreach.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/03-suppliers-and-fulfillment/15-call-sequence-and-the-first-conversation.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

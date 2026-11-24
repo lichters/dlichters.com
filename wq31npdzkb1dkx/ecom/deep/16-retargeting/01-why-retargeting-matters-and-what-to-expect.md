@@ -262,3 +262,5 @@ Sources differ on when paid retargeting should start. Launch-day setup is recomm
 
 
 Part 1 of 10 of "16. Retargeting: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/16-retargeting.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/16-retargeting/02-planning-audiences-funnel-stages-segmentation-and.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

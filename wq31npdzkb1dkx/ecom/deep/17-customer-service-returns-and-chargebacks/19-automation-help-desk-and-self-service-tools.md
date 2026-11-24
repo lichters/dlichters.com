@@ -204,3 +204,5 @@ Reassurance email flow built in Klaviyo (set up in Shopify) to reduce disputes a
 
 
 Part 19 of 23 of "17. Customer Service Returns and Chargebacks: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/17-customer-service-returns-and-chargebacks.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/17-customer-service-returns-and-chargebacks/18-non-delivery-claims-and-older-guidance.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/17-customer-service-returns-and-chargebacks/20-post-purchase-communication-and-customer-gratitude.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

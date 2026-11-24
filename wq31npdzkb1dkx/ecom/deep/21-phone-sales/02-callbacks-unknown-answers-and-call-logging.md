@@ -356,3 +356,5 @@ Record every prospect who does not buy immediately in a prospect sheet, so that 
 
 
 Part 2 of 7 of "21. Phone Sales: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/21-phone-sales.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/21-phone-sales/01-deciding-whether-phone-sales-belong-in-your-store.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/21-phone-sales/03-calling-abandoned-checkouts.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

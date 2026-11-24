@@ -328,3 +328,5 @@ A store where about 90% of buyers came from the UK added TikTok UGC made by a cr
 
 
 Part 11 of 14 of "13. Influencers and UGC: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/13-influencers-and-ugc.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/13-influencers-and-ugc/10-affiliate-and-ambassador-programs.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/13-influencers-and-ugc/12-producing-your-own-ugc-and-ai-content.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

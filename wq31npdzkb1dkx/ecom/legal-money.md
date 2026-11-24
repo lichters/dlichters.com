@@ -113,3 +113,5 @@
 - https://dlichters.com/wq31npdzkb1dkx/ecom/suppliers.md
 - https://dlichters.com/wq31npdzkb1dkx/ecom/meta-ads.md
 - https://dlichters.com/wq31npdzkb1dkx/ecom/index.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

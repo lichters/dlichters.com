@@ -231,3 +231,5 @@ When the product name is shown, it is the exception to [L0330, undated]: for a p
 
 
 Part 18 of 63 of "12. Creatives and Ad Copy: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/12-creatives-and-ad-copy.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/12-creatives-and-ad-copy/17-face-to-face-selling-adapted-to-print.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/12-creatives-and-ad-copy/19-audience-specific-headlines.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

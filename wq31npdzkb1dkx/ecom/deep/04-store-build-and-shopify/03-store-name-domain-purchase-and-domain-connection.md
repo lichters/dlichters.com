@@ -245,3 +245,5 @@ The domain is billed yearly, and it becomes the primary domain once purchased. [
 
 
 Part 3 of 49 of "4. Store Build and Shopify: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/04-store-build-and-shopify.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/04-store-build-and-shopify/02-business-email-and-signup-details.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/04-store-build-and-shopify/04-connecting-an-external-domain-to-shopify-dns-txt-a.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

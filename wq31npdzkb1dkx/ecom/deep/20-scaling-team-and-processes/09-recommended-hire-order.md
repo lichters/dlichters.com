@@ -85,3 +85,5 @@ Store team timeline:
 
 
 Part 9 of 37 of "20. Scaling Team and Processes: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/20-scaling-team-and-processes.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/20-scaling-team-and-processes/08-choosing-a-hiring-model-and-sequencing-hires.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/20-scaling-team-and-processes/10-sourcing-candidates-and-writing-job-posts.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md

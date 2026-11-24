@@ -177,3 +177,5 @@ Part 26 of 40 of "7. Offers Pricing and Bundles: full technical reference". Map 
 
 
 Part 26 of 40 of "7. Offers Pricing and Bundles: full technical reference". Map of all parts: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/07-offers-pricing-and-bundles.md · Previous: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/07-offers-pricing-and-bundles/25-post-purchase-and-checkout-offers.md · Next: https://dlichters.com/wq31npdzkb1dkx/ecom/deep/07-offers-pricing-and-bundles/27-repeat-business-and-customer-research.md
+
+Topic map (all pages): https://dlichters.com/wq31npdzkb1dkx/index.md
