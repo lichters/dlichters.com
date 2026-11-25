@@ -126,18 +126,35 @@ body{margin:0;background:#fff;color:var(--fg);font-family:-apple-system,BlinkMac
 a{color:inherit;text-decoration:none}
 button{font:inherit;color:inherit;background:none;border:0;padding:0;margin:0;cursor:pointer;-webkit-appearance:none;appearance:none}
 #feed,#svf{max-width:560px;margin:0 auto;padding:79px 0 40px}
-.p{margin:0 0 47.04px}
-.ph{display:flex;align-items:flex-start;height:32px;padding-left:10.7px}
-.av{position:relative;display:block;flex:none;width:32px;height:32px;border-radius:50%;background:#fff}
+/* Instagram-Block (David 24.11.2026 22:1x, Vorlage d5dd5af1-image.png, 393 pt breit): von der Unterkante einer Slideshow bis zur
+   Oberkante der naechsten genau 156 pt, darin Leiste, Bildunterschrift, Datum und der Kopf des naechsten Posts. Jede Lage unten ist die
+   Tintenkante im Bild (50 % Deckung) in pt ab der Unterkante der Slide; die graue Linie unter und ueber jeder Slide liegt wie seit 09.11. in
+   diesem Abstand. Farben aus dem Bild (sRGB): Symbole und Text #0c1014, Namen #25282c, Grau #6a6e74. Schrift im Bild: Namen 14 pt halbfett,
+   Text 14 pt, Datum und Zeile unter dem Namen 12 pt, Zahlen 14 pt halbfett; im Browser gleich breit mit 13,9 / 12 / 13,75 px. */
+.p{margin:0 0 28.78px}
+.ph{position:relative;height:32px;color:#0c1014}
+.av{position:absolute;left:10.3333px;top:0;display:block;width:32px;height:32px;border-radius:50%;background:#fff}
 .rg{position:absolute;left:0;top:0;width:32px;height:32px;overflow:visible;fill:none;stroke:rgba(0,0,0,.16);stroke-width:.5;pointer-events:none}
 .av img{display:block;width:32px;height:32px;border-radius:50%}
-.who{position:relative;flex:1;height:32px;margin-left:9.3px;min-width:0}
-.nm{position:absolute;top:-.21px;left:0;font-size:13.8px;line-height:17px;font-weight:600;letter-spacing:0;color:var(--fg);white-space:nowrap}
-.sp{position:absolute;top:18.28px;left:0;font-size:11.6px;line-height:14px;text-decoration:none;color:var(--fg)}
+.nm{position:absolute;top:-.44px;left:52px;padding:0 6px 0 0;font-size:13.9px;line-height:17px;font-weight:600;letter-spacing:0;color:#25282c;white-space:nowrap}
+/* Zeile unter dem Namen: Note und Listen (statt "Suggested for you"). Note, ihre Groesse zur Schrift und ihr Abstand zum Wort wie in Bild 2
+   zwischen Note und "Allba": Note 10 x 10,67 pt, unten 1 pt unter der Grundlinie, Luecke Tinte zu Tinte 6,67 pt. Tippflaeche 120 x 26 pt. */
+.sp{position:absolute;left:44px;top:14px;width:120px;height:26px;color:#0c1014;font-size:12px;line-height:15px;letter-spacing:0;text-align:left}
+.sp .nt{position:absolute;left:7.3333px;top:3.6667px;width:12.6667px;height:13.3333px;fill:currentColor}
+.sp span{position:absolute;left:24.6px;top:2.5667px;white-space:nowrap}
+/* Rechts im Kopf Folgen-Symbol und zwei Striche wie in Bild 1; der ganze Bereich fuehrt zu Davids Instagram */
+.rt{position:absolute;right:0;top:-6px;width:93px;height:44px;color:#0c1014}
+.rt svg{position:absolute;display:block;fill:currentColor}
+.rt .if{right:54px;top:11px;width:24.6667px;height:20.6667px}
+.rt .ik{right:11px;top:15px;width:22.6667px;height:12.6667px}
+.defs{position:absolute;width:0;height:0;overflow:hidden}
 /* David 09.11.: Linie direkt ueber und unter jeder Slide, damit weisse Slides sich vom Hintergrund abheben. Exakt so dick wie die 2 Striche oben rechts: die sind 4 Bildpunkte hoch (3-fach gemessen 92, 51, 51, 92). Rahmen werden auf ganze Bildpunkte abgerundet, 1,34 ergibt bei 3-fach immer genau 4, bei jedem Post gleich. Farbe genau 50 Prozent Schwarz und 50 Prozent Weiss (David 09.11.). Die Slide selbst und alles darum bleibt, wo es war, die Linie liegt in der freien Luecke. */
-.c{position:relative;margin-top:calc(9.67px - 1.34px);border-top:1.34px solid var(--strich);border-bottom:1.34px solid var(--strich);background:#b3b3b4;container-type:inline-size}
-.c::before{content:"";display:block;padding-top:75%}
-.cr{position:absolute;top:0;right:0;bottom:0;left:0;display:flex;overflow-x:auto;overflow-y:hidden;scroll-snap-type:x mandatory;-webkit-overflow-scrolling:touch;scrollbar-width:none;overscroll-behavior-x:contain;touch-action:pan-x pan-y}
+/* Umbau 25.11.2026: Buehne 3:2 statt 4:3 (David 24.11.). Grund weiss statt grau: jede Slide hat jetzt das neue Design, Grau saehe man nur noch kurz vor dem Zeichnen. */
+.c{position:relative;margin-top:calc(10.3333px - 1.34px);border-top:1.34px solid var(--strich);border-bottom:1.34px solid var(--strich);background:#fff;container-type:inline-size}
+.c::before{content:"";display:block;padding-top:66.6667%}
+.cr{position:absolute;top:0;right:0;bottom:0;left:0;display:flex;overflow-x:auto;overflow-y:hidden;scroll-snap-type:x mandatory;-webkit-overflow-scrolling:touch;scrollbar-width:none;overscroll-behavior-x:contain;touch-action:pan-x pan-y;-webkit-touch-callout:none;-webkit-user-select:none;user-select:none}
+/* Doppeltipp likt, Halten teilt (David 24.11.): beim Halten kein Systemmenue, keine Textauswahl, kein Ziehen der Bilder */
+.cr img{-webkit-user-drag:none}
 .cr::-webkit-scrollbar{display:none}
 .s{flex:0 0 100%;width:100%;height:100%;scroll-snap-align:start;scroll-snap-stop:always;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;background:#b3b3b4;color:#1d1d1f;padding:0 5.6%;container-type:inline-size}
 .s .b{font-size:6.107vw;line-height:1.22;letter-spacing:-.012em;width:100%}
@@ -152,6 +169,8 @@ button{font:inherit;color:inherit;background:none;border:0;padding:0;margin:0;cu
 /* Neues Slide-Design (David 10.11.: "Bau die Slides genau so"): Slides mit der Klasse n zeichnet slideNeu() aus ecom_slides.js, alle Masse stehen dort inline wie in Davids Vorlage. Hier wird nur zurueckgesetzt, was die alten Regeln von .s und der Seite sonst hineintragen wuerden (Flex-Kasten, Rand, Mitte, Grau, Kastenmass). Gemessen wird das von ecom_slides_pruefen.sh: jedes Element liegt wie in der Vorlage. */
 .s.n{display:block;padding:0;text-align:left;background:#fff;color:#111;line-height:normal;letter-spacing:normal;font-size:16px;font-weight:400}
 .s.n *{box-sizing:content-box}
+/* Umbau 25.11.2026: Slides aus Daten der alten Form (Klasse a) enthalten manchmal lange Woerter ohne Leerzeichen (Adressen, Feldnamen). Dort darf eine Zeile mitten im Wort brechen, statt aus der Slide zu ragen. Die Slides der Vorlage bleiben unberuehrt. */
+.s.n.a{overflow-wrap:anywhere}
 /* System aus Davids Bildern (09.11., 3-fach gemessen): 1/5 bis 5/5 sind alle 101,9 x 77,5 Bildpunkte, Schrift mittig; 1/13 ist 109 breit. Das passt nur so:
    feste Mindestbreite 33,97 pt fuer kurze Zahlen, darueber Textbreite plus fester Rand 7,17 pt je Seite. Volle Kapsel, rechte Kante bleibt stehen. Alles waechst mit der Slide-Breite. */
 .pl{position:absolute;top:14.4px;right:14.4px;min-width:33.97px;height:25.8px;padding:0 7.17px;border-radius:12.9px;background:rgba(45,45,45,.54);color:#fff;font-size:11.7px;line-height:25.8px;text-align:center;white-space:nowrap;pointer-events:none;z-index:2}
@@ -159,27 +178,51 @@ button{font:inherit;color:inherit;background:none;border:0;padding:0;margin:0;cu
 .pf{position:absolute;top:50%;width:34px;height:34px;margin-top:-17px;border-radius:50%;background:rgba(255,255,255,.85);display:none;align-items:center;justify-content:center;font-size:18px;line-height:1;color:#1d1d1f}
 .pf.l{left:10px}.pf.r{right:10px}
 @media (hover:hover) and (pointer:fine){.c:hover .pf{display:flex}.c .pf[hidden]{display:none}}
-.ic{position:relative;height:35.4px;margin-top:-1.34px}
-.ic button,.ic a{position:absolute;display:block}
-.ic svg{position:absolute;display:block;overflow:visible;fill:none;stroke:#1d1d1f;stroke-width:1.85;stroke-linecap:round;stroke-linejoin:round}
-.ic .pkt{fill:#1d1d1f;stroke:none}
-.ic svg.ih{width:21.4px;height:19.8px}
-.ic svg.ii{width:21.8px;height:21.8px}
-.ic svg.is{width:19.2px;height:24px}
-.ic svg.im{width:14.667px;height:23px}
-/* Tippflaechen 44 pt, das Symbol sitzt genau wie in Davids Bild */
-.ic .bl{left:2.6px;top:2.6px;width:44px;height:44px}.ic .bl svg{left:10.7px;top:11.4px}
-.ic .bi{left:56.67px;top:2px;width:44px;height:44px}.ic .bi svg{left:10.9px;top:11.33px}
-.ic .bs{left:109.99px;top:0;width:44px;height:44px}.ic .bs svg{left:12.6px;top:10.33px}/* Luecke zwischen den Symbolen genau 99 Bildpunkte bei 3-fach wie in beiden Bildern von David (gemessen 98, 99 und 99, 99), echte Zahl statt Verhaeltnis (David 09.11.) */
-.ic .bm{right:2px;top:1px;width:44px;height:44px}.ic .bm svg{left:14.667px;top:10.83px}
-.bl.on svg{fill:#1d1d1f;stroke:#1d1d1f}
-.bm.on svg{fill:#1d1d1f}
+/* Leiste wie Bild 1, Symbole an ihren Stellen aus dem Bild (Tinte, pt ab Unterkante der Slide): Herz x 12,67 bis 35,33, Sprechblase 89 bis 111,
+   Repost 131 bis 149, Papierflieger 169 bis 191, Merken 360 bis 378 (rechts 15 pt Rand), alle y 12,67 bis 35,33. Jedes svg ist der Ausschnitt
+   aus dem Bild, darum steht hier dessen Lage. Tippflaechen 44 x 44 pt. */
+.ic{position:relative;height:40px;margin-top:-1.34px;color:#0c1014}
+.ic button,.ic a{position:absolute;display:block;top:2px;width:44px;height:44px}
+.ic svg{position:absolute;display:block;overflow:visible;fill:currentColor}
+.ic .v{display:none}
+.bl.on .o,.bm.on .o{display:none}
+.bl.on .v,.bm.on .v{display:inline}
+.ic .bl{left:2px}.ic .bl svg{left:9.3333px;top:10.6667px;width:25.3333px;height:23px}
+.ic .bi{left:78px}.ic .bi svg{left:9.6667px;top:9.6667px;width:24.6667px;height:24.6667px}
+.ic .br{left:118px}.ic .br svg{left:11.6667px;top:9.3333px;width:20.6667px;height:25.3333px}
+.ic .bs{left:158px}.ic .bs svg{left:9.6667px;top:10.6667px;width:24.6667px;height:23px}
+.ic .bm{right:2px}.ic .bm svg{left:11.6667px;top:10.6667px;width:20.6667px;height:22.6667px}
+/* Zahlen wie in Bild 1, fest (David 24.11.: "100k und 69 laesst du auf jeden Fall drin"), aendern sich beim Liken nicht. Tinte "100K" x 42 bis 74,67, "69" 198 bis 214,33, Grundlinie 29. */
+.zl,.zs{position:absolute;top:15.6133px;font-size:13.75px;line-height:17px;font-weight:600;letter-spacing:0;color:#0c1014;white-space:nowrap;pointer-events:none}
+.zl{left:41.3px}.zs{left:197.3px}
 .bl.pop svg{animation:pop .32s cubic-bezier(.3,1.6,.5,1)}
 @keyframes pop{0%{transform:scale(.72)}100%{transform:scale(1)}}
-.tm{display:block;margin:14.14px 0 0 12.6px;font-size:11.8px;line-height:14px;color:var(--mut)}
-/* David 09.11.: Merken-Symbol oben links, gleiche Hoehe und gleicher Randabstand wie die 2 Striche rechts. Tippen schiebt Saved herein (dieselbe Seite, seit 11.11. ohne eigene Adresse), das Symbol wird nie schwarz. */
+/* Bildunterschrift: "lichters" halbfett, dahinter der Titel des Posts, eine Zeile. Passt sie nicht: nach dem letzten ganz passenden Wort "..."
+   und ein graues "more" (kuerzen() im JS); Tipp darauf klappt den ganzen Titel auf. Grundlinie 61 pt, Tinte ab 12,67 pt. */
+.cap{margin:7.06px 12px 0;font-size:13.9px;line-height:18px;word-spacing:.2px;letter-spacing:0;color:#0c1014;white-space:nowrap;overflow:hidden}
+.cap.auf{white-space:normal;overflow:visible}
+.cap .cn{font-weight:600;color:#25282c}
+.cap .more{display:none;color:#6a6e74;font:inherit;word-spacing:inherit;cursor:pointer}
+.cap.zu .more{display:inline}
+.cap.zu{cursor:pointer}
+/* Datum statt "23 hours ago" (David: "da soll 2026-11-24 stehen"), grau wie im Bild, Grundlinie 82 pt */
+.tm{display:block;margin:4.84px 0 0 12px;font-size:12px;line-height:15px;letter-spacing:0;color:#6a6e74}
+/* Doppeltipp: grosses Herz in der Mitte der Slide, poppt auf und verschwindet. Weiss wie bei Instagram (gemessen 24.11.: die erste Slide jedes der 19 Posts
+   ist dunkel, Mittel 11 bis 106 von 255), mit leichtem Schatten, damit es auch auf hellen Stellen eines Fotos steht. */
+.hp{position:absolute;left:50%;top:50%;z-index:3;width:88px;height:80px;margin:-40px 0 0 -44px;color:#fff;filter:drop-shadow(0 1px 8px rgba(0,0,0,.3));pointer-events:none;animation:hp .9s ease-out both}
+.hp svg{display:block;width:100%;height:100%;fill:currentColor;overflow:visible}
+@keyframes hp{0%{transform:scale(0);opacity:0}15%{transform:scale(1.2);opacity:.9}25%{transform:scale(.95)}35%{transform:scale(1)}75%{transform:scale(1);opacity:.9}100%{transform:scale(0);opacity:0}}
+@media (prefers-reduced-motion:reduce){.hp{animation:hpr .8s linear both}@keyframes hpr{0%{opacity:0}20%{opacity:.9}70%{opacity:.9}100%{opacity:0}}}
+/* David 09.11.: Merken-Symbol oben links, gleiche Hoehe und gleicher Randabstand wie die 2 Striche rechts. Tippen schiebt Saved herein (dieselbe Seite, seit 11.11. ohne eigene Adresse), das Symbol wird nie schwarz.
+   Seit 24.11. dasselbe neue Merken-Symbol wie in der Leiste (Bild 1), Mitte wie bisher. */
 #saved{position:fixed;top:2.5px;left:max(0px,calc(env(safe-area-inset-left) - 16px));z-index:9001;width:48px;height:48px;display:flex;align-items:center;justify-content:center}
-#saved svg{display:block;overflow:visible;width:14.667px;height:23px;fill:none;stroke:#1d1d1f;stroke-width:1.85;stroke-linecap:round;stroke-linejoin:round}
+#saved svg{display:block;overflow:visible;width:20.6667px;height:22.6667px;fill:var(--fg)}
+/* David 24.11.: "wenn man nach unten scrollt ... dieser Bereich oben mit dem Nebel nicht angezeigt werden soll. Wenn man nach oben scrollt, soll
+   der Bereich wieder rauskommen." Nebel, Titel, Merken-Symbol und die 2 Striche gleiten zusammen nach oben weg (Klasse kweg am html, kopfScroll()
+   im JS); nie bei offenem Menue oder offenem Saved, ganz oben immer da. */
+#fx,#kopf,#saved,.gn-page .gn-menutrigger{transition:transform .3s cubic-bezier(.32,.72,0,1)}
+html.kweg #fx,html.kweg #kopf,html.kweg #saved,html.kweg .gn-page:not(.gn-open) .gn-menutrigger{transform:translate3d(0,-104px,0)}
+@media (prefers-reduced-motion:reduce){#fx,#kopf,#saved,.gn-page .gn-menutrigger{transition:none}}
 #saved:active svg,#zu:active{opacity:.5}
 html.gn-lock #saved,html.gn-lock #zu{visibility:hidden}
 /* Davids Skizze 09.11.: Kapitelname fett, darunter lichters, mittig. Lage aus der Skizze (3-fach). Nie Auslassungspunkte. */
@@ -218,6 +261,7 @@ html.gn-lock #saved,html.gn-lock #zu{visibility:hidden}
 .navfx i:nth-child(4){-webkit-backdrop-filter:blur(8px);backdrop-filter:blur(8px);-webkit-mask-image:linear-gradient(rgba(0,0,0,1.000) 0.0%,rgba(0,0,0,0.926) 6.7%,rgba(0,0,0,0.741) 13.3%,rgba(0,0,0,0.500) 20.0%,rgba(0,0,0,0.259) 26.7%,rgba(0,0,0,0.074) 33.3%,rgba(0,0,0,0.000) 40.0%);mask-image:linear-gradient(rgba(0,0,0,1.000) 0.0%,rgba(0,0,0,0.926) 6.7%,rgba(0,0,0,0.741) 13.3%,rgba(0,0,0,0.500) 20.0%,rgba(0,0,0,0.259) 26.7%,rgba(0,0,0,0.074) 33.3%,rgba(0,0,0,0.000) 40.0%)}
 .navfx i:nth-child(5){background:linear-gradient(rgba(255,255,255,0.850) 42.0%,rgba(255,255,255,0.833) 46.8%,rgba(255,255,255,0.787) 51.7%,rgba(255,255,255,0.717) 56.5%,rgba(255,255,255,0.630) 61.3%,rgba(255,255,255,0.530) 66.2%,rgba(255,255,255,0.425) 71.0%,rgba(255,255,255,0.320) 75.8%,rgba(255,255,255,0.220) 80.7%,rgba(255,255,255,0.133) 85.5%,rgba(255,255,255,0.063) 90.3%,rgba(255,255,255,0.017) 95.2%,rgba(255,255,255,0.000) 100.0%)}</style>
 </head><body>
+<svg class="defs" aria-hidden="true" focusable="false"><symbol id="i-herz" viewBox="0 0 25.3333 23.0"><path fill-rule="evenodd" d="M6.46 1.5C6.98 1.38 7.54 1.32 8.09 1.33C8.64 1.35 9.19 1.43 9.72 1.59C10.24 1.74 10.74 1.97 11.19 2.26C11.64 2.56 12.05 3.03 12.48 3.19C12.91 3.35 13.31 2.86 13.74 2.52C14.18 2.19 14.65 1.93 15.16 1.74C15.66 1.55 16.2 1.42 16.74 1.37C17.28 1.32 17.84 1.33 18.37 1.42C18.91 1.5 19.44 1.66 19.93 1.87C20.43 2.09 20.9 2.37 21.33 2.7C21.77 3.03 22.16 3.41 22.5 3.83C22.84 4.26 23.14 4.72 23.38 5.21C23.61 5.7 23.8 6.21 23.92 6.74C24.05 7.27 24.12 7.82 24.12 8.36C24.13 8.9 24.08 9.45 23.97 9.98C23.86 10.51 23.69 11.03 23.48 11.53C23.26 12.03 23 12.5 22.68 12.94C22.37 13.39 22.01 13.8 21.64 14.2C21.26 14.59 20.86 14.97 20.46 15.34C20.06 15.71 19.65 16.08 19.25 16.44C18.85 16.8 18.44 17.16 18.03 17.51C17.62 17.87 17.2 18.23 16.79 18.6C16.37 18.96 15.97 19.33 15.58 19.69C15.2 20.05 14.81 20.42 14.36 20.76C13.9 21.1 13.38 21.4 12.88 21.48C12.37 21.56 11.88 21.37 11.42 21.06C10.95 20.75 10.52 20.37 10.1 20.01C9.68 19.65 9.28 19.29 8.88 18.92C8.48 18.56 8.08 18.2 7.68 17.84C7.28 17.48 6.87 17.12 6.46 16.76C6.04 16.4 5.63 16.04 5.22 15.67C4.82 15.3 4.41 14.93 4.03 14.54C3.64 14.16 3.27 13.76 2.94 13.33C2.61 12.9 2.31 12.46 2.06 11.97C1.81 11.49 1.61 10.98 1.46 10.46C1.32 9.93 1.23 9.39 1.2 8.84C1.16 8.3 1.19 7.75 1.29 7.21C1.38 6.68 1.54 6.15 1.75 5.65C1.97 5.15 2.23 4.67 2.55 4.23C2.86 3.79 3.23 3.38 3.63 3.01C4.03 2.65 4.47 2.34 4.95 2.08C5.42 1.83 5.93 1.63 6.46 1.5ZM6.75 3.49C7.27 3.35 7.83 3.31 8.38 3.36C8.93 3.42 9.47 3.58 9.95 3.84C10.44 4.09 10.87 4.45 11.23 4.88C11.59 5.3 11.85 5.76 12.16 6.27C12.48 6.77 12.86 6.82 13.15 6.31C13.45 5.8 13.71 5.33 14.06 4.9C14.42 4.47 14.84 4.11 15.33 3.85C15.81 3.59 16.35 3.43 16.9 3.36C17.45 3.3 18.01 3.34 18.53 3.48C19.06 3.62 19.56 3.87 20 4.19C20.45 4.51 20.84 4.91 21.16 5.36C21.48 5.81 21.72 6.32 21.89 6.85C22.05 7.38 22.14 7.93 22.14 8.48C22.14 9.03 22.06 9.58 21.89 10.09C21.72 10.61 21.48 11.11 21.18 11.57C20.88 12.04 20.53 12.47 20.16 12.87C19.78 13.28 19.38 13.65 18.97 14.02C18.55 14.38 18.13 14.74 17.72 15.11C17.3 15.48 16.89 15.86 16.48 16.23C16.07 16.6 15.66 16.96 15.25 17.31C14.83 17.67 14.42 18.02 14.01 18.44C13.6 18.85 13.18 19.28 12.7 19.3C12.22 19.31 11.76 18.86 11.36 18.47C10.96 18.08 10.54 17.72 10.13 17.35C9.71 16.99 9.3 16.62 8.89 16.25C8.48 15.88 8.07 15.51 7.66 15.15C7.24 14.78 6.82 14.43 6.41 14.06C5.99 13.69 5.59 13.32 5.21 12.91C4.84 12.51 4.48 12.08 4.18 11.61C3.88 11.15 3.63 10.66 3.45 10.14C3.28 9.63 3.19 9.08 3.18 8.53C3.18 7.98 3.26 7.43 3.42 6.9C3.59 6.37 3.83 5.86 4.14 5.41C4.46 4.95 4.85 4.54 5.29 4.22C5.73 3.89 6.22 3.64 6.75 3.49Z"/></symbol><symbol id="i-blase" viewBox="0 0 24.6667 24.6667"><path fill-rule="evenodd" d="M10.56 1.47C11.1 1.39 11.64 1.34 12.19 1.33C12.73 1.33 13.28 1.36 13.82 1.43C14.36 1.5 14.9 1.61 15.43 1.76C15.95 1.92 16.47 2.11 16.96 2.34C17.45 2.56 17.93 2.83 18.38 3.13C18.84 3.43 19.27 3.77 19.68 4.14C20.09 4.51 20.47 4.9 20.83 5.33C21.18 5.75 21.5 6.2 21.78 6.67C22.07 7.14 22.31 7.63 22.51 8.14C22.72 8.64 22.88 9.16 23.01 9.69C23.14 10.22 23.24 10.76 23.29 11.31C23.35 11.85 23.36 12.4 23.33 12.95C23.29 13.49 23.22 14.04 23.1 14.57C22.99 15.11 22.83 15.63 22.65 16.15C22.47 16.66 22.16 17.15 22.17 17.67C22.18 18.19 22.58 18.71 22.73 19.23C22.87 19.75 23.13 20.25 23.27 20.78C23.4 21.31 23.32 21.89 23.05 22.36C22.78 22.84 22.3 23.19 21.75 23.3C21.2 23.42 20.67 23.21 20.15 23.02C19.64 22.84 19.13 22.69 18.61 22.47C18.1 22.25 17.59 22.05 17.1 22.25C16.6 22.45 16.1 22.72 15.57 22.86C15.05 23 14.52 23.11 13.98 23.21C13.44 23.31 12.89 23.35 12.34 23.35C11.8 23.34 11.25 23.3 10.71 23.21C10.17 23.13 9.63 23.01 9.11 22.86C8.59 22.7 8.08 22.51 7.59 22.28C7.09 22.04 6.62 21.77 6.17 21.46C5.72 21.15 5.29 20.81 4.88 20.43C4.48 20.06 4.1 19.65 3.75 19.22C3.41 18.8 3.09 18.35 2.81 17.88C2.53 17.41 2.29 16.92 2.1 16.41C1.91 15.91 1.75 15.38 1.63 14.85C1.5 14.31 1.41 13.77 1.36 13.23C1.31 12.68 1.31 12.13 1.35 11.59C1.39 11.05 1.48 10.5 1.59 9.97C1.71 9.43 1.86 8.91 2.04 8.4C2.23 7.89 2.46 7.39 2.73 6.92C3 6.45 3.31 6 3.66 5.57C4 5.14 4.37 4.72 4.77 4.34C5.17 3.96 5.59 3.61 6.04 3.29C6.49 2.98 6.95 2.7 7.44 2.46C7.93 2.22 8.44 2.02 8.96 1.85C9.48 1.69 10.02 1.56 10.56 1.47ZM10.71 3.48C11.25 3.38 11.79 3.34 12.34 3.34C12.89 3.34 13.43 3.39 13.97 3.49C14.51 3.59 15.04 3.74 15.55 3.93C16.05 4.13 16.54 4.37 17.01 4.66C17.47 4.95 17.91 5.27 18.31 5.64C18.72 6 19.09 6.4 19.43 6.83C19.76 7.26 20.06 7.72 20.31 8.21C20.57 8.69 20.77 9.2 20.93 9.72C21.1 10.24 21.21 10.77 21.27 11.31C21.34 11.86 21.35 12.4 21.31 12.95C21.28 13.5 21.19 14.04 21.05 14.57C20.91 15.1 20.71 15.62 20.47 16.11C20.24 16.61 20.01 17.1 20.06 17.62C20.11 18.15 20.39 18.71 20.59 19.21C20.79 19.71 21.07 20.31 21.05 20.76C21.03 21.22 20.27 20.93 19.73 20.73C19.19 20.52 18.75 20.33 18.23 20.16C17.7 19.99 17.14 19.98 16.65 20.21C16.15 20.44 15.67 20.71 15.15 20.88C14.63 21.06 14.1 21.18 13.55 21.26C13.01 21.33 12.46 21.35 11.91 21.33C11.37 21.3 10.82 21.22 10.29 21.1C9.76 20.97 9.24 20.79 8.74 20.57C8.24 20.35 7.77 20.09 7.31 19.78C6.86 19.48 6.44 19.13 6.05 18.75C5.66 18.36 5.3 17.95 4.99 17.5C4.67 17.06 4.4 16.59 4.17 16.09C3.94 15.6 3.75 15.08 3.62 14.55C3.48 14.03 3.39 13.48 3.36 12.94C3.32 12.39 3.33 11.84 3.39 11.3C3.46 10.75 3.57 10.22 3.73 9.7C3.89 9.18 4.1 8.67 4.36 8.19C4.61 7.71 4.91 7.25 5.25 6.82C5.58 6.39 5.96 5.99 6.36 5.63C6.77 5.27 7.21 4.94 7.67 4.65C8.14 4.37 8.63 4.13 9.14 3.93C9.65 3.73 10.17 3.58 10.71 3.48Z"/></symbol><symbol id="i-repost" viewBox="0 0 20.6667 25.3333"><path fill-rule="evenodd" d="M17.61 10.52C17.99 10.15 18.77 10.07 19.07 10.53C19.36 10.99 19.39 11.57 19.37 12.11C19.34 12.66 19.31 13.21 19.32 13.77C19.33 14.32 19.35 14.87 19.33 15.41C19.3 15.96 19.23 16.49 19.07 17.01C18.9 17.53 18.65 18.02 18.32 18.47C18 18.92 17.61 19.32 17.17 19.63C16.73 19.95 16.24 20.2 15.73 20.37C15.22 20.54 14.67 20.64 14.13 20.68C13.58 20.71 13.02 20.68 12.47 20.66C11.92 20.64 11.39 20.65 10.85 20.67C10.31 20.69 9.58 20.53 9.18 20.68C8.77 20.84 9.47 21.42 9.88 21.78C10.3 22.14 10.72 22.56 10.77 23.11C10.82 23.66 10.3 24.16 9.76 24.13C9.22 24.09 8.83 23.62 8.45 23.22C8.07 22.83 7.68 22.44 7.29 22.06C6.9 21.67 6.51 21.28 6.12 20.9C5.73 20.51 5.25 20.13 5.3 19.56C5.34 18.99 5.88 18.7 6.27 18.3C6.65 17.91 7.03 17.5 7.43 17.14C7.84 16.78 8.2 16.36 8.57 15.93C8.94 15.51 9.46 15.21 9.99 15.27C10.52 15.33 10.87 15.81 10.75 16.41C10.63 17.01 10.09 17.26 9.75 17.67C9.41 18.08 8.78 18.57 9.35 18.67C9.92 18.76 10.48 18.66 11.02 18.66C11.57 18.67 12.11 18.67 12.66 18.67C13.21 18.67 13.77 18.69 14.31 18.64C14.85 18.59 15.38 18.43 15.84 18.12C16.3 17.82 16.68 17.4 16.94 16.92C17.2 16.45 17.31 15.91 17.33 15.36C17.35 14.8 17.32 14.24 17.33 13.71C17.34 13.17 17.37 12.64 17.33 12.07C17.3 11.49 17.24 10.89 17.61 10.52ZM10.09 1.54C10.44 1.16 11.2 1.13 11.6 1.5C12 1.88 12.38 2.27 12.77 2.65C13.16 3.04 13.52 3.47 13.92 3.84C14.32 4.21 14.75 4.53 15.09 4.99C15.43 5.45 15.4 5.99 15.03 6.42C14.65 6.86 14.24 7.21 13.85 7.58C13.46 7.96 13.08 8.35 12.69 8.75C12.31 9.14 11.93 9.57 11.5 9.89C11.07 10.22 10.32 10.15 10.02 9.73C9.72 9.31 9.96 8.67 10.31 8.23C10.66 7.79 11.11 7.5 11.49 7.07C11.87 6.65 11.03 6.67 10.49 6.66C9.94 6.66 9.41 6.66 8.86 6.67C8.31 6.68 7.76 6.66 7.21 6.65C6.66 6.64 6.11 6.66 5.59 6.84C5.08 7.01 4.59 7.32 4.21 7.71C3.83 8.11 3.58 8.59 3.46 9.12C3.33 9.65 3.32 10.22 3.32 10.77C3.32 11.32 3.34 11.85 3.34 12.4C3.34 12.95 3.34 13.51 3.33 14.05C3.31 14.59 2.89 15.19 2.34 15.16C1.78 15.13 1.39 14.63 1.32 14.11C1.25 13.59 1.36 12.98 1.36 12.43C1.36 11.87 1.31 11.33 1.3 10.79C1.3 10.25 1.33 9.7 1.42 9.16C1.51 8.62 1.66 8.1 1.9 7.61C2.13 7.12 2.45 6.67 2.83 6.27C3.22 5.87 3.67 5.54 4.15 5.29C4.64 5.03 5.15 4.88 5.69 4.78C6.22 4.69 6.77 4.65 7.32 4.65C7.87 4.64 8.42 4.67 8.97 4.68C9.51 4.69 10.07 4.65 10.6 4.66C11.13 4.68 11.83 4.6 11.43 4.15C11.03 3.71 10.56 3.49 10.23 3.02C9.91 2.54 9.74 1.92 10.09 1.54Z"/></symbol><symbol id="i-flieger" viewBox="0 0 24.6667 23.0"><path fill-rule="evenodd" d="M3.76 1.5C4.28 1.34 4.84 1.31 5.41 1.32C5.97 1.32 6.54 1.34 7.09 1.34C7.65 1.34 8.2 1.33 8.76 1.33C9.31 1.32 9.87 1.33 10.43 1.33C10.98 1.33 11.54 1.34 12.1 1.34C12.66 1.35 13.22 1.35 13.78 1.35C14.33 1.35 14.89 1.34 15.45 1.33C16 1.32 16.56 1.31 17.12 1.31C17.67 1.3 18.23 1.31 18.79 1.32C19.35 1.34 19.91 1.36 20.46 1.44C21 1.53 21.52 1.69 21.97 2.01C22.42 2.34 22.79 2.79 23.04 3.3C23.3 3.81 23.43 4.37 23.43 4.92C23.44 5.47 23.29 6 23.06 6.5C22.83 7 22.54 7.48 22.26 7.97C21.98 8.45 21.69 8.92 21.41 9.4C21.12 9.87 20.84 10.34 20.55 10.82C20.27 11.29 19.98 11.77 19.7 12.25C19.42 12.72 19.13 13.2 18.85 13.68C18.57 14.16 18.28 14.64 18 15.11C17.72 15.59 17.44 16.07 17.16 16.54C16.87 17.02 16.59 17.49 16.31 17.96C16.03 18.44 15.75 18.93 15.47 19.41C15.18 19.9 14.87 20.36 14.45 20.72C14.03 21.08 13.54 21.34 13 21.49C12.47 21.64 11.91 21.67 11.37 21.57C10.82 21.47 10.3 21.23 9.86 20.88C9.41 20.53 9.08 20.08 8.85 19.58C8.63 19.08 8.49 18.53 8.35 18C8.2 17.46 8.07 16.92 7.95 16.38C7.82 15.84 7.71 15.3 7.59 14.75C7.47 14.21 7.36 13.65 7.21 13.13C7.05 12.6 6.83 12.11 6.5 11.68C6.16 11.25 5.75 10.86 5.34 10.48C4.94 10.09 4.53 9.71 4.13 9.32C3.73 8.93 3.33 8.54 2.93 8.15C2.54 7.75 2.14 7.36 1.83 6.91C1.52 6.46 1.31 5.93 1.25 5.38C1.18 4.82 1.24 4.25 1.44 3.73C1.63 3.21 1.95 2.73 2.35 2.34C2.76 1.96 3.24 1.66 3.76 1.5ZM4.07 3.49C4.53 3.26 5.18 3.33 5.74 3.34C6.3 3.34 6.82 3.33 7.35 3.33C7.89 3.33 8.44 3.33 8.99 3.33C9.54 3.33 10.1 3.34 10.64 3.34C11.19 3.33 11.74 3.33 12.29 3.33C12.83 3.33 13.38 3.33 13.93 3.33C14.47 3.33 15.02 3.33 15.56 3.33C16.11 3.34 16.66 3.34 17.21 3.34C17.76 3.34 18.31 3.33 18.85 3.31C19.4 3.29 19.96 3.29 20.47 3.48C20.98 3.66 21.35 4.14 21.43 4.7C21.5 5.26 21.24 5.76 20.96 6.23C20.69 6.7 20.41 7.17 20.13 7.64C19.85 8.1 19.57 8.57 19.29 9.04C19.02 9.51 18.74 9.98 18.46 10.44C18.18 10.91 17.9 11.38 17.62 11.85C17.34 12.31 17.06 12.78 16.79 13.25C16.51 13.72 16.23 14.19 15.95 14.66C15.68 15.12 15.4 15.6 15.13 16.07C14.85 16.54 14.58 17.01 14.29 17.47C14.01 17.94 13.72 18.4 13.41 18.85C13.11 19.3 12.67 19.67 12.07 19.66C11.48 19.66 11.02 19.33 10.76 18.87C10.5 18.4 10.35 17.85 10.22 17.32C10.09 16.79 9.98 16.25 9.87 15.73C9.75 15.2 9.62 14.67 9.48 14.14C9.34 13.62 9.13 13.06 9.07 12.54C9.02 12.02 9.47 11.71 9.97 11.45C10.48 11.19 10.95 10.93 11.42 10.66C11.89 10.39 12.36 10.11 12.83 9.84C13.29 9.57 13.76 9.29 14.24 9.02C14.72 8.76 15.2 8.5 15.69 8.25C16.18 8 16.66 7.62 16.77 7.1C16.89 6.57 16.42 6.06 15.88 6.01C15.34 5.96 14.89 6.35 14.41 6.63C13.94 6.91 13.47 7.19 12.99 7.46C12.52 7.73 12.05 7.99 11.58 8.26C11.1 8.52 10.63 8.78 10.15 9.06C9.68 9.33 9.21 9.6 8.73 9.92C8.25 10.25 7.78 10.06 7.36 9.7C6.95 9.34 6.57 8.95 6.2 8.56C5.82 8.17 5.45 7.78 5.04 7.4C4.64 7.02 4.16 6.67 3.8 6.27C3.44 5.86 3.23 5.36 3.28 4.81C3.33 4.26 3.6 3.72 4.07 3.49Z"/></symbol><symbol id="i-merken" viewBox="0 0 20.6667 22.6667"><path fill-rule="evenodd" d="M4.2 1.49C4.72 1.34 5.27 1.31 5.83 1.31C6.39 1.31 6.96 1.35 7.52 1.35C8.07 1.36 8.62 1.34 9.17 1.33C9.72 1.32 10.27 1.32 10.82 1.33C11.38 1.34 11.93 1.36 12.49 1.35C13.05 1.35 13.6 1.32 14.16 1.31C14.71 1.3 15.26 1.31 15.81 1.39C16.35 1.46 16.88 1.6 17.36 1.87C17.84 2.14 18.28 2.53 18.59 2.98C18.91 3.43 19.1 3.94 19.21 4.48C19.32 5.01 19.36 5.56 19.36 6.12C19.37 6.67 19.35 7.23 19.33 7.78C19.32 8.34 19.32 8.9 19.32 9.45C19.32 10 19.32 10.56 19.33 11.11C19.34 11.66 19.34 12.22 19.34 12.77C19.34 13.32 19.34 13.87 19.33 14.43C19.32 14.98 19.31 15.54 19.32 16.09C19.33 16.65 19.36 17.2 19.36 17.76C19.35 18.31 19.32 18.87 19.16 19.39C19 19.91 18.64 20.35 18.19 20.69C17.74 21.02 17.22 21.26 16.68 21.33C16.14 21.4 15.58 21.3 15.08 21.07C14.58 20.84 14.16 20.46 13.8 20.03C13.44 19.61 13.1 19.16 12.74 18.76C12.38 18.35 12.01 17.95 11.65 17.5C11.3 17.05 10.95 16.57 10.56 16.27C10.18 15.97 9.81 16.57 9.45 17C9.08 17.42 8.71 17.84 8.36 18.25C8 18.67 7.66 19.1 7.3 19.52C6.94 19.94 6.57 20.37 6.14 20.72C5.71 21.07 5.21 21.3 4.67 21.35C4.12 21.39 3.55 21.27 3.04 21.03C2.53 20.79 2.08 20.43 1.79 19.98C1.5 19.53 1.38 19 1.34 18.45C1.3 17.89 1.32 17.31 1.33 16.75C1.34 16.19 1.34 15.64 1.34 15.1C1.34 14.55 1.34 14 1.34 13.45C1.34 12.9 1.33 12.34 1.33 11.78C1.33 11.22 1.33 10.67 1.33 10.11C1.33 9.56 1.34 9.01 1.34 8.46C1.34 7.91 1.35 7.36 1.34 6.81C1.33 6.25 1.3 5.68 1.34 5.12C1.38 4.57 1.49 4.03 1.74 3.55C1.99 3.06 2.34 2.62 2.76 2.27C3.19 1.91 3.68 1.64 4.2 1.49ZM4.61 3.49C5.1 3.28 5.65 3.28 6.21 3.31C6.78 3.34 7.34 3.36 7.88 3.35C8.43 3.34 8.98 3.31 9.52 3.31C10.07 3.31 10.61 3.33 11.16 3.34C11.71 3.35 12.26 3.37 12.81 3.36C13.37 3.35 13.93 3.29 14.48 3.28C15.03 3.26 15.57 3.3 16.07 3.53C16.57 3.75 17.01 4.14 17.2 4.62C17.39 5.11 17.37 5.69 17.34 6.26C17.32 6.84 17.32 7.39 17.33 7.93C17.33 8.47 17.34 9.01 17.34 9.56C17.34 10.1 17.34 10.65 17.34 11.2C17.34 11.75 17.33 12.3 17.33 12.86C17.33 13.41 17.33 13.96 17.33 14.51C17.33 15.06 17.34 15.6 17.34 16.13C17.34 16.67 17.35 17.23 17.35 17.82C17.34 18.4 17.27 18.98 16.79 19.19C16.3 19.41 15.7 19.09 15.34 18.68C14.98 18.27 14.63 17.84 14.27 17.43C13.92 17.01 13.56 16.6 13.2 16.19C12.84 15.77 12.48 15.36 12.14 14.93C11.8 14.5 11.48 14.05 11.03 13.72C10.58 13.38 10.04 13.38 9.6 13.74C9.17 14.11 8.84 14.54 8.49 14.96C8.15 15.38 7.79 15.8 7.44 16.22C7.08 16.64 6.72 17.05 6.36 17.47C6 17.88 5.65 18.3 5.29 18.71C4.93 19.12 4.35 19.45 3.87 19.21C3.39 18.96 3.32 18.34 3.32 17.77C3.33 17.21 3.33 16.66 3.33 16.12C3.34 15.58 3.34 15.03 3.34 14.48C3.33 13.93 3.33 13.38 3.33 12.83C3.32 12.28 3.32 11.72 3.32 11.18C3.33 10.63 3.33 10.08 3.34 9.54C3.34 8.99 3.35 8.45 3.34 7.9C3.34 7.35 3.33 6.79 3.31 6.23C3.29 5.67 3.29 5.11 3.49 4.62C3.69 4.13 4.12 3.7 4.61 3.49Z"/></symbol><symbol id="i-folgen" viewBox="0 0 24.6667 20.6667"><path fill-rule="evenodd" d="M15.08 11.51C15.62 11.49 16.16 11.53 16.69 11.6C17.23 11.68 17.76 11.8 18.27 11.96C18.78 12.12 19.28 12.32 19.76 12.56C20.24 12.81 20.7 13.09 21.12 13.42C21.55 13.74 21.94 14.1 22.3 14.5C22.65 14.9 23 15.34 23.22 15.82C23.43 16.31 23.4 16.92 23.13 17.42C22.87 17.92 22.44 18.21 21.95 18.4C21.46 18.6 20.92 18.72 20.39 18.84C19.87 18.95 19.33 19.05 18.8 19.12C18.26 19.19 17.73 19.25 17.19 19.28C16.65 19.32 16.11 19.34 15.58 19.34C15.04 19.34 14.5 19.33 13.97 19.3C13.43 19.27 12.9 19.22 12.36 19.16C11.83 19.1 11.29 19.03 10.76 18.94C10.23 18.85 9.68 18.76 9.17 18.61C8.66 18.45 8.18 18.2 7.82 17.8C7.46 17.4 7.29 16.86 7.36 16.32C7.43 15.78 7.68 15.3 8.02 14.87C8.35 14.45 8.76 14.08 9.18 13.73C9.59 13.38 10.03 13.07 10.49 12.8C10.95 12.53 11.43 12.3 11.93 12.12C12.43 11.93 12.95 11.78 13.48 11.68C14.01 11.58 14.54 11.52 15.08 11.51ZM14.1 1.47C14.63 1.32 15.19 1.28 15.75 1.34C16.3 1.41 16.85 1.57 17.34 1.82C17.84 2.07 18.29 2.41 18.66 2.82C19.03 3.23 19.33 3.71 19.52 4.22C19.72 4.73 19.82 5.28 19.81 5.84C19.81 6.39 19.71 6.95 19.51 7.46C19.31 7.98 19.02 8.46 18.65 8.87C18.28 9.28 17.83 9.62 17.33 9.87C16.84 10.12 16.3 10.27 15.75 10.31C15.2 10.36 14.64 10.3 14.1 10.15C13.57 10 13.06 9.75 12.62 9.42C12.18 9.08 11.8 8.67 11.51 8.2C11.22 7.73 11.02 7.2 10.92 6.66C10.83 6.12 10.83 5.56 10.93 5.02C11.03 4.47 11.23 3.95 11.52 3.47C11.81 2.99 12.19 2.57 12.63 2.22C13.07 1.88 13.57 1.62 14.1 1.47ZM15.24 13.5C15.78 13.5 16.32 13.55 16.86 13.66C17.39 13.76 17.91 13.92 18.4 14.13C18.89 14.35 19.35 14.61 19.78 14.93C20.22 15.25 20.65 15.63 21 16.05C21.35 16.47 20.8 16.7 20.26 16.83C19.73 16.95 19.2 17.04 18.67 17.11C18.13 17.19 17.59 17.25 17.05 17.29C16.51 17.33 15.97 17.35 15.43 17.35C14.89 17.35 14.34 17.33 13.8 17.3C13.26 17.26 12.72 17.2 12.19 17.13C11.65 17.06 11.13 16.97 10.59 16.87C10.05 16.77 9.3 16.62 9.54 16.2C9.78 15.79 10.28 15.38 10.71 15.05C11.15 14.71 11.62 14.43 12.11 14.21C12.6 13.98 13.11 13.81 13.63 13.69C14.16 13.57 14.7 13.51 15.24 13.5ZM4.84 5.46C5.33 5.16 5.98 5.46 6.21 5.91C6.45 6.37 6.33 7.01 6.31 7.58C6.28 8.15 6.73 8.35 7.3 8.35C7.86 8.34 8.41 8.19 8.9 8.52C9.38 8.86 9.41 9.56 9.05 9.97C8.7 10.38 8.11 10.38 7.52 10.33C6.94 10.29 6.33 10.3 6.32 10.87C6.31 11.45 6.42 12.01 6.3 12.53C6.18 13.05 5.55 13.44 5.04 13.27C4.52 13.1 4.31 12.5 4.32 11.93C4.33 11.36 4.56 10.61 4.19 10.36C3.82 10.12 3.08 10.34 2.54 10.34C2.01 10.34 1.37 9.98 1.34 9.44C1.31 8.9 1.76 8.42 2.29 8.33C2.82 8.25 3.48 8.42 3.99 8.34C4.5 8.26 4.36 7.5 4.34 6.95C4.32 6.4 4.35 5.76 4.84 5.46ZM14.45 3.46C14.93 3.28 15.47 3.28 15.97 3.43C16.47 3.58 16.93 3.88 17.27 4.27C17.6 4.66 17.8 5.16 17.82 5.68C17.84 6.21 17.7 6.75 17.42 7.19C17.13 7.63 16.71 7.98 16.22 8.17C15.73 8.36 15.19 8.38 14.68 8.25C14.18 8.12 13.72 7.82 13.4 7.41C13.07 7.01 12.88 6.51 12.86 5.99C12.83 5.47 12.97 4.93 13.25 4.48C13.54 4.02 13.96 3.65 14.45 3.46Z"/></symbol><symbol id="i-striche" viewBox="0 0 22.6667 12.6667"><path fill-rule="evenodd" d="M1.81 1.5C2.26 1.18 2.87 1.33 3.41 1.34C3.96 1.36 4.49 1.34 5.02 1.33C5.56 1.33 6.1 1.33 6.65 1.33C7.19 1.33 7.73 1.34 8.27 1.34C8.81 1.34 9.35 1.34 9.89 1.34C10.43 1.34 10.97 1.34 11.51 1.34C12.05 1.33 12.59 1.33 13.14 1.33C13.68 1.33 14.22 1.33 14.76 1.33C15.3 1.33 15.84 1.33 16.38 1.34C16.92 1.34 17.46 1.34 18 1.34C18.53 1.34 19.06 1.34 19.63 1.32C20.19 1.3 20.79 1.33 21.12 1.76C21.44 2.19 21.28 2.87 20.86 3.16C20.43 3.44 19.8 3.34 19.25 3.33C18.7 3.32 18.17 3.34 17.64 3.34C17.1 3.34 16.56 3.33 16.02 3.33C15.48 3.32 14.94 3.32 14.4 3.32C13.85 3.32 13.31 3.33 12.77 3.34C12.23 3.34 11.68 3.35 11.14 3.35C10.6 3.35 10.06 3.35 9.53 3.34C8.99 3.33 8.45 3.32 7.91 3.31C7.38 3.31 6.84 3.3 6.3 3.3C5.75 3.31 5.21 3.32 4.66 3.35C4.1 3.38 3.54 3.43 3.01 3.39C2.48 3.35 1.94 3.22 1.56 2.88C1.19 2.54 1.37 1.82 1.81 1.5ZM1.82 9.51C2.24 9.22 2.82 9.28 3.37 9.32C3.93 9.36 4.45 9.36 4.96 9.35C5.48 9.34 6.01 9.33 6.54 9.33C7.07 9.32 7.61 9.33 8.14 9.33C8.68 9.34 9.21 9.34 9.73 9.34C10.26 9.34 10.77 9.34 11.3 9.34C11.82 9.33 12.35 9.33 12.89 9.32C13.44 9.32 14.04 9.27 14.52 9.4C15.01 9.52 15.39 10 15.29 10.52C15.19 11.04 14.66 11.33 14.12 11.37C13.59 11.4 13.01 11.32 12.48 11.31C11.95 11.31 11.45 11.33 10.92 11.33C10.4 11.34 9.87 11.34 9.33 11.34C8.8 11.33 8.26 11.33 7.73 11.33C7.19 11.32 6.67 11.32 6.15 11.33C5.63 11.33 5.11 11.33 4.58 11.34C4.05 11.34 3.51 11.35 2.95 11.34C2.39 11.34 1.83 11.29 1.55 10.9C1.26 10.51 1.39 9.8 1.82 9.51Z"/></symbol><symbol id="i-note" viewBox="0 0 12.6667 13.3333"><path fill-rule="evenodd" d="M9.66 1.5C10.19 1.37 10.88 1.22 11.08 1.7C11.29 2.19 11.14 2.82 11.15 3.35C11.16 3.88 11.16 4.42 11.16 4.96C11.16 5.51 11.16 6.06 11.16 6.6C11.16 7.15 11.16 7.67 11.16 8.21C11.16 8.75 11.19 9.35 11.03 9.87C10.88 10.39 10.48 10.79 9.98 10.99C9.47 11.19 8.89 11.19 8.41 10.94C7.93 10.69 7.57 10.15 7.48 9.62C7.38 9.1 7.55 8.56 7.89 8.13C8.23 7.7 8.86 7.59 9.33 7.46C9.81 7.34 9.68 6.62 9.66 6.06C9.65 5.5 9.73 4.8 9.19 4.83C8.66 4.86 8.08 5.04 7.57 5.15C7.06 5.26 6.46 5.26 5.93 5.39C5.4 5.52 5.1 5.96 5.11 6.51C5.13 7.06 5.19 7.63 5.17 8.17C5.14 8.7 5.17 9.25 5.17 9.79C5.17 10.34 5.09 10.9 4.79 11.35C4.49 11.81 3.99 12.1 3.44 12.14C2.9 12.18 2.33 11.97 1.96 11.58C1.58 11.18 1.41 10.62 1.47 10.08C1.54 9.55 1.82 9.04 2.29 8.75C2.76 8.47 3.47 8.58 3.62 8.11C3.77 7.65 3.68 7.05 3.65 6.49C3.63 5.93 3.68 5.41 3.68 4.88C3.69 4.34 3.58 3.78 3.67 3.22C3.76 2.66 4.25 2.46 4.83 2.39C5.4 2.32 5.93 2.21 6.45 2.1C6.97 1.99 7.5 1.9 8.04 1.81C8.58 1.72 9.12 1.62 9.66 1.5Z"/></symbol><symbol id="i-herz_gross" viewBox="0 0 25.3333 23.0"><path fill-rule="evenodd" d="M6.491 1.438C6.914 1.346 7.349 1.308 7.785 1.32C8.221 1.331 8.659 1.391 9.088 1.492C9.517 1.594 9.938 1.739 10.341 1.918C10.744 2.098 11.126 2.327 11.487 2.55C11.848 2.774 12.192 2.974 12.531 3.02C12.87 3.065 13.206 2.912 13.554 2.68C13.901 2.449 14.263 2.167 14.651 1.964C15.038 1.76 15.447 1.611 15.869 1.511C16.29 1.41 16.724 1.36 17.161 1.355C17.598 1.35 18.039 1.391 18.473 1.473C18.908 1.555 19.337 1.68 19.752 1.842C20.166 2.004 20.566 2.204 20.942 2.438C21.318 2.672 21.67 2.94 21.989 3.238C22.308 3.536 22.594 3.865 22.84 4.219C23.086 4.573 23.294 4.952 23.465 5.349C23.636 5.746 23.77 6.161 23.867 6.587C23.965 7.013 24.027 7.45 24.053 7.891C24.079 8.332 24.07 8.776 24.027 9.218C23.984 9.659 23.907 10.098 23.796 10.526C23.686 10.954 23.542 11.372 23.365 11.773C23.189 12.174 22.98 12.556 22.741 12.917C22.501 13.278 22.233 13.619 21.944 13.945C21.655 14.271 21.344 14.582 21.021 14.884C20.697 15.186 20.36 15.478 20.018 15.766C19.676 16.054 19.329 16.337 18.984 16.621C18.639 16.905 18.296 17.19 17.964 17.48C17.632 17.771 17.313 18.069 17.004 18.374C16.695 18.678 16.393 18.988 16.083 19.294C15.772 19.6 15.453 19.903 15.109 20.194C14.765 20.485 14.391 20.774 13.991 21.018C13.592 21.262 13.175 21.449 12.777 21.485C12.379 21.522 12.01 21.376 11.657 21.138C11.303 20.9 10.963 20.588 10.618 20.302C10.273 20.016 9.928 19.736 9.583 19.46C9.238 19.184 8.893 18.911 8.551 18.638C8.208 18.366 7.867 18.093 7.529 17.817C7.191 17.541 6.856 17.262 6.525 16.977C6.194 16.691 5.867 16.399 5.546 16.098C5.225 15.796 4.909 15.485 4.6 15.161C4.291 14.837 3.99 14.501 3.702 14.155C3.414 13.809 3.141 13.452 2.886 13.086C2.632 12.719 2.397 12.344 2.188 11.961C1.978 11.577 1.795 11.186 1.642 10.788C1.49 10.39 1.369 9.986 1.286 9.576C1.203 9.166 1.157 8.751 1.154 8.332C1.152 7.913 1.194 7.489 1.282 7.065C1.37 6.64 1.503 6.217 1.676 5.802C1.848 5.388 2.059 4.983 2.303 4.597C2.548 4.211 2.826 3.844 3.132 3.504C3.438 3.164 3.772 2.852 4.129 2.577C4.485 2.301 4.864 2.063 5.259 1.87C5.655 1.677 6.067 1.53 6.491 1.438Z"/></symbol><symbol id="i-herz-v" viewBox="0 0 25.3333 23.0"><path fill-rule="evenodd" d="M6.46 1.5C6.98 1.38 7.54 1.32 8.09 1.33C8.64 1.35 9.19 1.43 9.72 1.59C10.24 1.74 10.74 1.97 11.19 2.26C11.64 2.56 12.05 3.03 12.48 3.19C12.91 3.35 13.31 2.86 13.74 2.52C14.18 2.19 14.65 1.93 15.16 1.74C15.66 1.55 16.2 1.42 16.74 1.37C17.28 1.32 17.84 1.33 18.37 1.42C18.91 1.5 19.44 1.66 19.93 1.87C20.43 2.09 20.9 2.37 21.33 2.7C21.77 3.03 22.16 3.41 22.5 3.83C22.84 4.26 23.14 4.72 23.38 5.21C23.61 5.7 23.8 6.21 23.92 6.74C24.05 7.27 24.12 7.82 24.12 8.36C24.13 8.9 24.08 9.45 23.97 9.98C23.86 10.51 23.69 11.03 23.48 11.53C23.26 12.03 23 12.5 22.68 12.94C22.37 13.39 22.01 13.8 21.64 14.2C21.26 14.59 20.86 14.97 20.46 15.34C20.06 15.71 19.65 16.08 19.25 16.44C18.85 16.8 18.44 17.16 18.03 17.51C17.62 17.87 17.2 18.23 16.79 18.6C16.37 18.96 15.97 19.33 15.58 19.69C15.2 20.05 14.81 20.42 14.36 20.76C13.9 21.1 13.38 21.4 12.88 21.48C12.37 21.56 11.88 21.37 11.42 21.06C10.95 20.75 10.52 20.37 10.1 20.01C9.68 19.65 9.28 19.29 8.88 18.92C8.48 18.56 8.08 18.2 7.68 17.84C7.28 17.48 6.87 17.12 6.46 16.76C6.04 16.4 5.63 16.04 5.22 15.67C4.82 15.3 4.41 14.93 4.03 14.54C3.64 14.16 3.27 13.76 2.94 13.33C2.61 12.9 2.31 12.46 2.06 11.97C1.81 11.49 1.61 10.98 1.46 10.46C1.32 9.93 1.23 9.39 1.2 8.84C1.16 8.3 1.19 7.75 1.29 7.21C1.38 6.68 1.54 6.15 1.75 5.65C1.97 5.15 2.23 4.67 2.55 4.23C2.86 3.79 3.23 3.38 3.63 3.01C4.03 2.65 4.47 2.34 4.95 2.08C5.42 1.83 5.93 1.63 6.46 1.5Z"/></symbol><symbol id="i-merken-v" viewBox="0 0 20.6667 22.6667"><path fill-rule="evenodd" d="M4.2 1.49C4.72 1.34 5.27 1.31 5.83 1.31C6.39 1.31 6.96 1.35 7.52 1.35C8.07 1.36 8.62 1.34 9.17 1.33C9.72 1.32 10.27 1.32 10.82 1.33C11.38 1.34 11.93 1.36 12.49 1.35C13.05 1.35 13.6 1.32 14.16 1.31C14.71 1.3 15.26 1.31 15.81 1.39C16.35 1.46 16.88 1.6 17.36 1.87C17.84 2.14 18.28 2.53 18.59 2.98C18.91 3.43 19.1 3.94 19.21 4.48C19.32 5.01 19.36 5.56 19.36 6.12C19.37 6.67 19.35 7.23 19.33 7.78C19.32 8.34 19.32 8.9 19.32 9.45C19.32 10 19.32 10.56 19.33 11.11C19.34 11.66 19.34 12.22 19.34 12.77C19.34 13.32 19.34 13.87 19.33 14.43C19.32 14.98 19.31 15.54 19.32 16.09C19.33 16.65 19.36 17.2 19.36 17.76C19.35 18.31 19.32 18.87 19.16 19.39C19 19.91 18.64 20.35 18.19 20.69C17.74 21.02 17.22 21.26 16.68 21.33C16.14 21.4 15.58 21.3 15.08 21.07C14.58 20.84 14.16 20.46 13.8 20.03C13.44 19.61 13.1 19.16 12.74 18.76C12.38 18.35 12.01 17.95 11.65 17.5C11.3 17.05 10.95 16.57 10.56 16.27C10.18 15.97 9.81 16.57 9.45 17C9.08 17.42 8.71 17.84 8.36 18.25C8 18.67 7.66 19.1 7.3 19.52C6.94 19.94 6.57 20.37 6.14 20.72C5.71 21.07 5.21 21.3 4.67 21.35C4.12 21.39 3.55 21.27 3.04 21.03C2.53 20.79 2.08 20.43 1.79 19.98C1.5 19.53 1.38 19 1.34 18.45C1.3 17.89 1.32 17.31 1.33 16.75C1.34 16.19 1.34 15.64 1.34 15.1C1.34 14.55 1.34 14 1.34 13.45C1.34 12.9 1.33 12.34 1.33 11.78C1.33 11.22 1.33 10.67 1.33 10.11C1.33 9.56 1.34 9.01 1.34 8.46C1.34 7.91 1.35 7.36 1.34 6.81C1.33 6.25 1.3 5.68 1.34 5.12C1.38 4.57 1.49 4.03 1.74 3.55C1.99 3.06 2.34 2.62 2.76 2.27C3.19 1.91 3.68 1.64 4.2 1.49Z"/></symbol></svg>
 <nav class="gn gn-page" id="gn" aria-label="Menu">
 <div class="gn-schleier"></div>
 <div class="gn-tuch"><div class="gn-glas"></div><div class="gn-voll"></div></div>
@@ -260,7 +304,7 @@ document.addEventListener("keydown",function(e){if(e.key!=="Escape")return;if(ha
 addEventListener("pageshow",function(e){if(e.persisted&&has("gn-open"))trig.click()})})()</script>
 <div class="navfx" id="fx" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i></div>
 <header id="kopf"><h1 id="kt"></h1><a id="kn" href="https://www.instagram.com/davidlichters/">lichters</a></header>
-<button id="saved" type="button" aria-label="Saved posts"><svg class="im" viewBox="0 0 14.667 23" aria-hidden="true"><path d="M2.625 .925h9.417a1.7 1.7 0 0 1 1.7 1.7v19.123a.377 .377 0 0 1-.644 .267L7.333 16.25l-5.764 5.765a.377 .377 0 0 1-.644-.267V2.625a1.7 1.7 0 0 1 1.7-1.7z"/></svg></button>
+<button id="saved" type="button" aria-label="Saved posts"><svg class="im" viewBox="0 0 20.6667 22.6667" aria-hidden="true"><use class="o" href="#i-merken"/></svg></button>
 <main id="feed"><div id="sent"></div></main>
 <section id="sv" aria-label="Saved posts" aria-hidden="true">
 <div class="navfx" id="svfx" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i></div>
@@ -272,7 +316,7 @@ addEventListener("pageshow",function(e){if(e.persisted&&has("gn-open"))trig.clic
 <script>
 (function(){
 var WA='https://wa.me/4915123849907', feed=document.getElementById('feed'), sent=document.getElementById('sent'), mk=document.getElementById('saved'), toast=document.getElementById('toast');
-var H={l:"<svg class=\"ih\" viewBox=\"0 0 21.4 19.8\" aria-hidden=\"true\"><path d=\"M10.7 18.9C4.3 14.3 1 11.1 1 6.9 1 3.6 3.4 1.1 6.3 1.1c1.9 0 3.5 1 4.4 2.8.9-1.8 2.5-2.8 4.4-2.8 2.9 0 5.3 2.5 5.3 5.8 0 4.2-3.3 7.4-9.7 12z\"/></svg>",i:"<svg class=\"ii\" viewBox=\"0 0 21.8 21.8\" aria-hidden=\"true\"><circle cx=\"10.9\" cy=\"10.9\" r=\"10.1\"/><path d=\"M8.1 16.1h5.6M10.9 16.1V9.5H8.6\" /><circle class=\"pkt\" cx=\"10.8\" cy=\"5.9\" r=\"1.25\"/></svg>",s:"<svg class=\"is\" viewBox=\"0 0 19.2 24\" aria-hidden=\"true\"><path d=\"M5.6 7.8H4.2C2.4 7.8 1 9.2 1 11v8.8C1 21.6 2.4 23 4.2 23H15c1.8 0 3.2-1.4 3.2-3.2V11c0-1.8-1.4-3.2-3.2-3.2h-1.4M9.6 15.2V1.2M5.6 5.2l4-4 4 4\"/></svg>",m:"<svg class=\"im\" viewBox=\"0 0 14.667 23\" aria-hidden=\"true\"><path d=\"M2.625 .925h9.417a1.7 1.7 0 0 1 1.7 1.7v19.123a.377 .377 0 0 1-.644 .267L7.333 16.25l-5.764 5.765a.377 .377 0 0 1-.644-.267V2.625a1.7 1.7 0 0 1 1.7-1.7z\"/></svg>",r:"<svg class=\"rg\" viewBox=\"0 0 32 32\" aria-hidden=\"true\"><circle cx=\"16\" cy=\"16\" r=\"16.25\"/></svg>"};
+var H={l:"<svg class=\"ih\" viewBox=\"0 0 25.3333 23.0\" aria-hidden=\"true\"><use class=\"o\" href=\"#i-herz\"/><use class=\"v\" href=\"#i-herz-v\"/></svg>",i:"<svg class=\"ii\" viewBox=\"0 0 24.6667 24.6667\" aria-hidden=\"true\"><use class=\"o\" href=\"#i-blase\"/></svg>",p:"<svg class=\"ip\" viewBox=\"0 0 20.6667 25.3333\" aria-hidden=\"true\"><use class=\"o\" href=\"#i-repost\"/></svg>",s:"<svg class=\"is\" viewBox=\"0 0 24.6667 23.0\" aria-hidden=\"true\"><use class=\"o\" href=\"#i-flieger\"/></svg>",m:"<svg class=\"im\" viewBox=\"0 0 20.6667 22.6667\" aria-hidden=\"true\"><use class=\"o\" href=\"#i-merken\"/><use class=\"v\" href=\"#i-merken-v\"/></svg>",r:"<svg class=\"rg\" viewBox=\"0 0 32 32\" aria-hidden=\"true\"><circle cx=\"16\" cy=\"16\" r=\"16.25\"/></svg>",f:"<svg class=\"if\" viewBox=\"0 0 24.6667 20.6667\" aria-hidden=\"true\"><use class=\"o\" href=\"#i-folgen\"/></svg>",k:"<svg class=\"ik\" viewBox=\"0 0 22.6667 12.6667\" aria-hidden=\"true\"><use class=\"o\" href=\"#i-striche\"/></svg>",n:"<svg class=\"nt\" viewBox=\"0 0 12.6667 13.3333\" aria-hidden=\"true\"><use class=\"o\" href=\"#i-note\"/></svg>",g:"<svg class=\"hg\" viewBox=\"0 0 25.3333 23.0\" aria-hidden=\"true\"><use class=\"o\" href=\"#i-herz_gross\"/></svg>"};
 var idx=[], cache={}, pos={}, quelle=null, laeuft=false, zuende=false, lauf=0, GRENZE=0, gezeigt=0;
 /* Saved liegt in derselben Seite und hat keine eigene Adresse (David 11.11.); alle Adressen zeigen auf den Feed-Ordner */
 var HIER=location.pathname.replace(/[^\/]*$/,''), BASIS=HIER, FEED=location.origin+HIER;
@@ -290,9 +334,8 @@ function schreiben(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}
 var likes=new Set(lesen('feed.likes')), saves=lesen('feed.saved');
 
 function esc(s){return String(s).replace(/[&<>"]/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]})}
-function fett(s){return esc(s).replace(/\*\*([^*]+)\*\*/g,'<b>$1</b>').replace(/\*\*/g,'')}
-function ago(t){var s=Math.max(60,Date.now()/1000-t),a=[[31536000,'year'],[2592000,'month'],[604800,'week'],[86400,'day'],[3600,'hour'],[60,'minute']];
- for(var i=0;i<a.length;i++){var n=Math.floor(s/a[i][0]);if(n>=1)return n+' '+a[i][1]+(n>1?'s':'')+' ago'}return 'just now'}
+/* David 24.11.2026 22:11: "Da, wo im grauen Text 23 Stunden hersteht, da soll 2026-11-24 stehen." Fest unter jedem Post wie 100K und 69, nicht das Datum des Posts (p.u). */
+var DATUM='2026-11-24';
 function klar(s){return s.replace(/\*\*/g,'')}
 /* Slides im neuen Design (k 'n') bringen beide Texte fertig mit: v fuer die Stimme, x zum Lesen. Die Ende-Slide hat keinen Text. */
 function vorlese(sl){if(sl.k==='n')return sl.v||'';if(sl.k==='t')return [sl.t,sl.s].filter(Boolean).join('. ');return klar((sl.h?sl.h+'. ':'')+sl.t.replace(/\n/g,'. '))}
@@ -322,7 +365,7 @@ function sichtbar(sl){if(sl.k==='n')return sl.x||'';if(sl.k==='t')return sl.t;re
      section    t Text                                           numbers   h Kopf, ca [[Zahl, Beschriftung], ...]
    basis = Adresse vor dem Bild: src ist basis + sl.i.
 
-   Auf der Seite gehoert die Slide in einen Kasten mit fester Groesse im Format 4:3, als Block, ohne Innenabstand
+   Auf der Seite gehoert die Slide in einen Kasten mit fester Groesse im Format 3:2 (bis 24.11.2026 4:3), als Block, ohne Innenabstand
    und linksbuendig (im Feed etwa .s.n{display:block;padding:0;text-align:left}). So gemessen am 10.11.2026 im
    Feed-Aufbau: jedes der 355 Elemente der 43 Vorlage-Slides liegt am selben Ort wie in reference.html.
    Alle Groessen sind cqw wie in der Vorlage: ein Browser ohne Container-Einheiten zeigt sie nicht richtig.
@@ -339,7 +382,16 @@ function sichtbar(sl){if(sl.k==='n')return sl.x||'';if(sl.k==='t')return sl.t;re
    - Story: David rechts in Gruen, alle anderen links in Dunkelgrau. Die Namenszeile steht nur, wenn der
      Sprecher ein anderer ist als bei der Nachricht davor.
    - Zeichen: &, < und > werden zu Entities. Anfuehrungszeichen und Apostrophe bleiben im Text, wie sie sind
-     (die Vorlage schreibt Apostrophe direkt). Nur in der Bildadresse wird " zu &quot;. */
+     (die Vorlage schreibt Apostrophe direkt). Nur in der Bildadresse wird " zu &quot;.
+
+   Umbau 25.11.2026 (David 24.11.: "alles in dem ADHS-optimierten Design von den ersten paar Folien", Buehne 3:2 statt 4:3):
+   - Jede Slide des Kurses laeuft hier durch. Slides in der alten Form (ohne k 'n': Titel-Slide k 't' mit c, t, s und
+     Text-Slide mit h und t) setzt slideNeu.alt(sl) ohne Textaenderung in die kurze Form um: Titel wird start (ohne Bild
+     schwarz), Text wird statement mit fettem Kopf, eine Folge nummerierter Absaetze wird list mit der ersten Nummer z.
+   - Mehrere Absaetze (Zeilenumbruch im Text) werden mehrere Absaetze im selben Stil, wie die Vorlage zwei Absaetze setzt.
+   - list kennt z (erste Nummer, wenn eine Liste auf der Slide davor begann). start waehlt die Titelgroesse nach Laenge:
+     bis 36 Zeichen 8.2cqw wie die Vorlage, bis 72 Zeichen 6.2cqw, darueber 4.8cqw. Die 43 Slides der Vorlage kommen
+     dadurch unveraendert heraus (ecom_slides_test.py). */
 function slideNeu(sl, basis) {
   var P = String.fromCharCode(37);
   var VOLL = 'width: 100' + P + '; height: 100' + P;
@@ -397,13 +449,22 @@ function slideNeu(sl, basis) {
     return sl.h ? BLOCK + ABSATZ + reich(sl.h, ORANGE) + '</p></div>' : '';
   }
 
+  /* Absaetze eines Texts: je Zeile ein Absatz im selben Stil (die Vorlage hat nur einzeilige Texte) */
+  function absaetze(v, stil, farbe) {
+    var z = txt(v).split('\n'), aus = '', n;
+    for (n = 0; n < z.length; n++) { if (z[n]) aus += stil + reich(z[n], farbe) + '</p>'; }
+    return aus;
+  }
+
   if (!sl) return '';
+  if (sl.k !== 'n') sl = slideNeu.alt(sl);
   y = sl.y;
 
   if (y === 'start') {
     a = KASTEN + 'background: #000000">' + bild() + '<div style="position: absolute; inset: 0; background: rgba(0, 0, 0, 0.5)"></div><div style="position: absolute; inset: 0; box-sizing: border-box; padding: 6cqw 9cqw; display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; color: #FFFFFF; text-shadow: 0 0.2cqw 1.2cqw rgba(0, 0, 0, 0.35)">';
     if (sl.c) a += '<p style="margin: 0 0 2cqw; font-size: 3.4cqw; font-weight: 700; color: rgba(255, 255, 255, 0.85)">' + klar(sl.c) + '</p>';
-    a += '<h1 style="margin: 0; font-size: 8.2cqw; font-weight: 800; line-height: 1.04; letter-spacing: -0.015em; text-wrap: balance">' + klar(sl.t) + '</h1>';
+    i = ohneMarken(sl.t).length;
+    a += '<h1 style="margin: 0; font-size: ' + (i <= 36 ? '8.2' : i <= 72 ? '6.2' : '4.8') + 'cqw; font-weight: 800; line-height: 1.04; letter-spacing: -0.015em; text-wrap: balance">' + klar(sl.t) + '</h1>';
     if (sl.s) a += '<p style="margin: 3cqw 0 0; max-width: 74cqw; font-size: 3.5cqw; font-weight: 600; line-height: 1.3; color: rgba(255, 255, 255, 0.9)">' + klar(sl.s) + '</p>';
     return a + '</div></div>';
   }
@@ -462,8 +523,9 @@ function slideNeu(sl, basis) {
     if (sl.h) a += '<p style="margin: 0 0 2.8cqw; font-size: 4.6cqw; font-weight: 800; line-height: 1.22; letter-spacing: -0.005em">' + klar(sl.h) + '</p>';
     a += '<ol style="list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 2cqw">';
     liste = sl.it || [];
+    e = sl.z > 0 ? Math.floor(sl.z) : 1;
     for (i = 0; i < liste.length; i++) {
-      a += '<li style="display: flex; gap: 2.2cqw; align-items: baseline"><span style="flex: 0 0 3.6cqw; font-size: 4.4cqw; font-weight: 800; color: #C2410C">' + (i + 1) + '</span><span style="font-size: 4.2cqw; line-height: 1.28; font-weight: 500">' + reich(liste[i], ORANGE) + '</span></li>';
+      a += '<li style="display: flex; gap: 2.2cqw; align-items: baseline"><span style="flex: 0 0 ' + (e + i > 9 ? '5' : '3.6') + 'cqw; font-size: 4.4cqw; font-weight: 800; color: #C2410C">' + (e + i) + '</span><span style="font-size: 4.2cqw; line-height: 1.28; font-weight: 500">' + reich(liste[i], ORANGE) + '</span></li>';
     }
     a += '</ol>';
     if (sl.f) a += '<p style="margin: 3cqw 0 0; font-size: 4.4cqw; line-height: 1.28; font-weight: 500">' + reich(sl.f, ORANGE) + '</p>';
@@ -495,16 +557,47 @@ function slideNeu(sl, basis) {
   if (y === 'term' || y === 'risk' || y === 'check' || merk) a += pille(y);
   a += BLOCK;
   if (sl.h) a += stil + reich(sl.h, geldfarbe) + '</p>';
-  if (sl.t) a += stil + reich(sl.t, geldfarbe) + '</p>';
+  if (sl.t) a += absaetze(sl.t, stil, geldfarbe);
   return a + '</div></div></div>';
 }
+/* Alte Form -> kurze Form, ohne ein Wort zu aendern (Umbau 25.11.2026). Titel k 't' -> start ohne Bild. Text h/t ->
+   statement, der Kopf fett; stehen am Anfang des Texts nummerierte Absaetze ("4. ...") in lueckenloser Folge und hat
+   die Slide keinen Kopf oder nur ihn davor, wird daraus list mit z = erste Nummer, Absaetze danach werden der Schluss f.
+   Stimme und Teilen lesen weiter die alten Felder (vorlese, sichtbar in der Seite): die fertigen Aufnahmen passen. */
+slideNeu.alt = function (sl) {
+  var t, z, nr, it = [], rest = [], n, m, aus;
+  if (!sl) return sl;
+  if (sl.k === 't') {
+    aus = { k: 'n', y: 'start', c: sl.c, t: sl.t };
+    if (sl.s) aus.s = sl.s;
+    return aus;
+  }
+  t = String(sl.t === null || sl.t === undefined ? '' : sl.t);
+  z = t.split('\n');
+  for (n = 0; n < z.length; n++) {
+    m = /^(\d{1,2})\. (\S[\s\S]*)$/.exec(z[n]);
+    if (m && !rest.length && (nr === undefined || +m[1] === nr + it.length)) {
+      if (nr === undefined) nr = +m[1];
+      it.push(m[2]);
+    } else {
+      if (!it.length) break;
+      rest.push(z[n]);
+    }
+  }
+  if (it.length && n === z.length) {
+    aus = { k: 'n', y: 'list', it: it };
+    if (sl.h) aus.h = sl.h;
+    if (nr !== 1) aus.z = nr;
+    if (rest.length) aus.f = rest.join(' ');
+    return aus;
+  }
+  aus = { k: 'n', y: 'statement', t: t };
+  if (sl.h) aus.h = '**' + String(sl.h).split('**').join('') + '**';
+  return aus;
+};
 if (typeof module !== 'undefined' && module.exports) { module.exports = slideNeu; module.exports.slideNeu = slideNeu; }
 
-/* Das Innere einer Slide im alten Design. */
-function slideHTML(sl){
- if(sl.k==='t')return '<div class="b"><span class="kl">'+esc(sl.c)+'</span><div class="tl'+(sl.m?' m':'')+'">'+esc(sl.t)+'</div>'+(sl.s?'<span class="kl">'+esc(sl.s)+'</span>':'')+'</div>';
- return '<div class="b">'+(sl.h?'<h3>'+esc(sl.h)+'</h3>':'')+sl.t.split('\n').map(function(p){return '<p>'+fett(p)+'</p>'}).join('')+'</div>';
-}
+/* Umbau 25.11.2026: das alte Innere (slideHTML, grau und mittig) gibt es nicht mehr. Jede Slide zeichnet slideNeu, alte Daten setzt slideNeu.alt um. */
 
 function abschnitt(f){if(!cache[f])cache[f]=fetch(BASIS+'d/'+f+'.json').then(function(r){if(!r.ok)throw 0;return r.json()});return cache[f]}
 function link(p,i){return FEED+'?p='+p.id+(i?'&s='+(i+1):'')}
@@ -517,13 +610,15 @@ function zeige(el,i,sanft){var cr=el.querySelector('.cr');el.dataset.i=i;if(!cr|
  if(sanft&&cr.scrollTo){el._ziel=i;zielWarte(el,900);cr.scrollTo({left:i*w,behavior:document.hidden?'auto':'smooth'})}else{zielFrei(el);cr.scrollLeft=i*w}
  pille(el,i)}
 
-function wach(el){if(el._wach)return;el._wach=1;var cr=el.querySelector('.cr'),p=el._p;tonHol(p.id.slice(0,5));cr.innerHTML=p.sl.map(function(s){return s.k==='n'?'<div class="s n">'+slideNeu(s,BASIS)+'</div>':'<div class="s">'+slideHTML(s)+'</div>'}).join('');var i=+el.dataset.i||0;if(i)cr.scrollLeft=i*cr.clientWidth}
+function wach(el){if(el._wach)return;el._wach=1;var cr=el.querySelector('.cr'),p=el._p;tonHol(p.id.slice(0,5));cr.innerHTML=p.sl.map(function(s){return '<div class="s n'+(s.k==='n'?'':' a')+'">'+slideNeu(s,BASIS)+'</div>'}).join('');var i=+el.dataset.i||0;if(i)cr.scrollLeft=i*cr.clientWidth}
 function schlaf(el){if(!el._wach||(spricht&&spricht.el===el))return;el.dataset.i=aktuell(el);el._wach=0;el.querySelector('.cr').innerHTML=''}
 function nahFolge(es){es.forEach(function(e){if(e.isIntersecting)wach(e.target);else schlaf(e.target)})}
 var nah=new IntersectionObserver(nahFolge,{rootMargin:'1500px 0px'});
 
 var spricht=null;
-function fertigSprechen(){if(spricht){spricht.btn.textContent='speak';spricht.btn.setAttribute('aria-pressed','false');spricht=null}}
+/* David 24.11.: "Wir setzen das Wort Speak durch das Wort Listen", davor die Note; waehrend es spricht steht dort "Stop". Nur das Wort wechselt, die Note bleibt. */
+function knopf(b,an){b.lastChild.textContent=an?'Stop':'Listen';b.setAttribute('aria-pressed',an?'true':'false')}
+function fertigSprechen(){if(spricht){knopf(spricht.btn,false);spricht=null}}
 function stop(){fertigSprechen();try{speechSynthesis.cancel()}catch(e){}try{ton.pause()}catch(e){}}
 /* David 10.11.: "Bei speak beim autoscrollen sollen alle posts auf der hoehe platziert sein das genau name lichters ausserhalb des menu blur ist (wie im beispiel screenshot)". HOEHE = Abstand vom oberen Rand bis zum Kopf des Posts (.ph), aus Davids Bild gemessen (1179 x 2556, 3-fach): der Rand der Slide liegt bei 138,0, der Kopf beginnt 40,33 darueber, die Buchstaben von "lichters" bei 99,67. Der Feed scrollt im Fenster, Saved in #svs. Der allererste Post kommt nicht so tief (79 bei Stelle 0), dort ist der Nebel aber aus. */
 var HOEHE=97.67;
@@ -533,6 +628,8 @@ function aufHoehe(el){var k=el.querySelector('.ph'),drin=svs.contains(el),d=k.ge
  /* Die letzten Posts einer Liste kaemen nicht so hoch, weil darunter Platz fehlt (zwei gemerkte Posts: Kopf bei 215 statt 97,67). Dann waechst der Rand unter der Liste um genau das fehlende Stueck; beim naechsten Oeffnen von Saved und beim Neuaufbau des Feeds gilt wieder der normale Rand von 40. */
  if(y>max+.5)c.style.paddingBottom=((parseFloat(c.style.paddingBottom)||40)+Math.ceil(y-max))+'px';
  var ruhe=document.hidden||(window.matchMedia&&matchMedia('(prefers-reduced-motion:reduce)').matches);
+ /* Die Hoehe 97,67 ist fuer den sichtbaren Nebel gemessen: beim Weiterscrollen durch Listen bleibt der Kopfbereich darum stehen (kopfAuto), er gleitet nur beim Scrollen von Hand weg. */
+ if(!drin)kopfAuto();
  try{(drin?svs:window).scrollTo({top:y,behavior:ruhe?'auto':'smooth'})}catch(e){if(drin)svs.scrollTop=y;else window.scrollTo(0,y)}}
 /* David 10.11.: "automatisch am ende des posts runter scrollt zum naechsten und bei vorherigen post speak ausmacht und beim naechsten anmacht und scrollt". Nur am echten Ende des Tons oder des letzten Satzes: Stop von Hand, ein Fehler oder ein anderer Post beenden die Kette. Der naechste Post startet im selben Augenblick, in dem der alte endet; so laeuft der Ton auf dem iPhone ohne neuen Tipp weiter (derselbe Spieler, den der erste Tipp freigegeben hat). */
 function danach(el){var n=el.nextElementSibling;while(n&&!n.classList.contains('p'))n=n.nextElementSibling;return n}
@@ -550,13 +647,13 @@ function tonLies(b,f){return b?fetch(b+f+'/m.json').then(function(r){return r.ok
 function tonHol(f){if(tonM[f])return;var e=tonM[f]={w:null,b:''};tonDa.then(function(){var o=tonOrt[f];if(!o)return;return tonLies(o.r,f).then(function(j){if(j){e.b=o.r;e.w=j;return}return tonLies(o.l,f).then(function(k){if(k){e.b=o.l;e.w=k}})})}).catch(function(){})}
 function spieleTon(el,btn,f,n,marken,basis,auto){
  var mark={el:el,btn:btn},letzte=-1;try{speechSynthesis.cancel()}catch(e){}
- fertigSprechen();spricht=mark;btn.textContent='stop';btn.setAttribute('aria-pressed','true');
+ fertigSprechen();spricht=mark;knopf(btn,true);
  ton.src=basis+f+'/'+n+'.m4a';
  ton.ontimeupdate=function(){if(spricht!==mark)return;var i=marken.length-1;while(i>0&&marken[i]>ton.currentTime+.05)i--;if(i!==letzte){letzte=i;zeige(el,i,true)}};
  ton.onended=function(){if(spricht===mark)folge(mark)};
  ton.onerror=function(){if(spricht===mark)fertigSprechen()};
  /* Lehnt das Geraet den Start in der Kette ab (kein Tipp hat den Spieler freigegeben), sagt die Seite, was zu tun ist. */
- var p=ton.play();if(p&&p.catch)p.catch(function(e){if(spricht===mark){fertigSprechen();if(auto&&e&&e.name==='NotAllowedError')melde('Tap speak to continue')}});
+ var p=ton.play();if(p&&p.catch)p.catch(function(e){if(spricht===mark){fertigSprechen();if(auto&&e&&e.name==='NotAllowedError')melde('Tap Listen to continue')}});
 }
 function stimme(){var v=speechSynthesis.getVoices().filter(function(x){return /^en[-_](US|GB)/i.test(x.lang)});
  function p(x){var n=x.name;if(/^Jamie/.test(n))return 9;/* Davids Wahl 09.11.: Jamie, wenn das Geraet sie der Seite zeigt */return /premium/i.test(n)?5:/enhanced|neural|natural/i.test(n)?4:/^(Daniel|Ava|Zoe|Evan|Nathan|Noelle|Allison|Susan|Tom)\b|^Google (US|UK) English/.test(n)?3:/^Samantha/.test(n)?2:/Eloquence|Fred|Albert|Bad News|Bells|Boing|Bubbles|Cellos|Good News|Jester|Organ|Superstar|Trinoids|Whisper|Wobble|Zarvox/i.test(n)?0:1}
@@ -577,7 +674,7 @@ function sprich(el,btn,auto){
  if(!auto)frei.s=1;
  if(auto!==2)aufHoehe(el);
  var mark={el:el,btn:btn},lief=S.speaking||S.pending,an=0;
- fertigSprechen();spricht=mark;btn.textContent='stop';btn.setAttribute('aria-pressed','true');
+ fertigSprechen();spricht=mark;knopf(btn,true);
  function los(){
   if(spricht!==mark)return;
   var sl=el._p.sl,vo=stimme(),tx=sl.map(vorlese),le=-1;
@@ -588,10 +685,10 @@ function sprich(el,btn,auto){
    u.onstart=function(){an=1;if(spricht===mark)zeige(el,i,true)};
    if(i===le)u.onend=function(){if(spricht===mark)folge(mark)};/* folge zeigt erst die letzte Slide, dann geht es zum naechsten Post */
    /* Ein echter Fehler beendet alles (stop nimmt auch die restlichen Saetze aus der Warteschlange, sonst laese die Stimme ohne Knopf weiter). Verweigert das Geraet den Start in der Kette, sagt die Seite, was zu tun ist. */
-   u.onerror=function(ev){if(spricht===mark&&ev.error!=='canceled'&&ev.error!=='interrupted'){stop();if(auto&&ev.error==='not-allowed')melde('Tap speak to continue')}};
+   u.onerror=function(ev){if(spricht===mark&&ev.error!=='canceled'&&ev.error!=='interrupted'){stop();if(auto&&ev.error==='not-allowed')melde('Tap Listen to continue')}};
    S.speak(u)});
   /* Waechter: bleibt die Stimme des Geraets in der Kette stumm (sie meldet dann weder Start noch Ende), geht Speak nach 4 s ohne Start sauber aus, statt fuer immer "stop" zu zeigen, und die Seite sagt, was zu tun ist. */
-  if(auto)setTimeout(function(){if(spricht===mark&&!an){stop();melde('Tap speak to continue')}},4000);
+  if(auto)setTimeout(function(){if(spricht===mark&&!an){stop();melde('Tap Listen to continue')}},4000);
  }
  if(lief){S.cancel();setTimeout(los,120)}else los();
 }
@@ -599,13 +696,35 @@ addEventListener('pagehide',function(){stop()});
 
 function melde(t){toast.textContent=t;toast.classList.add('an');clearTimeout(melde.t);melde.t=setTimeout(function(){toast.classList.remove('an')},1800)}
 
+/* Bildunterschrift (David 24.11.: "da, wo bringing this back because I miss steht, da soll dann der Titel von der Folie stehen ... wenn was zu lang ist,
+   dann kommt hinter das letzte Wort, was draufpasst, drei Punkte und dahinter ein grauer More"). Eine Zeile: "lichters" und der Titel; passt sie nicht,
+   bleiben die Woerter, hinter die noch "... more" passt. Gemessen wird auf einer Leinwand in derselben Schrift, ohne die Seite neu auszulegen
+   (bei jedem nachgeladenen Abschnitt kommen bis zu 19 Posts auf einmal); 1 px Rand faengt Rundungen auf. Tipp auf die Zeile klappt den ganzen Titel auf. */
+var MC=document.createElement('canvas').getContext('2d'),SCHRIFT=' 13.9px -apple-system,BlinkMacSystemFont,"SF Pro Text","Helvetica Neue",Helvetica,Arial,sans-serif',capW=0;
+function mb(s,f){MC.font=f+SCHRIFT;return MC.measureText(s).width}
+function capBreit(s){return mb('lichters','600')+mb(' '+s,'400')+.2*s.split(' ').length}/* .2 = word-spacing der Zeile je Leerzeichen */
+function kuerzen(el){var c=el.querySelector('.cap'),ct=c.querySelector('.ct'),t=String(el._p.titel||''),w,wo,a,b,m,s;if(c._auf)return;
+ w=(capW||(capW=Math.max(0,(feed.clientWidth||innerWidth)-24)))-1;
+ if(capBreit(t)<=w){ct.textContent=t;c.classList.remove('zu');return}
+ wo=t.split(' ');a=0;b=wo.length-1;
+ while(a<b){m=(a+b+1)>>1;if(capBreit(wo.slice(0,m).join(' ')+'… more')<=w)a=m;else b=m-1}
+ s=wo.slice(0,a).join(' ');
+ if(!a){wo=wo[0];a=0;b=wo.length;while(a<b){m=(a+b+1)>>1;if(capBreit(wo.slice(0,m)+'… more')<=w)a=m;else b=m-1}s=wo.slice(0,a)}/* schon das erste Wort ist zu lang */
+ ct.textContent=s+'…';c.classList.add('zu')}
+function aufklappen(el){var c=el.querySelector('.cap');if(!c.classList.contains('zu'))return;c._auf=1;c.querySelector('.ct').textContent=el._p.titel;c.classList.remove('zu');c.classList.add('auf');c.removeChild(c.querySelector('.more'))}
+addEventListener('resize',function(){var w=Math.max(0,(feed.clientWidth||innerWidth)-24);if(w===capW)return;capW=w;liste.concat(Object.keys(svEl).map(function(k){return svEl[k]})).forEach(kuerzen)});
+
 function post(p,ziel){
  var el=document.createElement('article');el.className='p';el._p=p;el.dataset.i=p.start||0;
- var ig='https://www.instagram.com/davidlichters/';
- el.innerHTML='<header class="ph"><a class="av" href="'+ig+'" aria-label="lichters on Instagram"><img src="'+BASIS+'a.jpg" alt="" width="32" height="32" decoding="sync">'+H.r+'</a><div class="who"><a class="nm" href="'+ig+'">lichters</a><button class="sp" type="button" aria-pressed="false">speak</button></div></header>'+
+ var ig='https://www.instagram.com/davidlichters/',an=likes.has(p.id),gm=saves.indexOf(p.id)>=0,dt=DATUM;
+ /* Kopf wie die untere Zeile in Davids Bild 1: Profilbild, Name, darunter Note und Listen (startet das Vorlesen), rechts Folgen-Symbol und 2 Striche. Profilbild, Name und der ganze rechte Bereich fuehren zu Davids Instagram. */
+ el.innerHTML='<header class="ph"><a class="av" href="'+ig+'" aria-label="lichters on Instagram"><img src="'+BASIS+'a.jpg" alt="" width="32" height="32" decoding="sync">'+H.r+'</a><a class="nm" href="'+ig+'">lichters</a><button class="sp" type="button" aria-pressed="false">'+H.n+'<span>Listen</span></button><a class="rt" href="'+ig+'" aria-label="Follow lichters on Instagram">'+H.f+H.k+'</a></header>'+
  '<div class="c"><div class="cr" tabindex="0" aria-label="'+esc(p.titel)+'"></div><span class="pl"></span><button class="pf l" type="button" aria-label="Previous slide">&#8249;</button><button class="pf r" type="button" aria-label="Next slide">&#8250;</button></div>'+
- '<div class="ic"><button class="bl'+(likes.has(p.id)?' on':'')+'" type="button" aria-label="Like" aria-pressed="'+likes.has(p.id)+'">'+H.l+'</button><a class="bi" href="'+WA+'" aria-label="Ask David about this slide on WhatsApp">'+H.i+'</a><button class="bs" type="button" aria-label="Share">'+H.s+'</button><button class="bm'+(saves.indexOf(p.id)>=0?' on':'')+'" type="button" aria-label="Save" aria-pressed="'+(saves.indexOf(p.id)>=0)+'">'+H.m+'</button></div>'+
- '<time class="tm">'+ago(p.u)+'</time>';
+ /* Leiste wie Bild 1: Herz mit "100K", Sprechblase (Frage an David, frueher der Kreis mit i), Repost und Papierflieger (beide teilen) mit "69", rechts Merken */
+ '<div class="ic"><button class="bl'+(an?' on':'')+'" type="button" aria-label="Like" aria-pressed="'+an+'">'+H.l+'</button><span class="zl" aria-hidden="true">100K</span><a class="bi" href="'+WA+'" aria-label="Ask David about this slide on WhatsApp">'+H.i+'</a><button class="br" type="button" aria-label="Share">'+H.p+'</button><button class="bs" type="button" aria-label="Share">'+H.s+'</button><span class="zs" aria-hidden="true">69</span><button class="bm'+(gm?' on':'')+'" type="button" aria-label="Save" aria-pressed="'+gm+'">'+H.m+'</button></div>'+
+ '<div class="cap"><a class="cn" href="'+ig+'">lichters</a> <span class="ct"></span> <button class="more" type="button">more</button></div>'+
+ '<time class="tm" datetime="'+dt+'">'+dt+'</time>';
+ kuerzen(el);
  var cr=el.querySelector('.cr'),q=function(s){return el.querySelector(s)},t=0;
  cr.addEventListener('scroll',function(){if(t)return;t=requestAnimationFrame(function(){t=0;var a=aktuell(el);if(el._ziel!=null){zielWarte(el,250);if(a!==el._ziel)return}pille(el,a)})},{passive:true});
  /* Schiebt der Finger (oder Rad, Pfeiltaste) die Slides selbst zur Seite, gilt sofort wieder die echte Stelle. Ein Finger, der nur die Seite hoch oder runter schiebt, laesst den Zaehler in Ruhe. */
@@ -618,7 +737,32 @@ function post(p,ziel){
  q('.sp').addEventListener('click',function(){if(spricht&&spricht.el!==el&&Date.now()-(el._ende||0)<600){stop();return}sprich(el,this)});
  q('.bl').addEventListener('click',function(){var b=this,on=!likes.has(p.id);if(on)likes.add(p.id);else likes.delete(p.id);schreiben('feed.likes',Array.from(likes));b.classList.toggle('on',on);b.setAttribute('aria-pressed',on);b.classList.remove('pop');void b.offsetWidth;if(on)b.classList.add('pop')});
  q('.bm').addEventListener('click',function(){var at=saves.indexOf(p.id),on=at<0;if(on)saves.push(p.id);else saves.splice(at,1);schreiben('feed.saved',saves);this.classList.toggle('on',on);this.setAttribute('aria-pressed',on);svSync()});
- q('.bs').addEventListener('click',function(){var i=aktuell(el),u=link(p,i);if(navigator.share){navigator.share({title:p.titel,url:u}).catch(function(){})}else if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){melde('Link copied')})}else{prompt('Copy this link',u)}});
+ function teilen(){var i=aktuell(el),u=link(p,i);if(navigator.share){navigator.share({title:p.titel,url:u}).catch(function(){})}else if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){melde('Link copied')})}else{prompt('Copy this link',u)}}
+ q('.bs').addEventListener('click',teilen);
+ q('.br').addEventListener('click',teilen);
+ q('.cap').addEventListener('click',function(e){if(!e.target.closest('.cn'))aufklappen(el)});
+ /* David 24.11.: "wenn man auf die Bilder von der Slideshow doppelklickt, es auch liken soll, und wenn man gedrueckt haelt, soll es direkt wieder das
+    Teilen-Menue oeffnen". Doppeltipp und Doppelklick schalten Like nur an, nie aus (wie Instagram), dazu poppt das grosse Herz auf. Halten 0,5 s teilt wie
+    der Papierflieger. Ein Finger, der sich mehr als 8 px bewegt, wischt oder scrollt: dann ist es weder Tipp noch Halten.
+    Teilen braucht eine Nutzergeste. Beim Aufsetzen des Fingers gibt es noch keine (touchstart zaehlt nicht), darum teilt der Timer nur, wenn der Browser
+    gerade eine Geste gelten laesst (navigator.userActivation.isActive), sonst oeffnet das Menue beim Loslassen: touchend ist eine Geste. Mit der Maus
+    zaehlt schon das Druecken, dort teilt der Timer selbst. */
+ var g={x:0,y:0,weg:1,lang:0,warte:0,tz:0,tx:0,ty:0,ber:0,ti:0,mx:0,my:0};
+ function halt(){clearTimeout(g.ti);g.ti=0}
+ function liken(){var b=q('.bl');if(!likes.has(p.id)){likes.add(p.id);schreiben('feed.likes',Array.from(likes));b.classList.add('on');b.setAttribute('aria-pressed','true')}b.classList.remove('pop');void b.offsetWidth;b.classList.add('pop');
+  var c=q('.c'),h=c.querySelector('.hp');if(h)h.remove();h=document.createElement('span');h.className='hp';h.innerHTML=H.g;c.appendChild(h);h.addEventListener('animationend',function(){h.remove()})}
+ cr.addEventListener('touchstart',function(e){g.ber=Date.now();halt();if(e.touches.length!==1){g.weg=1;return}var f=e.touches[0];g.x=f.clientX;g.y=f.clientY;g.weg=0;g.lang=0;g.warte=0;
+  g.ti=setTimeout(function(){g.ti=0;if(g.weg)return;g.lang=1;if(navigator.userActivation&&navigator.userActivation.isActive)teilen();else g.warte=1},500)},{passive:true});
+ cr.addEventListener('touchmove',function(e){var f=e.touches[0];if(f&&!g.weg&&(Math.abs(f.clientX-g.x)>8||Math.abs(f.clientY-g.y)>8)){g.weg=1;halt()}},{passive:true});
+ cr.addEventListener('touchend',function(e){g.ber=Date.now();halt();if(g.weg)return;g.weg=1;
+  if(g.lang){if(g.warte){g.warte=0;teilen()}if(e.cancelable)e.preventDefault();return}
+  var jetzt=Date.now();if(jetzt-g.tz<350&&Math.abs(g.x-g.tx)<40&&Math.abs(g.y-g.ty)<40){g.tz=0;liken();if(e.cancelable)e.preventDefault()}else{g.tz=jetzt;g.tx=g.x;g.ty=g.y}},{passive:false});
+ cr.addEventListener('touchcancel',function(){g.weg=1;halt()},{passive:true});
+ /* Nach einer Beruehrung schickt das Handy nachgemachte Mausereignisse hinterher, die zaehlen hier nicht. */
+ cr.addEventListener('dblclick',function(){if(Date.now()-g.ber>1000)liken()});
+ cr.addEventListener('mousedown',function(e){if(e.button||Date.now()-g.ber<1000)return;g.mx=e.clientX;g.my=e.clientY;halt();g.ti=setTimeout(function(){g.ti=0;teilen()},500)});
+ cr.addEventListener('mousemove',function(e){if(g.ti&&(Math.abs(e.clientX-g.mx)>8||Math.abs(e.clientY-g.my)>8))halt()});
+ cr.addEventListener('mouseup',function(){if(Date.now()-g.ber>1000)halt()});cr.addEventListener('mouseleave',function(){if(Date.now()-g.ber>1000)halt()});
  q('.bi').addEventListener('click',function(){var i=aktuell(el),z=sichtbar(p.sl[i]).slice(0,900),text='Hi David, I need help with this:\n\n'+(z?'"'+z+'"\n\n':'')/* die Ende-Slide im neuen Design ist nur ein Bild, dann ohne leeres Zitat */+p.titel+', slide '+(i+1)+'/'+p.sl.length+'\n'+link(p,i);this.href=WA+'?text='+encodeURIComponent(text);if(matchMedia('(hover:hover) and (pointer:fine)').matches)this.target='_blank'});
  /* Pfeile zaehlen ab dem Ziel, das der Zaehler schon zeigt: schnelle Klicks hintereinander gehen so je eine Slide weiter, statt verschluckt zu werden. */
  q('.pf.l').addEventListener('click',function(){var a=el._ziel!=null?el._ziel:aktuell(el);zeige(el,Math.max(0,a-1),true)});
@@ -658,7 +802,7 @@ function svSync(){return idxDa.then(function(){return Promise.all(saves.slice().
 /* Einmal unsichtbar ausserhalb des Bildschirms vormalen, sonst stockt das allererste Oeffnen (gemessen 227 ms statt 45) */
 function svWarm(){if(svOffen||svWarm.f||!Object.keys(svEl).length)return;svWarm.f=1;svp.style.visibility='visible';requestAnimationFrame(function(){requestAnimationFrame(function(){requestAnimationFrame(function(){if(!svOffen)svp.style.visibility=''})})})}
 function zustand(){liste.concat(Object.keys(svEl).map(function(k){return svEl[k]})).forEach(function(el){var id=el._p.id,b=el.querySelector('.bm'),l=el.querySelector('.bl'),s=saves.indexOf(id)>=0,h=likes.has(id);b.classList.toggle('on',s);b.setAttribute('aria-pressed',s);l.classList.toggle('on',h);l.setAttribute('aria-pressed',h)})}
-function svAuf(zug){if(svOffen)return;svOffen=true;clearTimeout(svT);if(spricht)stop();zustand();svf.style.paddingBottom='';svs.scrollTop=0;svp.setAttribute('aria-hidden','false');
+function svAuf(zug){if(svOffen)return;svOffen=true;clearTimeout(svT);if(spricht)stop();zustand();kopfZeigen(true);svf.style.paddingBottom='';svs.scrollTop=0;svp.setAttribute('aria-hidden','false');
  if(!zug){svp.classList.remove('zug');svp.classList.add('an');return}
  svp.style.visibility='visible';requestAnimationFrame(function(){requestAnimationFrame(function(){if(!svOffen)return;svp.classList.add('zug');void svp.offsetWidth;svp.classList.add('an');svp.style.visibility=''})})}
 function svZu(zug){if(!svOffen)return;svOffen=false;if(spricht)stop();svp.setAttribute('aria-hidden','true');svp.classList.toggle('zug',zug);if(zug)void svp.offsetWidth;svp.classList.remove('an');zustand();clearTimeout(svT);svT=setTimeout(svSync,zug?460:0)}
@@ -670,6 +814,19 @@ zu.addEventListener('click',function(e){e.preventDefault();svZu(true)});
 var fx=document.getElementById('fx'), svfx=document.getElementById('svfx');
 function nebel(){fx.classList.toggle('on',(window.scrollY||0)>2);svfx.classList.toggle('on',svs.scrollTop>2)}
 addEventListener('scroll',nebel,{passive:true});svs.addEventListener('scroll',nebel,{passive:true});nebel();
+
+/* David 24.11.: "wenn man nach unten scrollt und tiefer und tiefer geht, dieser Bereich oben mit dem Nebel nicht angezeigt werden soll. Wenn man nach
+   oben scrollt, soll der Bereich wieder rauskommen." Nebel, Titel mit "lichters", Merken-Symbol und die 2 Striche gleiten zusammen weich nach oben weg
+   (Klasse kweg am html, CSS); bei jedem Scrollen nach oben (ab 2 px) sind sie sofort wieder da, in den obersten 60 px immer. Nie bei offenem Menue
+   (html.gn-lock) oder offenem Saved; waehrend Listen selbst weiterscrollt (kopfAuto in aufHoehe) bleibt der Bereich stehen, die Hoehe 97,67 gilt
+   fuer den sichtbaren Nebel. Gummiband am Ende der Seite zaehlt nicht als Scrollen nach oben. */
+var R=document.documentElement,kY=Math.max(0,window.scrollY||0),kWeg=false,kAuto=0;
+function kopfZeigen(an){if(kWeg===!an)return;kWeg=!an;R.classList.toggle('kweg',kWeg)}
+function kopfAuto(){kAuto=Date.now()+1500;kopfZeigen(true)}
+function kopfScroll(){var se=document.scrollingElement||R,max=Math.max(0,se.scrollHeight-innerHeight),y=Math.max(0,Math.min(window.scrollY||0,max)),d=y-kY;
+ if(y<=60||svOffen||R.classList.contains('gn-lock')||Date.now()<kAuto){kY=y;kopfZeigen(true);return}
+ if(d<=-2){kY=y;kopfZeigen(true)}else if(d>=2){kY=y;kopfZeigen(false)}}
+addEventListener('scroll',kopfScroll,{passive:true});
 
 idxDa.then(function(){unten.observe(sent);startFeed();svSync()});
 })();
