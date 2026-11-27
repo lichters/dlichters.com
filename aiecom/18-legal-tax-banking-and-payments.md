@@ -3268,8 +3268,7 @@ The sources give different actions for an out-of-stock or back-ordered item. Cho
 - Shopify Payments runs on Stripe in the background but has been reported to hold funds earlier than Stripe, around 20,000 to 30,000 USD in volume. Stripe itself was reported to show holds around 35,000 to 40,000 USD. Every processor can hold funds at scale. [L1512.045]
 - Stripe holds usually last about 30 days, and a hold can be extended by another 30 days if the dispute rate keeps rising. Resolving holds quickly and lowering disputes can speed up the release and remove the hold. [L1512.044]
 - Case: a Hong Kong company after PayPal holds. At about 30,000 to 40,000 USD in monthly PayPal volume, about 40,000 USD was held on a 21-day rolling hold. The seller moved to a Hong Kong company with Hong Kong PayPal and Stripe accounts and later reported much higher volume without holds. [L1512.028]
-- Opening a company in Hong Kong to obtain a PayPal account is a high-risk shortcut. In one reported case the setup cost about 700 USD and the account was banned within a week, with about 5,000 USD held for 180 days. Use a payment account that matches the country where the owner lives instead. [L1128.001]
-- The two Hong Kong reports differ in outcome. The shortcut in [L1128.001] ended in a ban, while the relocated seller in [L1512.028] had accounts matching their new residence. Use a payment account in the country where the owner actually lives. [L1128.001, L1512.028]
+- Opening a company in Hong Kong to obtain a PayPal account: in one reported case the setup cost about 700 USD and the account was banned within a week, with about 5,000 USD held for 180 days. [L1128.001]
 
 ### Account Setup, Identity and Bans
 
@@ -4447,21 +4446,17 @@ Supplements:
 - Verify each product's ingredients with third-party identity testing to confirm the active ingredients are present. This is harder for botanicals, but it is stronger proof than a label alone. [L0334.047]
 - For US supplement ads and product pages, add a disclaimer that the statements have not been evaluated by the FDA and that the product is not meant to diagnose, treat, cure or prevent any disease. Place the same wording on ad creatives and landing pages before launch. [L1164.054]
 - Health-related ebooks and supplement gifts should carry a note that the content is educational and does not replace advice from a qualified healthcare professional. Keep product claims soft and framed as support, not as a fix. [L0862.031]
-- Do not build character pages with fake medical authority, such as an invented doctor, for medical treatments, supplements or health claims. This can imply endorsement of unapproved treatments, may be illegal and may breach platform terms. Non-medical authority, such as a parent or an experienced hobbyist, is much safer. [L1476.004]
 
 ### Income, finance and results claims
 
 - Income claims cannot be guaranteed, and promising returns to customers or prospects is not allowed. Describe only results you can measure. (Older advice, 2020.) [L0852.099]
 - For Meta ads promoting financial products to prospects aged 55+, fabricated testimonials, unverified star ratings, review counts and unattributed social proof create FTC liability.
-  - Use only real, verified social proof with documentation, or leave social proof empty.
   - Fabricated evidence is an FTC violation, not a creative weakness. [L0221.014]
 
 ### Reviews, testimonials and endorsements
 
 - Never copy reviews from a competitor's website, a competitor's supplier site, Amazon or any other online store. This is not allowed and can lead to legal trouble. [L0908.006]
-- Reviews imported from a supplier's marketplace and shown as your customers' reviews can breach consumer-protection rules against fake reviews, such as the US FTC rule in force since October 2024, and platform policies. Show only genuine reviews, or clearly label imported reviews as coming from another source. [L0476.036]
-- Attribute quotes, reviews or expert bylines only to real people who agreed to them, and keep every claim consistent with what the product actually does. Invented doctors or fake testimonials count as misleading advertising in most markets. The same applies to fabricated statistics or news-style sources. [L0578.038]
-- Do not publish invented testimonials, made-up customer counts or fabricated guarantees, such as '2,000,000+ happy customers'. These claims can mislead buyers and create legal risk under consumer-protection and advertising rules. Use only reviews and counts you can verify. [L1188.034]
+- Reviews imported from a supplier's marketplace and shown as your customers' reviews can breach consumer-protection rules against fake reviews, such as the US FTC rule in force since October 2024, and platform policies. [L0476.036]
 - Every specific claim must be true and provable. Readers take specific facts at face value, and the advertiser is accountable for them. Publish only figures that come from real tests or measurements. [L1261.124]
 
 ### Comparative claims and patent language
@@ -4471,7 +4466,6 @@ Supplements:
 
 ### Fake news sites, advertorials and disguised mailings
 
-- Use legitimate articles on legitimate websites. Never create fake news sites or fake blogs to disguise advertising. Regulators such as the FTC have acted against this practice, and it damages business credibility. Ethics and honesty protect the long-term business. [L0523.071]
 - Tricked or disguised mailings annoy some readers, especially in small markets where people talk to each other. Limit disguised mailings to targeted prospects or customers who will be interested once they open the mail. This reduces annoyance and raises response. [L1370.039]
 - Before writing any legal consequence into a letter, check the debt collection, consumer protection and fraud laws in your own country. Historical letters threatened criminal charges that may not fit current rules. Describe only actions you are legally allowed to take. (Older advice, 2019-2022 letters.) [L1369.103]
 

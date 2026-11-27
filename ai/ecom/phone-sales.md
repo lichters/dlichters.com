@@ -69,8 +69,6 @@ All phone lessons are from 2021-22 and were made for local brand suppliers. Our 
 
 **What if their first order is too big for my budget?** Say it does not fit your launch budget, that you would like to work together, and that you will come back after launch.
 
-**Is a review over the phone allowed?** Only write down the customer's real words with their OK. Never make up reviews.
-
 ## Checklist
 
 - [ ] Business number set up and forwarding to my phone

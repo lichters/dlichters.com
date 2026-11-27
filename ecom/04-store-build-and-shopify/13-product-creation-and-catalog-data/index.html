@@ -55,7 +55,7 @@ setTimeout(function(){g.classList.add("gn-fertig");document.documentElement.clas
 document.addEventListener("keydown",function(e){if(e.key!=="Escape")return;if(has("gn-sub"))back.click();else if(has("gn-open"))trig.click()});
 addEventListener("pageshow",function(e){if(e.persisted&&has("gn-open"))trig.click()})})()</script>
 <main><div class="wrap">
-<div class="crumb"><a href="../../">Playbook</a> &rsaquo; <a href="../../04-store-build-and-shopify/">4. Store build and Shopify</a></div><h1>Product creation and catalog data</h1><p class="meta">Section 4.13 &middot; 13 of 20 in this chapter &middot; 54 min read</p><div class="short"><p class="lab">In short</p><ul>
+<div class="crumb"><a href="../../">Playbook</a> &rsaquo; <a href="../../04-store-build-and-shopify/">4. Store build and Shopify</a></div><h1>Product creation and catalog data</h1><p class="meta">Section 4.13 &middot; 13 of 20 in this chapter &middot; 53 min read</p><div class="short"><p class="lab">In short</p><ul>
 <li><strong>Start with the bestsellers</strong> of each approved supplier, not the whole product list.</li>
 <li>For many products, use <strong>one spreadsheet file (CSV)</strong>. For a few, add them by hand.</li>
 <li>Set prices from the supplier's rules: the <strong>lowest price the brand allows</strong> (MAP) and its suggested full price (MSRP).</li>
@@ -75,7 +75,6 @@ addEventListener("pageshow",function(e){if(e.persisted&&has("gn-open"))trig.clic
 <li>Use <strong>variants on one page</strong> for colours or sizes, not a separate page for each.</li>
 <li>Set up each new product <strong>in the same order</strong>: supplier name, description, images, price, then move the card on.</li>
 <li><strong>Sell at MAP</strong>, the lowest price the brand allows you to show.</li>
-<li>Show a crossed-out price only if it was a <strong>real price</strong>. Otherwise the discount is misleading.</li>
 <li><strong>Upload simple products by spreadsheet.</strong> Add products with many options by hand or with an add-on app.</li>
 <li>Upload the rival stores' <strong>best sellers first</strong>. Upload the rest after the store is live.</li>
 </ul>
@@ -408,7 +407,7 @@ Google Shopping is Google's results page that shows product pictures and prices.
 <li>Otherwise returns <span class="ex">(products sent back)</span> and chargeback disputes <span class="ex">(when a customer's bank takes money back)</span> become likely.</li>
 </ul>
 <h3 id="prompt-product-listing-for-a-photo">Prompt: product listing for a photo</h3>
-<pre><code>Act as a seasoned eCommerce copywriter who builds high-converting Shopify listings for upscale goods. I&#39;ll send a sample photo of an item I&#39;m considering listing. It isn&#39;t a real product yet, so infer its details from the picture and assume realistic specifics. Deliverables: (1) Devise a luxurious-sounding title that works as a brand, matches what the photo shows, suits a Shopify storefront, steers clear of trademarked or established brand names, and conveys reliability and professionalism. (2) Draft a complete listing: a brief opening paragraph centered on customer benefits; a &#39;Key Features&#39; list of 5 to 8 bullets; a &#39;Why You&#39;ll Love It&#39; or &#39;Benefits&#39; block; a plausible, internally consistent &#39;Specifications&#39; block; and a concise closing paragraph that nudges the reader toward buying. (3) Provide SEO metadata: a meta title no longer than 60 characters, a meta description no longer than 155 characters, and 3 to 5 search terms that fit the item. (4) End with a list headed &#39;Assumptions to verify with supplier&#39; that names every material, dimension, color, capacity, function, or feature you inferred from the photo. None of these inferred items may appear in the listing as established fact. Voice: businesslike, self-assured, precise, upscale, ready for Shopify, aimed at sales rather than filler. Ground rules: where the photo is ambiguous, choose the most sensible assumption; treat the item as coming from a dependable supplier of good quality; the goal is a listing that impresses suppliers and looks ready to launch; never fabricate certifications, guarantees, test outcomes, or awards. Formatting: clean and Shopify-friendly, with headings and bullets, easy to scan, no emoji, no overblown hype. Output sequence: product title, meta title, meta description, keywords, product description <span class="ex">(sections in the order of point 2)</span>, then the supplier verification list.</code></pre>
+<pre><code>Act as a seasoned eCommerce copywriter who builds high-converting Shopify listings for upscale goods. I&#39;ll send a sample photo of an item I&#39;m considering listing. It isn&#39;t a real product yet, so infer its details from the picture and assume realistic specifics. Deliverables: (1) Devise a luxurious-sounding title that works as a brand, matches what the photo shows, suits a Shopify storefront, steers clear of trademarked or established brand names, and conveys reliability and professionalism. (2) Draft a complete listing: a brief opening paragraph centered on customer benefits; a &#39;Key Features&#39; list of 5 to 8 bullets; a &#39;Why You&#39;ll Love It&#39; or &#39;Benefits&#39; block; a plausible, internally consistent &#39;Specifications&#39; block; and a concise closing paragraph that nudges the reader toward buying. (3) Provide SEO metadata: a meta title no longer than 60 characters, a meta description no longer than 155 characters, and 3 to 5 search terms that fit the item. (4) End with a list headed &#39;Assumptions to verify with supplier&#39; that names every material, dimension, color, capacity, function, or feature you inferred from the photo. None of these inferred items may appear in the listing as established fact. Voice: businesslike, self-assured, precise, upscale, ready for Shopify, aimed at sales rather than filler. Ground rules: where the photo is ambiguous, choose the most sensible assumption; treat the item as coming from a dependable supplier of good quality; the goal is a listing that impresses suppliers and looks ready to launch. Formatting: clean and Shopify-friendly, with headings and bullets, easy to scan, no emoji, no overblown hype. Output sequence: product title, meta title, meta description, keywords, product description <span class="ex">(sections in the order of point 2)</span>, then the supplier verification list.</code></pre>
 <h3 id="pasting-supplier-text-without-hidden-code">Pasting supplier text without hidden code</h3>
 <ul>
 <li><strong>Copying description text straight from a supplier website</strong> carries hidden HTML code <span class="ex">(hidden instructions that tell a browser how to show text)</span> into the product page. <strong>This can break the whole page.</strong></li>
@@ -1157,7 +1156,6 @@ Your output should contain:
 <li><strong>Price</strong>: the selling price.</li>
 <li><strong>Compare-at price</strong>: the higher reference price, shown crossed out and used for the savings label.</li>
 <li><strong>Cost per item</strong>: used for margin reporting <span class="ex">(profit reports)</span>.</li>
-<li>The Compare-at price should be the real price the item was offered at. Otherwise the discount is misleading.</li>
 </ul></li>
 <li><em>Older (2021-22).</em> <strong>Keep Charge tax on this product ticked.</strong> Enter Cost per item only if you want margin tracking.</li>
 <li>Compare-at for MAP-restricted products: see the MAP section below. (MAP means minimum advertised price, the lowest price a brand allows you to show.)</li>
@@ -1358,7 +1356,6 @@ Your output should contain:
 <li>Enter the MSRP in the compare-at price field. MSRP (Manufacturer's Suggested Retail Price) is the list price the brand recommends.</li>
 <li>The compare-at price is the old, higher price, shown crossed out next to the selling price.</li>
 <li>So customers see the MSRP struck through and pay the MAP.</li>
-<li>The compare-at price should be the <strong>real price</strong> the item was offered at. Otherwise, the discount is misleading.</li>
 <li>For MAP-listed products, the compare-at price is the MSRP.</li>
 <li><em>Older (2021-22).</em> Pricing rule for uploads: <strong>use the MAP price list if one exists</strong>, or otherwise add a fixed markup, such as 20%, and match prices from named competitor sites.</li>
 </ul>

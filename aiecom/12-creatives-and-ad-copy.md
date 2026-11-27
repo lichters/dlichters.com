@@ -3336,7 +3336,7 @@ Thirty-eight ways to strengthen a headline by how the claim is worded, in the or
 - **Unique:** Non-negotiable. The headline must offer something the reader has never seen before. To find a unique angle, pick one specific element of the product or offer and emphasize it, such as a feature competitors do not highlight or a fresh framing. The revolution is not required; the unique element can be small, as long as the reader has not seen it. [L1356.023]
 - **Useful:** The headline must promise something the audience values. Research the ideal prospect, what topics they are currently curious about, and which benefits would make them keep reading. A headline built only on intrigue is not useful and fails the "What's in it for me?" test. [L1356.024]
 - **Useful, tied to a hot topic:** Tie the useful promise to a topic top of mind for the audience, such as a major news event or government policy, then add a concrete, useful benefit such as a money figure. The topic creates interest and the benefit creates usefulness. [L1356.025]
-- **Ultra-Specific:** Use uncommon, oddly precise numbers rather than round figures, for example $10,251 instead of $10,000, 12.5 years younger instead of 10, or a 251% strength gain instead of 100%. Precise numbers imply the claim was tested and make it seem real. Be as specific as legally possible and do not lie. Ideally, the specific figure is backed by an example demonstrated in the lead or body. [L1356.022]
+- **Ultra-Specific:** Use uncommon, oddly precise numbers rather than round figures, for example $10,251 instead of $10,000, 12.5 years younger instead of 10, or a 251% strength gain instead of 100%. Precise numbers imply the claim was tested and make it seem real. Ideally, the specific figure is backed by an example demonstrated in the lead or body. [L1356.022]
 
 ### Specificity and Numbers
 
@@ -4276,7 +4276,6 @@ Interest copy should describe the end experience, such as comfort, relief or a b
 - Combine a spending threshold, a discount percentage and a deadline to create urgency. [L0232.013]
   - Example: "Free shipping on all orders over $45, 30% off today only"
   - Example: "Free 2-day shipping on $100+ purchases, 25% off expires tonight"
-  - The source notes that the urgency signal drives impulse buying even if the deadline is not hard-enforced. Under this handbook's honesty rule (see Honest urgency and scarcity), use this only when the store really ends the offer at the stated time. [L0232.013, L0461.008]
 - When a discount is strong, reframe it in several ways to make the price feel smaller. Use a percentage saving, a per-day cost and an affordability statement.
   - Example: "over 80% off the total value"
   - Example: "13 cents a day"
@@ -4316,11 +4315,10 @@ Interest copy should describe the end experience, such as comfort, relief or a b
 - Copy that explains the problem, the likelihood the customer will reach the goal and the effort required makes the product's value easier to see. This framing comes from Alex Hermosi's *100 Million Offers*, which the lesson recommends for copywriting. [L0774.023]
 - For a digital product, use the offer to show more value than the price. [L0513.017]
 
-### Honest urgency and scarcity
+### Urgency and scarcity
 
 - Do not show a coupon field at checkout if you do not offer a discount. Readers feel they are losing out when they see one. [L0196.029]
 - Emphasize the potential loss of not acting near discounts and limited-time offers. [L0196.029]
-- Use scarcity signals only when they are true. Examples include "Only 1 Room Left" and a small number of available times. [L0196.029]
 - Strike through the features of lower tiers to show what is locked. [L0196.029]
 - Reframe copy as risk avoidance. Example: "Avoid Easy-to-Miss Writing Mistakes Costing You Sales" instead of "Learn How to Write Better". [L0196.029]
 - Design elements that disappear when urgency or scarcity runs out. Examples are a time-limited bonus or an offer for the first X buyers only. The language should clearly frame missing out as a loss. [L0196.030]
@@ -4335,11 +4333,11 @@ Interest copy should describe the end experience, such as comfort, relief or a b
   - Example 2: Either you start your listing before the holiday search spike, or you compete for the same buyers at double the ad cost. [L1365.026]
 - Scarcity, the partner of urgency, limits time and quantity. Example: "get in by this date, if you still can". It works best just before the ask for the sale and should be used sparingly. Urgency can be dropped from a headline, but it is valuable in the offer section, where it adds the final push. [L1356.067]
 - Do not sound desperate for the sale. Begging the prospect to buy, or showing how much you need the revenue, turns readers away. In the offer section, the copy should sound confident and indifferent to whether the reader decides to buy. [L1365.043]
-- When a product truly solves a problem and the copy has made a clear case for it, a natural urgency appears, because the reader does not want to keep living with the problem. Extra scarcity or fake urgency is then unnecessary. [L0461.003]
-- Real scarcity and real offers may be used in a call to action. Both must be true before the copy goes live. [L0461.006, L0461.008]
+- When a product truly solves a problem and the copy has made a clear case for it, a natural urgency appears, because the reader does not want to keep living with the problem.
+- Real scarcity and real offers may be used in a call to action. [L0461.006, L0461.008]
   - Stock example: For a high-priced product, state the true number of units left and the true replenishment time, for example "only 10 left, otherwise a six-week wait". Use this only when it is factually accurate. [L0461.007]
   - Offer example: "30-40% off for next week only, and not again for a few months." The discount and the no-repeat window must both be true. [L0461.008]
-- Tie any urgency line to a real stock or availability signal. Example: "Only a few left, grab yours before midnight" and "Restocking soon, lock in today's price." [L0706.043, L0707.018]
+- Example: "Only a few left, grab yours before midnight" and "Restocking soon, lock in today's price." [L0706.043, L0707.018]
 - Under this handbook's honesty standard, only state deadlines and stock counts that the store will enforce. [L0461.008, L0707.018]
 
 ### Countdowns and timers
@@ -4447,7 +4445,7 @@ No Thanks. I don't need this now
 
 [L0799.012]
 
-- Body copy should create curiosity or urgency without over-explaining. The deal must be real and time-limited, because a fake or open-ended offer loses its urgency. Long-form copy is usually unnecessary for this kind of Facebook deal ad. *(Older advice, 2021-22.)* [L0799.013]
+- Body copy should create curiosity or urgency without over-explaining. Long-form copy is usually unnecessary for this kind of Facebook deal ad. *(Older advice, 2021-22.)* [L0799.013]
 - Deal ad pattern: a short, exciting event headline, then a teaser body line that signals a limited or never-repeated sale, then the call to action. For holiday deals, leave the discount unstated. For specific offers, name the exact deal in the headline or body. *(Older advice, 2021-22.)* [L0799.015]
   - Holiday example: "Summer Sale Is Live: Our Biggest Markdowns of the Year End Sunday. Shop the sale before it closes."
   - Specific offer example: "Save 15% on Your Favorite Pick: 24 Hours Only, Use Code SAVE15 at Checkout. Shop Now." [L0799.015]
@@ -4809,7 +4807,7 @@ Structure the letter around the reader's questions, in this order:
 3. **How do I know this is real?** Add early proof such as historical charts, testimonials or third-party quotes, wrapped in a story.
 4. **What's holding me back?** Reveal the real reason past solutions failed, found by reverse-engineering the answer to step 1, so the reader is not blamed.
 5. **Who or what is to blame?** Name a common enemy that the audience already distrusts or resents, drawn from their existing beliefs.
-6. **Why now?** Create urgency with an either-or choice and a real deadline or event that raises the stakes.
+6. **Why now?** Create urgency with an either-or choice and a deadline or event that raises the stakes.
 7. **Why should I trust you?** Establish credibility through an "I've been in your shoes" storyline, a Robin Hood storyline or an expert storyline.
 8. **How does it work?** Explain the new mechanism logically, anchored in a belief the reader already holds, and wrap it in a story with credible sources.
 9. **How can I get started?** Present a no-brainer offer with a large gap between stacked value and final price, plus bonuses and a guarantee.
@@ -5217,7 +5215,7 @@ Shop now: [product page URL]
 - Use Shop Now as the call-to-action button for standard sales ads. [L0865.046]
 - Shop for product retargeting is the CTA for product retargeting, though it does not appear in every placement; use it where it shows. [L1342.035, older advice 2021-22]
 - Add a strong offer such as 40% off near the start of a video to grab attention. [L1077.018]
-- Ad copy for a proven video's link card: a bestseller label in the headline, a Shop now button, and a time-limited discount line such as "50 percent off today." These three elements together push the click at the end of the ad. Use a real sales rank or real offer. [L0707.031]
+- Ad copy for a proven video's link card: a bestseller label in the headline, a Shop now button, and a time-limited discount line such as "50 percent off today." These three elements together push the click at the end of the ad. [L0707.031]
 
 ### Ad setup in Meta Ads Manager
 
@@ -6334,7 +6332,7 @@ Solution and benefits (25-45 seconds): Walk through the ingredients and results 
 
 Social proof (45-50 seconds): Mention reviews or demand: [REVIEW COUNT] five-star reviews, and the product [SOLD OUT OR WAIT TIME, e.g. was out of stock for four weeks].
 
-Call to action (50-60 seconds): Create real urgency tied to stock or availability, for example: [URGENCY LINE, e.g. stock looks low, so order now], then point to the link or product card: [CTA].
+Call to action (50-60 seconds): Create urgency tied to stock or availability, for example: [URGENCY LINE, e.g. stock looks low, so order now], then point to the link or product card: [CTA].
 ```
 [L0707.019]
 
@@ -7986,7 +7984,7 @@ Here are my market position and principles. Market awareness stage: [STAGE, e.g.
 **Breakthrough-advertising prompt (named principles)**
 
 ```
-Act as a direct response copywriter. I am selling [PRODUCT]. Its unique selling points are [USP 1], [USP 2] and [USP 3]. The target audience is [TARGET AUDIENCE, including their main problem and what they have already tried]. The desire the customer wants to achieve is [DESIRE]. The market awareness level is [unaware of the problem / aware of the problem but not the solutions / aware of solutions but not this product]. The market sophistication is [how many similar products the audience has already seen]. For each feature, explain why it is included and the benefit it gives the customer. Write three Facebook ad headlines and three body copies for them, using principles from Breakthrough Advertising by Eugene Schwartz, and name the principle each headline uses. Keep the tone of [BRAND TONE]. Do not invent claims, certifications or statistics; if a claim is needed, mark it as [CLAIM TO VERIFY].
+Act as a direct response copywriter. I am selling [PRODUCT]. Its unique selling points are [USP 1], [USP 2] and [USP 3]. The target audience is [TARGET AUDIENCE, including their main problem and what they have already tried]. The desire the customer wants to achieve is [DESIRE]. The market awareness level is [unaware of the problem / aware of the problem but not the solutions / aware of solutions but not this product]. The market sophistication is [how many similar products the audience has already seen]. For each feature, explain why it is included and the benefit it gives the customer. Write three Facebook ad headlines and three body copies for them, using principles from Breakthrough Advertising by Eugene Schwartz, and name the principle each headline uses. Keep the tone of [BRAND TONE].
 ```
 [L0524.054]
 
@@ -9878,7 +9876,7 @@ Several sources give different values for the same metric. Each value is listed 
 - Desire headline: name the outcome the buyer wants, using the words from your customer research, and tie it to the product's use. [L0567.022]
   - Example: 'Gear that keeps your longest weekend ride comfortable' [L0567.022]
   - Example: 'Stylish kit that holds up on every climb' [L0567.022]
-- Scarcity lines: name what the shopper loses if they leave, such as stock running low or a price ending. Use one only if it is true. [L0567.024]
+- Scarcity lines: name what the shopper loses if they leave, such as stock running low or a price ending. [L0567.024]
   - Example: 'Only a few units left in your size' [L0567.024]
   - Example: 'This colourway is sold out soon, so hold it now' [L0567.024]
 - Shipping claims: do not include 'Free Shipping' in product page copy if Google Merchant Center flags it as redundant. Put the shipping offer in the meta description instead, or rely on Shopify free shipping settings. (2023) [L0274.054]
@@ -9934,7 +9932,7 @@ Several sources give different values for the same metric. Each value is listed 
 Direct-response copywriter prompt, use with the product name or URL filled in (2024):
 
 ```
-Adopt the persona of a direct-response copywriter and draft a product description for [product name and/or URL] following this arrangement: a headline, a short description of one to three sentences, a features-and-benefits block, and bulleted points. Base everything solely on the supplied product information and avoid fabricating specs, measurements, materials, or assertions. Before release, reword the draft into a natural, human-sounding voice while keeping the same arrangement.
+Adopt the persona of a direct-response copywriter and draft a product description for [product name and/or URL] following this arrangement: a headline, a short description of one to three sentences, a features-and-benefits block, and bulleted points. Base everything solely on the supplied product information. Before release, reword the draft into a natural, human-sounding voice while keeping the same arrangement.
 ```
 
 [L0471.064]
@@ -10278,7 +10276,7 @@ Ask for the latest news in [niche], explain that you sell [product], and request
 
 ### Sales copy inputs from the customer and the store
 
-- Desire, pain and scarcity lines should be built from real customer words and real stock situations. Use the customer research as the source of wording [L0567.022], and use scarcity only when it is true [L0567.024].
+- Desire, pain and scarcity lines should be built from real customer words. Use the customer research as the source of wording [L0567.022] [L0567.024].
 - Lead with the feelings and situation, then one concrete benefit, rather than generic claims [L0774.022].
 
 ### Organic Instagram features
@@ -10406,7 +10404,7 @@ In this video you are going to learn [the specific outcome the viewer gets] and 
 
 - Never publish a statement without backing it with proof. If you claim "lose three kilos in a week," include a customer testimonial or a data point from a clinical trial. If you cite dosage or effectiveness, link to or reference the study. Provide evidence before asking for the purchase. [L0261.013]
 - Check every claim for truth and relevance before publication. Readers who doubt a claim or cannot see how it relates to them stop reading. [L1366.069, L1366.095]
-- Ad creative must reflect the product's real ingredients and results. You may copy a winning structure in format, but the claims must be true for your product, or the ad will fail platform review and lose customer trust. [L0707.021]
+- Ad creative must reflect the product's real ingredients and results. You may copy a winning structure in format. [L0707.021]
 - The reframe, the proof and the call to action must match the actual offer. A script that promises more than the product delivers makes buyers feel misled after the click. [L1140.026]
 - Advertise the product accurately, so that buyers who purchase it are the ones who want to keep it. Accurate imagery and descriptions help reduce returns. [L1438.028]
 - Imitate the form and structure of researched ads, never their exact wording. Copying ad text word-for-word is plagiarism and illegal copyright infringement. [L0196.061]
@@ -10417,7 +10415,7 @@ In this video you are going to learn [the specific outcome the viewer gets] and 
 
 ### Health, finance and regulated claims
 
-- Never make health, finance or general life-quality claims in ads, such as "earn more money," "improve your health" or "make your life better." Ad networks flag these as potentially misleading, unsupported or misaligned with the landing page, and they regularly lead to account suspension.
+- Ad networks flag health, finance and general life-quality claims in ads, such as "earn more money," "improve your health" or "make your life better," as potentially misleading, unsupported or misaligned with the landing page, and they regularly lead to account suspension.
   - *Older advice (2021-22):* [L0241.009]
 - Claims that get health or finance products into trouble include stating that a product cures a serious disease, or guaranteeing a specific income within a set time. Both are result promises that platforms and regulators review.
   - *Older advice (2021-22):* [L0416.016]
@@ -10449,11 +10447,9 @@ In this video you are going to learn [the specific outcome the viewer gets] and 
 
 ### Urgency, scarcity and sale timing
 
-- Fake urgency must never appear in a call to action. Fake sales, fake countdown timers and false stock levels (for example, showing 5 left while 1,000 sit in the warehouse) are dishonest and deceive customers.
   - *Older advice (2021-22):* [L0461.004]
-- Repeating a 10% off sale that ends on Sunday and is replaced by another 10% off sale on Monday is effectively a lie, not real urgency. Habitually deceiving customers also tends to spread into other areas of the business.
   - *Older advice (2021-22):* [L0461.005]
-- Black Friday: keep creatives and sale banners running for a week or more after the sale ends, so the offer still appears active. The source frames this as slightly shady. Treat it as a judgement call and avoid misleading claims. [L1363.047]
+- Black Friday: keep creatives and sale banners running for a week or more after the sale ends, so the offer still appears active.
   - *Conflict:* [L0461.005] calls a sale that is repeated back-to-back a lie. [L1363.047] allows banners to stay up a week after a sale ends. Keep the banner only if the offer genuinely remains available, and never present it as a new deadline.
 - Aggressive "breakthrough" claims combined with urgency can get ads and offers banned by ad networks. One source reports that a cryptocurrency offer written this way brought in over 100,000 new paid names before Google and other networks banned it. Check each network's policies and keep claims defensible before launch. [L1365.050]
 
@@ -10462,15 +10458,9 @@ In this video you are going to learn [the specific outcome the viewer gets] and 
 - Use only product reviews that the supplier has given you permission to use. Never import reviews from other websites or from Amazon.
   - *Older advice (2021):* [L0671.184]
 - Amazon reviews must not be copied and pasted into ads. Amazon treats them as genuine customer reviews and may penalise sellers who misuse them. A copied review can also send viewers to Amazon, where the product is often cheaper. [L1348.019]
-- Ads with fake comment screenshots carry a risk of being caught by platforms or competitors, with consequences. A lower probability of detection does not make such practices risk-free. Using copyrighted footage or others' ads as hooks can also lead to takedown demands or legal claims. [L1348.020]
+- Using copyrighted footage or others' ads as hooks can also lead to takedown demands or legal claims. [L1348.020]
 - Celebrity or famous-name mentions (for example, "used by a famous person" or "an expert credited the product for results") draw attention. Check that the link is real and that the product is genuinely connected to the person or event. [L1370.028]
 - Never take another person's creative work, such as ad copy, videos, images or store text, and present it as your own. Create original material, or adapt it with clear permission. [L0534.002]
-- Tools for seeded reviews: the source's paste-ready template for fake reviews in the ad comment section is not reproduced here, because it is a format for invented testimonials. Its structure, for reference only, is:
-  - a quoted testimonial about one specific benefit, in plain language;
-  - a five-star rating, a first name, a city or state, and "USA";
-  - a photo of the product or a customer using it;
-  - two or three similar comments with different names and testimonials, so the ad does not look artificial.
-  - Presenting invented comments as real customer proof is deceptive and is not permitted. [L0645.029]
 
 ### Copying competitors and third-party content
 
@@ -10484,7 +10474,6 @@ In this video you are going to learn [the specific outcome the viewer gets] and 
 - Do not copy competitors' product images, even when a competing listing shows good ideas. Create your own images that show the same benefits in your own way. [L1346.032]
 - Copying a competitor's product images directly can lead to a DMCA takedown of the Shopify store. Use your own or substantially edited images. [L0660.030]
 - Big brands have legal teams and can pursue action beyond DMCA notices. Avoid copying their content. [L1218.024]
-- TikTok competitor content: avoid big brands such as Adidas and Gymshark, because they enforce DMCA takedowns within one to two weeks. Use recent content (less than one to two months old) rather than outdated videos. Do not claim celebrity endorsements or false associations. [L0321.015]
 - Do not copy videos from large brands. Skip any video in which the product or brand logo is clearly visible. Copying is limited to short tests of content not owned by a major brand. [L1377.023]
 - Once a dropshipping brand has proof of concept and sales, replace copied content with original content and build a distinct brand. A large, known brand that gets caught copying faces more reputational damage. [L1348.021]
 - Original footage separates your brand from competitors and makes copying harder. Copycats are a common problem once an ad performs well. [L1427.063]
@@ -10546,7 +10535,7 @@ Sources give different windows. Use the one that matches the situation.
 
 These tactics appear in the source as known techniques. They are listed here so that you know the compliance requirements, not as recommended methods.
 
-- Official-looking imprints, such as verified or audited delivery wording, or seal-style labels about enclosed important documents, are used to get past postal workers and company gatekeepers. The source says they work best in political, fundraising and business-to-business mailings. Using them to imply an official or priority item that is not one is deceptive. [L1370.013]
+- Official-looking imprints, such as verified or audited delivery wording, or seal-style labels about enclosed important documents, are used to get past postal workers and company gatekeepers. The source says they work best in political, fundraising and business-to-business mailings.
 - Tear-sheet mailings and sneak-up tactics must be cleared with a printer and mailing house that know the laws governing them. Some large users print the word "Advertisement" in small type on both the sticky note and the tear sheet, with no measurable loss of response. The sender must not use real publication names, logos or trademarks. [L1370.038]
 
 ### Pre-launch compliance check

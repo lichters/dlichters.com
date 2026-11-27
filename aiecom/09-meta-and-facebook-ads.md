@@ -704,7 +704,7 @@ Traffic setup on Facebook:
 - A warmed-up Facebook Page and profile help, because Meta and visitors trust an established account more than a new one. Skipping the warm-up makes it harder for ads to run and convert [L1021.011].
 - Fill the page with business information: phone number, business address, description and website link [L0650.012].
 - Fill the About section in detail, including the website. Before running conversion campaigns, a new page should have around 10-20 likes. Avoid running ads right after the page is created [L0637.010, L0637.003].
-- Warm up the page with 2-3 simple posts over 1-2 days before starting conversion campaigns. Good posts are happy or product-related content, or a screenshot or banner from the store, without hard sales messages or scammy claims such as weight-loss promises [L0637.011].
+- Warm up the page with 2-3 simple posts over 1-2 days before starting conversion campaigns. Good posts are happy or product-related content, or a screenshot or banner from the store, without hard sales messages [L0637.011].
 - Engagement posts can be a product photo with a positive quote and no traffic link [L0650.012].
 - Keep warm-up creatives simple: product-only images or a positive quote with no people in them, because an image that shows a person can cause problems during warm-up [L0650.064].
 - Make the page look legitimate and branded, so it does not look scammy to Meta or to users. A bare or generic page raises the risk of problems [L1477.003].
@@ -905,7 +905,6 @@ Meta trusts accounts that look legitimate, and it associates bad experiences wit
 
 - Ad creatives and missing payments are the most common causes of Meta bans. Follow Meta's rules on prohibited content such as nudity and before-and-after images [L0691.017].
 - Avoid health promises or other claims in ad text that Facebook may flag, since this can lead to the account being blocked [L0650.011].
-- Do not make scammy claims such as weight-loss promises in page posts or ad copy [L0637.011].
 - Check how a product looks in ad creatives and listing photos before running it on Facebook. Facebook can flag a product that looks like a weapon, such as a walking stick that resembles a gun, and the flag can lead to another account ban [L1440.058].
 - Running random, unvetted ads can get the whole ad account banned. Strict product research and ad checks protect the account from bans [L1131.022].
 - Selling branded products or running copied product images from AliExpress is a common cause of Facebook bans. Use only unbranded products [L1431.038].
@@ -1209,7 +1208,7 @@ Sources disagree on the timing because they describe different routes and ban ty
   2. Under the question about being an advertiser, choose support. [L1088.076] (older, 2020)
   3. Accept the wait of about nine minutes for the live chat team, then ask for a review of the disabled account. [L1088.076] (older, 2020)
 - For a new ad account that Meta disables at creation (2023):
-  1. Use the official support page in Business Manager, since there is no reliable shortcut beyond it. [L0470.098] (2023)
+  1. Use the official support page in Business Manager. [L0470.098] (2023)
   2. Check that page about once a day and resubmit the request, because reaching a reviewer can take several attempts. [L0470.098] (2023)
   3. Ask paid-ads communities for working contact routes as a supplement to the official channel. [L0470.098] (2023)
 - Support paths differ by source and date. Use the route that is open to you. [L0950.056, L0470.098, L1088.076, L0804.080, L0855.145]
@@ -1266,7 +1265,7 @@ Sources disagree on the timing because they describe different routes and ban ty
 
 ### Restricted categories: before and after, and beauty
 
-- Before-and-after images in ads on Facebook, especially for beauty or dental products, can cause ad account bans for misleading claims. Avoid promises of quick results and use review-style videos instead. [L1184.033]
+- Before-and-after images in ads on Facebook, especially for beauty or dental products, can cause ad account bans for misleading claims. [L1184.033]
 - Show features and benefits without bold claims, and use a customer review video instead of a before-and-after comparison, to reduce the risk of bans. [L1184.035]
 - A strong ad performance cannot be guaranteed on Facebook, so do not make bold guarantee claims in beauty or cosmetic ads. [L1184.036]
 - Facebook treats its platform as an entertainment space, so shocking before-and-after or explicit imagery harms the user experience and can get ads restricted. Controversial ads are reviewed more strictly than ads that people enjoy. [L1171.012]

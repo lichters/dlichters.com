@@ -3467,7 +3467,7 @@ Sources differ on the supplier count. Use the value that matches your situation.
 - Count distinct brands and listings, not just total products, because one supplier can have many products but few brands. (Source A, 2021, older) [L1090.003]
 - Keep big box retailers in the results, since they still count in the price averages. (Source A, 2021, older) [L1090.003]
 - If two or three brands dominate Google Shopping results, the niche may be locked up, but a few prominent listings alone do not prove that. Before dropping the niche, check the future competitor stores and count their suppliers. (Source A, 2021, older) [L1090.004]
-- A quick way to count sellers for a brand is to search each brand or product on Google Shopping and read how many stores are listed. There is no shortcut that avoids checking brands one by one. (Source A, 2023) [L1114.013]
+- A quick way to count sellers for a brand is to search each brand or product on Google Shopping and read how many stores are listed. (Source A, 2023) [L1114.013]
 
 #### Seller quality and filters
 
@@ -5266,7 +5266,7 @@ Ask the AI to take the pasted Amazon reviews and describe the target audience fo
 | Top 5 proxy buyer dynamics | Dynamic, relationship type, emotional drivers |
 | Highest-stakes scenario | A detailed narrative of the most emotionally charged situation in the market |
 
-- Quote minimums differ between the sources. Use at least 30 direct quotes as the baseline [L0613.002, L0613.009]. Aim for 40+ real quotes [L0221.015]. Sort 40 review quotes into the six themes [L0613.009]. When the sources cannot support 40+ real quotes, prioritise 20 load-bearing verified insights over 90 plausible-sounding fabrications [L0221.015].
+- Quote minimums differ between the sources. Use at least 30 direct quotes as the baseline [L0613.002, L0613.009]. Aim for 40+ real quotes [L0221.015]. Sort 40 review quotes into the six themes [L0613.009].
 - Quote types [L0221.015]:
 
 | Type | What it is | Where it may be used |
@@ -8552,7 +8552,7 @@ The sources give both signals: customized gifts can outperform broad jewelry [L1
 - Product tests should be good enough rather than perfect, and should not consume much time or money, since a test can fail and the time spent should still produce learning. [L0349.005]
 - Early on, test products aggressively, since you cannot yet tell which products are good. Once you have a viral win and know how to create virality, shift to strict product selection. [L0372.013]
 - Early tests on weak products are useful for building the skill of going viral. Before investing heavily in a product, confirm it can produce sales. [L1429.037]
-- Product research has no shortcut. A product's potential is only known after spending money on it. Learn audience research as the core skill rather than relying on hiring freelancers for research. [L0690.012]
+- A product's potential is only known after spending money on it. Learn audience research as the core skill rather than relying on hiring freelancers for research. [L0690.012]
 - No single product research method is perfect, so a researcher should adapt a method that works for them rather than follow one rigidly. A method is worth keeping only when it has produced winners for that person. [L1382.002]
 - Product testing is about spending time and money efficiently. [L0577.037]
 

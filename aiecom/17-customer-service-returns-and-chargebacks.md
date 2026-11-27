@@ -4115,21 +4115,9 @@ Hi [customer first name], I wanted to follow up on the [product name] you receiv
 - Minimum review count to launch: 10 reviews in total, with 6 to 7 of them image-based. Image reviews convert significantly better than text reviews. [L0321.032]
 - Only use reviews that belong to the store, such as existing reviews from the supplier with permission. Never copy reviews from competitor sites. [L1088.075]
 
-**Increasing review count with CSV import (not recommended)** [L0321.033]:
-
-1. Import initial reviews from AliExpress or Amazon via Riview or Loox app.
-2. Download the CSV file of imported reviews.
-3. Copy individual reviews and duplicate them 10x within the CSV.
-4. For example, take 10 reviews and duplicate each 10 times to create a list of 100 reviews.
-5. Re-import the expanded CSV into the app.
-6. Customers see the higher review count and trust the product, even though they rarely check beyond the first 10-20 reviews.
-
-- This procedure is documented here as the source gives it, but it produces copied, fabricated reviews. It conflicts with the honest-review rules and must not be used. [L0321.033, L0243.044, L1088.075, L1188.058]
-
 ### Authentic reviews and review integrity
 
-- Build product reviews honestly, without fabrication. When a customer makes a purchase, follow up relentlessly to request a review. Authentic customer reviews build market credibility faster than hiding "no reviews yet" or creating fake reviews. *(Older advice, 2019.)* [L0243.044]
-- Changing reviewer names, genders, or avatars on borrowed or template reviews to make them look real turns them into made-up testimonials. Use only real reviews with the names or initials the customer actually gave. [L1188.058]
+- When a customer makes a purchase, follow up relentlessly to request a review. *(Older advice, 2019.)* [L0243.044]
 - Look at the reviews on the product page for negative or suspicious entries. Identify reviews from people who did not buy the product, which are often posted by competitors or haters. Remove or do not approve those reviews, and keep genuine feedback visible. [L0657.043]
 
 ### Review dates

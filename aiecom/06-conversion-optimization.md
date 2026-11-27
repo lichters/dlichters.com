@@ -209,8 +209,8 @@ Complete these 11 tasks before setting up traffic. [L0040.001]
 ### Reviews and trust: where the sources differ
 
 - The task list asks for initial reviews from suppliers, family, or friends. [L0040.001]
-- The Google Merchant Center note says store reviews are not required before approval, and stores without any customer reviews have been approved. (2023.) Trust should come from a clean, complete store rather than fake or added reviews. [L1114.041]
-- Apply both: treat the review app and initial reviews as part of the 11-task build, but do not treat reviews as an approval condition, and never substitute fake reviews for real trust-building. [L0040.001, L1114.041]
+- The Google Merchant Center note says store reviews are not required before approval, and stores without any customer reviews have been approved. (2023.) [L1114.041]
+- Apply both: treat the review app and initial reviews as part of the 11-task build, but do not treat reviews as an approval condition. [L0040.001, L1114.041]
 
 ### Store build for supplier approval (demo store)
 
@@ -1367,7 +1367,7 @@ Case: A sleep-pain product store sent paid Facebook traffic to a story-style pag
 
 - Presell pages educate prospects before the sales page. A presell page is a longer article that provides background or explains a concept, such as what email marketing is and why it grows businesses. Affiliates use presell pages to warm up prospects before sending them to a partner's sales page. [L0523.076]
 - Articles placed on third-party sites serve as pre-frames for cold traffic from banner ads. Article types include a case study, a product explanation or a piece that frames the problem without mentioning you. Add the call to action as an inline link, a button at the bottom, a linked photo or a combination. [L0523.070]
-- News-style pre-frames borrow attention from current events. Linking your message to a timely story, such as an election or disaster, lifts attention while the story is hot, though the effect is short-lived. Designing a page to resemble a news page with a headline bar or sidebar can also boost credibility, but it must remain truthful. [L0523.072]
+- News-style pre-frames borrow attention from current events. Linking your message to a timely story, such as an election or disaster, lifts attention while the story is hot, though the effect is short-lived. Designing a page to resemble a news page with a headline bar or sidebar can also boost credibility. [L0523.072]
 - Blog posts are a pre-frame tool for almost any topic. A guest post on a high-traffic blog in your target market works better than your own blog, and the post is best published under the blog author's name. Pair it with a link to your offer and drive targeted traffic to the post. [L0523.073]
 - Pre-frame videos work well for testimonials and for educating viewers. Publish them on someone else's channel and place calls to action in the description or comments, as pre-roll or post-roll footage, or as annotations. The video should agitate a problem or teach a process that creates desire for your solution. [L0523.074]
 - Email pre-frames use solo ads or joint venture partners to endorse you to their list. The partner's endorsement borrows their credibility, and the call to action is a link in the email. In direct mail the same role is played by a lift letter from the list owner. [L0523.075]
@@ -1920,7 +1920,7 @@ Three framings appear in the sources. Each is a different choice, not a conflict
 - Show a three-step easy setup, and address the cheap-knockoff objection directly [L1207.046].
 - Show the 30-day money-back guarantee [L1207.046].
 - Show the step-by-step guide (for example, Step 1, Step 2, Step 3) as part of the high-converting product page structure [L0321.004].
-- Scarcity and urgency elements, such as a cart timer and low-stock messages, used only when true [L1207.046, L1209.032]. Cart timer, low-stock notice and time-limited offers [L1210.024].
+- Scarcity and urgency elements, such as a cart timer and low-stock messages [L1207.046, L1209.032]. Cart timer, low-stock notice and time-limited offers [L1210.024].
 
 ### Comparison charts
 
@@ -2064,7 +2064,7 @@ Three framings appear in the sources. Each is a different choice, not a conflict
   12. Money-back guarantee.
   13. FAQ answering common buyer questions.
   14. Customer review section.
-  15. Scarcity and urgency elements, such as a cart timer or low-stock notice, used only when true.
+  15. Scarcity and urgency elements, such as a cart timer or low-stock notice.
 - Step-by-step product page template for a single-product store, with the full sequence in the table above [L1210.024].
 - Product page order for a single-product landing page with all 18 elements, in the list above [L1207.046].
 - Product page order for a landing page with steps 1 to 15, as above [L1209.032].
@@ -2367,7 +2367,7 @@ Rework the top banner of the homepage and the part of the product page visible w
 
   Pair each feature with the comfort or practical result it delivers rather than listing it alone. Each benefit should answer what the customer avoids or gains. [L0917.016, L0917.017, L0917.018, L0917.019]
 - A credible statistic for a cold-legs problem is that legs account for about 25% of the body's heat loss, which makes the problem concrete in problem-agitation-solution copy. Confirm any such figure against a published source before putting it on a landing page. [L0917.020]
-- Pattern for the feature block on a product page: a short lead line in the form [number] reasons to [action] today, followed by bullets where each bullet pairs one feature with one dimensionalized benefit instead of listing a bare spec. It works because every line answers what the feature does for the reader, and the time-bound lead adds a reason to act now without inventing scarcity. (older, 2021-22) [L0396.036]
+- Pattern for the feature block on a product page: a short lead line in the form [number] reasons to [action] today, followed by bullets where each bullet pairs one feature with one dimensionalized benefit instead of listing a bare spec. It works because every line answers what the feature does for the reader, and the time-bound lead adds a reason to act now. (older, 2021-22) [L0396.036]
   - Example 1: *Four reasons to order the kettle today:* followed by *Double-walled steel keeps tea hot for two hours so that you can sit down for a proper break.*
   - Example 2: *Five reasons to book your bike service today:* followed by *Fresh brake pads and a true wheel so that every ride feels smooth and you can enjoy the hills again.*
 - Compare the product against a familiar alternative using a concrete figure. Example: a 30 minute sauna session claimed to burn up to 600 calories, against about 300 calories from 30 minutes of jogging. Every such figure needs a cited source, otherwise it counts as an unsupported claim. (older, 2021-22) [L0396.023]
@@ -2751,7 +2751,7 @@ Follow with the remaining homepage sections in the same order: benefit icons, so
 
 - Clarity comes before everything else in how an offer and marketing message are presented, because a confused visitor does not buy. Before adding any element to a page, check whether it truly adds value for the customer and whether it can be made simpler. (Older advice, 2021-22.) [L0409.001]
 - Complex or expensive products may need more information on the page than simple ones, but every extra element must earn its place. Apply the same simplicity to the wider site content, not only to the offer. (Older advice, 2021-22.) [L0409.002]
-- Focus on the few most important pieces of information a customer needs to be persuaded to buy this product from this store, and present them as cleanly as possible. A clear page removes the need for conversion tricks such as fake scarcity or fake discounts. (Older advice, 2021-22.) [L0409.050]
+- Focus on the few most important pieces of information a customer needs to be persuaded to buy this product from this store, and present them as cleanly as possible. (Older advice, 2021-22.) [L0409.050]
 - An offer the visitor does not notice on the page effectively does not exist. Present the offer so it is easy to see and consume, and make sure it is not hidden behind other page elements. (Older advice, 2021-22.) [L0473.017]
 - Usability affects conversion more than visual design once trust factors and good products are in place. Overly decorative pages with heavy motion do not raise conversion if visitors struggle to find products and buy. [L1098.001]
 - Usable and fast beats heavily designed. Heavy design slows load time and hurts conversions, so a site should let people find products quickly. A beautiful design can still be kept if it loads fast. (Older advice, 2018.) [L1085.058]
@@ -2901,7 +2901,7 @@ Follow with the remaining homepage sections in the same order: benefit icons, so
 
 ### Hero, banners and sliders
 
-- Place text on a hero image to tell the customer what the business does for them. Only add a promotional message when there is a real offer, and keep the wording clear enough to be changed later. (Older advice, 2021-22.) [L1310.020]
+- Place text on a hero image to tell the customer what the business does for them. Keep the wording clear enough to be changed later. (Older advice, 2021-22.) [L1310.020]
 - Use a hero image instead of a slideshow on the homepage, because slideshows rely on JavaScript and extra code that slows the site down. Turn off autoplay and keep one static image. (Older advice, 2021-22.) [L1371.041]
 - Reported research suggests only about 4% of visitors see or interact with the second and third slides of a slideshow. This is the reason for keeping only the first slide as a single hero image. (Older advice, 2021-22.) [L1371.042]
 - A slideshow as the main home page visual distracts from the product and is not necessary for a single-product or niche store. Use one clear image instead and remove the second slide. [L1331.037]
@@ -3092,7 +3092,6 @@ $value+ bought in past $timeframe
 
 #### Collecting and checking reviews
 
-- Use reviews from real buyers only, even if the store is new. Writing product reviews yourself and presenting them as customer reviews misleads buyers and can violate consumer protection rules on fake reviews. [L1325.020]
 - Reviews that mention the quality of customer service are the most valuable ones to feature on the store. Excellent customer service ranked as the most important factor for consumer trust in a company in a Zendesk survey. [L0908.003]
 - A Zendesk survey reported that 88% of customers trust online reviews as much as personal recommendations from friends or family. Treat this as a vendor-sourced benchmark, not a verified figure. [L0908.002]
 - Testimonials and FAQ answers should come from real customers and real questions, not invented copy. FAQ items usually capture objections, so they are answered with factual reassurance rather than persuasive copy. [L0917.012]
@@ -3109,7 +3108,7 @@ $value+ bought in past $timeframe
 - Shoppers fear losing money, so the page should reduce the perceived risk of buying with visible guarantees and protection, such as a money-back promise, so the visitor feels safe to purchase. [L1363.004]
 - Trust signals such as free shipping, a 30-day money-back guarantee and 'try risk-free for 30 days' near the top of the page remove purchase anxiety. The wording should make clear the company will refund an unhappy customer, which gives certainty rather than persuasion. [L0917.002]
 - A money-back guarantee tends to raise conversion rate because customers feel safer buying. Refunds may rise slightly, but the extra sales usually outweigh them. [L0683.011]
-- Trust badges and checkmark-style benefit lines add credibility to a product page when placed near the product or buy area. Only show badges and claims that are true for the store, because false credibility signals damage trust once a visitor notices. [L1380.055]
+- Trust badges and checkmark-style benefit lines add credibility to a product page when placed near the product or buy area. [L1380.055]
 
 #### Writing the money-back guarantee
 
@@ -3193,7 +3192,7 @@ We maintain competitive pricing as a priority. Within six months of purchase, if
 
 - Payment methods you accept (for example Shopify Payments or PayPal) work as trust signals when shown in the store footer, because visitors recognise the brands behind them. No special image is needed. [L1050.007]
 - Shopify adds payment icons to the footer automatically. They show which payment options a customer can use and help build trust before purchase. [L1326.012]
-- Tick only the payment methods your Shopify store actually accepts, because every ticked method appears in the footer as a trust signal. Showing a payment method you do not accept misleads visitors. [L1050.019]
+- Tick only the payment methods your Shopify store actually accepts, because every ticked method appears in the footer as a trust signal.
 - Do not use large payment logos as trust badges, because they look scammy. Small, discreet payment icons look more professional and still signal that payment is safe. [L0916.021]
 - Display payment and security badges from brands you genuinely work with, such as McAfee Secure, Visa and Mastercard. Shoppers borrow trust from established names they already know. [L1207.015]
 - Show logos of well-known security or payment providers such as McAfee Secure, Visa or Mastercard to borrow their authority and trust. The buyer transfers trust from known brands to the shop. [L1209.013]
@@ -3227,16 +3226,15 @@ We maintain competitive pricing as a priority. Within six months of purchase, if
 #### Authority and press
 
 - Authority signals include mentions of major publications and expert endorsements. An expert endorsement that also contains a benefit statement from a relevant professional gives both authority and social proof at the same time. [L0918.028]
-- Press mentions, expert endorsements, notable customers and research-backed ingredients all build authority. Use each only when it is true for the store. [L0919.014, L1363.003]
+- Press mentions, expert endorsements, notable customers and research-backed ingredients all build authority. [L0919.014, L1363.003]
 - Add third-party studies, reliable outside sources or a small self-run survey with transparent methodology to the page. Quote specific percentages from them, because statistics help buyers justify the purchase. [L1016.046]
-- A named ingredient or component backed by published clinical research can serve as proof in a feature list, because the buyer sees a recognised mechanism behind the promised result. Use such a claim only when the evidence is real and can be cited, since an unsupported 'clinically proven' statement damages trust. [L1210.027]
+- A named ingredient or component backed by published clinical research can serve as proof in a feature list, because the buyer sees a recognised mechanism behind the promised result. [L1210.027]
 - Claims such as damage reduction, frizz control or clinical-style wording need concrete proof on the page before they can convert. Such proof includes how the technology works, test data or guarantee terms. An audit should flag homepage claims without this support as a trust gap. [L0886.031]
 - Best-in-class claim pattern: formula superlative + category + location + measurable count or rating. It works because a bare superlative is disbelieved, while a verifiable number makes the claim credible. Examples: 'Most-reviewed sleep mask seller in Germany, with 4,800 verified reviews.' and 'Rated 4.7 out of 5 by 2,300 verified buyers across our pet bed range.' (Older advice, 2021-22.) [L0411.038]
 - Third-party certifications from independent organisations (such as organic certification confirming production standards) serve as proof. Display the certification badge and the organisation's name in product copy. (Older advice, 2021-22.) [L0295.006]
 - A product tested and rated by an independent testing organisation can carry the rating and test results in product copy as proof. Example: Choice, an Australian organisation that tests products for effectiveness and provides ratings. (Older advice, 2021-22.) [L0295.007]
 - Customers assume sellers will make positive claims about their own products, so skepticism is natural. Independent third-party proof points confirm that an emotional purchasing decision is also rational, which enhances the persuasiveness of all preceding copy. (Older advice, 2021-22.) [L0295.001]
 - Featured-in logo bars often come from paid sponsored posts or affiliate placements rather than organic press coverage. Treat such logos as paid authority signals, and only display them where the placement is accurate and can be backed up. [L1348.032]
-- Do not fabricate press or media mentions. Show 'as seen in' logos only if the brand was actually featured. [L1363.011]
 - Press mentions shown as a marquee of logos, rather than a large block. Keep reviews visible and repeated on other pages. [L1225.034]
 - A low-cost alternative to paid press: get a review or feature from niche blogs or affiliate publishers, who then receive affiliate traffic, or create your own niche blog on WordPress that features the product. [L1363.013]
 - Linking out from the landing page to outside press articles is debated. It can add authority and help SEO, but it takes visitors away from the purchase path. Decide per store. The lesson's own stance was not to link them. [L1363.014]
@@ -3286,39 +3284,11 @@ I'm [your name], and the owner of [your store domain]. I need concepts for our w
 - Customers look for signs of a real business behind the store. Show who runs the store and how to reach them, because that answers the question of whether the seller exists. [L0423.020]
 - Sell differentiators that are true, such as a woman-owned, veteran-owned or surfer-owned status, free shipping, a price-match guarantee, a 24/7 customer service channel or secure checkout. [L0342.035]
 
-### Differentiator icons and honest claims
+### Differentiator icons and claims
 
 - The 'why buy from us' icons in the pre-footer communicate what sets the store apart. They can show free shipping, a price-match guarantee, a 24/7 customer service channel, secure checkout or the owner's status. The Source A theme allows up to seven icons, but one to seven can be used. [L0342.035]
 - Use only differentiator claims that are true for the store. For example, show secure checkout only when the store runs on Shopify's checkout. Each claim needs a matching icon and a short label. [L0342.036]
 - A visitor who sees a claim the store does not keep will notice, and false credibility signals damage trust. [L1380.055]
-
-### Honesty limits
-
-- Do not pretend things are what they are not. Perception-building must stay above board, honest and trustworthy, which matters most in highly competitive markets or when reselling products that other sellers also carry. (Older advice, 2021-22.) [L0411.014]
-- Show only the real average star rating and the real number of reviews on a store. Do not edit widget text to display a higher rating or a larger review count than the store actually has. [L1299.021]
-- Generating fake reviews with AI and importing them into a live store to make it look established is deceptive. It can violate consumer-protection rules and app or platform policies, and it can put the store at risk of being shut down. [L1299.022]
-- Writing your own reviews is acceptable only when they are based on real experiences or on material the supplier has approved for use. Inventing fake customer stories or posing as different people is not allowed. [L0908.008]
-- Placeholder reviews for layout and QA only. This prompt produces test content and must never go live, be used in ads or be presented as customer proof. Use the prompt only for design and testing, with the output marked as required:
-
-```
-Act as a copywriter producing believable placeholder reviews, strictly for layout and QA work. Write 12 brief mock reviews, each one to three sentences long, for an item called [PRODUCT NAME]. Every entry needs an invented first name with a country flag emoji (for example Sarah 🇸🇬), a headline of one to five words, and a body of one to three sentences that refers to one concrete trait or advantage such as build quality, delivery, packaging, or outcomes. Put a star score from 1 to 5 after each review line. Vary the tone: some upbeat, some neutral, and one mildly negative. Start the output with the line "SAMPLE REVIEWS, FOR DESIGN/TEST ONLY. DO NOT PUBLISH." Each review goes on its own line in this pattern: SAMPLE, [Name] [flag], "[Headline]", [body]. ⭐️⭐️⭐️⭐️ Include no personal data and never suggest these came from real buyers. Keep everything invented and limited to layout or testing. These reviews must never go live on a storefront or into ads, and must never be used as genuine customer proof.
-```
-
-  [L1299.023]
-
-- Published statements about the store's data and processes must be accurate, because they describe what the store actually does. [L1250.038]
-- Percentages such as 91 or 97 percent of users noticing a result need a published survey base: how many people answered and how long they used the product, for example 100 users over 90 days. A figure without this basis is an unsupported claim and can create advertising risk. [L0600.036]
-- Only show 'as seen in' logos if the brand was actually featured. Do not fabricate press or media mentions. [L1363.011]
-- Testimonials and FAQ answers must come from real customers and real questions. [L0917.012]
-- Trust badges and claims are only useful when true for the store. False credibility signals can damage trust once a visitor notices. [L1380.055]
-- Badges from a seal provider must be checked against sales data, because a seal that does not help can hurt. [L0910.023]
-- Use a claim such as 'clinically proven' only when the evidence is real and can be cited. [L1210.027]
-- Featured-in logos from paid placements must be backed up by the actual placement. [L1348.032]
-- The 78% social-media statistic and the 88% Zendesk review benchmark are secondary or vendor figures. Verify them before quoting. [L0653.003, L0908.002]
-- Do not quote the 78% social-media statistic or the 88% review-trust benchmark as verified facts. Verify them before use. [L0653.003, L0908.002]
-- Customer totals must come from your own order records, not from a competitor's page. [L0600.044]
-- Do not show payment methods you do not accept. [L1050.019]
-- Do not present a self-written review as a customer review. [L1325.020]
 
 #### Further details
 
@@ -3359,7 +3329,6 @@ Act as a copywriter producing believable placeholder reviews, strictly for layou
 - A store with very few reviews, such as seven, looks weak. Collect more genuine reviews before scaling traffic. [L0657.042]
 - Before writing a review figure on the page, check the total in your review widget. It can be well above the rounded number in the headline. One store headlined 10,000+ reviews while its widget held about 16,500 reviews, of which about 14,000 were five-star. (older, 2021-2022) [L0409.055]
 - Show the star rating together with the number of reviews, for example "4.8 stars from 293 reviews", and label reviewers with a Verified Customer tag when available. [L0600.027]
-- Use only real reviews. Invented ratings and counts create legal and platform risk. [L0600.027]
 
 ### Trustpilot and third-party platforms
 
@@ -3401,8 +3370,6 @@ Sources give different targets. Use the one that matches your stage:
 - Ask the supplier before reusing its reviews on your store. Get explicit permission from the supplier contact person directly and do not assume it. Never copy reviews from competitor stores. Reviews should be collected on your own store once you have customers. [L0908.005, L0934.048, L0667.030]
 - Use supplier-provided reviews only after the brand gives explicit permission. Use a standard review request process to collect customer reviews. [L0667.030]
 - Testimonials can start as real reviews from Amazon or AliExpress for the same product. They are safe to adapt with credit to their source. [L1259.062]
-- Do not publish AI-written quotes as if they came from real customers. Invented testimonials are misleading and can break platform rules. Replace any placeholder quotes with genuine customer reviews as soon as sales come in. [L1259.062]
-- Placeholder reviews or testimonials, including AI-written ones, must not be presented as real customer feedback, and star ratings must not be invented. Replace them with real reviews as soon as sales arrive, because fabricated reviews create legal and trust risks. [L1260.068]
 - Placeholder reviews are only for layout and must be replaced before launch. [L1331.028]
 - Remove or avoid reviews that clearly reveal dropshipping, such as wording that thanks the shipper. Reviews should read as genuine customer experience. [L1444.037]
 - Offer a coupon code in exchange for a customer review. This builds social proof and turns the reviewer into a repeat customer. [L1357.037]
@@ -3413,7 +3380,7 @@ Sources give different targets. Use the one that matches your stage:
 2. Embed the videos on the store using a gallery-style section in the theme or page builder.
 3. Order the product yourself and film short testimonial videos, or use real customer clips. [L0387.029]
 
-#### Prompt for placeholder testimonials (use only until real reviews exist)
+#### Prompt for placeholder testimonials
 
 ```
 I sell [product name], which [what it does]. Write one short customer testimonial for it in the first person, two to three sentences long, that names one specific benefit and the problem it solved. Keep the tone natural, avoid exaggerated claims and invented statistics, and give three versions: plain, enthusiastic, and calm. Use this text only as a placeholder until real customer reviews exist, label it internally as a placeholder, and never publish it as a real customer review.
@@ -3564,15 +3531,14 @@ Paid plans include a 3-day free trial and can be cancelled at any time. [L1298.0
 - Visitors are often distracted by other tabs, devices, messages and competitor sites, so they postpone buying. A visible deadline pushes visitors who are close to buying to decide during the visit. [L0531.001]
 - Visitors who arrive from searches for the exact products being sold are already near a purchase decision. A time-limited offer shown at that moment shortens the time between interest and buying. [L0531.002]
 - An expiring coupon on the product page displays a deadline and pushes visitors to decide now rather than postpone. [L1192.002]
-- Urgency should come from the link between the customer's problem and the solution, not from invented scarcity. Discounts, limited stock and time-limited offers create urgency only up to a point. [L0396.011]
-- The strongest urgency comes from the customer's problem: show that the product solves it now and that the purchase is the only step left. Stores with products people genuinely want usually need no countdown timers or fake scarcity. [L0473.029]
+- Urgency should come from the link between the customer's problem and the solution. Discounts, limited stock and time-limited offers create urgency only up to a point. [L0396.011]
+- The strongest urgency comes from the customer's problem: show that the product solves it now and that the purchase is the only step left.
 - Older (2022): twice-weekly coupon codes expiring in 2 to 3 days create urgency on product pages, and most first-time visitors decide within that timeframe. [L0249.030]
 
 ### Which products suit expiring codes
 
 - Expiring codes suit high-ticket products that customers buy only every few years, because about 90% of site visitors are first-time visitors who have never seen the code. [L0531.006]
 - For low-ticket recurring products with many repeat visitors, the same code seen again and again is likely to work less well. [L0531.006]
-- Use scarcity only when it is genuine, and use it sparingly. If a product is always on sale or sales run every week, repeat visitors stop reacting to urgency. (Older: 2021-22.) [L1522.011]
 - The average e-commerce customer has about seven touchpoints before buying, so many shoppers return several times. A scarcity message that stays on the page for weeks loses credibility. (Older: 2021-22.) [L1522.012]
 
 ### Expiring coupon settings
@@ -3683,12 +3649,9 @@ automatically added to cart
 
 - A countdown timer on the product page shows a short validity window for a special offer, for example 10 minutes, after which the offer disappears. It works when no fixed calendar date is used and pushes visitors to act much faster than usual. [L0683.006]
 - A countdown timer set to about 10 minutes worked well for one seller, who had also tested 5 minutes. [L1381.039]
-- Configure the countdown timer app (Ultimate Sales Boost was named) so the timer disappears after it expires and does not repeat for the same visitor. A repeating timer can make the offer look fake and hurt sales. [L1381.040]
 - A countdown timer next to a limited-time discount for new customers reinforces the deadline and supports the urgency of the offer. Place it where the offer is visible, such as on the product or landing page. [L1399.008]
 - Show the remaining stock count on the product page with a countdown, so buyers have a reason to decide now instead of later. The author says this works well, using custom code in his Shopify theme. [L1346.016]
-- A countdown timer that restarts with every visit looks fake. A timer that shows three hours and resets on every visit removes trust, and a returning visitor who sees the same three-hour timer will stop trusting the store. [L0355.018]
-- Older (2021-22): a countdown timer that restarts each day is fake urgency. When a visitor returns and sees the same offer again, trust drops, especially for expensive purchases where people visit several times. [L0409.026]
-- Product pages must show exact shipping time, warranty and full product details, and should not use fake urgency such as a countdown timer that constantly resets. Clear information supports the sale without misleading the buyer. (2025.) [L0807.045]
+- Product pages must show exact shipping time, warranty and full product details. (2025.) [L0807.045]
 
 ### Cart timers
 
@@ -3725,7 +3688,7 @@ Your cart will expire in ((timer))
 
 ### Stock messages
 
-- A real stock count on the product page, such as 37 left in stock, is a legitimate scarcity tactic that increases conversions. Only show a number that matches actual inventory. [L0355.017]
+- A stock count on the product page, such as 37 left in stock, is a legitimate scarcity tactic that increases conversions. [L0355.017]
 - Add a short stock hint in brackets next to the size selection, such as `only 3 left` or `only 2 left`, to create urgency on the product page. Use only stock levels that are true. [L1219.006]
 - Show urgency on product pages only for best-selling products that are extremely low in stock, not site-wide. This has not caused problems with Google. (2025.) [L1287.021]
 - Shopify lets you hide stock levels with a single toggle, so customers do not see low-stock alerts. Keep the hidden element rather than deleting it, so it can be restored later. (2025.) [L0472.044]
@@ -3744,17 +3707,6 @@ These units come from direct-response sales letters. They apply to high-priced o
 - For high-priced products, use an application or qualification step, such as a questionnaire, reference letters, a required listening period or an interview, because it makes the buyer feel selected. Only state qualification rules you actually enforce. [L1370.086]
 - Most of a sales letter's losses come from the `later` group: readers who want the offer but set the letter aside. Most real response arrives in the first days after mailing, so the letter must create urgency to act now instead of tomorrow. [L1370.092]
 - Use limited availability to create urgency only if the product, premium or discount is truly limited, and say so specifically, for example that the race is on for a limited number of items. [L1370.096]
-
-### Rules against fake urgency
-
-- Fake urgency, such as a stock count or a deadline that resets every day or week, is dishonest and erodes trust. Customers are a business's most important asset, so urgency built on lies damages it. (Older: 2021-22.) [L0396.012]
-- Do not use scarcity messages such as `Limited stock on hand` unless they are true and change over time. A stock message that never changes signals fake scarcity. (Older: 2021-22.) [L0409.030]
-- Use urgency only when it is true. Real limited stock, such as a product that is really down to its last 10 units, can be stated. A blanket claim that every product is low on stock is not believable. (Older: 2021-22.) [L0473.027]
-- Fake urgency, such as countdown timers that reset, fake stock levels or small token discounts, is not a recommended way to build urgency. Visitors notice it, and it damages trust once discovered. (Older: 2021-22.) [L0473.028]
-- Fake urgency tactics, such as false countdown timers, claimed low stock, or offers that never actually expire, usually give small, temporary conversion gains. They are often misleading, so they should not replace a stronger offer. (Older: 2021-22.) [L0414.049]
-- A customer's consideration period cannot be shortened by pressure. People who truly want the product buy it regardless of a small discount, so do not rely on urgency tricks to close the sale. (Older: 2021-22.) [L0409.029]
-- A strikethrough reference price combined with a large `You save` percentage, shown on a sale that never ends, reads as a fake discount and lowers trust. Show a reference price only when it is a real list or previous price, and make the saving amount match the numbers shown. (Older: 2021-22.) [L0409.054]
-- Case: a Shopify reseller of high-ticket bathroom products ran a `48 hour sale` banner for at least three months. The countdown date changed by one day each day while the offer stayed at 5% off with code FLASH5, and the page still said `Limited Stock On Hand`. A $2,999.99 product was shown next to a $4,838.69 reference price, with `You Save: $1,838.70 (38%)`. The store also had `Some exclusions apply` on its tax statements, `No Shipping to California Addresses` with no explanation, a financing line with no link, reviews hidden at the bottom, an empty review widget and non-working tabs. Its USP sat in small header text that did not show on mobile. The verdict: this combination makes the store look like a commodity competing on price and reduces trust. (Older: 2021-22.) [L0409.025]
 
 ### Pop-ups and overlays
 
@@ -3938,7 +3890,6 @@ pay in [N] interest-free payments of [price divided by N] with Shop Pay
 
 **Shipping protection**
 
-- Offer shipping protection at checkout only if it is real insurance and not an upsell. Check the wording before you enable it. [L0667.021]
 
 **Answering shipping cost questions directly**
 

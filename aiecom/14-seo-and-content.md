@@ -3890,7 +3890,7 @@ The timing conflict is about different things. Content inside the store's own bl
 *Source: Source B, 2021-22 (older advice).*
 
 - Controversial content takes a position that goes against commonly held beliefs. It should be used sparingly, because it is highly engaging but polarizing. [L1421.024]
-- A controversial position must be explained in depth with supporting evidence and a real attempt to convince the reader. A fake position cannot be defended in depth, so it should not be used. [L1421.025]
+- A controversial position must be explained in depth with supporting evidence and a real attempt to convince the reader.
 - Controversial content in the entertainment table: taking an opposing position on a commonly held belief in the market to attract attention. [L1461.016]
 
 #### Entertainment Content Formats
@@ -4472,7 +4472,7 @@ Repurposing channels for influencer content:
 - Social media shares are nofollow and do not create backlinks that raise search rankings. They still help the trust signals of the site, so they are worth doing. [L0470.007]
 - *(older, 2021-22)* Once a page reaches the top of the results for its target term, the goal shifts to holding that position. Watch whether competing pages keep adding backlinks and whether you add enough quality links to stay ahead. [L0944.011]
 - *(older, 2021-22)* The E-commerce Skyscraper Method is the main link-building approach. Smaller supplementary methods can be added alongside it to find more opportunities, but they do not replace it. [L0944.012, L0944.006]
-- *(older, 2021-22)* Backlink outreach is a form of link building only when all links are genuine. Black hat tactics such as link farms are recognizable to Google and carry a risk of penalties. [L0944.003]
+- *(older, 2021-22)* Backlink outreach is a form of link building only when all links are genuine.
 
 ### Measuring Authority and Setting Link Targets
 

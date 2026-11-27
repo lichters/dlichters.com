@@ -496,8 +496,8 @@ Sources give different timeframes. Each applies under the condition shown.
 - Dropshipping and other e-commerce businesses usually take months of consistent work before results appear. Expecting quick riches is a common reason people quit, so plan for sustained effort over a long period rather than fast returns. [L0444.023]
 - Building an e-commerce business requires long-term commitment. Even in the worst case, five years to $300,000 to $500,000 in profit is valuable and life-changing. [L0280.040]
 - High-ticket dropshipping is simple as a model but not easy to execute. The first one to two years usually demand long hours and many failed experiments. Expecting quick results without this workload leads to discouragement. *(Older advice, 2021-22.)* [L1014.012]
-- High-ticket dropshipping is not a quick fix or get-rich-quick plan. It requires sustained hard work, time and consistency, and it is not a fit for anyone who expects results in two weeks. *(Older advice, 2021-22.)* [L0771.055]
-- There are no get-rich-quick shortcuts, and business requires consistent work. Success depends mainly on following a process consistently until it works, and quitting early is the most common reason for failure. *(Older advice, 2021-22.)* [L0458.056]
+- High-ticket dropshipping requires sustained hard work, time and consistency, and it is not a fit for anyone who expects results in two weeks. *(Older advice, 2021-22.)* [L0771.055]
+- Success depends mainly on following a process consistently until it works, and quitting early is the most common reason for failure. *(Older advice, 2021-22.)* [L0458.056]
 - There is no secret formula for dropshipping. Success comes from building basic skills, testing several products and offers, and scaling the one that wins. [L0519.001]
 - Expect the first real results from e-commerce to take around six to twelve months, with a plateau in between. The plateau is usually the hardest part, and continued consistent work is what gets a store past it. [L0819.031]
 - Low start-up cost does not mean easy. The low cost is offset by the work you need to put in. Business is not easy, and the people who succeed are the driven, focused, committed, and patient ones. *(Older advice, 2021-22.)* [L1480.032]
@@ -2197,7 +2197,7 @@ To use Progress Threads:
 - Follow the course program fully instead of freestyling. Watching only part of the material and building your own ideas (such as nine different stores) before reaching mass success is likely to fail [L1394.015].
 - Discipline is essential in e-commerce. Adhere to the prescribed process precisely and avoid deviating from it before you have achieved significant results [L1394.017].
 - Three requirements for success: follow the video library, take part in the community, and take action on what you learn. Combine these with the right mindset [L1394.016].
-- Choosing only the parts of a training program that feel appealing and skipping the rest, or watching only part of each lesson, usually leads to no results. Work through every step in order and do not shortcut the material [L1492.002].
+- Choosing only the parts of a training program that feel appealing and skipping the rest, or watching only part of each lesson, usually leads to no results. Work through every step in order [L1492.002].
 - Watch every video in the program, not just the ones that seem known. The only exception for beginners is to skip videos tagged as advanced. Skipping material means acting on incomplete information, which wastes time and advertising money [L0444.014].
 - Do not skip any module, even if the content looks familiar, because skipped material can lead to costly mistakes later. Treat the action tasks as assignments, since each one builds on the previous ones [L0491.004].
 - Learning the technical side of building a store is useful even when someone else builds the store for you, because the training shows how each part is set up [L0468.183] (2020).
@@ -2860,9 +2860,9 @@ Open for business and let customers find you. Continue adding suppliers and opti
 - Expect many ideas to fail. Some tests will not work, and a few may cause problems such as banned ad accounts. Treat failed tests as part of the process and keep testing. [L0334.055]
 - Enjoy the process of testing, because brand, entry point and offer tests take time and many of them will fail before one works. [L0334.056]
 - Expect many conversion tests to fail and treat each failure as a learning step. Plan tests so that you know what is being tested and what the results are, then change the approach for the next test. Note: this advice is from 2021 to 2022 and is older. [L0400.014]
-- Most products fail in testing, and no formula reliably finds a winner on the first try. Test many products, learn from each failure, and improve the process rather than expecting a shortcut. [L1436.083]
+- Most products fail in testing, and no formula reliably finds a winner on the first try. Test many products, learn from each failure, and improve the process. [L1436.083]
 - Expect many test products to fail. Repeated iteration is part of the process, and a failed launch is not a verdict on the whole business. [L0950.004]
-- There is no shortcut formula that guarantees a winning product on the first try. Winners come from testing many products, learning from losses, improving the process and the branding, and accepting that a few products will fail. [L1382.065]
+- Winners come from testing many products, learning from losses, improving the process and the branding, and accepting that a few products will fail. [L1382.065]
 - The first and often the second product are likely to fail, so plan for several test rounds. [L1394.019]
 - Losses are a normal part of testing. Before seeing any profit, a beginner should expect to lose about $2,000 or the full budget, as noted above. [L1394.003]
 - Testing a product is a risk: a product can fail quickly, so keep spare capital. [L1251.036]
@@ -3039,7 +3039,6 @@ A student took the same course and used the same strategies, tools and informati
 - Much of the perceived difficulty comes from the mind exaggerating the challenge, not from the task itself. When such a thought appears, recognize it, move past it and take the action anyway. [L1248.014]
 - The fear that every supplier will refuse and the business cannot start is a worst-case scenario that rarely happens. Even if a full refusal did occur, the result would be a return to product research and finding new suppliers, not a dead end. [L1248.015]
 - Common early mistakes include acting out of panic after small losses, such as the first small ad spend, a seasonal dip or a supplier problem. These reactions lead to poor decisions and can be avoided by staying calm and strategic. [L1041.026]
-- Panicking in the ad account and turning to no-shipping orders or scam tactics to win is a dead end that destroys the business. Such shortcuts harm customers and the brand's reputation. [L1038.004]
 - Retreating to safe, low-risk activity after a mistake stalls growth. A mistake is a reason to adjust and keep going, not to withdraw. [L1042.009]
 
 ### Staying calm under pressure
@@ -3506,7 +3505,7 @@ Listing these concrete downgrades before committing shows whether the worst case
 - Relationship building produces compounding results with consistency. The more regular effort you invest, the stronger the outcomes, while sporadic effort yields weaker results. (Older, 2021-22.) [L0297.007]
 - Introverts or people who find this outreach daunting can still succeed through small, consistent steps. Results usually turn out better than expected once action is taken. (Older, 2021-22.) [L0453.016]
 - Do the well-digging activity consistently rather than worrying about how long it will take. Spend a little time each day, and expect many days to have little to do, because most prospects publish only occasionally. (Older, 2021-22.) [L0453.019]
-- Do not interact with a Dream 100 prospect without a reason. Only comment when they have published something new, such as a weekly blog post or a YouTube video published once a week. This keeps the process manageable and avoids spamming. (Older, 2021-22.) [L0453.020]
+- Do not interact with a Dream 100 prospect without a reason. Only comment when they have published something new, such as a weekly blog post or a YouTube video published once a week. This keeps the process manageable. (Older, 2021-22.) [L0453.020]
 - A Dream 100 list does not have to reach exactly 100 names. The goal is to get as far as you can, and it can be built gradually in small daily sessions alongside other tasks. (Older, 2021-22.) [L0526.001]
 - Daily action for this stage: work through the whole Dream 100 list and follow, subscribe, like, join groups and forums, create forum accounts, and subscribe to email lists for each contact. (Older, 2021-22.) [L0526.011]
 - Partnership action plan (older, 2021-22):
@@ -3661,7 +3660,6 @@ Source B's owner ladder is older advice (2021-22). Its structure still applies.
 ### Honesty and values in the business
 
 - Do not misrepresent your experience, skills or how long you have been doing business. This applies to customers, suppliers and community members alike. [L0365.004]
-- Lying about your skills, experience or track record to sell products or to create extra income in a community is a serious mistake. Such misrepresentation tends to be discovered, and those involved can be removed from the community. [L0365.005]
 - Handle every business issue with honesty and transparency, both with colleagues and with customers. Ethical integrity is the highest standard for long-term success. [L0365.008]
 - Stay humble and keep learning, because there is always a way to improve regardless of revenue level. Track changes in marketing continuously and share what works. [L0365.010]
 
@@ -4151,11 +4149,11 @@ Procedure (older advice, 2021-2022):
 - When a supplier issue occurs, evaluate the total relationship (2022, older advice):
   - If the supplier ships correctly most of the time and is otherwise responsive, work through isolated problems.
   - If a pattern of poor behavior emerges, cut them off. [L0249.089]
-- Never misrepresent your business. Do not claim years of experience, past sales or a track record you do not have. Lying to suppliers tends to become a habit that spreads to customers and staff and hurts the business in the long run. Being a new business is no disadvantage in itself and does not automatically lead to a no. (older advice, 2021-2022) [L0929.006]
+- Being a new business is no disadvantage in itself and does not automatically lead to a no. (older advice, 2021-2022) [L0929.006]
 - A supplier refusal for now does not mean failure. If a supplier says they are not taking new retailers, record the reason and the date they suggested, then follow up at that time. [L0928.013]
 - A no from a supplier usually means no for now, not no forever. Stay open-minded, energetic and confident. Suppliers are businesses that want to make money and want customers who respect their brand. [L0933.032]
 - When a supplier says no or gives vague reasons, follow up on a set schedule rather than giving up. Repeated, polite contact with a status update shows commitment and does not get you blacklisted. (2023) [L0835.130]
-- Confidence on supplier calls comes from knowing your subject well. Do not fake knowledge; study the material until you can speak about the business with real understanding. [L0927.005]
+- Confidence on supplier calls comes from knowing your subject well. Study the material until you can speak about the business with real understanding. [L0927.005]
 - When a supplier asks about annual sales goals for a brand-new store, a reasonable answer is a figure in a range between 2 and 500,000. The currency was not specified. (2023) [L0934.190]
 
 **Handling a no from a supplier, in order:** [L0928.014]

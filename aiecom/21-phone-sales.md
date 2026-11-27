@@ -1162,8 +1162,6 @@ Hello [SUPPLIER CONTACT], I'd like to run a promotion on our store. When a custo
 
 ### Which other brands you work with
 
-- Do not lie about other brands. If asked, name only the suppliers you are actually in an approval process with, meaning you have already submitted an application or were told one would be sent. [L1085.089]
-
 ## Supplier follow-up cadence and record keeping
 
 ### Day-by-day contact plan
@@ -1306,7 +1304,7 @@ When first contacting a supplier by email (older source, 2022), a short introduc
 Older source, 2018. Follow these steps:
 
 1. Think about two things first: what the supplier cares about and how they can trust you. [L1085.086]
-2. Be honest about where your store is. You can say you are learning from a training program and are just getting started. [L1085.086]
+2. You can say you are learning from a training program and are just getting started. [L1085.086]
 3. Explain the marketing you will use to bring them sales: Google Product Listing Ads, retargeting, exit-intent capture, a follow-up email sequence, YouTube and industry-specific platforms. [L1085.086]
 4. Make clear that customer service is your first priority and that you are building a long-term business. [L1085.086]
 5. Keep the focus on how you will bring the supplier more sales, not on the money you expect to make. [L1085.086]

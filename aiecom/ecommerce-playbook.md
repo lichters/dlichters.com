@@ -1176,9 +1176,7 @@ Sources differ on the minimum number of suppliers. Each value applies in the sit
   4. Reach 60 unique clicks per day. [L0823.011]
   5. Aim for 1 sale every other day. [L0823.011]
 
-**Avoiding a shortcut**
 
-- Do not build a single-product sales page as a shortcut to conversions. Without a track record and a catalogue, the store cannot carry paid traffic. [L0468.007] (older, 2020)
 
 **Pre-launch review**
 
@@ -2315,7 +2313,7 @@ Where sources give different values, each applies to a different scope.
 - Before you ask a high-value prospect for a partnership or sale, build familiarity first by engaging with their content over time. Direct cold outreach with a sales pitch tends to trigger a spam reaction and put people off. (older advice, 2021-22) [L0453.001]
 - Engagement works because an audience-facing person notices and remembers those who interact with them repeatedly. When you later reach out directly, the contact feels natural rather than like a stranger's cold message. (older advice, 2021-22) [L0453.002]
 - Engagement in this phase should give value and ask questions, not request anything. Do not ask for a sale or partnership yet. Help the prospect's audience where you can and show real interest in their work. (older advice, 2021-22) [L0453.014]
-- Treat relationship building like a normal conversation with a new acquaintance. Learn what they do and what they are interested in, and engage with that. Stay genuine and do not pretend to be someone you are not. (older advice, 2021-22) [L0453.015]
+- Treat relationship building like a normal conversation with a new acquaintance. Learn what they do and what they are interested in, and engage with that. (older advice, 2021-22) [L0453.015]
 - Dream 100 partnerships must give both sides a benefit, because a relationship that only serves one party tends to end. Frame every outreach as a win-win offer rather than a request for help. (older advice, 2021-22) [L0525.001]
 - Use the Dream 100 exercise for high-value targets. Use the affiliate recruitment email template for general affiliate recruitment searches outside your Dream 100 list. (older advice, 2021-22) [L0212.008]
 - Use the same outreach message whether you contact a potential affiliate by email or on social media (Facebook, Instagram and similar). The message content stays consistent across all contact channels. (older advice, 2021-22) [L0212.010]
@@ -7582,7 +7580,7 @@ Sources differ on the supplier count. Use the value that matches your situation.
 - Count distinct brands and listings, not just total products, because one supplier can have many products but few brands. (Source A, 2021, older) [L1090.003]
 - Keep big box retailers in the results, since they still count in the price averages. (Source A, 2021, older) [L1090.003]
 - If two or three brands dominate Google Shopping results, the niche may be locked up, but a few prominent listings alone do not prove that. Before dropping the niche, check the future competitor stores and count their suppliers. (Source A, 2021, older) [L1090.004]
-- A quick way to count sellers for a brand is to search each brand or product on Google Shopping and read how many stores are listed. There is no shortcut that avoids checking brands one by one. (Source A, 2023) [L1114.013]
+- A quick way to count sellers for a brand is to search each brand or product on Google Shopping and read how many stores are listed. (Source A, 2023) [L1114.013]
 
 #### Seller quality and filters
 
@@ -9381,7 +9379,7 @@ Ask the AI to take the pasted Amazon reviews and describe the target audience fo
 | Top 5 proxy buyer dynamics | Dynamic, relationship type, emotional drivers |
 | Highest-stakes scenario | A detailed narrative of the most emotionally charged situation in the market |
 
-- Quote minimums differ between the sources. Use at least 30 direct quotes as the baseline [L0613.002, L0613.009]. Aim for 40+ real quotes [L0221.015]. Sort 40 review quotes into the six themes [L0613.009]. When the sources cannot support 40+ real quotes, prioritise 20 load-bearing verified insights over 90 plausible-sounding fabrications [L0221.015].
+- Quote minimums differ between the sources. Use at least 30 direct quotes as the baseline [L0613.002, L0613.009]. Aim for 40+ real quotes [L0221.015]. Sort 40 review quotes into the six themes [L0613.009].
 - Quote types [L0221.015]:
 
 | Type | What it is | Where it may be used |
@@ -12667,7 +12665,7 @@ The sources give both signals: customized gifts can outperform broad jewelry [L1
 - Product tests should be good enough rather than perfect, and should not consume much time or money, since a test can fail and the time spent should still produce learning. [L0349.005]
 - Early on, test products aggressively, since you cannot yet tell which products are good. Once you have a viral win and know how to create virality, shift to strict product selection. [L0372.013]
 - Early tests on weak products are useful for building the skill of going viral. Before investing heavily in a product, confirm it can produce sales. [L1429.037]
-- Product research has no shortcut. A product's potential is only known after spending money on it. Learn audience research as the core skill rather than relying on hiring freelancers for research. [L0690.012]
+- A product's potential is only known after spending money on it. Learn audience research as the core skill rather than relying on hiring freelancers for research. [L0690.012]
 - No single product research method is perfect, so a researcher should adapt a method that works for them rather than follow one rigidly. A method is worth keeping only when it has produced winners for that person. [L1382.002]
 - Product testing is about spending time and money efficiently. [L0577.037]
 
@@ -15674,7 +15672,7 @@ These apply to different cases. Obtain the certificate for your own state throug
 - A newer store can list a few products from a supplier at a higher markup to build credibility when approaching more brands. Choose the products with the best margins and do not include them in paid ads. Uploading the full catalog is not required. (2025.) [L0837.039]
 - Do not use Oberlo for demo products. Build them manually following blueprint module 3 guidance. Demo products do not need real specs, materials or dimensions, since generic descriptions are sufficient when the products are not for sale. (Older, 2020.) [L0268.014]
 - Do not use dropshipping apps to fill the store before supplier approval. Use stock images to build the site for suppliers to review. (Older, 2021.) [L0834.026]
-- Build the demo store with stock or generic products so the supplier can picture how its products would look on your site. The demo is not meant to mislead them. (Older, 2022.) [L1113.025]
+- Build the demo store with stock or generic products so the supplier can picture how its products would look on your site. (Older, 2022.) [L1113.025]
 - Do not display one supplier's branded products on a demo store to pitch a different supplier. The first brand may find them through Google alerts and state that the store is not authorized to sell its products. [L0623.014]
 - A good-looking live store that already sells other brands makes suppliers more willing to work with you. Show your site when you approach a supplier. [L0832.032]
 - Well-organized filters and tags on the storefront show future suppliers how the website functions. Additional tag lists can be added over time as more suppliers are onboarded. [L0890.009]
@@ -15693,7 +15691,6 @@ These apply to different cases. Obtain the certificate for your own state throug
 ### Demo-mode disclosure
 
 - If a supplier sees its products on your store before launch, explain that they are only demonstration placements, so the supplier can see how its products will look, and that you are not selling them yet. This also shows you can build and maintain a website. (Older, Source B 2021-22.) [L0929.027]
-- Do not present a demo as a live shop. The demo is for showing layout and presentation, not for selling, and it is not meant to mislead the supplier. [L1113.025]
 
 ### Trust signals and pre-outreach checks
 
@@ -23209,7 +23206,6 @@ Upsell products do not need to be branded or searched for, because the customer 
 - Constant Creative customers receive assets through Frame.io. Connect Frame.io in the Integrations section of Ad Manage.ai to import Constant Creative deliverables directly into your Media Library without downloading files. [L0207.021]
 - Pre-order custom agent-shot content for a new product when no creatives exist, since it gives better CPMs than generic content. Until then, have enough existing creatives for the first week. [L0363.025]
 - TikTok-driven stores target mobile users who buy directly from ads, so the first screen of a product page must load quickly and show the product clearly. [L1410.037]
-- Cheap bulk traffic, such as buying 20,000 website visitors for $5 on Fiverr, does not produce sales. These visits are not targeted and are fake, so they do not convert. [L0582.013]
 - A Google Merchant Center account can be suspended while the Google Ads account stays active. Google Ads suspensions are much rarer than Merchant Center suspensions in high-ticket dropshipping stores. (Older advice, 2021-2022.) [L0727.001]
 
 ### Outreach, partnerships and affiliates
@@ -28120,7 +28116,7 @@ Procedure, older (2020): Image sourcing for a new store before brands send photo
 - Never upload real supplier products, photos or descriptions before you have approval. [L0551.023]
 - If you use royalty-free stock photos from image search, you can keep them on a demo store. If the rights are unclear, remove them and use images from suppliers that have approved you. [L1112.039]
 - Demo products that use another supplier's photos should be deleted once that supplier approves. [L1112.038]
-- Demo product pages should show only a general idea of a future product page. They must not be used to claim that a brand has already approved the store. [L0623.016]
+- Demo product pages should show only a general idea of a future product page. [L0623.016]
 - Older (2019): Using a supplier's photos for demo products before approval usually does no harm. Stock photos avoid the question entirely and are easy to swap out. [L1275.032] *(Conflict noted below.)*
 - Conflict on supplier photos: L1275.032 (2019) says supplier photos usually do no harm, while L0268.066 (2020), L1462.020, and L0551.023 say not to use them before approval. Applies: use royalty-free or licensed images before approval. L1275.032 is older advice.
 - Conflict on competitor copying: the competitor-copy procedure in L0452.009 includes copying images from the source page, while L0036.013 and L1462.020 forbid copying competitor photos. Applies: copy only the title and description where allowed, and replace photos with licensed or own images.
@@ -28659,7 +28655,7 @@ Rules:
 **Prompt: product listing for a photo** [L0535.001, *2025*]
 
 ```
-Act as a seasoned eCommerce copywriter who builds high-converting Shopify listings for upscale goods. I'll send a sample photo of an item I'm considering listing. It isn't a real product yet, so infer its details from the picture and assume realistic specifics. Deliverables: (1) Devise a luxurious-sounding title that works as a brand, matches what the photo shows, suits a Shopify storefront, steers clear of trademarked or established brand names, and conveys reliability and professionalism. (2) Draft a complete listing: a brief opening paragraph centered on customer benefits; a 'Key Features' list of 5 to 8 bullets; a 'Why You'll Love It' or 'Benefits' block; a plausible, internally consistent 'Specifications' block; and a concise closing paragraph that nudges the reader toward buying. (3) Provide SEO metadata: a meta title no longer than 60 characters, a meta description no longer than 155 characters, and 3 to 5 search terms that fit the item. (4) End with a list headed 'Assumptions to verify with supplier' that names every material, dimension, color, capacity, function, or feature you inferred from the photo. None of these inferred items may appear in the listing as established fact. Voice: businesslike, self-assured, precise, upscale, ready for Shopify, aimed at sales rather than filler. Ground rules: where the photo is ambiguous, choose the most sensible assumption; treat the item as coming from a dependable supplier of good quality; the goal is a listing that impresses suppliers and looks ready to launch; never fabricate certifications, guarantees, test outcomes, or awards. Formatting: clean and Shopify-friendly, with headings and bullets, easy to scan, no emoji, no overblown hype. Output sequence: product title, meta title, meta description, keywords, product description (sections in the order of point 2), then the supplier verification list.
+Act as a seasoned eCommerce copywriter who builds high-converting Shopify listings for upscale goods. I'll send a sample photo of an item I'm considering listing. It isn't a real product yet, so infer its details from the picture and assume realistic specifics. Deliverables: (1) Devise a luxurious-sounding title that works as a brand, matches what the photo shows, suits a Shopify storefront, steers clear of trademarked or established brand names, and conveys reliability and professionalism. (2) Draft a complete listing: a brief opening paragraph centered on customer benefits; a 'Key Features' list of 5 to 8 bullets; a 'Why You'll Love It' or 'Benefits' block; a plausible, internally consistent 'Specifications' block; and a concise closing paragraph that nudges the reader toward buying. (3) Provide SEO metadata: a meta title no longer than 60 characters, a meta description no longer than 155 characters, and 3 to 5 search terms that fit the item. (4) End with a list headed 'Assumptions to verify with supplier' that names every material, dimension, color, capacity, function, or feature you inferred from the photo. None of these inferred items may appear in the listing as established fact. Voice: businesslike, self-assured, precise, upscale, ready for Shopify, aimed at sales rather than filler. Ground rules: where the photo is ambiguous, choose the most sensible assumption; treat the item as coming from a dependable supplier of good quality; the goal is a listing that impresses suppliers and looks ready to launch. Formatting: clean and Shopify-friendly, with headings and bullets, easy to scan, no emoji, no overblown hype. Output sequence: product title, meta title, meta description, keywords, product description (sections in the order of point 2), then the supplier verification list.
 ```
 
 [L0535.001]
@@ -29143,7 +29139,7 @@ Starting quantity. The sources give different values:
 
 ### Pricing fields
 
-- Price fields in Shopify: Price (the selling price), Compare-at price (the higher reference price shown as a strikethrough and used for the savings label), and Cost per item (used for margin reporting). The Compare-at price should be the real price the item was offered at, otherwise the discount is misleading. [L1188.013]
+- Price fields in Shopify: Price (the selling price), Compare-at price (the higher reference price shown as a strikethrough and used for the savings label), and Cost per item (used for margin reporting).
 - *Older (2021-22).* Keep Charge tax on this product ticked, and enter Cost per item only if you want margin tracking. [L1166.004]
 - Compare-at for MAP-restricted products: see the MAP section below. [L1285.036]
 
@@ -29262,7 +29258,7 @@ Starting quantity. The sources give different values:
 ### MAP and compare-at pricing
 
 - Products should be listed at MAP as the selling price. Enter the MSRP in the compare-at price field so customers see MSRP struck through and pay the MAP. [L1285.036]
-- The compare-at price should be the real price the item was offered at, otherwise the discount is misleading. For MAP-listed products, the compare-at price is the MSRP. [L1188.013, L1285.036]
+- For MAP-listed products, the compare-at price is the MSRP. [L1188.013, L1285.036]
 - *Older (2021-22).* Pricing rule for uploads: use the MAP price list if one exists, or otherwise add a fixed markup, such as 20%, and match prices from named competitor sites. [L1396.037]
 
 ### Store-level rules
@@ -30022,7 +30018,7 @@ Product page order (Source E):
 Template for mapping a product page (paste the data and attached screenshots below it):
 
 ```
-I am giving you the product page template I want (hero with title bar, brand name, rating line, product name, price with savings, three checkmark bullets, Add to Cart with payment icons, See it in action section with three image placeholders, What our customers say with three testimonial cards, two feature blocks with headline and body, a Shop Now button, six FAQ questions, three collapsible tabs titled How It Works, What's Inside and Satisfaction Guarantee, a floating review bubble above the collapsibles, and a newsletter section). Using the product data and images I provide, fill every element of this template exactly, keeping the same order and the same number of blocks. Do not invent statistics, review counts, sales figures, testimonials, guarantees or claims that are not in the data I provide; if a field has no data, write [MISSING: field name] instead. Mark any figure you took from the data with its source. Testimonials must be rewritten from real customer reviews I provide and must not be fabricated. Write the output as clean copy with headings per section, ready to paste into the theme editor. Product name: [PRODUCT NAME]. Price: [PRICE]. Compare-at price: [COMPARE-AT PRICE]. Product images and screenshots: [ATTACHED]. Product data and reviews: [PASTE DATA].
+I am giving you the product page template I want (hero with title bar, brand name, rating line, product name, price with savings, three checkmark bullets, Add to Cart with payment icons, See it in action section with three image placeholders, What our customers say with three testimonial cards, two feature blocks with headline and body, a Shop Now button, six FAQ questions, three collapsible tabs titled How It Works, What's Inside and Satisfaction Guarantee, a floating review bubble above the collapsibles, and a newsletter section). Using the product data and images I provide, fill every element of this template exactly, keeping the same order and the same number of blocks. Do not invent statistics, review counts, sales figures, testimonials, guarantees or claims that are not in the data I provide; if a field has no data, write [MISSING: field name] instead. Mark any figure you took from the data with its source. Testimonials must be rewritten from real customer reviews I provide. Write the output as clean copy with headings per section, ready to paste into the theme editor. Product name: [PRODUCT NAME]. Price: [PRICE]. Compare-at price: [COMPARE-AT PRICE]. Product images and screenshots: [ATTACHED]. Product data and reviews: [PASTE DATA].
 ```
 
 [L1188.031]
@@ -37169,7 +37165,6 @@ With a three-month plan, the second and third month of the Automation Add-on are
 - Ask only approved suppliers for reviews, and only if they have product reviews available. Request their permission before using any reviews, and do not copy reviews without explicit supplier approval. [L0155.004]
 - Supplier reviews can be entered with permission, so they appear on product pages in the same style as future customer reviews. [L0855.110]
 - Older advice (2021): reviews provided by a supplier can be uploaded to Judge.me only with written permission from that supplier. [L1090.058]
-- Editing or inventing reviews misleads buyers and can violate consumer-protection rules, for example fake-review rules in the US. Use review tools only for real customer feedback. [L0502.040]
 - **Conflict on seeding.** The seeding units say that initial reviews can come from suppliers, family or friends to establish credibility before paid traffic begins [L0040.003]. Review apps such as Ali Reviews or Judge.me can seed initial reviews on a new store, to be replaced later with real customer reviews [L0513.030]. The ethics units require real customer feedback and supplier permission [L0502.040, L0155.004].
 - **Operator reading:** the seeding units and the ethics units apply to different situations. A seeded review must not be presented as a real customer review, and supplier reviews need permission before they are shown. [L0040.003, L0513.030, L0502.040, L0155.004]
 - Review imports from supplier listings can show weak or irrelevant feedback. Screen each review before import and reject any that do not fit the product. Limit imports to four stars and up with photos to keep the store credible. [L0634.032]
@@ -37518,8 +37513,7 @@ Install steps in Shopify:
 - Bundles, quantity breaks, upsells and cross-sells are usually built with dedicated apps, and several apps exist for each job, so compare them before choosing one [L0435.018].
 - Bundle and upsell apps are an option once the store has more than one product [L0774.019]. Complementary-bundle apps work best when the store has a strong product that can be sold as an upsell [L0650.070].
 - Older advice (Source A, 2021): add post-purchase and cross-sell apps only once the store grows and average order value matters, because they are not needed on day one [L0968.046].
-- Older advice (Source A, 2021): do not use urgency timers or urgency apps unless there is a specific real deadline, such as a delivery date before Christmas [L0968.048].
-- Timer values in the sources differ by context. Kaching Cart and OCU setups use a 3-minute timer [L0560.012, L1141.016]. A 20-minute deadline appears as an example in post-purchase SMS and email text [L0789.033]. Use any timer only with a real deadline, as the older rule states [L0968.048].
+- Timer values in the sources differ by context. Kaching Cart and OCU setups use a 3-minute timer [L0560.012, L1141.016]. A 20-minute deadline appears as an example in post-purchase SMS and email text [L0789.033].
 - For free-gift content, use ChatGPT to brainstorm bundle names, offer copy and persuasive framing before you build offers in the store [L0232.020].
 - For free-gift content, use ChatGPT to create instructional eBooks, email sequences, guides and digital resources. They cost nothing to produce but add perceived value to higher-tier bundles [L0232.026].
 - A native Shopify discount system can apply a discount automatically when a customer adds 2 or 3 units. The discount appears without codes or third-party apps, which reduces friction in multi-buy decisions [L0233.015].
@@ -40180,8 +40174,8 @@ Complete these 11 tasks before setting up traffic. [L0040.001]
 ### Reviews and trust: where the sources differ
 
 - The task list asks for initial reviews from suppliers, family, or friends. [L0040.001]
-- The Google Merchant Center note says store reviews are not required before approval, and stores without any customer reviews have been approved. (2023.) Trust should come from a clean, complete store rather than fake or added reviews. [L1114.041]
-- Apply both: treat the review app and initial reviews as part of the 11-task build, but do not treat reviews as an approval condition, and never substitute fake reviews for real trust-building. [L0040.001, L1114.041]
+- The Google Merchant Center note says store reviews are not required before approval, and stores without any customer reviews have been approved. (2023.) [L1114.041]
+- Apply both: treat the review app and initial reviews as part of the 11-task build, but do not treat reviews as an approval condition. [L0040.001, L1114.041]
 
 ### Store build for supplier approval (demo store)
 
@@ -41338,7 +41332,7 @@ Case: A sleep-pain product store sent paid Facebook traffic to a story-style pag
 
 - Presell pages educate prospects before the sales page. A presell page is a longer article that provides background or explains a concept, such as what email marketing is and why it grows businesses. Affiliates use presell pages to warm up prospects before sending them to a partner's sales page. [L0523.076]
 - Articles placed on third-party sites serve as pre-frames for cold traffic from banner ads. Article types include a case study, a product explanation or a piece that frames the problem without mentioning you. Add the call to action as an inline link, a button at the bottom, a linked photo or a combination. [L0523.070]
-- News-style pre-frames borrow attention from current events. Linking your message to a timely story, such as an election or disaster, lifts attention while the story is hot, though the effect is short-lived. Designing a page to resemble a news page with a headline bar or sidebar can also boost credibility, but it must remain truthful. [L0523.072]
+- News-style pre-frames borrow attention from current events. Linking your message to a timely story, such as an election or disaster, lifts attention while the story is hot, though the effect is short-lived. Designing a page to resemble a news page with a headline bar or sidebar can also boost credibility. [L0523.072]
 - Blog posts are a pre-frame tool for almost any topic. A guest post on a high-traffic blog in your target market works better than your own blog, and the post is best published under the blog author's name. Pair it with a link to your offer and drive targeted traffic to the post. [L0523.073]
 - Pre-frame videos work well for testimonials and for educating viewers. Publish them on someone else's channel and place calls to action in the description or comments, as pre-roll or post-roll footage, or as annotations. The video should agitate a problem or teach a process that creates desire for your solution. [L0523.074]
 - Email pre-frames use solo ads or joint venture partners to endorse you to their list. The partner's endorsement borrows their credibility, and the call to action is a link in the email. In direct mail the same role is played by a lift letter from the list owner. [L0523.075]
@@ -41891,7 +41885,7 @@ Three framings appear in the sources. Each is a different choice, not a conflict
 - Show a three-step easy setup, and address the cheap-knockoff objection directly [L1207.046].
 - Show the 30-day money-back guarantee [L1207.046].
 - Show the step-by-step guide (for example, Step 1, Step 2, Step 3) as part of the high-converting product page structure [L0321.004].
-- Scarcity and urgency elements, such as a cart timer and low-stock messages, used only when true [L1207.046, L1209.032]. Cart timer, low-stock notice and time-limited offers [L1210.024].
+- Scarcity and urgency elements, such as a cart timer and low-stock messages [L1207.046, L1209.032]. Cart timer, low-stock notice and time-limited offers [L1210.024].
 
 ### Comparison charts
 
@@ -42035,7 +42029,7 @@ Three framings appear in the sources. Each is a different choice, not a conflict
   12. Money-back guarantee.
   13. FAQ answering common buyer questions.
   14. Customer review section.
-  15. Scarcity and urgency elements, such as a cart timer or low-stock notice, used only when true.
+  15. Scarcity and urgency elements, such as a cart timer or low-stock notice.
 - Step-by-step product page template for a single-product store, with the full sequence in the table above [L1210.024].
 - Product page order for a single-product landing page with all 18 elements, in the list above [L1207.046].
 - Product page order for a landing page with steps 1 to 15, as above [L1209.032].
@@ -42338,7 +42332,7 @@ Rework the top banner of the homepage and the part of the product page visible w
 
   Pair each feature with the comfort or practical result it delivers rather than listing it alone. Each benefit should answer what the customer avoids or gains. [L0917.016, L0917.017, L0917.018, L0917.019]
 - A credible statistic for a cold-legs problem is that legs account for about 25% of the body's heat loss, which makes the problem concrete in problem-agitation-solution copy. Confirm any such figure against a published source before putting it on a landing page. [L0917.020]
-- Pattern for the feature block on a product page: a short lead line in the form [number] reasons to [action] today, followed by bullets where each bullet pairs one feature with one dimensionalized benefit instead of listing a bare spec. It works because every line answers what the feature does for the reader, and the time-bound lead adds a reason to act now without inventing scarcity. (older, 2021-22) [L0396.036]
+- Pattern for the feature block on a product page: a short lead line in the form [number] reasons to [action] today, followed by bullets where each bullet pairs one feature with one dimensionalized benefit instead of listing a bare spec. It works because every line answers what the feature does for the reader, and the time-bound lead adds a reason to act now. (older, 2021-22) [L0396.036]
   - Example 1: *Four reasons to order the kettle today:* followed by *Double-walled steel keeps tea hot for two hours so that you can sit down for a proper break.*
   - Example 2: *Five reasons to book your bike service today:* followed by *Fresh brake pads and a true wheel so that every ride feels smooth and you can enjoy the hills again.*
 - Compare the product against a familiar alternative using a concrete figure. Example: a 30 minute sauna session claimed to burn up to 600 calories, against about 300 calories from 30 minutes of jogging. Every such figure needs a cited source, otherwise it counts as an unsupported claim. (older, 2021-22) [L0396.023]
@@ -42722,7 +42716,7 @@ Follow with the remaining homepage sections in the same order: benefit icons, so
 
 - Clarity comes before everything else in how an offer and marketing message are presented, because a confused visitor does not buy. Before adding any element to a page, check whether it truly adds value for the customer and whether it can be made simpler. (Older advice, 2021-22.) [L0409.001]
 - Complex or expensive products may need more information on the page than simple ones, but every extra element must earn its place. Apply the same simplicity to the wider site content, not only to the offer. (Older advice, 2021-22.) [L0409.002]
-- Focus on the few most important pieces of information a customer needs to be persuaded to buy this product from this store, and present them as cleanly as possible. A clear page removes the need for conversion tricks such as fake scarcity or fake discounts. (Older advice, 2021-22.) [L0409.050]
+- Focus on the few most important pieces of information a customer needs to be persuaded to buy this product from this store, and present them as cleanly as possible. (Older advice, 2021-22.) [L0409.050]
 - An offer the visitor does not notice on the page effectively does not exist. Present the offer so it is easy to see and consume, and make sure it is not hidden behind other page elements. (Older advice, 2021-22.) [L0473.017]
 - Usability affects conversion more than visual design once trust factors and good products are in place. Overly decorative pages with heavy motion do not raise conversion if visitors struggle to find products and buy. [L1098.001]
 - Usable and fast beats heavily designed. Heavy design slows load time and hurts conversions, so a site should let people find products quickly. A beautiful design can still be kept if it loads fast. (Older advice, 2018.) [L1085.058]
@@ -42872,7 +42866,7 @@ Follow with the remaining homepage sections in the same order: benefit icons, so
 
 ### Hero, banners and sliders
 
-- Place text on a hero image to tell the customer what the business does for them. Only add a promotional message when there is a real offer, and keep the wording clear enough to be changed later. (Older advice, 2021-22.) [L1310.020]
+- Place text on a hero image to tell the customer what the business does for them. Keep the wording clear enough to be changed later. (Older advice, 2021-22.) [L1310.020]
 - Use a hero image instead of a slideshow on the homepage, because slideshows rely on JavaScript and extra code that slows the site down. Turn off autoplay and keep one static image. (Older advice, 2021-22.) [L1371.041]
 - Reported research suggests only about 4% of visitors see or interact with the second and third slides of a slideshow. This is the reason for keeping only the first slide as a single hero image. (Older advice, 2021-22.) [L1371.042]
 - A slideshow as the main home page visual distracts from the product and is not necessary for a single-product or niche store. Use one clear image instead and remove the second slide. [L1331.037]
@@ -43063,7 +43057,6 @@ $value+ bought in past $timeframe
 
 #### Collecting and checking reviews
 
-- Use reviews from real buyers only, even if the store is new. Writing product reviews yourself and presenting them as customer reviews misleads buyers and can violate consumer protection rules on fake reviews. [L1325.020]
 - Reviews that mention the quality of customer service are the most valuable ones to feature on the store. Excellent customer service ranked as the most important factor for consumer trust in a company in a Zendesk survey. [L0908.003]
 - A Zendesk survey reported that 88% of customers trust online reviews as much as personal recommendations from friends or family. Treat this as a vendor-sourced benchmark, not a verified figure. [L0908.002]
 - Testimonials and FAQ answers should come from real customers and real questions, not invented copy. FAQ items usually capture objections, so they are answered with factual reassurance rather than persuasive copy. [L0917.012]
@@ -43080,7 +43073,7 @@ $value+ bought in past $timeframe
 - Shoppers fear losing money, so the page should reduce the perceived risk of buying with visible guarantees and protection, such as a money-back promise, so the visitor feels safe to purchase. [L1363.004]
 - Trust signals such as free shipping, a 30-day money-back guarantee and 'try risk-free for 30 days' near the top of the page remove purchase anxiety. The wording should make clear the company will refund an unhappy customer, which gives certainty rather than persuasion. [L0917.002]
 - A money-back guarantee tends to raise conversion rate because customers feel safer buying. Refunds may rise slightly, but the extra sales usually outweigh them. [L0683.011]
-- Trust badges and checkmark-style benefit lines add credibility to a product page when placed near the product or buy area. Only show badges and claims that are true for the store, because false credibility signals damage trust once a visitor notices. [L1380.055]
+- Trust badges and checkmark-style benefit lines add credibility to a product page when placed near the product or buy area. [L1380.055]
 
 #### Writing the money-back guarantee
 
@@ -43164,7 +43157,7 @@ We maintain competitive pricing as a priority. Within six months of purchase, if
 
 - Payment methods you accept (for example Shopify Payments or PayPal) work as trust signals when shown in the store footer, because visitors recognise the brands behind them. No special image is needed. [L1050.007]
 - Shopify adds payment icons to the footer automatically. They show which payment options a customer can use and help build trust before purchase. [L1326.012]
-- Tick only the payment methods your Shopify store actually accepts, because every ticked method appears in the footer as a trust signal. Showing a payment method you do not accept misleads visitors. [L1050.019]
+- Tick only the payment methods your Shopify store actually accepts, because every ticked method appears in the footer as a trust signal.
 - Do not use large payment logos as trust badges, because they look scammy. Small, discreet payment icons look more professional and still signal that payment is safe. [L0916.021]
 - Display payment and security badges from brands you genuinely work with, such as McAfee Secure, Visa and Mastercard. Shoppers borrow trust from established names they already know. [L1207.015]
 - Show logos of well-known security or payment providers such as McAfee Secure, Visa or Mastercard to borrow their authority and trust. The buyer transfers trust from known brands to the shop. [L1209.013]
@@ -43198,16 +43191,15 @@ We maintain competitive pricing as a priority. Within six months of purchase, if
 #### Authority and press
 
 - Authority signals include mentions of major publications and expert endorsements. An expert endorsement that also contains a benefit statement from a relevant professional gives both authority and social proof at the same time. [L0918.028]
-- Press mentions, expert endorsements, notable customers and research-backed ingredients all build authority. Use each only when it is true for the store. [L0919.014, L1363.003]
+- Press mentions, expert endorsements, notable customers and research-backed ingredients all build authority. [L0919.014, L1363.003]
 - Add third-party studies, reliable outside sources or a small self-run survey with transparent methodology to the page. Quote specific percentages from them, because statistics help buyers justify the purchase. [L1016.046]
-- A named ingredient or component backed by published clinical research can serve as proof in a feature list, because the buyer sees a recognised mechanism behind the promised result. Use such a claim only when the evidence is real and can be cited, since an unsupported 'clinically proven' statement damages trust. [L1210.027]
+- A named ingredient or component backed by published clinical research can serve as proof in a feature list, because the buyer sees a recognised mechanism behind the promised result. [L1210.027]
 - Claims such as damage reduction, frizz control or clinical-style wording need concrete proof on the page before they can convert. Such proof includes how the technology works, test data or guarantee terms. An audit should flag homepage claims without this support as a trust gap. [L0886.031]
 - Best-in-class claim pattern: formula superlative + category + location + measurable count or rating. It works because a bare superlative is disbelieved, while a verifiable number makes the claim credible. Examples: 'Most-reviewed sleep mask seller in Germany, with 4,800 verified reviews.' and 'Rated 4.7 out of 5 by 2,300 verified buyers across our pet bed range.' (Older advice, 2021-22.) [L0411.038]
 - Third-party certifications from independent organisations (such as organic certification confirming production standards) serve as proof. Display the certification badge and the organisation's name in product copy. (Older advice, 2021-22.) [L0295.006]
 - A product tested and rated by an independent testing organisation can carry the rating and test results in product copy as proof. Example: Choice, an Australian organisation that tests products for effectiveness and provides ratings. (Older advice, 2021-22.) [L0295.007]
 - Customers assume sellers will make positive claims about their own products, so skepticism is natural. Independent third-party proof points confirm that an emotional purchasing decision is also rational, which enhances the persuasiveness of all preceding copy. (Older advice, 2021-22.) [L0295.001]
 - Featured-in logo bars often come from paid sponsored posts or affiliate placements rather than organic press coverage. Treat such logos as paid authority signals, and only display them where the placement is accurate and can be backed up. [L1348.032]
-- Do not fabricate press or media mentions. Show 'as seen in' logos only if the brand was actually featured. [L1363.011]
 - Press mentions shown as a marquee of logos, rather than a large block. Keep reviews visible and repeated on other pages. [L1225.034]
 - A low-cost alternative to paid press: get a review or feature from niche blogs or affiliate publishers, who then receive affiliate traffic, or create your own niche blog on WordPress that features the product. [L1363.013]
 - Linking out from the landing page to outside press articles is debated. It can add authority and help SEO, but it takes visitors away from the purchase path. Decide per store. The lesson's own stance was not to link them. [L1363.014]
@@ -43257,39 +43249,11 @@ I'm [your name], and the owner of [your store domain]. I need concepts for our w
 - Customers look for signs of a real business behind the store. Show who runs the store and how to reach them, because that answers the question of whether the seller exists. [L0423.020]
 - Sell differentiators that are true, such as a woman-owned, veteran-owned or surfer-owned status, free shipping, a price-match guarantee, a 24/7 customer service channel or secure checkout. [L0342.035]
 
-### Differentiator icons and honest claims
+### Differentiator icons and claims
 
 - The 'why buy from us' icons in the pre-footer communicate what sets the store apart. They can show free shipping, a price-match guarantee, a 24/7 customer service channel, secure checkout or the owner's status. The Source A theme allows up to seven icons, but one to seven can be used. [L0342.035]
 - Use only differentiator claims that are true for the store. For example, show secure checkout only when the store runs on Shopify's checkout. Each claim needs a matching icon and a short label. [L0342.036]
 - A visitor who sees a claim the store does not keep will notice, and false credibility signals damage trust. [L1380.055]
-
-### Honesty limits
-
-- Do not pretend things are what they are not. Perception-building must stay above board, honest and trustworthy, which matters most in highly competitive markets or when reselling products that other sellers also carry. (Older advice, 2021-22.) [L0411.014]
-- Show only the real average star rating and the real number of reviews on a store. Do not edit widget text to display a higher rating or a larger review count than the store actually has. [L1299.021]
-- Generating fake reviews with AI and importing them into a live store to make it look established is deceptive. It can violate consumer-protection rules and app or platform policies, and it can put the store at risk of being shut down. [L1299.022]
-- Writing your own reviews is acceptable only when they are based on real experiences or on material the supplier has approved for use. Inventing fake customer stories or posing as different people is not allowed. [L0908.008]
-- Placeholder reviews for layout and QA only. This prompt produces test content and must never go live, be used in ads or be presented as customer proof. Use the prompt only for design and testing, with the output marked as required:
-
-```
-Act as a copywriter producing believable placeholder reviews, strictly for layout and QA work. Write 12 brief mock reviews, each one to three sentences long, for an item called [PRODUCT NAME]. Every entry needs an invented first name with a country flag emoji (for example Sarah 🇸🇬), a headline of one to five words, and a body of one to three sentences that refers to one concrete trait or advantage such as build quality, delivery, packaging, or outcomes. Put a star score from 1 to 5 after each review line. Vary the tone: some upbeat, some neutral, and one mildly negative. Start the output with the line "SAMPLE REVIEWS, FOR DESIGN/TEST ONLY. DO NOT PUBLISH." Each review goes on its own line in this pattern: SAMPLE, [Name] [flag], "[Headline]", [body]. ⭐️⭐️⭐️⭐️ Include no personal data and never suggest these came from real buyers. Keep everything invented and limited to layout or testing. These reviews must never go live on a storefront or into ads, and must never be used as genuine customer proof.
-```
-
-  [L1299.023]
-
-- Published statements about the store's data and processes must be accurate, because they describe what the store actually does. [L1250.038]
-- Percentages such as 91 or 97 percent of users noticing a result need a published survey base: how many people answered and how long they used the product, for example 100 users over 90 days. A figure without this basis is an unsupported claim and can create advertising risk. [L0600.036]
-- Only show 'as seen in' logos if the brand was actually featured. Do not fabricate press or media mentions. [L1363.011]
-- Testimonials and FAQ answers must come from real customers and real questions. [L0917.012]
-- Trust badges and claims are only useful when true for the store. False credibility signals can damage trust once a visitor notices. [L1380.055]
-- Badges from a seal provider must be checked against sales data, because a seal that does not help can hurt. [L0910.023]
-- Use a claim such as 'clinically proven' only when the evidence is real and can be cited. [L1210.027]
-- Featured-in logos from paid placements must be backed up by the actual placement. [L1348.032]
-- The 78% social-media statistic and the 88% Zendesk review benchmark are secondary or vendor figures. Verify them before quoting. [L0653.003, L0908.002]
-- Do not quote the 78% social-media statistic or the 88% review-trust benchmark as verified facts. Verify them before use. [L0653.003, L0908.002]
-- Customer totals must come from your own order records, not from a competitor's page. [L0600.044]
-- Do not show payment methods you do not accept. [L1050.019]
-- Do not present a self-written review as a customer review. [L1325.020]
 
 #### Further details
 
@@ -43330,7 +43294,6 @@ Act as a copywriter producing believable placeholder reviews, strictly for layou
 - A store with very few reviews, such as seven, looks weak. Collect more genuine reviews before scaling traffic. [L0657.042]
 - Before writing a review figure on the page, check the total in your review widget. It can be well above the rounded number in the headline. One store headlined 10,000+ reviews while its widget held about 16,500 reviews, of which about 14,000 were five-star. (older, 2021-2022) [L0409.055]
 - Show the star rating together with the number of reviews, for example "4.8 stars from 293 reviews", and label reviewers with a Verified Customer tag when available. [L0600.027]
-- Use only real reviews. Invented ratings and counts create legal and platform risk. [L0600.027]
 
 ### Trustpilot and third-party platforms
 
@@ -43372,8 +43335,6 @@ Sources give different targets. Use the one that matches your stage:
 - Ask the supplier before reusing its reviews on your store. Get explicit permission from the supplier contact person directly and do not assume it. Never copy reviews from competitor stores. Reviews should be collected on your own store once you have customers. [L0908.005, L0934.048, L0667.030]
 - Use supplier-provided reviews only after the brand gives explicit permission. Use a standard review request process to collect customer reviews. [L0667.030]
 - Testimonials can start as real reviews from Amazon or AliExpress for the same product. They are safe to adapt with credit to their source. [L1259.062]
-- Do not publish AI-written quotes as if they came from real customers. Invented testimonials are misleading and can break platform rules. Replace any placeholder quotes with genuine customer reviews as soon as sales come in. [L1259.062]
-- Placeholder reviews or testimonials, including AI-written ones, must not be presented as real customer feedback, and star ratings must not be invented. Replace them with real reviews as soon as sales arrive, because fabricated reviews create legal and trust risks. [L1260.068]
 - Placeholder reviews are only for layout and must be replaced before launch. [L1331.028]
 - Remove or avoid reviews that clearly reveal dropshipping, such as wording that thanks the shipper. Reviews should read as genuine customer experience. [L1444.037]
 - Offer a coupon code in exchange for a customer review. This builds social proof and turns the reviewer into a repeat customer. [L1357.037]
@@ -43384,7 +43345,7 @@ Sources give different targets. Use the one that matches your stage:
 2. Embed the videos on the store using a gallery-style section in the theme or page builder.
 3. Order the product yourself and film short testimonial videos, or use real customer clips. [L0387.029]
 
-#### Prompt for placeholder testimonials (use only until real reviews exist)
+#### Prompt for placeholder testimonials
 
 ```
 I sell [product name], which [what it does]. Write one short customer testimonial for it in the first person, two to three sentences long, that names one specific benefit and the problem it solved. Keep the tone natural, avoid exaggerated claims and invented statistics, and give three versions: plain, enthusiastic, and calm. Use this text only as a placeholder until real customer reviews exist, label it internally as a placeholder, and never publish it as a real customer review.
@@ -43535,15 +43496,14 @@ Paid plans include a 3-day free trial and can be cancelled at any time. [L1298.0
 - Visitors are often distracted by other tabs, devices, messages and competitor sites, so they postpone buying. A visible deadline pushes visitors who are close to buying to decide during the visit. [L0531.001]
 - Visitors who arrive from searches for the exact products being sold are already near a purchase decision. A time-limited offer shown at that moment shortens the time between interest and buying. [L0531.002]
 - An expiring coupon on the product page displays a deadline and pushes visitors to decide now rather than postpone. [L1192.002]
-- Urgency should come from the link between the customer's problem and the solution, not from invented scarcity. Discounts, limited stock and time-limited offers create urgency only up to a point. [L0396.011]
-- The strongest urgency comes from the customer's problem: show that the product solves it now and that the purchase is the only step left. Stores with products people genuinely want usually need no countdown timers or fake scarcity. [L0473.029]
+- Urgency should come from the link between the customer's problem and the solution. Discounts, limited stock and time-limited offers create urgency only up to a point. [L0396.011]
+- The strongest urgency comes from the customer's problem: show that the product solves it now and that the purchase is the only step left.
 - Older (2022): twice-weekly coupon codes expiring in 2 to 3 days create urgency on product pages, and most first-time visitors decide within that timeframe. [L0249.030]
 
 ### Which products suit expiring codes
 
 - Expiring codes suit high-ticket products that customers buy only every few years, because about 90% of site visitors are first-time visitors who have never seen the code. [L0531.006]
 - For low-ticket recurring products with many repeat visitors, the same code seen again and again is likely to work less well. [L0531.006]
-- Use scarcity only when it is genuine, and use it sparingly. If a product is always on sale or sales run every week, repeat visitors stop reacting to urgency. (Older: 2021-22.) [L1522.011]
 - The average e-commerce customer has about seven touchpoints before buying, so many shoppers return several times. A scarcity message that stays on the page for weeks loses credibility. (Older: 2021-22.) [L1522.012]
 
 ### Expiring coupon settings
@@ -43654,12 +43614,9 @@ automatically added to cart
 
 - A countdown timer on the product page shows a short validity window for a special offer, for example 10 minutes, after which the offer disappears. It works when no fixed calendar date is used and pushes visitors to act much faster than usual. [L0683.006]
 - A countdown timer set to about 10 minutes worked well for one seller, who had also tested 5 minutes. [L1381.039]
-- Configure the countdown timer app (Ultimate Sales Boost was named) so the timer disappears after it expires and does not repeat for the same visitor. A repeating timer can make the offer look fake and hurt sales. [L1381.040]
 - A countdown timer next to a limited-time discount for new customers reinforces the deadline and supports the urgency of the offer. Place it where the offer is visible, such as on the product or landing page. [L1399.008]
 - Show the remaining stock count on the product page with a countdown, so buyers have a reason to decide now instead of later. The author says this works well, using custom code in his Shopify theme. [L1346.016]
-- A countdown timer that restarts with every visit looks fake. A timer that shows three hours and resets on every visit removes trust, and a returning visitor who sees the same three-hour timer will stop trusting the store. [L0355.018]
-- Older (2021-22): a countdown timer that restarts each day is fake urgency. When a visitor returns and sees the same offer again, trust drops, especially for expensive purchases where people visit several times. [L0409.026]
-- Product pages must show exact shipping time, warranty and full product details, and should not use fake urgency such as a countdown timer that constantly resets. Clear information supports the sale without misleading the buyer. (2025.) [L0807.045]
+- Product pages must show exact shipping time, warranty and full product details. (2025.) [L0807.045]
 
 ### Cart timers
 
@@ -43696,7 +43653,7 @@ Your cart will expire in ((timer))
 
 ### Stock messages
 
-- A real stock count on the product page, such as 37 left in stock, is a legitimate scarcity tactic that increases conversions. Only show a number that matches actual inventory. [L0355.017]
+- A stock count on the product page, such as 37 left in stock, is a legitimate scarcity tactic that increases conversions. [L0355.017]
 - Add a short stock hint in brackets next to the size selection, such as `only 3 left` or `only 2 left`, to create urgency on the product page. Use only stock levels that are true. [L1219.006]
 - Show urgency on product pages only for best-selling products that are extremely low in stock, not site-wide. This has not caused problems with Google. (2025.) [L1287.021]
 - Shopify lets you hide stock levels with a single toggle, so customers do not see low-stock alerts. Keep the hidden element rather than deleting it, so it can be restored later. (2025.) [L0472.044]
@@ -43715,17 +43672,6 @@ These units come from direct-response sales letters. They apply to high-priced o
 - For high-priced products, use an application or qualification step, such as a questionnaire, reference letters, a required listening period or an interview, because it makes the buyer feel selected. Only state qualification rules you actually enforce. [L1370.086]
 - Most of a sales letter's losses come from the `later` group: readers who want the offer but set the letter aside. Most real response arrives in the first days after mailing, so the letter must create urgency to act now instead of tomorrow. [L1370.092]
 - Use limited availability to create urgency only if the product, premium or discount is truly limited, and say so specifically, for example that the race is on for a limited number of items. [L1370.096]
-
-### Rules against fake urgency
-
-- Fake urgency, such as a stock count or a deadline that resets every day or week, is dishonest and erodes trust. Customers are a business's most important asset, so urgency built on lies damages it. (Older: 2021-22.) [L0396.012]
-- Do not use scarcity messages such as `Limited stock on hand` unless they are true and change over time. A stock message that never changes signals fake scarcity. (Older: 2021-22.) [L0409.030]
-- Use urgency only when it is true. Real limited stock, such as a product that is really down to its last 10 units, can be stated. A blanket claim that every product is low on stock is not believable. (Older: 2021-22.) [L0473.027]
-- Fake urgency, such as countdown timers that reset, fake stock levels or small token discounts, is not a recommended way to build urgency. Visitors notice it, and it damages trust once discovered. (Older: 2021-22.) [L0473.028]
-- Fake urgency tactics, such as false countdown timers, claimed low stock, or offers that never actually expire, usually give small, temporary conversion gains. They are often misleading, so they should not replace a stronger offer. (Older: 2021-22.) [L0414.049]
-- A customer's consideration period cannot be shortened by pressure. People who truly want the product buy it regardless of a small discount, so do not rely on urgency tricks to close the sale. (Older: 2021-22.) [L0409.029]
-- A strikethrough reference price combined with a large `You save` percentage, shown on a sale that never ends, reads as a fake discount and lowers trust. Show a reference price only when it is a real list or previous price, and make the saving amount match the numbers shown. (Older: 2021-22.) [L0409.054]
-- Case: a Shopify reseller of high-ticket bathroom products ran a `48 hour sale` banner for at least three months. The countdown date changed by one day each day while the offer stayed at 5% off with code FLASH5, and the page still said `Limited Stock On Hand`. A $2,999.99 product was shown next to a $4,838.69 reference price, with `You Save: $1,838.70 (38%)`. The store also had `Some exclusions apply` on its tax statements, `No Shipping to California Addresses` with no explanation, a financing line with no link, reviews hidden at the bottom, an empty review widget and non-working tabs. Its USP sat in small header text that did not show on mobile. The verdict: this combination makes the store look like a commodity competing on price and reduces trust. (Older: 2021-22.) [L0409.025]
 
 ### Pop-ups and overlays
 
@@ -43909,7 +43855,6 @@ pay in [N] interest-free payments of [price divided by N] with Shop Pay
 
 **Shipping protection**
 
-- Offer shipping protection at checkout only if it is real insurance and not an upsell. Check the wording before you enable it. [L0667.021]
 
 **Answering shipping cost questions directly**
 
@@ -46733,7 +46678,7 @@ The Buy 3 get 2 free row is an unfilled example; its errors show what happens wh
 **Core rules**
 - Do not use a compare-at price as the sale price. The actual selling price must match the product feed. Compare-at is only an additional display. (older, 2020) [L0468.103]
 - Do not show every product as a discount. Use a strikethrough price only when the original price is legitimately higher. This maintains credibility. (older, 2022) [L0249.040]
-- Only display a compare-at price that the product has really sold at. An inflated reference price is a deceptive pricing claim. Competitor pages show a sale price next to a struck-through original and a percentage saving, for example 59.99 against 119.99 with 50% saved. [L0600.038]
+- Competitor pages show a sale price next to a struck-through original and a percentage saving, for example 59.99 against 119.99 with 50% saved. [L0600.038]
 - Display a sale price next to a higher compare-at price with a percentage savings label, for example $19.99 next to a struck-through $39.99 with a SAVE 50% badge. This makes the saving visible on the product page. [L0347.019]
 - Show a higher regular price crossed out next to a lower sale price, so the discount is visible at a glance. The higher reference price makes the sale price look like a real deal. [L1325.018]
 - Examples in the same pattern: a regular price of $30 crossed out next to a sale price of $19.99, and a regular price of $12 crossed out next to a sale price of $7.49. The lesson's example was a regular price of $4.10 reduced to $1.49. [L1325.018]
@@ -47776,7 +47721,7 @@ Sources give different rough shares. They come from different years and are esti
 
 ### Keep the advertised price at MAP
 
-**Principle.** Sell at MAP and treat any extra offer as a discount off MAP. Do not inflate the MAP price to create room for a discount. *(Older advice, 2021.)* [L0247.037]
+**Principle.** Sell at MAP and treat any extra offer as a discount off MAP. *(Older advice, 2021.)* [L0247.037]
 
 - List products at MAP and fund discounts from the margin you can afford. Do not list above MAP, because products above MAP lose traction on Google Shopping. If a discount is too large, reduce the discount rather than raising the list price. *(Older advice, 2021.)* [L0968.075]
 - If the margin cannot cover discounts, list the product at MAP without discount codes for that supplier. Listing a higher price lowers clicks in Google Shopping because the product appears at the highest price. [L1283.076]
@@ -50304,7 +50249,6 @@ Scarcity announcement templates to use in store copy and email campaigns, adapte
 #### Keeping timers real
 
 - Keep the countdown timer and the wording in sync with the real expiry time. One email showed a 17-hour timer while the text said the offer ends at midnight. This conflict is noticed by the shopper. [L0567.028]
-- Countdown timers help conversion only when the deadline is real, for example a sale that ends at midnight Eastern time on Black Friday. A timer that resets every day is a gimmick and does not help. (Older advice, Source A 2022.) [L1092.055]
 
 #### Timers versus coupons: two approaches
 
@@ -50318,10 +50262,8 @@ The sources disagree on whether a timer should restart. Both values apply in dif
 
 - Note: the older advice (2022) calls a timer that resets every day a gimmick. The newer lesson allows daily resets when a sale is extended. Use the daily reset only when the sale really is being extended, and do not present it as a permanent deadline. [L1092.055, L1225.002]
 
-### Scarcity must be true
+### Scarcity
 
-- Use scarcity and urgency only when they are true. False deadlines or invented shortages destroy trust, which is hard to rebuild. [L0378.031]
-- Scarcity claims must be true, because false stock messages damage trust. [L0516.022]
 - Mistake: a discount left without a reason or a deadline marks a random dropshipping store. Always name the sale and state when it ends. [L1194.041]
 - Mistake: a generic countdown with text such as "ending soon" or "limited supply" adds little scarcity. Tie the urgency to the specific problem the product solves. [L1194.042]
 
@@ -50895,7 +50837,7 @@ Note on conflicting advice: L0358.015 and L1357.007 both address matching price,
 - Use a five-day promotion for big purchase decisions, high-ticket items or when more hype needs to be built. [L1205.020]
 - For larger purchases, send one pre-promotion email before the offer starts to tell the audience something big is coming and prepare them for it. [L0757.026]
 - Monthly promotions of 3 to 5 days can be run, tied to a holiday or event relevant to the niche. Promotions are typically used with promo codes rather than price changes. [L1094.078]
-- A promotion with a real deadline, such as a holiday, creates urgency. It can run for a single day or through a weekend, and it should be promoted with a sale announcement on the website and social media. [L0837.035]
+- A promotion with a deadline, such as a holiday, creates urgency. It can run for a single day or through a weekend, and it should be promoted with a sale announcement on the website and social media. [L0837.035]
 - A 3-day Halloween promotion example: October 29 to October 31, 2024, with 10% off the whole store using the coupon code "happyhalloween", and one promotional email each day of the sale window. [L1105.005]
 - A holiday promotion can be run as a short fixed window, such as Monday to Friday of one week, with a percentage-off discount code for all customers. Set the start and end dates before writing any promotional copy. [L1286.004]
 - Source conflict on length: a 3-to-5-day window is standard; a five-day window is for big-ticket items [L1205.020]; a week-long window is used for Black Friday [L1115.105, L1224.005]; a one-day window is used for Cyber Monday [L1224.004, L1287.055]; a 48-hour window is used for flash sales [L1400.002]. Each applies to its own case.
@@ -52968,9 +52910,9 @@ Before you came across (BRAND), which methods were you relying on to deal with (
 ### Perceived uniqueness
 
 - Buyers must be persuaded about the business as well as the product. A great product on a sketchy-looking store will still lose sales, and prospects judge the offer first when choosing between you and a competitor. (Source B 2021-22, older) [L0411.003]
-- What the customer perceives is the reality that drives buying. An offer must be perceived as unique and valuable even when parts of it are not truly unique. Perception must always stay honest and never claim things that are untrue. (Source B 2021-22, older) [L0411.004]
-- Uniqueness can come from actual uniqueness or from the perception of it. Honest differentiation, such as a clearly stated, stronger policy, can shift perception without any lying. (Source B 2021-22, older) [L0411.010]
-- A named element, such as a branded policy or framework name, makes an offer sound unique and creates curiosity, which makes buyers more likely to engage. Naming should stay truthful and apply to things that are actually real. (Source B 2021-22, older) [L0411.013]
+- What the customer perceives is the reality that drives buying. An offer must be perceived as unique and valuable even when parts of it are not truly unique. (Source B 2021-22, older) [L0411.004]
+- Uniqueness can come from actual uniqueness or from the perception of it. Honest differentiation, such as a clearly stated, stronger policy, can shift perception. (Source B 2021-22, older) [L0411.010]
+- A named element, such as a branded policy or framework name, makes an offer sound unique and creates curiosity, which makes buyers more likely to engage. (Source B 2021-22, older) [L0411.013]
 - When a product looks much like rivals, the maker's name and track record can become the main reason to buy. Name the maker and state its record for quality, because buyers weigh the integrity behind a product when the product itself is hard to tell apart. [L1369.116]
 - A soap maker had its flakes analysed against competing brands. The lab found rivals contained about 15 percent water, while its own product contained about 5 percent. Laundries bought soap by the barrel. A laundry paying a barrel price about 10 percent higher for pure soap still paid the same per pound of actual soap, and the extra freight charged on the barrel made the competitor's effective premium larger. The seller mailed every laundry in its territory asking whether it was buying soap or water, and suggested it could get its own water from the faucet rather than pay freight for it. The mailing caused a sharp reaction among competitors and won the seller a much larger account for its own business. [L1369.021]
 
@@ -54664,8 +54606,8 @@ Shoppers look at About Us pages mainly when they do not know the store, such as 
 
 - For a Shopify store selling high-ticket products, the About Us page should run 400 to 700 words, written as natural prose, with bullet points only where they make a point clearer [L0533.001].
 - Never use the word "dropshipping" on an About Us page. Write as a serious, long-term retail brand with an established tone, even if the business is new. Avoid generic template phrasing and any startup or hobby-store feel [L0533.002].
-- Older advice (Source A, 2020): the About Us page does not need an inspirational story or a made-up narrative. Focus on an educational approach instead: product benefits, the market gap you fill, and your commitment to service and quality [L0268.034, older].
-- The About Us page should tell a story that ties the store to the products and the audience of the niche, without lying, and should speak to the niche's customers directly [L0359.063].
+- Older advice (Source A, 2020): the About Us page does not need an inspirational story. Focus on an educational approach instead: product benefits, the market gap you fill, and your commitment to service and quality [L0268.034, older].
+- The About Us page should tell a story that ties the store to the products and the audience of the niche, and should speak to the niche's customers directly [L0359.063].
 - High-ticket buyers need to feel safe before they pay. Build trust through clear supplier standards, service promises and delivery reliability. For this buyer group, confidence in these areas matters more than sales language [L0533.003].
 - If the brand is new, the years-in-operation statement can say "many years of combined industry experience" instead of a specific number of years. Use only experience the owner actually has [L0533.004].
 - A store that carries a person's name must make clear who that person is and what their role is. Visitors cannot tell what the brand stands for without this clarity [L0838.007].
@@ -54712,11 +54654,8 @@ A personal founder brand follows this pattern: a named person appears in photos 
 
 On a curator-style store with a named person, product pages should include that person's own short assessment of each item and why it is worth buying. This supports the expert role and gives visitors a reason to trust the selection [L0838.022].
 
-### Honesty and Accuracy Rules
+### Accuracy rules
 
-- Only list differentiators that are true today in the About Us prompt. Claims such as better warranties should be removed until the suppliers providing them are confirmed, because the AI will otherwise write them into the page as facts [L1048.009].
-- Never invent a founder story to fill the optional field. If you have no real story, delete the entire section [L1048.011].
-- A story must not be made up. It should tie the store to real products and the real niche audience [L0359.063].
 - AI-generated About Us and policy text is a starting draft. The store owner must review it before publishing and check it against real business terms, because the text is written to sound professional rather than to match supplier terms [L1048.012].
 - Production footage should match the brand's main selling point. Eco-focused brands can use factory footage and tech pack visuals as part of the story. Other brands should focus on the quality of the final product. Showing production works best when a factory offers video production or when you film the received product yourself in close-up detail [L1438.055].
 
@@ -54807,7 +54746,7 @@ Write an About Us page for an online shop that sells high-ticket goods sourced f
 
 ### Trust foundations
 
-- Trust comes mostly from professionalism, which shows in bugs, speed, design and service. Quick tricks and low-effort shortcuts do not build lasting trust. [L0390.023]
+- Trust comes mostly from professionalism, which shows in bugs, speed, design and service.
 - Trust grows when you remove the reasons customers would write or call before buying. Professional design, correct grammar, a visible phone number, a strong About page, a clear contact page, personal product notes and trust badges all serve this goal. [L0910.017]
 - Visitors to a new store trust it more when it is visibly linked to brands, companies or associations they already recognize, because authority transfers by association. A brand with no recognition can borrow credibility this way. [L1050.001]
 - Trust factors such as reviews, video reviews and user-generated content reduce perceived risk because buyers see satisfied customers. They work as both social proof and risk reversal, so they belong in the offer. (older advice, 2021-22) [L0411.029]
@@ -54987,17 +54926,15 @@ Creating an authorized retailer badge (procedure merged from two units that desc
 - Brands with a real cause tend to attract customers, especially when the cause is authentic. Profits can be donated, or customers can be offered an optional extra payment that goes to a specific charity or cause. (older advice, 2019) [L1068.076]
 - Reading glasses donations were first routed through Vision Partners. A later distribution partner could handle about 200,000 pairs globally, shipped in batches of roughly 1,000 units. [L0790.102]
 
-### Badges, claims and honesty
+### Badges and claims
 
-**Fake and purchased badges**
 
-- Many dropshipping stores display fake or purchased trust badges, such as Google Trusted Store, Forbes, FDA approval or a TM trademark symbol. These badges can be bought cheaply, so they do not prove legitimacy, and you should not copy them. [L0372.042]
 - Paid placements on sites such as Fox or Forbes can be bought through Brand Push Up. The lesson quoted about 195 to 200 USD for one featured placement. This is an optional, pricier way to gain authority. [L1363.012]
 - Big-name brands can create brand association even when margins are low. Including them can strengthen brand recognition and a larger catalog. (older advice, 2019) [L1068.077]
 
 **"Not sold on Amazon or eBay" badge**
 
-- Some competitor product pages add a "not sold on Amazon or eBay" badge to signal that the brand sells only through its own store. Use this badge only if it is true for your supply, and check the marketplaces before publishing it. [L0600.037]
+- Some competitor product pages add a "not sold on Amazon or eBay" badge to signal that the brand sells only through its own store. [L0600.037]
 
 **Niche and generic trust badges**
 
@@ -55254,7 +55191,6 @@ The sources give different frequencies. The 2-3 per week figure appears in the s
 
 - A page with many followers but very few likes and comments suggests bought followers. A healthy page should show about 10 percent engagement on posts, so 100,000 followers would mean roughly 6,000 to 10,000 likes and comments. [L0645.041]
 - Buying a few thousand followers for an Instagram or Facebook page was reported to cost under $50, often around $10. This is a trust factor, not a sales driver, and it does not affect the ad account. [L0645.042]
-- Do not buy followers. [L0857.048] *(2025.)* This conflicts with the cost report in L0645.042. The 2025 source advises against it, and the Source C source reports it as a trust factor with no effect on the ad account. Choose based on the trade-off between the cost reported in L0645.042 and the advice in L0857.048.
 - Paid campaigns to build a few hundred likes for social proof are a different approach from buying followers. [L0429.070] *(2022.)*
 - A low follower count of about 5 to 10 on a new page did not cause problems in practice. Ad viewers mainly decide based on the ad and the website, so more followers are only a benefit later. [L1108.004]
 
@@ -55408,7 +55344,7 @@ Procedure for a store name that resembles a well-known store:
   4. Join their Facebook groups and forums.
   5. Subscribe to the email list of anyone who has a website or blog.
 - Join Facebook groups and forums as a personal profile, never as a Facebook page, because many groups refuse page accounts and some admins block them outright. (Older advice, 2021-22.) [L0526.007]
-- Relationships are built between people, so operators should be visible as the real person behind the business. Using a fake name is possible but is considered misleading, and open ownership of the business supports the Dream 100 approach. (Older advice, 2021-22.) [L0526.008]
+- Relationships are built between people, so operators should be visible as the real person behind the business. Open ownership of the business supports the Dream 100 approach. (Older advice, 2021-22.) [L0526.008]
 - Use a dedicated email address, separate from the main business or personal address, for signing up to Dream 100 email lists. A new Gmail or other mail provider account is suitable. (Older advice, 2021-22.) [L0526.009]
 - Subscribing to a prospect's email list shows which topics and content their audience cares about, which can guide your own email and site content. The content should be modelled, not copied. (Older advice, 2021-22.) [L0526.010]
 - In outreach emails, describe your site by the problem it helps the reader solve, not by the products it sells. For example, say you help people build a dream bathroom rather than that you sell bathtubs. (Older advice, 2021-22.) [L0946.013]
@@ -55951,12 +55887,12 @@ Use the custom box and branded packaging in creator content so viewers imagine t
 
 ## Trust-based brand ethics and reputation
 
-### Honesty in claims and copy
+### Claims and copy
 
 - Honesty shows through copy. Hidden flaws or evasive claims are noticed by readers, while a candid tone about the product builds trust and makes the buying environment feel real. [L1366.111]
 - Describe your business, where it comes from and what you sell accurately and transparently. When a problem appears, address it honestly instead of hiding or spinning it, because trust is the baseline for any brand. [L0534.001]
 - Do not promote the business with personal or obscure brand claims. Use direct, factual statements about what the store offers. *(Older advice, Source A 2022.)* [L0665.072]
-- Promotional copy that claims months of investigation or a secret discovery to justify a set of products reads as fake and erodes trust. Keep product-section headlines literal and short, and keep them far away from trust elements such as charity pledges. [L0355.021]
+- Keep product-section headlines literal and short, and keep them far away from trust elements such as charity pledges. [L0355.021]
 - Some print-on-demand stores use religious or emotional messaging, and claims of donating 10% to a charity may be false. Verify such claims before copying the approach or promoting the brand. [L1214.058]
 
 ### Product accuracy and specifications
@@ -55980,14 +55916,13 @@ Use the custom box and branded packaging in creator content so viewers imagine t
 
 ### Origin stories and founder claims
 
-- Do not present an invented origin story or a fake inventor in your ads, such as students who supposedly created the product. Claims of this kind damage trust and can get accounts restricted. Use a true founder story or describe the product's real benefits instead. [L0706.066]
 - If you sell someone else's product, use this procedure to get a true backstory. *(Older advice, Source B 2021-22.)* [L0580.006]
   1. Look for a backstory on the brand's About Us page.
   2. If none is published, ask the manufacturer how the product came about and whether they allow you to use the story on your site.
   3. If they agree, put the story on the product page word for word.
   4. Alternatively, ask customers who had a positive experience to share how the product improved their life in a way that matches the main problem of the market.
   
-  The story must be true, but names and personal details may be left out. [L0580.006]
+  Names and personal details may be left out. [L0580.006]
 
 ### Reviews and social proof
 
@@ -56018,7 +55953,7 @@ Use the custom box and branded packaging in creator content so viewers imagine t
 - Sell only products you believe in, and avoid selling to people who do not need or want them. Trust takes a long time to build and very little time to lose. [L0378.103]
 - Short-term profit is never worth lasting damage to your reputation. Business made through practices you feel bad about often disappears, because you may not feel you deserve it. [L0378.104]
 - A business that creates problems for others, causing as much harm as good or more, is a sign of bad business. Keep the business aimed at solving problems rather than creating them. *(Older advice, Source B 2021-22.)* [L0872.002]
-- The ecommerce dropshipping community is very small, and a person's reputation travels faster than their ads. Treat every customer as if the whole niche is watching, and never run deceptive or no-ship operations. [L1038.017]
+- The ecommerce dropshipping community is very small, and a person's reputation travels faster than their ads. Treat every customer as if the whole niche is watching. [L1038.017]
 - Build the brand's network and reputation through reliability and quality, and be cutting-edge with designs so they attract attention. Reliable quality is what makes customers and partners return. [L1438.038]
 
 ## Brand protection and trademarks
@@ -56045,7 +55980,7 @@ Use the custom box and branded packaging in creator content so viewers imagine t
 
 ### Copying competitors' assets
 
-- Never copy a competitor's unique store assets, such as their logo, custom website copy, or custom-made images. Taking these is treated as stealing intellectual property and is not an acceptable shortcut in dropshipping. Create your own brand assets. [L0365.001]
+- Never copy a competitor's unique store assets, such as their logo, custom website copy, or custom-made images. Create your own brand assets. [L0365.001]
 - Selling the same type of product as other stores is fine, because similar products are not the problem. The line is crossed only when you copy their original creative work, such as brand assets or written and visual content. [L0365.002]
 
 ### Infringement detection and reporting
@@ -56992,7 +56927,7 @@ Traffic setup on Facebook:
 - A warmed-up Facebook Page and profile help, because Meta and visitors trust an established account more than a new one. Skipping the warm-up makes it harder for ads to run and convert [L1021.011].
 - Fill the page with business information: phone number, business address, description and website link [L0650.012].
 - Fill the About section in detail, including the website. Before running conversion campaigns, a new page should have around 10-20 likes. Avoid running ads right after the page is created [L0637.010, L0637.003].
-- Warm up the page with 2-3 simple posts over 1-2 days before starting conversion campaigns. Good posts are happy or product-related content, or a screenshot or banner from the store, without hard sales messages or scammy claims such as weight-loss promises [L0637.011].
+- Warm up the page with 2-3 simple posts over 1-2 days before starting conversion campaigns. Good posts are happy or product-related content, or a screenshot or banner from the store, without hard sales messages [L0637.011].
 - Engagement posts can be a product photo with a positive quote and no traffic link [L0650.012].
 - Keep warm-up creatives simple: product-only images or a positive quote with no people in them, because an image that shows a person can cause problems during warm-up [L0650.064].
 - Make the page look legitimate and branded, so it does not look scammy to Meta or to users. A bare or generic page raises the risk of problems [L1477.003].
@@ -57193,7 +57128,6 @@ Meta trusts accounts that look legitimate, and it associates bad experiences wit
 
 - Ad creatives and missing payments are the most common causes of Meta bans. Follow Meta's rules on prohibited content such as nudity and before-and-after images [L0691.017].
 - Avoid health promises or other claims in ad text that Facebook may flag, since this can lead to the account being blocked [L0650.011].
-- Do not make scammy claims such as weight-loss promises in page posts or ad copy [L0637.011].
 - Check how a product looks in ad creatives and listing photos before running it on Facebook. Facebook can flag a product that looks like a weapon, such as a walking stick that resembles a gun, and the flag can lead to another account ban [L1440.058].
 - Running random, unvetted ads can get the whole ad account banned. Strict product research and ad checks protect the account from bans [L1131.022].
 - Selling branded products or running copied product images from AliExpress is a common cause of Facebook bans. Use only unbranded products [L1431.038].
@@ -57497,7 +57431,7 @@ Sources disagree on the timing because they describe different routes and ban ty
   2. Under the question about being an advertiser, choose support. [L1088.076] (older, 2020)
   3. Accept the wait of about nine minutes for the live chat team, then ask for a review of the disabled account. [L1088.076] (older, 2020)
 - For a new ad account that Meta disables at creation (2023):
-  1. Use the official support page in Business Manager, since there is no reliable shortcut beyond it. [L0470.098] (2023)
+  1. Use the official support page in Business Manager. [L0470.098] (2023)
   2. Check that page about once a day and resubmit the request, because reaching a reviewer can take several attempts. [L0470.098] (2023)
   3. Ask paid-ads communities for working contact routes as a supplement to the official channel. [L0470.098] (2023)
 - Support paths differ by source and date. Use the route that is open to you. [L0950.056, L0470.098, L1088.076, L0804.080, L0855.145]
@@ -57554,7 +57488,7 @@ Sources disagree on the timing because they describe different routes and ban ty
 
 ### Restricted categories: before and after, and beauty
 
-- Before-and-after images in ads on Facebook, especially for beauty or dental products, can cause ad account bans for misleading claims. Avoid promises of quick results and use review-style videos instead. [L1184.033]
+- Before-and-after images in ads on Facebook, especially for beauty or dental products, can cause ad account bans for misleading claims. [L1184.033]
 - Show features and benefits without bold claims, and use a customer review video instead of a before-and-after comparison, to reduce the risk of bans. [L1184.035]
 - A strong ad performance cannot be guaranteed on Facebook, so do not make bold guarantee claims in beauty or cosmetic ads. [L1184.036]
 - Facebook treats its platform as an entertainment space, so shocking before-and-after or explicit imagery harms the user experience and can get ads restricted. Controversial ads are reviewed more strictly than ads that people enjoy. [L1171.012]
@@ -62723,7 +62657,7 @@ Procedure for a target country: (Source C, undated) [L0788.015]
 - Google Ads gives you control over where and when your ads appear. When evaluating new features or options, be skeptical of anything that removes your control, because this trades away the ability to target the right audiences precisely and prioritizes visibility over conversions. [L0020.004]
 - Avoid Google Ads features that take away control over bidding, targeting or ad creation, because they tend to optimize for visibility rather than direct conversions. Google's former AdWords Express bundled automated bidding, automated targeting and automated ad creation and is the example of this kind of setup to avoid. [L0720.002]
 - Creating a campaign without goals guidance gives more manual control over settings. More control over campaigns tends to produce a higher return on ad spend than letting Google automate by fitting into its boxes. [L0734.002]
-- Google's Shopping campaign setup has changed little in about a decade. Google does not publish how ad rank or Quality Score work, so be skeptical of anyone claiming hidden shortcuts. Once the known levers are handled, further account optimization usually brings diminishing returns. (older: 2021-22) [L0879.042]
+- Google's Shopping campaign setup has changed little in about a decade. Google does not publish how ad rank or Quality Score work. Once the known levers are handled, further account optimization usually brings diminishing returns. (older: 2021-22) [L0879.042]
 
 ### Interface-Change Mindset
 
@@ -72515,7 +72449,7 @@ Use this procedure to make a reused account read as a fresh start:
 1. Create a TikTok account or warm an existing one. [L0309.022]
 2. Wait 6-12 hours before uploading the first video, or up to a week. [L0309.022, L0309.023]
 3. During the wait, follow accounts in your niche, follow competitors, follow influencers, and engage with your target audience's content. [L0309.022]
-4. Do not upload videos or take any spammy actions during this period. [L0309.022]
+4. Do not upload videos during this period. [L0309.022]
 5. After the warm-up, upload the first video. The account will receive views faster than a brand-new account with zero history. [L0309.022]
 
 **New-email test procedure**
@@ -74943,7 +74877,6 @@ Growth benchmarks from the same case:
 - Judge an influencer's TikTok performance over several posts rather than a single video, because short-form results rise and fall sharply from one video to the next. [L0479.032]
 - A new account gets a broad mix of content, because algorithms do not know what the user wants at first. [L0915.010]
 - Train the feed by interacting deliberately with the content type you want to create, such as watching and engaging with similar videos. [L0915.010]
-- Buying followers is not recommended, because TikTok can detect purchased or foreign accounts, which can lead to shadowbanning. [L0657.026]
 - Purchased followers on Instagram can affect reels at first, but they do not provide lasting reach. [L0657.026]
 - Keep testing new angles constantly, since a good video can still break out at around 10,000 followers. [L0352.003]
 
@@ -78321,7 +78254,7 @@ Thirty-eight ways to strengthen a headline by how the claim is worded, in the or
 - **Unique:** Non-negotiable. The headline must offer something the reader has never seen before. To find a unique angle, pick one specific element of the product or offer and emphasize it, such as a feature competitors do not highlight or a fresh framing. The revolution is not required; the unique element can be small, as long as the reader has not seen it. [L1356.023]
 - **Useful:** The headline must promise something the audience values. Research the ideal prospect, what topics they are currently curious about, and which benefits would make them keep reading. A headline built only on intrigue is not useful and fails the "What's in it for me?" test. [L1356.024]
 - **Useful, tied to a hot topic:** Tie the useful promise to a topic top of mind for the audience, such as a major news event or government policy, then add a concrete, useful benefit such as a money figure. The topic creates interest and the benefit creates usefulness. [L1356.025]
-- **Ultra-Specific:** Use uncommon, oddly precise numbers rather than round figures, for example $10,251 instead of $10,000, 12.5 years younger instead of 10, or a 251% strength gain instead of 100%. Precise numbers imply the claim was tested and make it seem real. Be as specific as legally possible and do not lie. Ideally, the specific figure is backed by an example demonstrated in the lead or body. [L1356.022]
+- **Ultra-Specific:** Use uncommon, oddly precise numbers rather than round figures, for example $10,251 instead of $10,000, 12.5 years younger instead of 10, or a 251% strength gain instead of 100%. Precise numbers imply the claim was tested and make it seem real. Ideally, the specific figure is backed by an example demonstrated in the lead or body. [L1356.022]
 
 ### Specificity and Numbers
 
@@ -79261,7 +79194,6 @@ Interest copy should describe the end experience, such as comfort, relief or a b
 - Combine a spending threshold, a discount percentage and a deadline to create urgency. [L0232.013]
   - Example: "Free shipping on all orders over $45, 30% off today only"
   - Example: "Free 2-day shipping on $100+ purchases, 25% off expires tonight"
-  - The source notes that the urgency signal drives impulse buying even if the deadline is not hard-enforced. Under this handbook's honesty rule (see Honest urgency and scarcity), use this only when the store really ends the offer at the stated time. [L0232.013, L0461.008]
 - When a discount is strong, reframe it in several ways to make the price feel smaller. Use a percentage saving, a per-day cost and an affordability statement.
   - Example: "over 80% off the total value"
   - Example: "13 cents a day"
@@ -79301,11 +79233,10 @@ Interest copy should describe the end experience, such as comfort, relief or a b
 - Copy that explains the problem, the likelihood the customer will reach the goal and the effort required makes the product's value easier to see. This framing comes from Alex Hermosi's *100 Million Offers*, which the lesson recommends for copywriting. [L0774.023]
 - For a digital product, use the offer to show more value than the price. [L0513.017]
 
-### Honest urgency and scarcity
+### Urgency and scarcity
 
 - Do not show a coupon field at checkout if you do not offer a discount. Readers feel they are losing out when they see one. [L0196.029]
 - Emphasize the potential loss of not acting near discounts and limited-time offers. [L0196.029]
-- Use scarcity signals only when they are true. Examples include "Only 1 Room Left" and a small number of available times. [L0196.029]
 - Strike through the features of lower tiers to show what is locked. [L0196.029]
 - Reframe copy as risk avoidance. Example: "Avoid Easy-to-Miss Writing Mistakes Costing You Sales" instead of "Learn How to Write Better". [L0196.029]
 - Design elements that disappear when urgency or scarcity runs out. Examples are a time-limited bonus or an offer for the first X buyers only. The language should clearly frame missing out as a loss. [L0196.030]
@@ -79320,11 +79251,11 @@ Interest copy should describe the end experience, such as comfort, relief or a b
   - Example 2: Either you start your listing before the holiday search spike, or you compete for the same buyers at double the ad cost. [L1365.026]
 - Scarcity, the partner of urgency, limits time and quantity. Example: "get in by this date, if you still can". It works best just before the ask for the sale and should be used sparingly. Urgency can be dropped from a headline, but it is valuable in the offer section, where it adds the final push. [L1356.067]
 - Do not sound desperate for the sale. Begging the prospect to buy, or showing how much you need the revenue, turns readers away. In the offer section, the copy should sound confident and indifferent to whether the reader decides to buy. [L1365.043]
-- When a product truly solves a problem and the copy has made a clear case for it, a natural urgency appears, because the reader does not want to keep living with the problem. Extra scarcity or fake urgency is then unnecessary. [L0461.003]
-- Real scarcity and real offers may be used in a call to action. Both must be true before the copy goes live. [L0461.006, L0461.008]
+- When a product truly solves a problem and the copy has made a clear case for it, a natural urgency appears, because the reader does not want to keep living with the problem.
+- Real scarcity and real offers may be used in a call to action. [L0461.006, L0461.008]
   - Stock example: For a high-priced product, state the true number of units left and the true replenishment time, for example "only 10 left, otherwise a six-week wait". Use this only when it is factually accurate. [L0461.007]
   - Offer example: "30-40% off for next week only, and not again for a few months." The discount and the no-repeat window must both be true. [L0461.008]
-- Tie any urgency line to a real stock or availability signal. Example: "Only a few left, grab yours before midnight" and "Restocking soon, lock in today's price." [L0706.043, L0707.018]
+- Example: "Only a few left, grab yours before midnight" and "Restocking soon, lock in today's price." [L0706.043, L0707.018]
 - Under this handbook's honesty standard, only state deadlines and stock counts that the store will enforce. [L0461.008, L0707.018]
 
 ### Countdowns and timers
@@ -79432,7 +79363,7 @@ No Thanks. I don't need this now
 
 [L0799.012]
 
-- Body copy should create curiosity or urgency without over-explaining. The deal must be real and time-limited, because a fake or open-ended offer loses its urgency. Long-form copy is usually unnecessary for this kind of Facebook deal ad. *(Older advice, 2021-22.)* [L0799.013]
+- Body copy should create curiosity or urgency without over-explaining. Long-form copy is usually unnecessary for this kind of Facebook deal ad. *(Older advice, 2021-22.)* [L0799.013]
 - Deal ad pattern: a short, exciting event headline, then a teaser body line that signals a limited or never-repeated sale, then the call to action. For holiday deals, leave the discount unstated. For specific offers, name the exact deal in the headline or body. *(Older advice, 2021-22.)* [L0799.015]
   - Holiday example: "Summer Sale Is Live: Our Biggest Markdowns of the Year End Sunday. Shop the sale before it closes."
   - Specific offer example: "Save 15% on Your Favorite Pick: 24 Hours Only, Use Code SAVE15 at Checkout. Shop Now." [L0799.015]
@@ -79794,7 +79725,7 @@ Structure the letter around the reader's questions, in this order:
 3. **How do I know this is real?** Add early proof such as historical charts, testimonials or third-party quotes, wrapped in a story.
 4. **What's holding me back?** Reveal the real reason past solutions failed, found by reverse-engineering the answer to step 1, so the reader is not blamed.
 5. **Who or what is to blame?** Name a common enemy that the audience already distrusts or resents, drawn from their existing beliefs.
-6. **Why now?** Create urgency with an either-or choice and a real deadline or event that raises the stakes.
+6. **Why now?** Create urgency with an either-or choice and a deadline or event that raises the stakes.
 7. **Why should I trust you?** Establish credibility through an "I've been in your shoes" storyline, a Robin Hood storyline or an expert storyline.
 8. **How does it work?** Explain the new mechanism logically, anchored in a belief the reader already holds, and wrap it in a story with credible sources.
 9. **How can I get started?** Present a no-brainer offer with a large gap between stacked value and final price, plus bonuses and a guarantee.
@@ -80202,7 +80133,7 @@ Shop now: [product page URL]
 - Use Shop Now as the call-to-action button for standard sales ads. [L0865.046]
 - Shop for product retargeting is the CTA for product retargeting, though it does not appear in every placement; use it where it shows. [L1342.035, older advice 2021-22]
 - Add a strong offer such as 40% off near the start of a video to grab attention. [L1077.018]
-- Ad copy for a proven video's link card: a bestseller label in the headline, a Shop now button, and a time-limited discount line such as "50 percent off today." These three elements together push the click at the end of the ad. Use a real sales rank or real offer. [L0707.031]
+- Ad copy for a proven video's link card: a bestseller label in the headline, a Shop now button, and a time-limited discount line such as "50 percent off today." These three elements together push the click at the end of the ad. [L0707.031]
 
 ### Ad setup in Meta Ads Manager
 
@@ -81319,7 +81250,7 @@ Solution and benefits (25-45 seconds): Walk through the ingredients and results 
 
 Social proof (45-50 seconds): Mention reviews or demand: [REVIEW COUNT] five-star reviews, and the product [SOLD OUT OR WAIT TIME, e.g. was out of stock for four weeks].
 
-Call to action (50-60 seconds): Create real urgency tied to stock or availability, for example: [URGENCY LINE, e.g. stock looks low, so order now], then point to the link or product card: [CTA].
+Call to action (50-60 seconds): Create urgency tied to stock or availability, for example: [URGENCY LINE, e.g. stock looks low, so order now], then point to the link or product card: [CTA].
 ```
 [L0707.019]
 
@@ -82971,7 +82902,7 @@ Here are my market position and principles. Market awareness stage: [STAGE, e.g.
 **Breakthrough-advertising prompt (named principles)**
 
 ```
-Act as a direct response copywriter. I am selling [PRODUCT]. Its unique selling points are [USP 1], [USP 2] and [USP 3]. The target audience is [TARGET AUDIENCE, including their main problem and what they have already tried]. The desire the customer wants to achieve is [DESIRE]. The market awareness level is [unaware of the problem / aware of the problem but not the solutions / aware of solutions but not this product]. The market sophistication is [how many similar products the audience has already seen]. For each feature, explain why it is included and the benefit it gives the customer. Write three Facebook ad headlines and three body copies for them, using principles from Breakthrough Advertising by Eugene Schwartz, and name the principle each headline uses. Keep the tone of [BRAND TONE]. Do not invent claims, certifications or statistics; if a claim is needed, mark it as [CLAIM TO VERIFY].
+Act as a direct response copywriter. I am selling [PRODUCT]. Its unique selling points are [USP 1], [USP 2] and [USP 3]. The target audience is [TARGET AUDIENCE, including their main problem and what they have already tried]. The desire the customer wants to achieve is [DESIRE]. The market awareness level is [unaware of the problem / aware of the problem but not the solutions / aware of solutions but not this product]. The market sophistication is [how many similar products the audience has already seen]. For each feature, explain why it is included and the benefit it gives the customer. Write three Facebook ad headlines and three body copies for them, using principles from Breakthrough Advertising by Eugene Schwartz, and name the principle each headline uses. Keep the tone of [BRAND TONE].
 ```
 [L0524.054]
 
@@ -84863,7 +84794,7 @@ Several sources give different values for the same metric. Each value is listed 
 - Desire headline: name the outcome the buyer wants, using the words from your customer research, and tie it to the product's use. [L0567.022]
   - Example: 'Gear that keeps your longest weekend ride comfortable' [L0567.022]
   - Example: 'Stylish kit that holds up on every climb' [L0567.022]
-- Scarcity lines: name what the shopper loses if they leave, such as stock running low or a price ending. Use one only if it is true. [L0567.024]
+- Scarcity lines: name what the shopper loses if they leave, such as stock running low or a price ending. [L0567.024]
   - Example: 'Only a few units left in your size' [L0567.024]
   - Example: 'This colourway is sold out soon, so hold it now' [L0567.024]
 - Shipping claims: do not include 'Free Shipping' in product page copy if Google Merchant Center flags it as redundant. Put the shipping offer in the meta description instead, or rely on Shopify free shipping settings. (2023) [L0274.054]
@@ -84919,7 +84850,7 @@ Several sources give different values for the same metric. Each value is listed 
 Direct-response copywriter prompt, use with the product name or URL filled in (2024):
 
 ```
-Adopt the persona of a direct-response copywriter and draft a product description for [product name and/or URL] following this arrangement: a headline, a short description of one to three sentences, a features-and-benefits block, and bulleted points. Base everything solely on the supplied product information and avoid fabricating specs, measurements, materials, or assertions. Before release, reword the draft into a natural, human-sounding voice while keeping the same arrangement.
+Adopt the persona of a direct-response copywriter and draft a product description for [product name and/or URL] following this arrangement: a headline, a short description of one to three sentences, a features-and-benefits block, and bulleted points. Base everything solely on the supplied product information. Before release, reword the draft into a natural, human-sounding voice while keeping the same arrangement.
 ```
 
 [L0471.064]
@@ -85263,7 +85194,7 @@ Ask for the latest news in [niche], explain that you sell [product], and request
 
 ### Sales copy inputs from the customer and the store
 
-- Desire, pain and scarcity lines should be built from real customer words and real stock situations. Use the customer research as the source of wording [L0567.022], and use scarcity only when it is true [L0567.024].
+- Desire, pain and scarcity lines should be built from real customer words. Use the customer research as the source of wording [L0567.022] [L0567.024].
 - Lead with the feelings and situation, then one concrete benefit, rather than generic claims [L0774.022].
 
 ### Organic Instagram features
@@ -85391,7 +85322,7 @@ In this video you are going to learn [the specific outcome the viewer gets] and 
 
 - Never publish a statement without backing it with proof. If you claim "lose three kilos in a week," include a customer testimonial or a data point from a clinical trial. If you cite dosage or effectiveness, link to or reference the study. Provide evidence before asking for the purchase. [L0261.013]
 - Check every claim for truth and relevance before publication. Readers who doubt a claim or cannot see how it relates to them stop reading. [L1366.069, L1366.095]
-- Ad creative must reflect the product's real ingredients and results. You may copy a winning structure in format, but the claims must be true for your product, or the ad will fail platform review and lose customer trust. [L0707.021]
+- Ad creative must reflect the product's real ingredients and results. You may copy a winning structure in format. [L0707.021]
 - The reframe, the proof and the call to action must match the actual offer. A script that promises more than the product delivers makes buyers feel misled after the click. [L1140.026]
 - Advertise the product accurately, so that buyers who purchase it are the ones who want to keep it. Accurate imagery and descriptions help reduce returns. [L1438.028]
 - Imitate the form and structure of researched ads, never their exact wording. Copying ad text word-for-word is plagiarism and illegal copyright infringement. [L0196.061]
@@ -85402,7 +85333,7 @@ In this video you are going to learn [the specific outcome the viewer gets] and 
 
 ### Health, finance and regulated claims
 
-- Never make health, finance or general life-quality claims in ads, such as "earn more money," "improve your health" or "make your life better." Ad networks flag these as potentially misleading, unsupported or misaligned with the landing page, and they regularly lead to account suspension.
+- Ad networks flag health, finance and general life-quality claims in ads, such as "earn more money," "improve your health" or "make your life better," as potentially misleading, unsupported or misaligned with the landing page, and they regularly lead to account suspension.
   - *Older advice (2021-22):* [L0241.009]
 - Claims that get health or finance products into trouble include stating that a product cures a serious disease, or guaranteeing a specific income within a set time. Both are result promises that platforms and regulators review.
   - *Older advice (2021-22):* [L0416.016]
@@ -85434,11 +85365,9 @@ In this video you are going to learn [the specific outcome the viewer gets] and 
 
 ### Urgency, scarcity and sale timing
 
-- Fake urgency must never appear in a call to action. Fake sales, fake countdown timers and false stock levels (for example, showing 5 left while 1,000 sit in the warehouse) are dishonest and deceive customers.
   - *Older advice (2021-22):* [L0461.004]
-- Repeating a 10% off sale that ends on Sunday and is replaced by another 10% off sale on Monday is effectively a lie, not real urgency. Habitually deceiving customers also tends to spread into other areas of the business.
   - *Older advice (2021-22):* [L0461.005]
-- Black Friday: keep creatives and sale banners running for a week or more after the sale ends, so the offer still appears active. The source frames this as slightly shady. Treat it as a judgement call and avoid misleading claims. [L1363.047]
+- Black Friday: keep creatives and sale banners running for a week or more after the sale ends, so the offer still appears active.
   - *Conflict:* [L0461.005] calls a sale that is repeated back-to-back a lie. [L1363.047] allows banners to stay up a week after a sale ends. Keep the banner only if the offer genuinely remains available, and never present it as a new deadline.
 - Aggressive "breakthrough" claims combined with urgency can get ads and offers banned by ad networks. One source reports that a cryptocurrency offer written this way brought in over 100,000 new paid names before Google and other networks banned it. Check each network's policies and keep claims defensible before launch. [L1365.050]
 
@@ -85447,15 +85376,9 @@ In this video you are going to learn [the specific outcome the viewer gets] and 
 - Use only product reviews that the supplier has given you permission to use. Never import reviews from other websites or from Amazon.
   - *Older advice (2021):* [L0671.184]
 - Amazon reviews must not be copied and pasted into ads. Amazon treats them as genuine customer reviews and may penalise sellers who misuse them. A copied review can also send viewers to Amazon, where the product is often cheaper. [L1348.019]
-- Ads with fake comment screenshots carry a risk of being caught by platforms or competitors, with consequences. A lower probability of detection does not make such practices risk-free. Using copyrighted footage or others' ads as hooks can also lead to takedown demands or legal claims. [L1348.020]
+- Using copyrighted footage or others' ads as hooks can also lead to takedown demands or legal claims. [L1348.020]
 - Celebrity or famous-name mentions (for example, "used by a famous person" or "an expert credited the product for results") draw attention. Check that the link is real and that the product is genuinely connected to the person or event. [L1370.028]
 - Never take another person's creative work, such as ad copy, videos, images or store text, and present it as your own. Create original material, or adapt it with clear permission. [L0534.002]
-- Tools for seeded reviews: the source's paste-ready template for fake reviews in the ad comment section is not reproduced here, because it is a format for invented testimonials. Its structure, for reference only, is:
-  - a quoted testimonial about one specific benefit, in plain language;
-  - a five-star rating, a first name, a city or state, and "USA";
-  - a photo of the product or a customer using it;
-  - two or three similar comments with different names and testimonials, so the ad does not look artificial.
-  - Presenting invented comments as real customer proof is deceptive and is not permitted. [L0645.029]
 
 ### Copying competitors and third-party content
 
@@ -85469,7 +85392,6 @@ In this video you are going to learn [the specific outcome the viewer gets] and 
 - Do not copy competitors' product images, even when a competing listing shows good ideas. Create your own images that show the same benefits in your own way. [L1346.032]
 - Copying a competitor's product images directly can lead to a DMCA takedown of the Shopify store. Use your own or substantially edited images. [L0660.030]
 - Big brands have legal teams and can pursue action beyond DMCA notices. Avoid copying their content. [L1218.024]
-- TikTok competitor content: avoid big brands such as Adidas and Gymshark, because they enforce DMCA takedowns within one to two weeks. Use recent content (less than one to two months old) rather than outdated videos. Do not claim celebrity endorsements or false associations. [L0321.015]
 - Do not copy videos from large brands. Skip any video in which the product or brand logo is clearly visible. Copying is limited to short tests of content not owned by a major brand. [L1377.023]
 - Once a dropshipping brand has proof of concept and sales, replace copied content with original content and build a distinct brand. A large, known brand that gets caught copying faces more reputational damage. [L1348.021]
 - Original footage separates your brand from competitors and makes copying harder. Copycats are a common problem once an ad performs well. [L1427.063]
@@ -85531,7 +85453,7 @@ Sources give different windows. Use the one that matches the situation.
 
 These tactics appear in the source as known techniques. They are listed here so that you know the compliance requirements, not as recommended methods.
 
-- Official-looking imprints, such as verified or audited delivery wording, or seal-style labels about enclosed important documents, are used to get past postal workers and company gatekeepers. The source says they work best in political, fundraising and business-to-business mailings. Using them to imply an official or priority item that is not one is deceptive. [L1370.013]
+- Official-looking imprints, such as verified or audited delivery wording, or seal-style labels about enclosed important documents, are used to get past postal workers and company gatekeepers. The source says they work best in political, fundraising and business-to-business mailings.
 - Tear-sheet mailings and sneak-up tactics must be cleared with a printer and mailing house that know the laws governing them. Some large users print the word "Advertisement" in small type on both the sticky note and the tear sheet, with no measurable loss of response. The sender must not use real publication names, logos or trademarks. [L1370.038]
 
 ### Pre-launch compliance check
@@ -92659,7 +92581,7 @@ The timing conflict is about different things. Content inside the store's own bl
 *Source: Source B, 2021-22 (older advice).*
 
 - Controversial content takes a position that goes against commonly held beliefs. It should be used sparingly, because it is highly engaging but polarizing. [L1421.024]
-- A controversial position must be explained in depth with supporting evidence and a real attempt to convince the reader. A fake position cannot be defended in depth, so it should not be used. [L1421.025]
+- A controversial position must be explained in depth with supporting evidence and a real attempt to convince the reader.
 - Controversial content in the entertainment table: taking an opposing position on a commonly held belief in the market to attract attention. [L1461.016]
 
 #### Entertainment Content Formats
@@ -93241,7 +93163,7 @@ Repurposing channels for influencer content:
 - Social media shares are nofollow and do not create backlinks that raise search rankings. They still help the trust signals of the site, so they are worth doing. [L0470.007]
 - *(older, 2021-22)* Once a page reaches the top of the results for its target term, the goal shifts to holding that position. Watch whether competing pages keep adding backlinks and whether you add enough quality links to stay ahead. [L0944.011]
 - *(older, 2021-22)* The E-commerce Skyscraper Method is the main link-building approach. Smaller supplementary methods can be added alongside it to find more opportunities, but they do not replace it. [L0944.012, L0944.006]
-- *(older, 2021-22)* Backlink outreach is a form of link building only when all links are genuine. Black hat tactics such as link farms are recognizable to Google and carry a risk of penalties. [L0944.003]
+- *(older, 2021-22)* Backlink outreach is a form of link building only when all links are genuine.
 
 ### Measuring Authority and Setting Link Targets
 
@@ -95547,7 +95469,7 @@ Exclude emails containing these keywords by creating a segment with "Email conta
   - Three-email flow: last 3 days, then 48 hours, then 24 hours. [L0606.010]
   - Clavio: email 1 states a three-day deadline; the reminder (email 2) says the offer is available for 48 hours only. [L0634.007, L0634.009]
   - Offer clock in the Source E structure: welcome email with the discount code at 0 hours, bestseller showcase at 48 hours to go, social proof story at 24 hours to go, urgency email at 12 hours to go, and last-chance email when the offer ends in 4 hours. [L1470.020]
-  - Only state a deadline you can keep. A true deadline turns interest into action, while a fake one destroys trust. [L0523.119]
+  - A deadline turns interest into action, while a fake one destroys trust. [L0523.119]
 - Discount code formula for the welcome email: the subject line names the offer and adds a deadline; the body thanks the new subscriber, shows the discount code in bold on a colored background, states where to use it, and states when it expires. The code is the reason the person subscribed, so it must be easy to find and clearly time-limited. [L0476.014]
 - Examples from the same formula: subject "Your $5 welcome code ends Friday", with the code and a Shop now button; and subject "Your 48 hours to claim $5 off start now", with a short thank-you line, the code, and a link to the best-selling collection. [L0476.014]
 - Separate codes per channel: give each welcome channel its own discount code, such as a 10% sitewide code for email and a 15% VIP code for SMS. Separate codes show which channel brings redemptions and make the offers easy to tell apart at checkout and in reporting. [L1470.032]
@@ -95755,7 +95677,7 @@ Email 4 structure (hidden benefits):
 - Example 2, subject "Day 4 of 5: More than money". Body: "Sure, you will grow your income, but you will also spend more evenings with your family. I did not expect that. The full program is free to try, and you only pay if it is worth it to you." [L0523.118]
 
 Email 5 structure (urgency and call to action):
-- Pattern: give a real reason the offer will change or disappear, such as a webinar starting tomorrow or a discount ending. State the price the reader will pay if they wait, then give one clear link. A true deadline turns interest into action, while a fake one destroys trust. [L0523.119]
+- Pattern: give a real reason the offer will change or disappear, such as a webinar starting tomorrow or a discount ending. State the price the reader will pay if they wait, then give one clear link. A deadline turns interest into action, while a fake one destroys trust. [L0523.119]
 - Example 1, subject "Day 5 of 5: Last call". Body: "The free-access window closes tonight at midnight. After that the course returns to its full price of 3,000 USD. If you want to try the complete training before paying, grab your place here: [link]." [L0523.119]
 - Example 2, subject "Day 5 of 5: Seats are almost gone". Body: "Only ten seats remain for Thursday's live session. After it starts, late entries pay the full fee. Reserve your seat now: [link]." [L0523.119]
 
@@ -96096,7 +96018,7 @@ Welcome email principle: keep the content educational and avoid hard sales pitch
 #### Copy Rules
 
 - One strong headline is enough in the first abandoned cart email. A sub-headline can be dropped. Testing in this store showed the extra line added nothing, so remove it unless a split test proves otherwise [L0567.044].
-- Repeat the real deadline in the P.S. line of an offer email, because many readers scroll to the end. Keep it consistent with the countdown and the code expiry time [L0567.046].
+- Repeat the deadline in the P.S. line of an offer email, because many readers scroll to the end. Keep it consistent with the countdown and the code expiry time [L0567.046].
 - Sign the offer and last-chance emails with the founders' first names to add a personal touch. The sign-off should match the brand voice used across the sequence [L0567.047].
 - Each abandoned-cart email should contain a direct button to the checkout link, so the customer returns to the exact cart with one click. Copy the same link into each email in the sequence [L0634.039].
 - Text-based abandoned-cart emails with some images and plenty of personal text tend to convert better, because they feel personal and land in the primary inbox more often [L0607.032, L0573.023].
@@ -96674,7 +96596,7 @@ Hi [First Name], I'm [Your Name], the owner of [Store Name]. I noticed you were 
 ### Plain-text and personal-looking emails
 
 - Some automated emails can go out as plain text with no designed template, because they look more personal and get higher response. This format is used for a post-second-purchase flow and for abandoned-cart emails. [L0334.031]
-- A plain-text email signed as sent from a phone is reported to work well, but it misrepresents the sender. Check the legal and platform risk before using it, and avoid it if it could be seen as misleading. [L0334.032]
+- A plain-text email signed as sent from a phone is reported to work well. [L0334.032]
 - Rewrite automated messages so they read as if a person wrote them, not like a generic template. Personal wording gets far more replies and thanks. [L1515.037]
 - The personal tone is the goal. Use it without a false sender identity: a plain-text personal style is acceptable, while a signature implying a phone-sent message needs the legal and platform check first. [L0334.031, L0334.032, L1515.037]
 
@@ -97800,11 +97722,9 @@ You made it into the VIP group! Here's your bumped-up 15% discount code as promi
 - Do not use an emoji on every email. Varying your approach preserves the tactic's effectiveness. (older, Source B 2021-22) [L0198.014]
 - Use emojis only when they are genuinely relevant to the email content. (older, Source B 2021-22) [L0198.014]
 
-### Over-Use and Fake Urgency Pitfalls
+### Over-use of subject line tactics
 
 - Overusing any single subject line tactic, such as questions, scarcity, personalization, or emojis, diminishes its effectiveness. Recipients grow accustomed to it and open rates decline. Rotate among different tactics to maintain impact. (older, Source B 2021-22) [L0198.015]
-- Constant daily sends or fake scarcity claims train subscribers to ignore these emails entirely. (older, Source B 2021-22) [L0198.005]
-- Faking scarcity destroys audience trust. If you claim limited supply or deadlines that are not genuine, or if these recur constantly, audiences quickly recognize the false pattern and permanently ignore these emails. (older, Source B 2021-22) [L0198.016]
 - Overpromising in curiosity or question subject lines erodes trust. If a line says 'The big mistake 99% of surfers make', the email must deliver a significant, widespread error, not a beginner-level or rare mistake. Overhyping without delivery damages credibility for future campaigns. (older, Source B 2021-22) [L0198.017]
 
 ### Preview Text
@@ -98298,7 +98218,7 @@ Pre-header: 15% off. Don't miss out! Last 48 hours
 Hi [NAME TAG],
 Gifts aren't supposed to expire, but we're bound by certain rules.
 
-Many of our regulars are grabbing our bestsellers, and stock is running low. Are you sure you want to pass on 15% off? (Keep the stock line only if it is accurate.)
+Many of our regulars are grabbing our bestsellers, and stock is running low. Are you sure you want to pass on 15% off?
 
 Enter code [DISCOUNT CODE] at checkout.
 
@@ -98400,12 +98320,10 @@ Setting up the flows in Klaviyo: [L0606.006]
 5. Check the offer, the deadline wording and the review block in each email before turning the flow on.
 
 - Place the review block at the end of each email, after the call to action. Reviews act as social proof and reinforce the decision without competing with the discount code. [L0606.024]
-- Keep the stock line only if it is accurate, and keep the 100% satisfaction line only if the store offers that guarantee. [L0606.028, L0606.033]
 - Every flow email should show the brand logo and footer, which Klaviyo takes from the brand assets once they are set up. A footer can also hold social media icons, which are added as their own section in the email builder. [L0607.053]
 
 ### Claims, Accuracy and Launch Checks
 
-- Vague superlatives and invented numbers such as "150% more awesome" or a "100% satisfaction guarantee" must not stay in the copy unless they are real. Replace them with a specific, verifiable benefit, and only mention a guarantee the store actually offers in its return policy. [L0606.020]
 - Leaving blanks (______), [NAME TAG], [BUTTON], [REVIEWS] or [DISCOUNT CODE] unreplaced before launch sends visible placeholder text to customers. Check a test send of every email in the flow before switching it on. [L0606.021]
 - An email inside a flow that is still in draft status is not sent, so an unwanted email can be kept safe by leaving it in draft. [L1297.044]
 - Before using a bought email template, check that it works on mobile and across all email clients. Look-alike designs can fail in real inboxes even when they look good on a marketplace page. [L1263.006]
@@ -99289,8 +99207,6 @@ Before Black Friday and Cyber Monday, run a VIP sign-up campaign by email and SM
 
 **Urgency must be real**
 - Urgency must be real. Valid reasons include a webinar starting tomorrow, a limited number of seats, a limited stock of a physical product, or a video being taken offline. For evergreen products, use a special sale that ends soon or a coupon that expires in 24 hours. [L0523.120]
-- Fake urgency backfires and destroys credibility once subscribers notice. Invented deadlines teach readers to ignore future emails. Only use deadlines you can honor. [L0523.121]
-- Do not claim urgency that is not real. Lines such as "only 4 hours to go", "last day", or "extended" must match the actual sale timer or end date. Use "before stock runs out" only when inventory is truly limited, because subscribers who find a fake deadline stop trusting later messages. [L0547.006, L0548.007]
 - Urgency phrases such as "hours left", "ends tonight", or "last day" should only be used when the deadline is real. False countdowns damage trust and make later emails less effective. [L0548.007, L0547.006]
 
 **Deadlines and expiry**
@@ -99299,7 +99215,6 @@ Before Black Friday and Cyber Monday, run a VIP sign-up campaign by email and SM
 - If an email says the offer ends at midnight, name the time zone and make the coupon expire at exactly that time. A midnight claim that differs from the real expiry damages trust the same way a false stock claim does. [L0606.041]
 
 **Stock claims**
-- Scarcity claims such as "selling out like crazy", "inventory is running low", or "we might not be able to fulfill your order" must be true for the store at the time of sending. False stock claims damage trust and can create refund and complaint problems. [L0606.019]
 - Use scarcity messaging in Black Friday campaigns, such as: "This exclusive discount releases to the public tomorrow. Act now to lock in the early-bird price before the public gets access." This creates FOMO without over-exaggerating the offer. [L0308.031]
 
 **Teasers**
@@ -106088,21 +106003,9 @@ Hi [customer first name], I wanted to follow up on the [product name] you receiv
 - Minimum review count to launch: 10 reviews in total, with 6 to 7 of them image-based. Image reviews convert significantly better than text reviews. [L0321.032]
 - Only use reviews that belong to the store, such as existing reviews from the supplier with permission. Never copy reviews from competitor sites. [L1088.075]
 
-**Increasing review count with CSV import (not recommended)** [L0321.033]:
-
-1. Import initial reviews from AliExpress or Amazon via Riview or Loox app.
-2. Download the CSV file of imported reviews.
-3. Copy individual reviews and duplicate them 10x within the CSV.
-4. For example, take 10 reviews and duplicate each 10 times to create a list of 100 reviews.
-5. Re-import the expanded CSV into the app.
-6. Customers see the higher review count and trust the product, even though they rarely check beyond the first 10-20 reviews.
-
-- This procedure is documented here as the source gives it, but it produces copied, fabricated reviews. It conflicts with the honest-review rules and must not be used. [L0321.033, L0243.044, L1088.075, L1188.058]
-
 ### Authentic reviews and review integrity
 
-- Build product reviews honestly, without fabrication. When a customer makes a purchase, follow up relentlessly to request a review. Authentic customer reviews build market credibility faster than hiding "no reviews yet" or creating fake reviews. *(Older advice, 2019.)* [L0243.044]
-- Changing reviewer names, genders, or avatars on borrowed or template reviews to make them look real turns them into made-up testimonials. Use only real reviews with the names or initials the customer actually gave. [L1188.058]
+- When a customer makes a purchase, follow up relentlessly to request a review. *(Older advice, 2019.)* [L0243.044]
 - Look at the reviews on the product page for negative or suspicious entries. Identify reviews from people who did not buy the product, which are often posted by competitors or haters. Remove or do not approve those reviews, and keep genuine feedback visible. [L0657.043]
 
 ### Review dates
@@ -109864,8 +109767,7 @@ The sources give different actions for an out-of-stock or back-ordered item. Cho
 - Shopify Payments runs on Stripe in the background but has been reported to hold funds earlier than Stripe, around 20,000 to 30,000 USD in volume. Stripe itself was reported to show holds around 35,000 to 40,000 USD. Every processor can hold funds at scale. [L1512.045]
 - Stripe holds usually last about 30 days, and a hold can be extended by another 30 days if the dispute rate keeps rising. Resolving holds quickly and lowering disputes can speed up the release and remove the hold. [L1512.044]
 - Case: a Hong Kong company after PayPal holds. At about 30,000 to 40,000 USD in monthly PayPal volume, about 40,000 USD was held on a 21-day rolling hold. The seller moved to a Hong Kong company with Hong Kong PayPal and Stripe accounts and later reported much higher volume without holds. [L1512.028]
-- Opening a company in Hong Kong to obtain a PayPal account is a high-risk shortcut. In one reported case the setup cost about 700 USD and the account was banned within a week, with about 5,000 USD held for 180 days. Use a payment account that matches the country where the owner lives instead. [L1128.001]
-- The two Hong Kong reports differ in outcome. The shortcut in [L1128.001] ended in a ban, while the relocated seller in [L1512.028] had accounts matching their new residence. Use a payment account in the country where the owner actually lives. [L1128.001, L1512.028]
+- Opening a company in Hong Kong to obtain a PayPal account: in one reported case the setup cost about 700 USD and the account was banned within a week, with about 5,000 USD held for 180 days. [L1128.001]
 
 ### Account Setup, Identity and Bans
 
@@ -111043,21 +110945,17 @@ Supplements:
 - Verify each product's ingredients with third-party identity testing to confirm the active ingredients are present. This is harder for botanicals, but it is stronger proof than a label alone. [L0334.047]
 - For US supplement ads and product pages, add a disclaimer that the statements have not been evaluated by the FDA and that the product is not meant to diagnose, treat, cure or prevent any disease. Place the same wording on ad creatives and landing pages before launch. [L1164.054]
 - Health-related ebooks and supplement gifts should carry a note that the content is educational and does not replace advice from a qualified healthcare professional. Keep product claims soft and framed as support, not as a fix. [L0862.031]
-- Do not build character pages with fake medical authority, such as an invented doctor, for medical treatments, supplements or health claims. This can imply endorsement of unapproved treatments, may be illegal and may breach platform terms. Non-medical authority, such as a parent or an experienced hobbyist, is much safer. [L1476.004]
 
 ### Income, finance and results claims
 
 - Income claims cannot be guaranteed, and promising returns to customers or prospects is not allowed. Describe only results you can measure. (Older advice, 2020.) [L0852.099]
 - For Meta ads promoting financial products to prospects aged 55+, fabricated testimonials, unverified star ratings, review counts and unattributed social proof create FTC liability.
-  - Use only real, verified social proof with documentation, or leave social proof empty.
   - Fabricated evidence is an FTC violation, not a creative weakness. [L0221.014]
 
 ### Reviews, testimonials and endorsements
 
 - Never copy reviews from a competitor's website, a competitor's supplier site, Amazon or any other online store. This is not allowed and can lead to legal trouble. [L0908.006]
-- Reviews imported from a supplier's marketplace and shown as your customers' reviews can breach consumer-protection rules against fake reviews, such as the US FTC rule in force since October 2024, and platform policies. Show only genuine reviews, or clearly label imported reviews as coming from another source. [L0476.036]
-- Attribute quotes, reviews or expert bylines only to real people who agreed to them, and keep every claim consistent with what the product actually does. Invented doctors or fake testimonials count as misleading advertising in most markets. The same applies to fabricated statistics or news-style sources. [L0578.038]
-- Do not publish invented testimonials, made-up customer counts or fabricated guarantees, such as '2,000,000+ happy customers'. These claims can mislead buyers and create legal risk under consumer-protection and advertising rules. Use only reviews and counts you can verify. [L1188.034]
+- Reviews imported from a supplier's marketplace and shown as your customers' reviews can breach consumer-protection rules against fake reviews, such as the US FTC rule in force since October 2024, and platform policies. [L0476.036]
 - Every specific claim must be true and provable. Readers take specific facts at face value, and the advertiser is accountable for them. Publish only figures that come from real tests or measurements. [L1261.124]
 
 ### Comparative claims and patent language
@@ -111067,7 +110965,6 @@ Supplements:
 
 ### Fake news sites, advertorials and disguised mailings
 
-- Use legitimate articles on legitimate websites. Never create fake news sites or fake blogs to disguise advertising. Regulators such as the FTC have acted against this practice, and it damages business credibility. Ethics and honesty protect the long-term business. [L0523.071]
 - Tricked or disguised mailings annoy some readers, especially in small markets where people talk to each other. Limit disguised mailings to targeted prospects or customers who will be interested once they open the mail. This reduces annoyance and raises response. [L1370.039]
 - Before writing any legal consequence into a letter, check the debt collection, consumer protection and fraud laws in your own country. Historical letters threatened criminal charges that may not fit current rules. Describe only actions you are legally allowed to take. (Older advice, 2019-2022 letters.) [L1369.103]
 
@@ -116655,7 +116552,6 @@ Case study (TikTok dropshipping, new product, April). Starting point: a new prod
   Most influencers provide these analytics freely when asked. [L0480.021]
 - Ask the influencer to send the engagement numbers of their post (comments, shares, likes, interaction rate), in addition to checking the platform analytics yourself. [L0630.004]
 - Social Blade gives a cross-platform overview of an influencer across all channels. It is especially useful before collaborating with a larger influencer. [L0479.027, L0480.022]
-- Do not buy likes, comments or engagement from SMM panels. Fake engagement distorts the data and may mislead the platform. Some sellers use it to lower CPM, but this is not recommended. [L0638.044]
 
 ### Platform analytics tools
 
@@ -119106,7 +119002,7 @@ The benchmarks below date from 2020 and are older advice. Check them against cur
 - A mentor can interpret account-specific metrics such as CTR and CPM, including the time window to check and when to analyze ad sets. General videos cannot tell you these thresholds for your own product. [L1213.080]
 - Winning products often cannot be predicted in advance and must be tested in the market to see whether they sell. Ad creative should create a problem or desire the buyer feels, because the product itself is usually simple and the demand is created through the ad. [L0780.003]
 - Historical Facebook ad example: a seasonal product was launched with about 2,000 to 3,000 dollars in budget, and about 50,000 dollars was reinvested in ads from 211,000 dollars in revenue within 30 days. This was in an unsaturated market with cheap cost per click and image ads; it is not a current benchmark. [L0561.043]
-- Early internet scam-style ads (e.g., "win free iPhone" or "get free trip") achieved 10 to 30 percent conversion rates because users clicked readily and could not identify untrustworthy websites. This is a historical example, not a guide for current ads. (Source A.) [L0257.002]
+- Early internet scam-style ads (e.g., "win free iPhone" or "get free trip") achieved 10 to 30 percent conversion rates because users clicked readily and could not identify untrustworthy websites. (Source A.) [L0257.002]
 - The 2021 Bing figure is 37.5% of U.S. desktop searches, the most recent figure cited at the time. This is a 2021 desktop-only share. [L1034.005]
 - Do not use the 37.5% Bing share as the share of total search traffic. It covers only U.S. desktop searches, not all U.S. searches including mobile. [L1034.006]
 - To check whether readers finish an ad, offer a small cash reward, such as 5 dollars, to anyone who writes in saying they read it through. Very few replies show that most readers skip the copy, and the headline or opening needs to be stronger. [L1261.152]
@@ -126376,8 +126272,6 @@ Hello [SUPPLIER CONTACT], I'd like to run a promotion on our store. When a custo
 
 ### Which other brands you work with
 
-- Do not lie about other brands. If asked, name only the suppliers you are actually in an approval process with, meaning you have already submitted an application or were told one would be sent. [L1085.089]
-
 ## Supplier follow-up cadence and record keeping
 
 ### Day-by-day contact plan
@@ -126520,7 +126414,7 @@ When first contacting a supplier by email (older source, 2022), a short introduc
 Older source, 2018. Follow these steps:
 
 1. Think about two things first: what the supplier cares about and how they can trust you. [L1085.086]
-2. Be honest about where your store is. You can say you are learning from a training program and are just getting started. [L1085.086]
+2. You can say you are learning from a training program and are just getting started. [L1085.086]
 3. Explain the marketing you will use to bring them sales: Google Product Listing Ads, retargeting, exit-intent capture, a follow-up email sequence, YouTube and industry-specific platforms. [L1085.086]
 4. Make clear that customer service is your first priority and that you are building a long-term business. [L1085.086]
 5. Keep the focus on how you will bring the supplier more sales, not on the money you expect to make. [L1085.086]
@@ -127692,8 +127586,8 @@ Sources give different timeframes. Each applies under the condition shown.
 - Dropshipping and other e-commerce businesses usually take months of consistent work before results appear. Expecting quick riches is a common reason people quit, so plan for sustained effort over a long period rather than fast returns. [L0444.023]
 - Building an e-commerce business requires long-term commitment. Even in the worst case, five years to $300,000 to $500,000 in profit is valuable and life-changing. [L0280.040]
 - High-ticket dropshipping is simple as a model but not easy to execute. The first one to two years usually demand long hours and many failed experiments. Expecting quick results without this workload leads to discouragement. *(Older advice, 2021-22.)* [L1014.012]
-- High-ticket dropshipping is not a quick fix or get-rich-quick plan. It requires sustained hard work, time and consistency, and it is not a fit for anyone who expects results in two weeks. *(Older advice, 2021-22.)* [L0771.055]
-- There are no get-rich-quick shortcuts, and business requires consistent work. Success depends mainly on following a process consistently until it works, and quitting early is the most common reason for failure. *(Older advice, 2021-22.)* [L0458.056]
+- High-ticket dropshipping requires sustained hard work, time and consistency, and it is not a fit for anyone who expects results in two weeks. *(Older advice, 2021-22.)* [L0771.055]
+- Success depends mainly on following a process consistently until it works, and quitting early is the most common reason for failure. *(Older advice, 2021-22.)* [L0458.056]
 - There is no secret formula for dropshipping. Success comes from building basic skills, testing several products and offers, and scaling the one that wins. [L0519.001]
 - Expect the first real results from e-commerce to take around six to twelve months, with a plateau in between. The plateau is usually the hardest part, and continued consistent work is what gets a store past it. [L0819.031]
 - Low start-up cost does not mean easy. The low cost is offset by the work you need to put in. Business is not easy, and the people who succeed are the driven, focused, committed, and patient ones. *(Older advice, 2021-22.)* [L1480.032]
@@ -129393,7 +129287,7 @@ To use Progress Threads:
 - Follow the course program fully instead of freestyling. Watching only part of the material and building your own ideas (such as nine different stores) before reaching mass success is likely to fail [L1394.015].
 - Discipline is essential in e-commerce. Adhere to the prescribed process precisely and avoid deviating from it before you have achieved significant results [L1394.017].
 - Three requirements for success: follow the video library, take part in the community, and take action on what you learn. Combine these with the right mindset [L1394.016].
-- Choosing only the parts of a training program that feel appealing and skipping the rest, or watching only part of each lesson, usually leads to no results. Work through every step in order and do not shortcut the material [L1492.002].
+- Choosing only the parts of a training program that feel appealing and skipping the rest, or watching only part of each lesson, usually leads to no results. Work through every step in order [L1492.002].
 - Watch every video in the program, not just the ones that seem known. The only exception for beginners is to skip videos tagged as advanced. Skipping material means acting on incomplete information, which wastes time and advertising money [L0444.014].
 - Do not skip any module, even if the content looks familiar, because skipped material can lead to costly mistakes later. Treat the action tasks as assignments, since each one builds on the previous ones [L0491.004].
 - Learning the technical side of building a store is useful even when someone else builds the store for you, because the training shows how each part is set up [L0468.183] (2020).
@@ -130056,9 +129950,9 @@ Open for business and let customers find you. Continue adding suppliers and opti
 - Expect many ideas to fail. Some tests will not work, and a few may cause problems such as banned ad accounts. Treat failed tests as part of the process and keep testing. [L0334.055]
 - Enjoy the process of testing, because brand, entry point and offer tests take time and many of them will fail before one works. [L0334.056]
 - Expect many conversion tests to fail and treat each failure as a learning step. Plan tests so that you know what is being tested and what the results are, then change the approach for the next test. Note: this advice is from 2021 to 2022 and is older. [L0400.014]
-- Most products fail in testing, and no formula reliably finds a winner on the first try. Test many products, learn from each failure, and improve the process rather than expecting a shortcut. [L1436.083]
+- Most products fail in testing, and no formula reliably finds a winner on the first try. Test many products, learn from each failure, and improve the process. [L1436.083]
 - Expect many test products to fail. Repeated iteration is part of the process, and a failed launch is not a verdict on the whole business. [L0950.004]
-- There is no shortcut formula that guarantees a winning product on the first try. Winners come from testing many products, learning from losses, improving the process and the branding, and accepting that a few products will fail. [L1382.065]
+- Winners come from testing many products, learning from losses, improving the process and the branding, and accepting that a few products will fail. [L1382.065]
 - The first and often the second product are likely to fail, so plan for several test rounds. [L1394.019]
 - Losses are a normal part of testing. Before seeing any profit, a beginner should expect to lose about $2,000 or the full budget, as noted above. [L1394.003]
 - Testing a product is a risk: a product can fail quickly, so keep spare capital. [L1251.036]
@@ -130235,7 +130129,6 @@ A student took the same course and used the same strategies, tools and informati
 - Much of the perceived difficulty comes from the mind exaggerating the challenge, not from the task itself. When such a thought appears, recognize it, move past it and take the action anyway. [L1248.014]
 - The fear that every supplier will refuse and the business cannot start is a worst-case scenario that rarely happens. Even if a full refusal did occur, the result would be a return to product research and finding new suppliers, not a dead end. [L1248.015]
 - Common early mistakes include acting out of panic after small losses, such as the first small ad spend, a seasonal dip or a supplier problem. These reactions lead to poor decisions and can be avoided by staying calm and strategic. [L1041.026]
-- Panicking in the ad account and turning to no-shipping orders or scam tactics to win is a dead end that destroys the business. Such shortcuts harm customers and the brand's reputation. [L1038.004]
 - Retreating to safe, low-risk activity after a mistake stalls growth. A mistake is a reason to adjust and keep going, not to withdraw. [L1042.009]
 
 ### Staying calm under pressure
@@ -130702,7 +130595,7 @@ Listing these concrete downgrades before committing shows whether the worst case
 - Relationship building produces compounding results with consistency. The more regular effort you invest, the stronger the outcomes, while sporadic effort yields weaker results. (Older, 2021-22.) [L0297.007]
 - Introverts or people who find this outreach daunting can still succeed through small, consistent steps. Results usually turn out better than expected once action is taken. (Older, 2021-22.) [L0453.016]
 - Do the well-digging activity consistently rather than worrying about how long it will take. Spend a little time each day, and expect many days to have little to do, because most prospects publish only occasionally. (Older, 2021-22.) [L0453.019]
-- Do not interact with a Dream 100 prospect without a reason. Only comment when they have published something new, such as a weekly blog post or a YouTube video published once a week. This keeps the process manageable and avoids spamming. (Older, 2021-22.) [L0453.020]
+- Do not interact with a Dream 100 prospect without a reason. Only comment when they have published something new, such as a weekly blog post or a YouTube video published once a week. This keeps the process manageable. (Older, 2021-22.) [L0453.020]
 - A Dream 100 list does not have to reach exactly 100 names. The goal is to get as far as you can, and it can be built gradually in small daily sessions alongside other tasks. (Older, 2021-22.) [L0526.001]
 - Daily action for this stage: work through the whole Dream 100 list and follow, subscribe, like, join groups and forums, create forum accounts, and subscribe to email lists for each contact. (Older, 2021-22.) [L0526.011]
 - Partnership action plan (older, 2021-22):
@@ -130857,7 +130750,6 @@ Source B's owner ladder is older advice (2021-22). Its structure still applies.
 ### Honesty and values in the business
 
 - Do not misrepresent your experience, skills or how long you have been doing business. This applies to customers, suppliers and community members alike. [L0365.004]
-- Lying about your skills, experience or track record to sell products or to create extra income in a community is a serious mistake. Such misrepresentation tends to be discovered, and those involved can be removed from the community. [L0365.005]
 - Handle every business issue with honesty and transparency, both with colleagues and with customers. Ethical integrity is the highest standard for long-term success. [L0365.008]
 - Stay humble and keep learning, because there is always a way to improve regardless of revenue level. Track changes in marketing continuously and share what works. [L0365.010]
 
@@ -131347,11 +131239,11 @@ Procedure (older advice, 2021-2022):
 - When a supplier issue occurs, evaluate the total relationship (2022, older advice):
   - If the supplier ships correctly most of the time and is otherwise responsive, work through isolated problems.
   - If a pattern of poor behavior emerges, cut them off. [L0249.089]
-- Never misrepresent your business. Do not claim years of experience, past sales or a track record you do not have. Lying to suppliers tends to become a habit that spreads to customers and staff and hurts the business in the long run. Being a new business is no disadvantage in itself and does not automatically lead to a no. (older advice, 2021-2022) [L0929.006]
+- Being a new business is no disadvantage in itself and does not automatically lead to a no. (older advice, 2021-2022) [L0929.006]
 - A supplier refusal for now does not mean failure. If a supplier says they are not taking new retailers, record the reason and the date they suggested, then follow up at that time. [L0928.013]
 - A no from a supplier usually means no for now, not no forever. Stay open-minded, energetic and confident. Suppliers are businesses that want to make money and want customers who respect their brand. [L0933.032]
 - When a supplier says no or gives vague reasons, follow up on a set schedule rather than giving up. Repeated, polite contact with a status update shows commitment and does not get you blacklisted. (2023) [L0835.130]
-- Confidence on supplier calls comes from knowing your subject well. Do not fake knowledge; study the material until you can speak about the business with real understanding. [L0927.005]
+- Confidence on supplier calls comes from knowing your subject well. Study the material until you can speak about the business with real understanding. [L0927.005]
 - When a supplier asks about annual sales goals for a brand-new store, a reasonable answer is a figure in a range between 2 and 500,000. The currency was not specified. (2023) [L0934.190]
 
 **Handling a no from a supplier, in order:** [L0928.014]

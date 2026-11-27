@@ -315,7 +315,7 @@ Procedure for a target country: (Source C, undated) [L0788.015]
 - Google Ads gives you control over where and when your ads appear. When evaluating new features or options, be skeptical of anything that removes your control, because this trades away the ability to target the right audiences precisely and prioritizes visibility over conversions. [L0020.004]
 - Avoid Google Ads features that take away control over bidding, targeting or ad creation, because they tend to optimize for visibility rather than direct conversions. Google's former AdWords Express bundled automated bidding, automated targeting and automated ad creation and is the example of this kind of setup to avoid. [L0720.002]
 - Creating a campaign without goals guidance gives more manual control over settings. More control over campaigns tends to produce a higher return on ad spend than letting Google automate by fitting into its boxes. [L0734.002]
-- Google's Shopping campaign setup has changed little in about a decade. Google does not publish how ad rank or Quality Score work, so be skeptical of anyone claiming hidden shortcuts. Once the known levers are handled, further account optimization usually brings diminishing returns. (older: 2021-22) [L0879.042]
+- Google's Shopping campaign setup has changed little in about a decade. Google does not publish how ad rank or Quality Score work. Once the known levers are handled, further account optimization usually brings diminishing returns. (older: 2021-22) [L0879.042]
 
 ### Interface-Change Mindset
 

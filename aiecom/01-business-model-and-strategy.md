@@ -1169,9 +1169,7 @@ Sources differ on the minimum number of suppliers. Each value applies in the sit
   4. Reach 60 unique clicks per day. [L0823.011]
   5. Aim for 1 sale every other day. [L0823.011]
 
-**Avoiding a shortcut**
 
-- Do not build a single-product sales page as a shortcut to conversions. Without a track record and a catalogue, the store cannot carry paid traffic. [L0468.007] (older, 2020)
 
 **Pre-launch review**
 
@@ -2308,7 +2306,7 @@ Where sources give different values, each applies to a different scope.
 - Before you ask a high-value prospect for a partnership or sale, build familiarity first by engaging with their content over time. Direct cold outreach with a sales pitch tends to trigger a spam reaction and put people off. (older advice, 2021-22) [L0453.001]
 - Engagement works because an audience-facing person notices and remembers those who interact with them repeatedly. When you later reach out directly, the contact feels natural rather than like a stranger's cold message. (older advice, 2021-22) [L0453.002]
 - Engagement in this phase should give value and ask questions, not request anything. Do not ask for a sale or partnership yet. Help the prospect's audience where you can and show real interest in their work. (older advice, 2021-22) [L0453.014]
-- Treat relationship building like a normal conversation with a new acquaintance. Learn what they do and what they are interested in, and engage with that. Stay genuine and do not pretend to be someone you are not. (older advice, 2021-22) [L0453.015]
+- Treat relationship building like a normal conversation with a new acquaintance. Learn what they do and what they are interested in, and engage with that. (older advice, 2021-22) [L0453.015]
 - Dream 100 partnerships must give both sides a benefit, because a relationship that only serves one party tends to end. Frame every outreach as a win-win offer rather than a request for help. (older advice, 2021-22) [L0525.001]
 - Use the Dream 100 exercise for high-value targets. Use the affiliate recruitment email template for general affiliate recruitment searches outside your Dream 100 list. (older advice, 2021-22) [L0212.008]
 - Use the same outreach message whether you contact a potential affiliate by email or on social media (Facebook, Instagram and similar). The message content stays consistent across all contact channels. (older advice, 2021-22) [L0212.010]

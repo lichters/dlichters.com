@@ -333,7 +333,7 @@ Use this procedure to make a reused account read as a fresh start:
 1. Create a TikTok account or warm an existing one. [L0309.022]
 2. Wait 6-12 hours before uploading the first video, or up to a week. [L0309.022, L0309.023]
 3. During the wait, follow accounts in your niche, follow competitors, follow influencers, and engage with your target audience's content. [L0309.022]
-4. Do not upload videos or take any spammy actions during this period. [L0309.022]
+4. Do not upload videos during this period. [L0309.022]
 5. After the warm-up, upload the first video. The account will receive views faster than a brand-new account with zero history. [L0309.022]
 
 **New-email test procedure**
@@ -2761,7 +2761,6 @@ Growth benchmarks from the same case:
 - Judge an influencer's TikTok performance over several posts rather than a single video, because short-form results rise and fall sharply from one video to the next. [L0479.032]
 - A new account gets a broad mix of content, because algorithms do not know what the user wants at first. [L0915.010]
 - Train the feed by interacting deliberately with the content type you want to create, such as watching and engaging with similar videos. [L0915.010]
-- Buying followers is not recommended, because TikTok can detect purchased or foreign accounts, which can lead to shadowbanning. [L0657.026]
 - Purchased followers on Instagram can affect reels at first, but they do not provide lasting reach. [L0657.026]
 - Keep testing new angles constantly, since a good video can still break out at around 10,000 followers. [L0352.003]
 

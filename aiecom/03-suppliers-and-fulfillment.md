@@ -2145,7 +2145,7 @@ These apply to different cases. Obtain the certificate for your own state throug
 - A newer store can list a few products from a supplier at a higher markup to build credibility when approaching more brands. Choose the products with the best margins and do not include them in paid ads. Uploading the full catalog is not required. (2025.) [L0837.039]
 - Do not use Oberlo for demo products. Build them manually following blueprint module 3 guidance. Demo products do not need real specs, materials or dimensions, since generic descriptions are sufficient when the products are not for sale. (Older, 2020.) [L0268.014]
 - Do not use dropshipping apps to fill the store before supplier approval. Use stock images to build the site for suppliers to review. (Older, 2021.) [L0834.026]
-- Build the demo store with stock or generic products so the supplier can picture how its products would look on your site. The demo is not meant to mislead them. (Older, 2022.) [L1113.025]
+- Build the demo store with stock or generic products so the supplier can picture how its products would look on your site. (Older, 2022.) [L1113.025]
 - Do not display one supplier's branded products on a demo store to pitch a different supplier. The first brand may find them through Google alerts and state that the store is not authorized to sell its products. [L0623.014]
 - A good-looking live store that already sells other brands makes suppliers more willing to work with you. Show your site when you approach a supplier. [L0832.032]
 - Well-organized filters and tags on the storefront show future suppliers how the website functions. Additional tag lists can be added over time as more suppliers are onboarded. [L0890.009]
@@ -2164,7 +2164,6 @@ These apply to different cases. Obtain the certificate for your own state throug
 ### Demo-mode disclosure
 
 - If a supplier sees its products on your store before launch, explain that they are only demonstration placements, so the supplier can see how its products will look, and that you are not selling them yet. This also shows you can build and maintain a website. (Older, Source B 2021-22.) [L0929.027]
-- Do not present a demo as a live shop. The demo is for showing layout and presentation, not for selling, and it is not meant to mislead the supplier. [L1113.025]
 
 ### Trust signals and pre-outreach checks
 
@@ -9680,7 +9679,6 @@ Upsell products do not need to be branded or searched for, because the customer 
 - Constant Creative customers receive assets through Frame.io. Connect Frame.io in the Integrations section of Ad Manage.ai to import Constant Creative deliverables directly into your Media Library without downloading files. [L0207.021]
 - Pre-order custom agent-shot content for a new product when no creatives exist, since it gives better CPMs than generic content. Until then, have enough existing creatives for the first week. [L0363.025]
 - TikTok-driven stores target mobile users who buy directly from ads, so the first screen of a product page must load quickly and show the product clearly. [L1410.037]
-- Cheap bulk traffic, such as buying 20,000 website visitors for $5 on Fiverr, does not produce sales. These visits are not targeted and are fake, so they do not convert. [L0582.013]
 - A Google Merchant Center account can be suspended while the Google Ads account stays active. Google Ads suspensions are much rarer than Merchant Center suspensions in high-ticket dropshipping stores. (Older advice, 2021-2022.) [L0727.001]
 
 ### Outreach, partnerships and affiliates

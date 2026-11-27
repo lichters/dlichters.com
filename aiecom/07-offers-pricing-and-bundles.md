@@ -681,7 +681,7 @@ The Buy 3 get 2 free row is an unfilled example; its errors show what happens wh
 **Core rules**
 - Do not use a compare-at price as the sale price. The actual selling price must match the product feed. Compare-at is only an additional display. (older, 2020) [L0468.103]
 - Do not show every product as a discount. Use a strikethrough price only when the original price is legitimately higher. This maintains credibility. (older, 2022) [L0249.040]
-- Only display a compare-at price that the product has really sold at. An inflated reference price is a deceptive pricing claim. Competitor pages show a sale price next to a struck-through original and a percentage saving, for example 59.99 against 119.99 with 50% saved. [L0600.038]
+- Competitor pages show a sale price next to a struck-through original and a percentage saving, for example 59.99 against 119.99 with 50% saved. [L0600.038]
 - Display a sale price next to a higher compare-at price with a percentage savings label, for example $19.99 next to a struck-through $39.99 with a SAVE 50% badge. This makes the saving visible on the product page. [L0347.019]
 - Show a higher regular price crossed out next to a lower sale price, so the discount is visible at a glance. The higher reference price makes the sale price look like a real deal. [L1325.018]
 - Examples in the same pattern: a regular price of $30 crossed out next to a sale price of $19.99, and a regular price of $12 crossed out next to a sale price of $7.49. The lesson's example was a regular price of $4.10 reduced to $1.49. [L1325.018]
@@ -1724,7 +1724,7 @@ Sources give different rough shares. They come from different years and are esti
 
 ### Keep the advertised price at MAP
 
-**Principle.** Sell at MAP and treat any extra offer as a discount off MAP. Do not inflate the MAP price to create room for a discount. *(Older advice, 2021.)* [L0247.037]
+**Principle.** Sell at MAP and treat any extra offer as a discount off MAP. *(Older advice, 2021.)* [L0247.037]
 
 - List products at MAP and fund discounts from the margin you can afford. Do not list above MAP, because products above MAP lose traction on Google Shopping. If a discount is too large, reduce the discount rather than raising the list price. *(Older advice, 2021.)* [L0968.075]
 - If the margin cannot cover discounts, list the product at MAP without discount codes for that supplier. Listing a higher price lowers clicks in Google Shopping because the product appears at the highest price. [L1283.076]
@@ -4252,7 +4252,6 @@ Scarcity announcement templates to use in store copy and email campaigns, adapte
 #### Keeping timers real
 
 - Keep the countdown timer and the wording in sync with the real expiry time. One email showed a 17-hour timer while the text said the offer ends at midnight. This conflict is noticed by the shopper. [L0567.028]
-- Countdown timers help conversion only when the deadline is real, for example a sale that ends at midnight Eastern time on Black Friday. A timer that resets every day is a gimmick and does not help. (Older advice, Source A 2022.) [L1092.055]
 
 #### Timers versus coupons: two approaches
 
@@ -4266,10 +4265,8 @@ The sources disagree on whether a timer should restart. Both values apply in dif
 
 - Note: the older advice (2022) calls a timer that resets every day a gimmick. The newer lesson allows daily resets when a sale is extended. Use the daily reset only when the sale really is being extended, and do not present it as a permanent deadline. [L1092.055, L1225.002]
 
-### Scarcity must be true
+### Scarcity
 
-- Use scarcity and urgency only when they are true. False deadlines or invented shortages destroy trust, which is hard to rebuild. [L0378.031]
-- Scarcity claims must be true, because false stock messages damage trust. [L0516.022]
 - Mistake: a discount left without a reason or a deadline marks a random dropshipping store. Always name the sale and state when it ends. [L1194.041]
 - Mistake: a generic countdown with text such as "ending soon" or "limited supply" adds little scarcity. Tie the urgency to the specific problem the product solves. [L1194.042]
 
@@ -4843,7 +4840,7 @@ Note on conflicting advice: L0358.015 and L1357.007 both address matching price,
 - Use a five-day promotion for big purchase decisions, high-ticket items or when more hype needs to be built. [L1205.020]
 - For larger purchases, send one pre-promotion email before the offer starts to tell the audience something big is coming and prepare them for it. [L0757.026]
 - Monthly promotions of 3 to 5 days can be run, tied to a holiday or event relevant to the niche. Promotions are typically used with promo codes rather than price changes. [L1094.078]
-- A promotion with a real deadline, such as a holiday, creates urgency. It can run for a single day or through a weekend, and it should be promoted with a sale announcement on the website and social media. [L0837.035]
+- A promotion with a deadline, such as a holiday, creates urgency. It can run for a single day or through a weekend, and it should be promoted with a sale announcement on the website and social media. [L0837.035]
 - A 3-day Halloween promotion example: October 29 to October 31, 2024, with 10% off the whole store using the coupon code "happyhalloween", and one promotional email each day of the sale window. [L1105.005]
 - A holiday promotion can be run as a short fixed window, such as Monday to Friday of one week, with a percentage-off discount code for all customers. Set the start and end dates before writing any promotional copy. [L1286.004]
 - Source conflict on length: a 3-to-5-day window is standard; a five-day window is for big-ticket items [L1205.020]; a week-long window is used for Black Friday [L1115.105, L1224.005]; a one-day window is used for Cyber Monday [L1224.004, L1287.055]; a 48-hour window is used for flash sales [L1400.002]. Each applies to its own case.

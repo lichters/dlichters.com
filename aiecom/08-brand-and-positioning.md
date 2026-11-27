@@ -889,9 +889,9 @@ Before you came across (BRAND), which methods were you relying on to deal with (
 ### Perceived uniqueness
 
 - Buyers must be persuaded about the business as well as the product. A great product on a sketchy-looking store will still lose sales, and prospects judge the offer first when choosing between you and a competitor. (Source B 2021-22, older) [L0411.003]
-- What the customer perceives is the reality that drives buying. An offer must be perceived as unique and valuable even when parts of it are not truly unique. Perception must always stay honest and never claim things that are untrue. (Source B 2021-22, older) [L0411.004]
-- Uniqueness can come from actual uniqueness or from the perception of it. Honest differentiation, such as a clearly stated, stronger policy, can shift perception without any lying. (Source B 2021-22, older) [L0411.010]
-- A named element, such as a branded policy or framework name, makes an offer sound unique and creates curiosity, which makes buyers more likely to engage. Naming should stay truthful and apply to things that are actually real. (Source B 2021-22, older) [L0411.013]
+- What the customer perceives is the reality that drives buying. An offer must be perceived as unique and valuable even when parts of it are not truly unique. (Source B 2021-22, older) [L0411.004]
+- Uniqueness can come from actual uniqueness or from the perception of it. Honest differentiation, such as a clearly stated, stronger policy, can shift perception. (Source B 2021-22, older) [L0411.010]
+- A named element, such as a branded policy or framework name, makes an offer sound unique and creates curiosity, which makes buyers more likely to engage. (Source B 2021-22, older) [L0411.013]
 - When a product looks much like rivals, the maker's name and track record can become the main reason to buy. Name the maker and state its record for quality, because buyers weigh the integrity behind a product when the product itself is hard to tell apart. [L1369.116]
 - A soap maker had its flakes analysed against competing brands. The lab found rivals contained about 15 percent water, while its own product contained about 5 percent. Laundries bought soap by the barrel. A laundry paying a barrel price about 10 percent higher for pure soap still paid the same per pound of actual soap, and the extra freight charged on the barrel made the competitor's effective premium larger. The seller mailed every laundry in its territory asking whether it was buying soap or water, and suggested it could get its own water from the faucet rather than pay freight for it. The mailing caused a sharp reaction among competitors and won the seller a much larger account for its own business. [L1369.021]
 
@@ -2585,8 +2585,8 @@ Shoppers look at About Us pages mainly when they do not know the store, such as 
 
 - For a Shopify store selling high-ticket products, the About Us page should run 400 to 700 words, written as natural prose, with bullet points only where they make a point clearer [L0533.001].
 - Never use the word "dropshipping" on an About Us page. Write as a serious, long-term retail brand with an established tone, even if the business is new. Avoid generic template phrasing and any startup or hobby-store feel [L0533.002].
-- Older advice (Source A, 2020): the About Us page does not need an inspirational story or a made-up narrative. Focus on an educational approach instead: product benefits, the market gap you fill, and your commitment to service and quality [L0268.034, older].
-- The About Us page should tell a story that ties the store to the products and the audience of the niche, without lying, and should speak to the niche's customers directly [L0359.063].
+- Older advice (Source A, 2020): the About Us page does not need an inspirational story. Focus on an educational approach instead: product benefits, the market gap you fill, and your commitment to service and quality [L0268.034, older].
+- The About Us page should tell a story that ties the store to the products and the audience of the niche, and should speak to the niche's customers directly [L0359.063].
 - High-ticket buyers need to feel safe before they pay. Build trust through clear supplier standards, service promises and delivery reliability. For this buyer group, confidence in these areas matters more than sales language [L0533.003].
 - If the brand is new, the years-in-operation statement can say "many years of combined industry experience" instead of a specific number of years. Use only experience the owner actually has [L0533.004].
 - A store that carries a person's name must make clear who that person is and what their role is. Visitors cannot tell what the brand stands for without this clarity [L0838.007].
@@ -2633,11 +2633,8 @@ A personal founder brand follows this pattern: a named person appears in photos 
 
 On a curator-style store with a named person, product pages should include that person's own short assessment of each item and why it is worth buying. This supports the expert role and gives visitors a reason to trust the selection [L0838.022].
 
-### Honesty and Accuracy Rules
+### Accuracy rules
 
-- Only list differentiators that are true today in the About Us prompt. Claims such as better warranties should be removed until the suppliers providing them are confirmed, because the AI will otherwise write them into the page as facts [L1048.009].
-- Never invent a founder story to fill the optional field. If you have no real story, delete the entire section [L1048.011].
-- A story must not be made up. It should tie the store to real products and the real niche audience [L0359.063].
 - AI-generated About Us and policy text is a starting draft. The store owner must review it before publishing and check it against real business terms, because the text is written to sound professional rather than to match supplier terms [L1048.012].
 - Production footage should match the brand's main selling point. Eco-focused brands can use factory footage and tech pack visuals as part of the story. Other brands should focus on the quality of the final product. Showing production works best when a factory offers video production or when you film the received product yourself in close-up detail [L1438.055].
 
@@ -2728,7 +2725,7 @@ Write an About Us page for an online shop that sells high-ticket goods sourced f
 
 ### Trust foundations
 
-- Trust comes mostly from professionalism, which shows in bugs, speed, design and service. Quick tricks and low-effort shortcuts do not build lasting trust. [L0390.023]
+- Trust comes mostly from professionalism, which shows in bugs, speed, design and service.
 - Trust grows when you remove the reasons customers would write or call before buying. Professional design, correct grammar, a visible phone number, a strong About page, a clear contact page, personal product notes and trust badges all serve this goal. [L0910.017]
 - Visitors to a new store trust it more when it is visibly linked to brands, companies or associations they already recognize, because authority transfers by association. A brand with no recognition can borrow credibility this way. [L1050.001]
 - Trust factors such as reviews, video reviews and user-generated content reduce perceived risk because buyers see satisfied customers. They work as both social proof and risk reversal, so they belong in the offer. (older advice, 2021-22) [L0411.029]
@@ -2908,17 +2905,15 @@ Creating an authorized retailer badge (procedure merged from two units that desc
 - Brands with a real cause tend to attract customers, especially when the cause is authentic. Profits can be donated, or customers can be offered an optional extra payment that goes to a specific charity or cause. (older advice, 2019) [L1068.076]
 - Reading glasses donations were first routed through Vision Partners. A later distribution partner could handle about 200,000 pairs globally, shipped in batches of roughly 1,000 units. [L0790.102]
 
-### Badges, claims and honesty
+### Badges and claims
 
-**Fake and purchased badges**
 
-- Many dropshipping stores display fake or purchased trust badges, such as Google Trusted Store, Forbes, FDA approval or a TM trademark symbol. These badges can be bought cheaply, so they do not prove legitimacy, and you should not copy them. [L0372.042]
 - Paid placements on sites such as Fox or Forbes can be bought through Brand Push Up. The lesson quoted about 195 to 200 USD for one featured placement. This is an optional, pricier way to gain authority. [L1363.012]
 - Big-name brands can create brand association even when margins are low. Including them can strengthen brand recognition and a larger catalog. (older advice, 2019) [L1068.077]
 
 **"Not sold on Amazon or eBay" badge**
 
-- Some competitor product pages add a "not sold on Amazon or eBay" badge to signal that the brand sells only through its own store. Use this badge only if it is true for your supply, and check the marketplaces before publishing it. [L0600.037]
+- Some competitor product pages add a "not sold on Amazon or eBay" badge to signal that the brand sells only through its own store. [L0600.037]
 
 **Niche and generic trust badges**
 
@@ -3175,7 +3170,6 @@ The sources give different frequencies. The 2-3 per week figure appears in the s
 
 - A page with many followers but very few likes and comments suggests bought followers. A healthy page should show about 10 percent engagement on posts, so 100,000 followers would mean roughly 6,000 to 10,000 likes and comments. [L0645.041]
 - Buying a few thousand followers for an Instagram or Facebook page was reported to cost under $50, often around $10. This is a trust factor, not a sales driver, and it does not affect the ad account. [L0645.042]
-- Do not buy followers. [L0857.048] *(2025.)* This conflicts with the cost report in L0645.042. The 2025 source advises against it, and the Source C source reports it as a trust factor with no effect on the ad account. Choose based on the trade-off between the cost reported in L0645.042 and the advice in L0857.048.
 - Paid campaigns to build a few hundred likes for social proof are a different approach from buying followers. [L0429.070] *(2022.)*
 - A low follower count of about 5 to 10 on a new page did not cause problems in practice. Ad viewers mainly decide based on the ad and the website, so more followers are only a benefit later. [L1108.004]
 
@@ -3329,7 +3323,7 @@ Procedure for a store name that resembles a well-known store:
   4. Join their Facebook groups and forums.
   5. Subscribe to the email list of anyone who has a website or blog.
 - Join Facebook groups and forums as a personal profile, never as a Facebook page, because many groups refuse page accounts and some admins block them outright. (Older advice, 2021-22.) [L0526.007]
-- Relationships are built between people, so operators should be visible as the real person behind the business. Using a fake name is possible but is considered misleading, and open ownership of the business supports the Dream 100 approach. (Older advice, 2021-22.) [L0526.008]
+- Relationships are built between people, so operators should be visible as the real person behind the business. Open ownership of the business supports the Dream 100 approach. (Older advice, 2021-22.) [L0526.008]
 - Use a dedicated email address, separate from the main business or personal address, for signing up to Dream 100 email lists. A new Gmail or other mail provider account is suitable. (Older advice, 2021-22.) [L0526.009]
 - Subscribing to a prospect's email list shows which topics and content their audience cares about, which can guide your own email and site content. The content should be modelled, not copied. (Older advice, 2021-22.) [L0526.010]
 - In outreach emails, describe your site by the problem it helps the reader solve, not by the products it sells. For example, say you help people build a dream bathroom rather than that you sell bathtubs. (Older advice, 2021-22.) [L0946.013]
@@ -3872,12 +3866,12 @@ Use the custom box and branded packaging in creator content so viewers imagine t
 
 ## Trust-based brand ethics and reputation
 
-### Honesty in claims and copy
+### Claims and copy
 
 - Honesty shows through copy. Hidden flaws or evasive claims are noticed by readers, while a candid tone about the product builds trust and makes the buying environment feel real. [L1366.111]
 - Describe your business, where it comes from and what you sell accurately and transparently. When a problem appears, address it honestly instead of hiding or spinning it, because trust is the baseline for any brand. [L0534.001]
 - Do not promote the business with personal or obscure brand claims. Use direct, factual statements about what the store offers. *(Older advice, Source A 2022.)* [L0665.072]
-- Promotional copy that claims months of investigation or a secret discovery to justify a set of products reads as fake and erodes trust. Keep product-section headlines literal and short, and keep them far away from trust elements such as charity pledges. [L0355.021]
+- Keep product-section headlines literal and short, and keep them far away from trust elements such as charity pledges. [L0355.021]
 - Some print-on-demand stores use religious or emotional messaging, and claims of donating 10% to a charity may be false. Verify such claims before copying the approach or promoting the brand. [L1214.058]
 
 ### Product accuracy and specifications
@@ -3901,14 +3895,13 @@ Use the custom box and branded packaging in creator content so viewers imagine t
 
 ### Origin stories and founder claims
 
-- Do not present an invented origin story or a fake inventor in your ads, such as students who supposedly created the product. Claims of this kind damage trust and can get accounts restricted. Use a true founder story or describe the product's real benefits instead. [L0706.066]
 - If you sell someone else's product, use this procedure to get a true backstory. *(Older advice, Source B 2021-22.)* [L0580.006]
   1. Look for a backstory on the brand's About Us page.
   2. If none is published, ask the manufacturer how the product came about and whether they allow you to use the story on your site.
   3. If they agree, put the story on the product page word for word.
   4. Alternatively, ask customers who had a positive experience to share how the product improved their life in a way that matches the main problem of the market.
   
-  The story must be true, but names and personal details may be left out. [L0580.006]
+  Names and personal details may be left out. [L0580.006]
 
 ### Reviews and social proof
 
@@ -3939,7 +3932,7 @@ Use the custom box and branded packaging in creator content so viewers imagine t
 - Sell only products you believe in, and avoid selling to people who do not need or want them. Trust takes a long time to build and very little time to lose. [L0378.103]
 - Short-term profit is never worth lasting damage to your reputation. Business made through practices you feel bad about often disappears, because you may not feel you deserve it. [L0378.104]
 - A business that creates problems for others, causing as much harm as good or more, is a sign of bad business. Keep the business aimed at solving problems rather than creating them. *(Older advice, Source B 2021-22.)* [L0872.002]
-- The ecommerce dropshipping community is very small, and a person's reputation travels faster than their ads. Treat every customer as if the whole niche is watching, and never run deceptive or no-ship operations. [L1038.017]
+- The ecommerce dropshipping community is very small, and a person's reputation travels faster than their ads. Treat every customer as if the whole niche is watching. [L1038.017]
 - Build the brand's network and reputation through reliability and quality, and be cutting-edge with designs so they attract attention. Reliable quality is what makes customers and partners return. [L1438.038]
 
 ## Brand protection and trademarks
@@ -3966,7 +3959,7 @@ Use the custom box and branded packaging in creator content so viewers imagine t
 
 ### Copying competitors' assets
 
-- Never copy a competitor's unique store assets, such as their logo, custom website copy, or custom-made images. Taking these is treated as stealing intellectual property and is not an acceptable shortcut in dropshipping. Create your own brand assets. [L0365.001]
+- Never copy a competitor's unique store assets, such as their logo, custom website copy, or custom-made images. Create your own brand assets. [L0365.001]
 - Selling the same type of product as other stores is fine, because similar products are not the problem. The line is crossed only when you copy their original creative work, such as brand assets or written and visual content. [L0365.002]
 
 ### Infringement detection and reporting

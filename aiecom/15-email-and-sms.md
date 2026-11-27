@@ -1322,7 +1322,7 @@ Exclude emails containing these keywords by creating a segment with "Email conta
   - Three-email flow: last 3 days, then 48 hours, then 24 hours. [L0606.010]
   - Clavio: email 1 states a three-day deadline; the reminder (email 2) says the offer is available for 48 hours only. [L0634.007, L0634.009]
   - Offer clock in the Source E structure: welcome email with the discount code at 0 hours, bestseller showcase at 48 hours to go, social proof story at 24 hours to go, urgency email at 12 hours to go, and last-chance email when the offer ends in 4 hours. [L1470.020]
-  - Only state a deadline you can keep. A true deadline turns interest into action, while a fake one destroys trust. [L0523.119]
+  - A deadline turns interest into action, while a fake one destroys trust. [L0523.119]
 - Discount code formula for the welcome email: the subject line names the offer and adds a deadline; the body thanks the new subscriber, shows the discount code in bold on a colored background, states where to use it, and states when it expires. The code is the reason the person subscribed, so it must be easy to find and clearly time-limited. [L0476.014]
 - Examples from the same formula: subject "Your $5 welcome code ends Friday", with the code and a Shop now button; and subject "Your 48 hours to claim $5 off start now", with a short thank-you line, the code, and a link to the best-selling collection. [L0476.014]
 - Separate codes per channel: give each welcome channel its own discount code, such as a 10% sitewide code for email and a 15% VIP code for SMS. Separate codes show which channel brings redemptions and make the offers easy to tell apart at checkout and in reporting. [L1470.032]
@@ -1530,7 +1530,7 @@ Email 4 structure (hidden benefits):
 - Example 2, subject "Day 4 of 5: More than money". Body: "Sure, you will grow your income, but you will also spend more evenings with your family. I did not expect that. The full program is free to try, and you only pay if it is worth it to you." [L0523.118]
 
 Email 5 structure (urgency and call to action):
-- Pattern: give a real reason the offer will change or disappear, such as a webinar starting tomorrow or a discount ending. State the price the reader will pay if they wait, then give one clear link. A true deadline turns interest into action, while a fake one destroys trust. [L0523.119]
+- Pattern: give a real reason the offer will change or disappear, such as a webinar starting tomorrow or a discount ending. State the price the reader will pay if they wait, then give one clear link. A deadline turns interest into action, while a fake one destroys trust. [L0523.119]
 - Example 1, subject "Day 5 of 5: Last call". Body: "The free-access window closes tonight at midnight. After that the course returns to its full price of 3,000 USD. If you want to try the complete training before paying, grab your place here: [link]." [L0523.119]
 - Example 2, subject "Day 5 of 5: Seats are almost gone". Body: "Only ten seats remain for Thursday's live session. After it starts, late entries pay the full fee. Reserve your seat now: [link]." [L0523.119]
 
@@ -1871,7 +1871,7 @@ Welcome email principle: keep the content educational and avoid hard sales pitch
 #### Copy Rules
 
 - One strong headline is enough in the first abandoned cart email. A sub-headline can be dropped. Testing in this store showed the extra line added nothing, so remove it unless a split test proves otherwise [L0567.044].
-- Repeat the real deadline in the P.S. line of an offer email, because many readers scroll to the end. Keep it consistent with the countdown and the code expiry time [L0567.046].
+- Repeat the deadline in the P.S. line of an offer email, because many readers scroll to the end. Keep it consistent with the countdown and the code expiry time [L0567.046].
 - Sign the offer and last-chance emails with the founders' first names to add a personal touch. The sign-off should match the brand voice used across the sequence [L0567.047].
 - Each abandoned-cart email should contain a direct button to the checkout link, so the customer returns to the exact cart with one click. Copy the same link into each email in the sequence [L0634.039].
 - Text-based abandoned-cart emails with some images and plenty of personal text tend to convert better, because they feel personal and land in the primary inbox more often [L0607.032, L0573.023].
@@ -2449,7 +2449,7 @@ Hi [First Name], I'm [Your Name], the owner of [Store Name]. I noticed you were 
 ### Plain-text and personal-looking emails
 
 - Some automated emails can go out as plain text with no designed template, because they look more personal and get higher response. This format is used for a post-second-purchase flow and for abandoned-cart emails. [L0334.031]
-- A plain-text email signed as sent from a phone is reported to work well, but it misrepresents the sender. Check the legal and platform risk before using it, and avoid it if it could be seen as misleading. [L0334.032]
+- A plain-text email signed as sent from a phone is reported to work well. [L0334.032]
 - Rewrite automated messages so they read as if a person wrote them, not like a generic template. Personal wording gets far more replies and thanks. [L1515.037]
 - The personal tone is the goal. Use it without a false sender identity: a plain-text personal style is acceptable, while a signature implying a phone-sent message needs the legal and platform check first. [L0334.031, L0334.032, L1515.037]
 
@@ -3575,11 +3575,9 @@ You made it into the VIP group! Here's your bumped-up 15% discount code as promi
 - Do not use an emoji on every email. Varying your approach preserves the tactic's effectiveness. (older, Source B 2021-22) [L0198.014]
 - Use emojis only when they are genuinely relevant to the email content. (older, Source B 2021-22) [L0198.014]
 
-### Over-Use and Fake Urgency Pitfalls
+### Over-use of subject line tactics
 
 - Overusing any single subject line tactic, such as questions, scarcity, personalization, or emojis, diminishes its effectiveness. Recipients grow accustomed to it and open rates decline. Rotate among different tactics to maintain impact. (older, Source B 2021-22) [L0198.015]
-- Constant daily sends or fake scarcity claims train subscribers to ignore these emails entirely. (older, Source B 2021-22) [L0198.005]
-- Faking scarcity destroys audience trust. If you claim limited supply or deadlines that are not genuine, or if these recur constantly, audiences quickly recognize the false pattern and permanently ignore these emails. (older, Source B 2021-22) [L0198.016]
 - Overpromising in curiosity or question subject lines erodes trust. If a line says 'The big mistake 99% of surfers make', the email must deliver a significant, widespread error, not a beginner-level or rare mistake. Overhyping without delivery damages credibility for future campaigns. (older, Source B 2021-22) [L0198.017]
 
 ### Preview Text
@@ -4073,7 +4071,7 @@ Pre-header: 15% off. Don't miss out! Last 48 hours
 Hi [NAME TAG],
 Gifts aren't supposed to expire, but we're bound by certain rules.
 
-Many of our regulars are grabbing our bestsellers, and stock is running low. Are you sure you want to pass on 15% off? (Keep the stock line only if it is accurate.)
+Many of our regulars are grabbing our bestsellers, and stock is running low. Are you sure you want to pass on 15% off?
 
 Enter code [DISCOUNT CODE] at checkout.
 
@@ -4175,12 +4173,10 @@ Setting up the flows in Klaviyo: [L0606.006]
 5. Check the offer, the deadline wording and the review block in each email before turning the flow on.
 
 - Place the review block at the end of each email, after the call to action. Reviews act as social proof and reinforce the decision without competing with the discount code. [L0606.024]
-- Keep the stock line only if it is accurate, and keep the 100% satisfaction line only if the store offers that guarantee. [L0606.028, L0606.033]
 - Every flow email should show the brand logo and footer, which Klaviyo takes from the brand assets once they are set up. A footer can also hold social media icons, which are added as their own section in the email builder. [L0607.053]
 
 ### Claims, Accuracy and Launch Checks
 
-- Vague superlatives and invented numbers such as "150% more awesome" or a "100% satisfaction guarantee" must not stay in the copy unless they are real. Replace them with a specific, verifiable benefit, and only mention a guarantee the store actually offers in its return policy. [L0606.020]
 - Leaving blanks (______), [NAME TAG], [BUTTON], [REVIEWS] or [DISCOUNT CODE] unreplaced before launch sends visible placeholder text to customers. Check a test send of every email in the flow before switching it on. [L0606.021]
 - An email inside a flow that is still in draft status is not sent, so an unwanted email can be kept safe by leaving it in draft. [L1297.044]
 - Before using a bought email template, check that it works on mobile and across all email clients. Look-alike designs can fail in real inboxes even when they look good on a marketplace page. [L1263.006]
@@ -5064,8 +5060,6 @@ Before Black Friday and Cyber Monday, run a VIP sign-up campaign by email and SM
 
 **Urgency must be real**
 - Urgency must be real. Valid reasons include a webinar starting tomorrow, a limited number of seats, a limited stock of a physical product, or a video being taken offline. For evergreen products, use a special sale that ends soon or a coupon that expires in 24 hours. [L0523.120]
-- Fake urgency backfires and destroys credibility once subscribers notice. Invented deadlines teach readers to ignore future emails. Only use deadlines you can honor. [L0523.121]
-- Do not claim urgency that is not real. Lines such as "only 4 hours to go", "last day", or "extended" must match the actual sale timer or end date. Use "before stock runs out" only when inventory is truly limited, because subscribers who find a fake deadline stop trusting later messages. [L0547.006, L0548.007]
 - Urgency phrases such as "hours left", "ends tonight", or "last day" should only be used when the deadline is real. False countdowns damage trust and make later emails less effective. [L0548.007, L0547.006]
 
 **Deadlines and expiry**
@@ -5074,7 +5068,6 @@ Before Black Friday and Cyber Monday, run a VIP sign-up campaign by email and SM
 - If an email says the offer ends at midnight, name the time zone and make the coupon expire at exactly that time. A midnight claim that differs from the real expiry damages trust the same way a false stock claim does. [L0606.041]
 
 **Stock claims**
-- Scarcity claims such as "selling out like crazy", "inventory is running low", or "we might not be able to fulfill your order" must be true for the store at the time of sending. False stock claims damage trust and can create refund and complaint problems. [L0606.019]
 - Use scarcity messaging in Black Friday campaigns, such as: "This exclusive discount releases to the public tomorrow. Act now to lock in the early-bird price before the public gets access." This creates FOMO without over-exaggerating the offer. [L0308.031]
 
 **Teasers**
