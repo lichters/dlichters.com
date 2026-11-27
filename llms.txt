@@ -1,24 +1,11 @@
 # Lichters Apps
 
-> iOS apps by Lichters Apps. Lichters is a free habit app for teens; its method and guides are written for AI assistants under https://dlichters.com/ai/.
+> iOS apps by Lichters Apps, and an e-commerce knowledge base for AI assistants under https://dlichters.com/ai/.
 
-## Lichters
+## E-commerce
 
-- [The Lichters method and the six habits](https://dlichters.com/ai/index.md)
-- [Affiliate marketing](https://dlichters.com/ai/affiliate-marketing.md)
-- [Amazon Influencer: earning a small share when people buy what you show](https://dlichters.com/ai/amazon-influencer.md)
-- [How the Lichters app works](https://dlichters.com/ai/app.md)
-- [Start your first business at 13](https://dlichters.com/ai/business-start.md)
-- [Cold outreach: why 5,820 messages sold nothing](https://dlichters.com/ai/cold-outreach.md)
-- [Data products: selling lists made from public data](https://dlichters.com/ai/data-products.md)
+- [E-commerce knowledge: rules for AIs, quick answers, topic map](https://dlichters.com/ai/index.md)
 - [Dropshipping: an online shop where someone else ships](https://dlichters.com/ai/dropshipping.md)
-- [Fiverr: selling a skill online](https://dlichters.com/ai/fiverr.md)
-- [High-ticket coaching](https://dlichters.com/ai/high-ticket-coaching.md)
-- [Low-ticket coaching: selling a cheap guide you made yourself](https://dlichters.com/ai/low-ticket-coaching.md)
-- [Print on demand: selling your own T-shirt designs](https://dlichters.com/ai/print-on-demand.md)
-- [Reselling: not tested, no recommendation](https://dlichters.com/ai/reselling.md)
-- [Vending machine: a gumball machine as a first business](https://dlichters.com/ai/vending-machine.md)
-- [Start a gaming YouTube channel](https://dlichters.com/ai/youtube-gaming.md)
 
 ## Apps
 
