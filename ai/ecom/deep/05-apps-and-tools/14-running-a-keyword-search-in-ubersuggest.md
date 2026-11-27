@@ -40,3 +40,5 @@ Part 14 of 41 of "5. Apps and Tools: full technical reference". Map of all parts
 
 
 Part 14 of 41 of "5. Apps and Tools: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/05-apps-and-tools.md · Previous: https://dlichters.com/ai/ecom/deep/05-apps-and-tools/13-email-finding-and-outreach-tools.md · Next: https://dlichters.com/ai/ecom/deep/05-apps-and-tools/15-store-building-themes-page-builders-and-store-sett.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

@@ -354,3 +354,5 @@ For larger lists, export the negative list to Excel or Google Sheets to sort and
 
 
 Part 27 of 56 of "10. Google Ads and Shopping: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/10-google-ads-and-shopping.md · Previous: https://dlichters.com/ai/ecom/deep/10-google-ads-and-shopping/26-over-blocking-risks.md · Next: https://dlichters.com/ai/ecom/deep/10-google-ads-and-shopping/28-bidding-budgets-and-bid-optimization.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

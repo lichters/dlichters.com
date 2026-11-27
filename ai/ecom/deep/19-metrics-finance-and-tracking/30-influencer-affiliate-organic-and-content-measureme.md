@@ -187,3 +187,5 @@ Two conventions appear in the sources. Use each for its own purpose and do not m
 
 
 Part 30 of 46 of "19. Metrics Finance and Tracking: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/19-metrics-finance-and-tracking.md · Previous: https://dlichters.com/ai/ecom/deep/19-metrics-finance-and-tracking/29-giveaway-measurement.md · Next: https://dlichters.com/ai/ecom/deep/19-metrics-finance-and-tracking/31-instagram-trial-reels.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

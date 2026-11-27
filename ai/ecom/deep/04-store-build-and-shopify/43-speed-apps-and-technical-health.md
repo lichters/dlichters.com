@@ -243,3 +243,5 @@ Part 43 of 49 of "4. Store Build and Shopify: full technical reference". Map of 
 
 
 Part 43 of 49 of "4. Store Build and Shopify: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/04-store-build-and-shopify.md · Previous: https://dlichters.com/ai/ecom/deep/04-store-build-and-shopify/42-4-store-build-and-shopify-full-technical-reference.md · Next: https://dlichters.com/ai/ecom/deep/04-store-build-and-shopify/44-apps-and-leftover-code.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

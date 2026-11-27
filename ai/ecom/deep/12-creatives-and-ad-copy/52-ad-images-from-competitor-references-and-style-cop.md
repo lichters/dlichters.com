@@ -279,3 +279,5 @@ Procedure:
 
 
 Part 52 of 63 of "12. Creatives and Ad Copy: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/12-creatives-and-ad-copy.md · Previous: https://dlichters.com/ai/ecom/deep/12-creatives-and-ad-copy/51-limits-of-ai-output.md · Next: https://dlichters.com/ai/ecom/deep/12-creatives-and-ad-copy/53-quality-control-and-proofing.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

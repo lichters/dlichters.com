@@ -113,3 +113,5 @@ Part 9 of 14 of "11. TikTok and Short Video: full technical reference". Map of a
 
 
 Part 9 of 14 of "11. TikTok and Short Video: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/11-tiktok-and-short-video.md · Previous: https://dlichters.com/ai/ecom/deep/11-tiktok-and-short-video/08-engagement-comments-and-driving-traffic-to-the-sto.md · Next: https://dlichters.com/ai/ecom/deep/11-tiktok-and-short-video/10-coins-spark-ads-and-paid-boosting-of-organic-video.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

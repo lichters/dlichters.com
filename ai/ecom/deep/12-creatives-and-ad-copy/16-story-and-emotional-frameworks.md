@@ -252,3 +252,5 @@ Not every element is required in every ad [L1425, undated].
 
 
 Part 16 of 63 of "12. Creatives and Ad Copy: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/12-creatives-and-ad-copy.md · Previous: https://dlichters.com/ai/ecom/deep/12-creatives-and-ad-copy/15-copy-frameworks-and-ad-structures.md · Next: https://dlichters.com/ai/ecom/deep/12-creatives-and-ad-copy/17-face-to-face-selling-adapted-to-print.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

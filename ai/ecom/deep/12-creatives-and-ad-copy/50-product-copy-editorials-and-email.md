@@ -332,3 +332,5 @@ Check these settings in Ads Manager before every launch.
 
 
 Part 50 of 63 of "12. Creatives and Ad Copy: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/12-creatives-and-ad-copy.md · Previous: https://dlichters.com/ai/ecom/deep/12-creatives-and-ad-copy/49-ai-assisted-copy-and-creative.md · Next: https://dlichters.com/ai/ecom/deep/12-creatives-and-ad-copy/51-limits-of-ai-output.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

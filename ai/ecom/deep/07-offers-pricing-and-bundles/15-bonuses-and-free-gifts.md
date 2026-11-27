@@ -81,3 +81,5 @@ Part 15 of 40 of "7. Offers Pricing and Bundles: full technical reference". Map 
 
 
 Part 15 of 40 of "7. Offers Pricing and Bundles: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/07-offers-pricing-and-bundles.md · Previous: https://dlichters.com/ai/ecom/deep/07-offers-pricing-and-bundles/14-optional-services-and-add-ons.md · Next: https://dlichters.com/ai/ecom/deep/07-offers-pricing-and-bundles/16-creating-free-ebooks.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

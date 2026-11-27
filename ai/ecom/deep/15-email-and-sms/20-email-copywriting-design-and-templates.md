@@ -178,3 +178,5 @@ The flow subject lines and pre-headers, from the one source table: [L0606, undat
 
 
 Part 20 of 29 of "15. Email and SMS: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/15-email-and-sms.md · Previous: https://dlichters.com/ai/ecom/deep/15-email-and-sms/19-subject-lines-preview-text-and-sender-name.md · Next: https://dlichters.com/ai/ecom/deep/15-email-and-sms/21-flow-email-templates.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

@@ -211,3 +211,5 @@ Body: 'Hi {first name}, you left {product name} in your cart, and it is still he
 
 
 Part 11 of 29 of "15. Email and SMS: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/15-email-and-sms.md · Previous: https://dlichters.com/ai/ecom/deep/15-email-and-sms/10-abandoned-cart-and-checkout-recovery-email.md · Next: https://dlichters.com/ai/ecom/deep/15-email-and-sms/12-platform-walkthroughs.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

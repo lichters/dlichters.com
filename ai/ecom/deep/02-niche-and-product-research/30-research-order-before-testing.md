@@ -98,3 +98,5 @@ Part 30 of 54 of "2. Niche and Product Research: full technical reference". Map 
 
 
 Part 30 of 54 of "2. Niche and Product Research: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/02-niche-and-product-research.md · Previous: https://dlichters.com/ai/ecom/deep/02-niche-and-product-research/29-qualitative-and-quantitative-data.md · Next: https://dlichters.com/ai/ecom/deep/02-niche-and-product-research/31-customer-language-mining-and-research-sources.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

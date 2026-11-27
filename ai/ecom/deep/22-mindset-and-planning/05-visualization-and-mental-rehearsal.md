@@ -85,3 +85,5 @@ Part 5 of 28 of "22. Mindset and Planning: full technical reference". Map of all
 
 
 Part 5 of 28 of "22. Mindset and Planning: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/22-mindset-and-planning.md · Previous: https://dlichters.com/ai/ecom/deep/22-mindset-and-planning/04-build-beliefs-identity-and-self-image.md · Next: https://dlichters.com/ai/ecom/deep/22-mindset-and-planning/06-know-your-strengths-values-and-working-style.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

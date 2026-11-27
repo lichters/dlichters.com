@@ -268,3 +268,5 @@ Procedure for grading each niche in the worksheet [L0045, undated]:
 
 
 Part 4 of 54 of "2. Niche and Product Research: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/02-niche-and-product-research.md · Previous: https://dlichters.com/ai/ecom/deep/02-niche-and-product-research/03-step-6-ai-assisted-expansion.md · Next: https://dlichters.com/ai/ecom/deep/02-niche-and-product-research/05-product-research-sheets-one-source.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

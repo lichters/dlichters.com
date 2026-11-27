@@ -164,3 +164,5 @@ Procedure E, one source sign-up page:
 
 
 Part 2 of 49 of "4. Store Build and Shopify: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/04-store-build-and-shopify.md · Previous: https://dlichters.com/ai/ecom/deep/04-store-build-and-shopify/01-platform-choice-shopify-plan-trial-and-account-set.md · Next: https://dlichters.com/ai/ecom/deep/04-store-build-and-shopify/03-store-name-domain-purchase-and-domain-connection.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

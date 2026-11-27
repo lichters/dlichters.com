@@ -187,3 +187,5 @@ Note on conflicting advice: [L0358, 2020] and [L1357, 2018] both address matchin
 
 
 Part 33 of 40 of "7. Offers Pricing and Bundles: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/07-offers-pricing-and-bundles.md · Previous: https://dlichters.com/ai/ecom/deep/07-offers-pricing-and-bundles/32-google-shopping-and-promotion-display.md · Next: https://dlichters.com/ai/ecom/deep/07-offers-pricing-and-bundles/34-promotion-calendar-seasonal-sales-and-q4.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

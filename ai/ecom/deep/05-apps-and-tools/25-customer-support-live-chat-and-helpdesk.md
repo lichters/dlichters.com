@@ -230,3 +230,5 @@ With a three-month plan, the second and third month of the Automation Add-on are
 
 
 Part 25 of 41 of "5. Apps and Tools: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/05-apps-and-tools.md · Previous: https://dlichters.com/ai/ecom/deep/05-apps-and-tools/24-email-sms-and-customer-lists.md · Next: https://dlichters.com/ai/ecom/deep/05-apps-and-tools/26-reviews-social-proof-and-surveys.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

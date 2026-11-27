@@ -200,3 +200,5 @@ Summary: the store is built, the customer orders, the order is passed to the sup
 
 
 Part 1 of 28 of "1. Business Model and Strategy: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/01-business-model-and-strategy.md · Next: https://dlichters.com/ai/ecom/deep/01-business-model-and-strategy/02-print-on-demand.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

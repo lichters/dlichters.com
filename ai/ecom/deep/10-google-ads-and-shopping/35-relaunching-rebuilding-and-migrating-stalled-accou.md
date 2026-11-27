@@ -182,3 +182,5 @@ Both sources recommend rebuilding rather than repairing a stalled account. The 2
 
 
 Part 35 of 56 of "10. Google Ads and Shopping: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/10-google-ads-and-shopping.md · Previous: https://dlichters.com/ai/ecom/deep/10-google-ads-and-shopping/34-splitting-by-brand-and-supplier.md · Next: https://dlichters.com/ai/ecom/deep/10-google-ads-and-shopping/36-learning-phase-reporting-and-weekly-optimization-r.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

@@ -162,3 +162,5 @@ Before you came across (BRAND), which methods were you relying on to deal with (
 
 
 Part 4 of 26 of "8. Brand and Positioning: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/08-brand-and-positioning.md · Previous: https://dlichters.com/ai/ecom/deep/08-brand-and-positioning/03-problems-desires-beliefs-and-motivations-in-the-av.md · Next: https://dlichters.com/ai/ecom/deep/08-brand-and-positioning/05-positioning-usp-and-differentiation.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

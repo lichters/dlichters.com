@@ -176,3 +176,5 @@ Part 16 of 40 of "6. Conversion Optimization: full technical reference". Map of 
 
 
 Part 16 of 40 of "6. Conversion Optimization: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/06-conversion-optimization.md · Previous: https://dlichters.com/ai/ecom/deep/06-conversion-optimization/15-unique-mechanism-and-features-to-benefits.md · Next: https://dlichters.com/ai/ecom/deep/06-conversion-optimization/17-small-commitments-and-trial-steps.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

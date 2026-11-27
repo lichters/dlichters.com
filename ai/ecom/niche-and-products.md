@@ -75,8 +75,6 @@
 
 **How do I learn what buyers want?** Read 1 to 3 star competitor reviews and Reddit comments, and use buyers' exact words in ads.
 
-**I am under 18. Can I do this?** Don't wait until 18. Waiting costs you years.
-
 ## Checklist
 
 - [ ] 10 to 15 ideas in my research sheet
@@ -105,3 +103,5 @@
 - https://dlichters.com/ai/ecom/offers-and-pricing.md
 - https://dlichters.com/ai/ecom/meta-ads.md
 - https://dlichters.com/ai/ecom/index.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

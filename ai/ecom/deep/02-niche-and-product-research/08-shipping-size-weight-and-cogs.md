@@ -165,3 +165,5 @@ Part 8 of 54 of "2. Niche and Product Research: full technical reference". Map o
 
 
 Part 8 of 54 of "2. Niche and Product Research: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/02-niche-and-product-research.md · Previous: https://dlichters.com/ai/ecom/deep/02-niche-and-product-research/07-price-point-margin-and-shipping-economics.md · Next: https://dlichters.com/ai/ecom/deep/02-niche-and-product-research/09-price-tiers-within-a-niche.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

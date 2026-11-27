@@ -248,3 +248,5 @@ The bundled total is $9,896 instead of $10,496 when bought separately. The $10,4
 
 
 Part 20 of 40 of "7. Offers Pricing and Bundles: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/07-offers-pricing-and-bundles.md · Previous: https://dlichters.com/ai/ecom/deep/07-offers-pricing-and-bundles/19-designing-the-tier-ladder.md · Next: https://dlichters.com/ai/ecom/deep/07-offers-pricing-and-bundles/21-building-bundles-in-shopify-and-apps.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

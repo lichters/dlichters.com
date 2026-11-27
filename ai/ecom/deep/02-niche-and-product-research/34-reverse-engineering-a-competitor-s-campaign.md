@@ -256,3 +256,5 @@ Answer these questions for each primary competitor and keep them in a spreadshee
 
 
 Part 34 of 54 of "2. Niche and Product Research: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/02-niche-and-product-research.md · Previous: https://dlichters.com/ai/ecom/deep/02-niche-and-product-research/33-competitor-intelligence-and-offer-analysis.md · Next: https://dlichters.com/ai/ecom/deep/02-niche-and-product-research/35-product-criteria-and-selection-principles.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

@@ -195,3 +195,5 @@ Audit the ads every few days. [L1277, 2020]
 
 
 Part 34 of 35 of "9. Meta and Facebook Ads: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/09-meta-and-facebook-ads.md · Previous: https://dlichters.com/ai/ecom/deep/09-meta-and-facebook-ads/33-lead-generation-engagement-and-audience-building.md · Next: https://dlichters.com/ai/ecom/deep/09-meta-and-facebook-ads/35-other-details.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

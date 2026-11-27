@@ -144,3 +144,5 @@ Black/Color means black text with a color icon, and White/Color means white text
 
 
 Part 11 of 26 of "8. Brand and Positioning: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/08-brand-and-positioning.md · Previous: https://dlichters.com/ai/ecom/deep/08-brand-and-positioning/10-logo-design-and-files.md · Next: https://dlichters.com/ai/ecom/deep/08-brand-and-positioning/12-color-palette.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

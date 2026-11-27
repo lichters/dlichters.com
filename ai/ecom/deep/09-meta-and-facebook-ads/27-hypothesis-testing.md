@@ -65,3 +65,5 @@ Part 27 of 35 of "9. Meta and Facebook Ads: full technical reference". Map of al
 
 
 Part 27 of 35 of "9. Meta and Facebook Ads: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/09-meta-and-facebook-ads.md · Previous: https://dlichters.com/ai/ecom/deep/09-meta-and-facebook-ads/26-diagnosing-performance-metrics-aida-and-benchmarks.md · Next: https://dlichters.com/ai/ecom/deep/09-meta-and-facebook-ads/28-scaling-winning-ad-sets-and-campaigns.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

@@ -114,3 +114,5 @@ The sources disagree on whether content can carry a store alone. [L0326, 2014] d
 
 
 Part 18 of 28 of "1. Business Model and Strategy: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/01-business-model-and-strategy.md · Previous: https://dlichters.com/ai/ecom/deep/01-business-model-and-strategy/17-relationship-based-growth-dream-100-partners-affil.md · Next: https://dlichters.com/ai/ecom/deep/01-business-model-and-strategy/19-seasonality-and-q4-planning.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

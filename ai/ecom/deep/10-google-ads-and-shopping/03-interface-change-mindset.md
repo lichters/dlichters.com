@@ -170,3 +170,5 @@ Both sources agree that search is not the first step. one source's warning appli
 
 
 Part 3 of 56 of "10. Google Ads and Shopping: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/10-google-ads-and-shopping.md · Previous: https://dlichters.com/ai/ecom/deep/10-google-ads-and-shopping/02-ad-types-and-placements.md · Next: https://dlichters.com/ai/ecom/deep/10-google-ads-and-shopping/04-unit-economics-before-spending-break-even-target-r.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

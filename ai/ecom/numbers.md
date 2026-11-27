@@ -81,8 +81,6 @@
 
 **What about taxes?** Set money aside for them and check the rules in your country.
 
-**I am under 18. Can I do this?** Don't wait until 18. Waiting costs you years.
-
 ## Checklist
 
 - [ ] Product costs entered in Shopify
@@ -111,3 +109,5 @@
 - https://dlichters.com/ai/ecom/conversion.md
 - https://dlichters.com/ai/ecom/suppliers.md
 - https://dlichters.com/ai/ecom/index.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

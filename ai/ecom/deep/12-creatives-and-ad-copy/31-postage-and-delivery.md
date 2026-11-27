@@ -55,3 +55,5 @@ Build opening-line ideas from published books:
 
 
 Part 31 of 63 of "12. Creatives and Ad Copy: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/12-creatives-and-ad-copy.md · Previous: https://dlichters.com/ai/ecom/deep/12-creatives-and-ad-copy/30-voice-and-reader-focus.md · Next: https://dlichters.com/ai/ecom/deep/12-creatives-and-ad-copy/32-social-ad-copy-by-platform.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

@@ -3,11 +3,9 @@
 
 > Every rule, number, setting and step we collected on this topic, rewritten in our own words from many e-commerce courses (2021 to 2026). Where advice changed over time, newer advice wins; lines marked "older advice" are kept for context. Short version: https://dlichters.com/ai/ecom/index.md
 
-> Sources: every statement ends with its lesson ids and year, e.g. [L0012, 2023] or [L0458, 2021; L0771, 2025]. Which course and topic each id is: https://dlichters.com/ai/ecom/sources.md . When statements disagree, prefer the newer year.
+> Sources: every statement ends with its lesson ids and year, e.g. [L0012, 2023] or [L0458, 2021; L0771, 2025]. When statements disagree, prefer the newer year.
 
 All chapters: https://dlichters.com/ai/ecom/deep/index.md
-
-Also check: https://dlichters.com/ai/ecom/deep/23-missing-from-lessons/01-contents.md (section "11 TikTok and short video") ; https://dlichters.com/ai/ecom/deep/25-full-audit-details/11-tiktok-and-short-video.md (section "11 TikTok and Short Video")
 
 
 **This chapter is split into 14 pages of at most about 4,000 words so an AI can open exactly the part it needs. Pick the page whose headings match the question, open it, and answer only from what it says.**
@@ -40,3 +38,5 @@ Also check: https://dlichters.com/ai/ecom/deep/23-missing-from-lessons/01-conten
    Instagram Reels and Trial Reels · Account setup and first weeks · Reach expectations and platform value · Cross-posting TikTok videos to Reels · Downloading and removing watermarks · Upload quality and format · Edits app · Trial Reels: principle · Trial Reels: upload steps · Trial Reels: settings · Trial Reels: mistakes to avoid · Trial Reels: starter routine · Engagement drivers · Threads and Facebook cross-posting · Instagram ranking: dos and don'ts · Instagram growth versus sales
 14. https://dlichters.com/ai/ecom/deep/11-tiktok-and-short-video/14-youtube-shorts-snapchat-pinterest-and-other-short.md (2,301 words)
    YouTube Shorts, Snapchat, Pinterest and Other Short-Video Channels · Choosing platforms for short video · Multi-platform posting routine · YouTube Shorts strategy · YouTube Shorts ads · YouTube Shorts viewer and creator features · Snapchat Spotlight and Now Playing · Snapchat Snap Map sharing · TikTok feature updates · Pinterest with Autopin · Reddit · Content Strategy, Brand Voice and Long-Term Growth · Content pillars and weekly plans · Evergreen versus trend content · Brand voice and format · Personal creator accounts and product accounts · Volume benchmarks · AI-generated faceless content · General social media growth principles · Live streaming · Branded challenges · Other details · Product before filming · Store setup before contacting suppliers · Technical limits on Shopify · Testing before scaling · Local reach with TikTok's local feed
+
+Topic map (all pages): https://dlichters.com/ai/index.md

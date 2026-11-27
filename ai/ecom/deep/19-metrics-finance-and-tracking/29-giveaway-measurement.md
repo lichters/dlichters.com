@@ -54,3 +54,5 @@ Part 29 of 46 of "19. Metrics Finance and Tracking: full technical reference". M
 
 
 Part 29 of 46 of "19. Metrics Finance and Tracking: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/19-metrics-finance-and-tracking.md · Previous: https://dlichters.com/ai/ecom/deep/19-metrics-finance-and-tracking/28-email-retargeting-and-owned-channel-metrics.md · Next: https://dlichters.com/ai/ecom/deep/19-metrics-finance-and-tracking/30-influencer-affiliate-organic-and-content-measureme.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

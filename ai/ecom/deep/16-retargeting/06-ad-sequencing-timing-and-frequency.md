@@ -239,3 +239,5 @@ Part 6 of 10 of "16. Retargeting: full technical reference". Map of all parts: h
 
 
 Part 6 of 10 of "16. Retargeting: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/16-retargeting.md · Previous: https://dlichters.com/ai/ecom/deep/16-retargeting/05-retargeting-ad-types-and-creative.md · Next: https://dlichters.com/ai/ecom/deep/16-retargeting/07-abandoned-cart-and-checkout-recovery.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

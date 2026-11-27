@@ -215,3 +215,5 @@ Sections available in the Shrine Pro theme editor, grouped as shown in Customize
 
 
 Part 25 of 49 of "4. Store Build and Shopify: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/04-store-build-and-shopify.md · Previous: https://dlichters.com/ai/ecom/deep/04-store-build-and-shopify/24-hiding-vs-deleting-sections.md · Next: https://dlichters.com/ai/ecom/deep/04-store-build-and-shopify/26-demo-store-for-supplier-approval.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

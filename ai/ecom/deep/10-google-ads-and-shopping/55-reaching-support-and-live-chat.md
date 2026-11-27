@@ -140,3 +140,5 @@ Handling a Google Merchant Center suspension:
 
 
 Part 55 of 56 of "10. Google Ads and Shopping: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/10-google-ads-and-shopping.md · Previous: https://dlichters.com/ai/ecom/deep/10-google-ads-and-shopping/54-account-suspensions-appeals-and-google-support.md · Next: https://dlichters.com/ai/ecom/deep/10-google-ads-and-shopping/56-other-details.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

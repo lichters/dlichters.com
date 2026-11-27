@@ -188,3 +188,5 @@ Part 44 of 49 of "4. Store Build and Shopify: full technical reference". Map of 
 
 
 Part 44 of 49 of "4. Store Build and Shopify: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/04-store-build-and-shopify.md · Previous: https://dlichters.com/ai/ecom/deep/04-store-build-and-shopify/43-speed-apps-and-technical-health.md · Next: https://dlichters.com/ai/ecom/deep/04-store-build-and-shopify/45-pre-launch-testing-and-go-live.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

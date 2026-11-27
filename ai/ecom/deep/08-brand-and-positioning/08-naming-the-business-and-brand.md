@@ -214,3 +214,5 @@ Do not accept the first suggestion. Choose the final name yourself from the AI's
 
 
 Part 8 of 26 of "8. Brand and Positioning: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/08-brand-and-positioning.md · Previous: https://dlichters.com/ai/ecom/deep/08-brand-and-positioning/07-brand-foundation-vision-mission-values-and-the-bra.md · Next: https://dlichters.com/ai/ecom/deep/08-brand-and-positioning/09-domain-selection-and-registration.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

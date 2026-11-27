@@ -51,3 +51,5 @@ Your [core product] is on its way. Many buyers also add the [related product] at
 
 
 Part 16 of 29 of "15. Email and SMS: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/15-email-and-sms.md · Previous: https://dlichters.com/ai/ecom/deep/15-email-and-sms/15-upsell-and-cross-sell-sequences-per-product.md · Next: https://dlichters.com/ai/ecom/deep/15-email-and-sms/17-sms-marketing-compliance-opt-in-and-flows.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

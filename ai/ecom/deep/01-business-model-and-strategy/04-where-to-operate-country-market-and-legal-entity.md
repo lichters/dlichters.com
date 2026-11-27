@@ -189,3 +189,5 @@ Sources differ on timing. Use [L0970, 2023] when a tax professional confirms tha
 
 
 Part 4 of 28 of "1. Business Model and Strategy: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/01-business-model-and-strategy.md · Previous: https://dlichters.com/ai/ecom/deep/01-business-model-and-strategy/03-high-ticket-dropshipping-model-and-unit-economics.md · Next: https://dlichters.com/ai/ecom/deep/01-business-model-and-strategy/05-entity-grouping-for-related-and-unrelated-niches.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

@@ -215,3 +215,5 @@ Set up a Shopify store with a dummy test order before launch:
 
 
 Part 9 of 28 of "1. Business Model and Strategy: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/01-business-model-and-strategy.md · Previous: https://dlichters.com/ai/ecom/deep/01-business-model-and-strategy/08-starting-capital-margins-and-profit-planning.md · Next: https://dlichters.com/ai/ecom/deep/01-business-model-and-strategy/10-suppliers-brands-and-catalog-depth.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

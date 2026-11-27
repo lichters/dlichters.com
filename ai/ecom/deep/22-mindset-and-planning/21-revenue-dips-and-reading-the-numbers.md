@@ -118,3 +118,5 @@ When you hit a wall, follow these four steps in this order:
 
 
 Part 21 of 28 of "22. Mindset and Planning: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/22-mindset-and-planning.md · Previous: https://dlichters.com/ai/ecom/deep/22-mindset-and-planning/20-handle-setbacks-emotions-and-the-long-game.md · Next: https://dlichters.com/ai/ecom/deep/22-mindset-and-planning/22-manage-risk-and-fallback-plans.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

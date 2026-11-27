@@ -218,3 +218,5 @@ Two positions exist. Apply the one that matches your product's trademark situati
 
 
 Part 45 of 56 of "10. Google Ads and Shopping: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/10-google-ads-and-shopping.md · Previous: https://dlichters.com/ai/ecom/deep/10-google-ads-and-shopping/44-when-search-text-ads-add-value.md · Next: https://dlichters.com/ai/ecom/deep/10-google-ads-and-shopping/46-remarketing-audiences-display-and-dynamic-campaign.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

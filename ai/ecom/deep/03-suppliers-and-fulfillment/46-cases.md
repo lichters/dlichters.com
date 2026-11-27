@@ -91,3 +91,5 @@ Clothing development workflow:
 
 
 Part 46 of 51 of "3. Suppliers and Fulfillment: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/03-suppliers-and-fulfillment.md · Previous: https://dlichters.com/ai/ecom/deep/03-suppliers-and-fulfillment/45-samples-tests-and-quality-control.md · Next: https://dlichters.com/ai/ecom/deep/03-suppliers-and-fulfillment/47-building-and-maintaining-supplier-relationships.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

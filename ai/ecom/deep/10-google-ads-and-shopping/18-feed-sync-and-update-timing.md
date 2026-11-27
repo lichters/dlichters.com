@@ -104,3 +104,5 @@ Note on the two approaches: the staged approach above, which holds off linking G
 
 
 Part 18 of 56 of "10. Google Ads and Shopping: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/10-google-ads-and-shopping.md · Previous: https://dlichters.com/ai/ecom/deep/10-google-ads-and-shopping/17-merchant-center-diagnostics-disapprovals-and-free.md · Next: https://dlichters.com/ai/ecom/deep/10-google-ads-and-shopping/19-shopping-campaign-fundamentals-and-the-alpha-beta.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

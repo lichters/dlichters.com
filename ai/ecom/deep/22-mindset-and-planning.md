@@ -3,11 +3,9 @@
 
 > Every rule, number, setting and step we collected on this topic, rewritten in our own words from many e-commerce courses (2021 to 2026). Where advice changed over time, newer advice wins; lines marked "older advice" are kept for context. Short version: https://dlichters.com/ai/ecom/index.md
 
-> Sources: every statement ends with its lesson ids and year, e.g. [L0012, 2023] or [L0458, 2021; L0771, 2025]. Which course and topic each id is: https://dlichters.com/ai/ecom/sources.md . When statements disagree, prefer the newer year.
+> Sources: every statement ends with its lesson ids and year, e.g. [L0012, 2023] or [L0458, 2021; L0771, 2025]. When statements disagree, prefer the newer year.
 
 All chapters: https://dlichters.com/ai/ecom/deep/index.md
-
-Also check: https://dlichters.com/ai/ecom/deep/23-missing-from-lessons/01-contents.md (section "22 Mindset and planning") ; https://dlichters.com/ai/ecom/deep/24-course-d-2026-details/05-22-mindset-and-planning.md (section "22 Mindset and Planning") ; https://dlichters.com/ai/ecom/deep/25-full-audit-details/22-mindset-and-planning.md (section "22 Mindset and Planning")
 
 
 **This chapter is split into 28 pages of at most about 4,000 words so an AI can open exactly the part it needs. Pick the page whose headings match the question, open it, and answer only from what it says.**
@@ -68,3 +66,5 @@ Also check: https://dlichters.com/ai/ecom/deep/23-missing-from-lessons/01-conten
    Plan promotions, seasons and content calendars · Monthly Promotion Calendar · Preparing Promotions Ahead of Time · Seasonal Lead Times · Q4 Preparation · Black Friday and Cyber Monday · Supplier Timing Around Holidays · Content Calendar and Posting Consistency · Content Marketing: Long-Horizon Commitment · Email and Follow-Up · Attention and Opening Seconds · Referral and Thank-You Scheduling · Dream 100 Time Blocks
 28. https://dlichters.com/ai/ecom/deep/22-mindset-and-planning/28-other-details.md (2,367 words)
    Other details · Planning and review routine · Customer and offer definition · Brand building and store quality · Legal, banking and tax setup · Supplier relationships · Competitors and market awareness · Sales conversations (High Probability approach) · Affiliate and lead value · Platform and ad settings · Learning, skills and mindset · Source notes
+
+Topic map (all pages): https://dlichters.com/ai/index.md

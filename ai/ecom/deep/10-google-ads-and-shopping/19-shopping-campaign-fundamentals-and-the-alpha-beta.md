@@ -269,3 +269,5 @@ To unify spending across the Alpha and Beta campaigns: [L0186, undated]
 
 
 Part 19 of 56 of "10. Google Ads and Shopping: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/10-google-ads-and-shopping.md · Previous: https://dlichters.com/ai/ecom/deep/10-google-ads-and-shopping/18-feed-sync-and-update-timing.md · Next: https://dlichters.com/ai/ecom/deep/10-google-ads-and-shopping/20-campaign-priority-and-the-alpha-beta-logic.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

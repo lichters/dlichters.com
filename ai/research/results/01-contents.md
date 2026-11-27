@@ -1,11 +1,11 @@
 <!-- part of research/results.md -->
-Part 1 of 6 of "Research results: everything we asked Perplexity, condensed". Map of all parts: https://dlichters.com/ai/research/results.md · Next: https://dlichters.com/ai/research/results/02-meta-ads-testing-learning-phase-and-kill-rules.md
+Part 1 of 6 of "Research results: e-commerce questions we researched, condensed". Map of all parts: https://dlichters.com/ai/research/results.md · Next: https://dlichters.com/ai/research/results/02-meta-ads-testing-learning-phase-and-kill-rules.md
 
 ## Contents
 
 - [Market and demand (US pet gifts, seasons, breeds)](#market-and-demand-us-pet-gifts-seasons-breeds) (9)
 - [Competitors and their offers](#competitors-and-their-offers) (10)
-- [Product ideas and second products](#product-ideas-and-second-products) (17)
+- [Product ideas and second products](#product-ideas-and-second-products) (16)
 - [Pricing, bundles and shipping-fee tests](#pricing-bundles-and-shipping-fee-tests) (4)
 - [Offer mechanics (gift cards, printables, inserts, editions)](#offer-mechanics-gift-cards-printables-inserts-editions) (9)
 - [Upsells and add-ons](#upsells-and-add-ons) (3)
@@ -38,14 +38,9 @@ Part 1 of 6 of "Research results: everything we asked Perplexity, condensed". Ma
 - [US sales tax](#us-sales-tax) (4)
 - [Other countries: UK, Canada, Australia, New Zealand](#other-countries-uk-canada-australia-new-zealand) (6)
 - [US law: FTC rules, labeling, privacy, imprint](#us-law-ftc-rules-labeling-privacy-imprint) (17)
-- [Minors and payment providers (historical)](#minors-and-payment-providers-historical) (2)
-- [AI tools, Claude, Meta and Shopify connectors](#ai-tools-claude-meta-and-shopify-connectors) (10)
 - [Other tools](#other-tools) (4)
-- [Cold email](#cold-email) (1)
-- ["Who sells this already?" idea checks](#who-sells-this-already-idea-checks) (1)
-- [Founders and billionaires: what the data says](#founders-and-billionaires-what-the-data-says) (3)
 - [Pet safety facts](#pet-safety-facts) (1)
-- [Miscellaneous checked facts](#miscellaneous-checked-facts) (4)
+- [Miscellaneous checked facts](#miscellaneous-checked-facts) (2)
 
 ## Market and demand (US pet gifts, seasons, breeds)
 
@@ -158,9 +153,6 @@ Neutral dog blanket: Kole Imports GR177 at 1.95 USD per piece in SKU lots of 48,
 **Does an organic TikTok hit work with Meta ads?** (2026-10-14)  
 No reliable number. Transfers better: product solves a visible problem, strong demonstration, effect rebuildable in several own creatives. Transfers worse: success tied to the creator, trend/sound, novelty; plus price, margin, saturation, platform differences. Trap: confusing views with sales; compute margin first, test several angles.
 
-**Product existence checks (November)** (2026-11-06)  
-Kids' money book "How Money Actually Works" (Claire Monroe): exists, self-published English edition on Amazon, ages 8-12, 50 big questions, five parts incl. the 2008 crisis. Full-body stretchy sensory sleep pods: 15 storefront domains found, not all verified orderable in the US. 24-day advent calendar with 24 squishy cubes: no exact verified match. Book "Freeze Fresh" (Crystal Schmidt, Storey, ISBN 9781635864472; Amazon dates it 2022): of 9 review snippets, 2 found word-for-word on Goodreads under different reviewer names.
-
 ## Pricing, bundles and shipping-fee tests
 
 **Compare-at price, bundle and urgency rules for a 70 USD seasonal bed** (2026-09-29)  
@@ -257,4 +249,6 @@ No verified US e-commerce CPM for 8-24 Dec. Nearest: 9-15 Dec 2024 Meta CPM 11.0
 Pet CTR 1.64-2.27 %, CPC 0.51-0.78 USD across benchmark sources.
 
 
-Part 1 of 6 of "Research results: everything we asked Perplexity, condensed". Map of all parts: https://dlichters.com/ai/research/results.md · Next: https://dlichters.com/ai/research/results/02-meta-ads-testing-learning-phase-and-kill-rules.md
+Part 1 of 6 of "Research results: e-commerce questions we researched, condensed". Map of all parts: https://dlichters.com/ai/research/results.md · Next: https://dlichters.com/ai/research/results/02-meta-ads-testing-learning-phase-and-kill-rules.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

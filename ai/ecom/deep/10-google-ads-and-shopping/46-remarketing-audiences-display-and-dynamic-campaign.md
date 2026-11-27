@@ -244,3 +244,5 @@ Versions A and B differ in detail. Version A adds headlines and descriptions as 
 
 
 Part 46 of 56 of "10. Google Ads and Shopping: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/10-google-ads-and-shopping.md · Previous: https://dlichters.com/ai/ecom/deep/10-google-ads-and-shopping/45-brand-search-and-competitor-protection.md · Next: https://dlichters.com/ai/ecom/deep/10-google-ads-and-shopping/47-targeting-and-optimized-targeting.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

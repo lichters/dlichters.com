@@ -262,3 +262,5 @@ Format a product description for a short, sales-focused layout:
 
 
 Part 35 of 49 of "4. Store Build and Shopify: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/04-store-build-and-shopify.md · Previous: https://dlichters.com/ai/ecom/deep/04-store-build-and-shopify/34-creating-and-assigning-product-templates.md · Next: https://dlichters.com/ai/ecom/deep/04-store-build-and-shopify/36-product-templates-for-product-types-and-suppliers.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

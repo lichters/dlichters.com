@@ -1,5 +1,5 @@
 <!-- part of research/results.md -->
-Part 2 of 6 of "Research results: everything we asked Perplexity, condensed". Map of all parts: https://dlichters.com/ai/research/results.md · Previous: https://dlichters.com/ai/research/results/01-contents.md · Next: https://dlichters.com/ai/research/results/03-creatives-hooks-video-ugc-ai-images-and-video.md
+Part 2 of 6 of "Research results: e-commerce questions we researched, condensed". Map of all parts: https://dlichters.com/ai/research/results.md · Previous: https://dlichters.com/ai/research/results/01-contents.md · Next: https://dlichters.com/ai/research/results/03-creatives-hooks-video-ugc-ai-images-and-video.md
 
 ## Meta ads: testing, learning phase and kill rules
 
@@ -126,4 +126,6 @@ A not-yet-uploaded video can be referenced via "Video file name" and uploaded in
 In "Facebook & Instagram by Meta" connect the productive dataset by numeric ID, set data sharing "Maximum", and under Settings > Customer events > Facebook & Instagram set "Always on"; remove other installed Meta pixels so pixel and CAPI deduplicate the same purchase (Shopify/Meta, 12 Jan 2026). One correctly received Purchase in the chosen dataset is enough to start purchase optimization.
 
 
-Part 2 of 6 of "Research results: everything we asked Perplexity, condensed". Map of all parts: https://dlichters.com/ai/research/results.md · Previous: https://dlichters.com/ai/research/results/01-contents.md · Next: https://dlichters.com/ai/research/results/03-creatives-hooks-video-ugc-ai-images-and-video.md
+Part 2 of 6 of "Research results: e-commerce questions we researched, condensed". Map of all parts: https://dlichters.com/ai/research/results.md · Previous: https://dlichters.com/ai/research/results/01-contents.md · Next: https://dlichters.com/ai/research/results/03-creatives-hooks-video-ugc-ai-images-and-video.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

@@ -33,3 +33,5 @@ Turning the action list into a work schedule:
 
 
 Part 2 of 30 of "14. SEO and Content: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/14-seo-and-content.md · Previous: https://dlichters.com/ai/ecom/deep/14-seo-and-content/01-seo-strategy-priorities-and-timelines.md · Next: https://dlichters.com/ai/ecom/deep/14-seo-and-content/03-search-console-bing-webmaster-tools-and-sitemaps.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

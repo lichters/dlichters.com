@@ -215,3 +215,5 @@ Procedure for filtering ChatGPT results (keep in order):
 
 
 Part 3 of 54 of "2. Niche and Product Research: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/02-niche-and-product-research.md · Previous: https://dlichters.com/ai/ecom/deep/02-niche-and-product-research/02-brainstorming-niche-ideas.md · Next: https://dlichters.com/ai/ecom/deep/02-niche-and-product-research/04-setting-up-the-research-worksheets-and-trackers.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

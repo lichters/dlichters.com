@@ -61,3 +61,5 @@ Procedure:
 
 
 Part 29 of 40 of "7. Offers Pricing and Bundles: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/07-offers-pricing-and-bundles.md · Previous: https://dlichters.com/ai/ecom/deep/07-offers-pricing-and-bundles/28-risk-reversal-guarantees-and-payment-plans.md · Next: https://dlichters.com/ai/ecom/deep/07-offers-pricing-and-bundles/30-scarcity-urgency-and-price-framing.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

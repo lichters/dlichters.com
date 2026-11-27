@@ -229,3 +229,5 @@ Creating a standard operating procedure tab that holds all repeatable communicat
 
 
 Part 4 of 37 of "20. Scaling Team and Processes: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/20-scaling-team-and-processes.md · Previous: https://dlichters.com/ai/ecom/deep/20-scaling-team-and-processes/03-the-first-hire-and-the-first-assistant.md · Next: https://dlichters.com/ai/ecom/deep/20-scaling-team-and-processes/05-hiring-and-outsourcing.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

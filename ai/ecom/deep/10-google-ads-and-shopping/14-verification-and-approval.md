@@ -31,3 +31,5 @@ Part 14 of 56 of "10. Google Ads and Shopping: full technical reference". Map of
 
 
 Part 14 of 56 of "10. Google Ads and Shopping: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/10-google-ads-and-shopping.md · Previous: https://dlichters.com/ai/ecom/deep/10-google-ads-and-shopping/13-product-identifiers.md · Next: https://dlichters.com/ai/ecom/deep/10-google-ads-and-shopping/15-feed-optimization-titles-images-descriptions-and-p.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

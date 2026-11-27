@@ -110,3 +110,5 @@
 - https://dlichters.com/ai/ecom/meta-ads.md
 - https://dlichters.com/ai/ecom/email-sms.md
 - https://dlichters.com/ai/ecom/index.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

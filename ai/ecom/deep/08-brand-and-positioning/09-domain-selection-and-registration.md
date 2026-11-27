@@ -143,3 +143,5 @@ Output: return exactly 25 results. For each, list Domain, Word Count, Structure,
 
 
 Part 9 of 26 of "8. Brand and Positioning: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/08-brand-and-positioning.md · Previous: https://dlichters.com/ai/ecom/deep/08-brand-and-positioning/08-naming-the-business-and-brand.md · Next: https://dlichters.com/ai/ecom/deep/08-brand-and-positioning/10-logo-design-and-files.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

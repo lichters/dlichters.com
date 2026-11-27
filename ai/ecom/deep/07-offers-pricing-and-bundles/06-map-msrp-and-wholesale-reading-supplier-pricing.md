@@ -237,3 +237,5 @@ Hi [sales rep name], I am seeing [competitor store name] selling [product name] 
 
 
 Part 6 of 40 of "7. Offers Pricing and Bundles: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/07-offers-pricing-and-bundles.md · Previous: https://dlichters.com/ai/ecom/deep/07-offers-pricing-and-bundles/05-setting-the-base-selling-price.md · Next: https://dlichters.com/ai/ecom/deep/07-offers-pricing-and-bundles/07-pricing-products-from-suppliers-without-map.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

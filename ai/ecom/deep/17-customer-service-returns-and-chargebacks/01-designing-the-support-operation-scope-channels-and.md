@@ -106,3 +106,5 @@ Stage summary:
 
 
 Part 1 of 23 of "17. Customer Service Returns and Chargebacks: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/17-customer-service-returns-and-chargebacks.md · Next: https://dlichters.com/ai/ecom/deep/17-customer-service-returns-and-chargebacks/02-setting-up-contact-points-phone-email-chat-and-con.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

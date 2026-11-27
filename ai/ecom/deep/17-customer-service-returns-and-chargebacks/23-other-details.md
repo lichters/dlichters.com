@@ -185,3 +185,5 @@ Older advice, one source 2021-22.
 
 
 Part 23 of 23 of "17. Customer Service Returns and Chargebacks: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/17-customer-service-returns-and-chargebacks.md · Previous: https://dlichters.com/ai/ecom/deep/17-customer-service-returns-and-chargebacks/22-abandoned-carts-leads-and-sales-follow-up.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

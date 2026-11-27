@@ -177,3 +177,5 @@ Part 19 of 54 of "2. Niche and Product Research: full technical reference". Map 
 
 
 Part 19 of 54 of "2. Niche and Product Research: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/02-niche-and-product-research.md · Previous: https://dlichters.com/ai/ecom/deep/02-niche-and-product-research/18-brand-product-and-supplier-count-validation.md · Next: https://dlichters.com/ai/ecom/deep/02-niche-and-product-research/20-competition-and-saturation-at-product-level.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

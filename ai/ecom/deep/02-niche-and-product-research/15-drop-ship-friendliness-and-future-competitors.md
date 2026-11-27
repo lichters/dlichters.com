@@ -223,3 +223,5 @@ Part 15 of 54 of "2. Niche and Product Research: full technical reference". Map 
 
 
 Part 15 of 54 of "2. Niche and Product Research: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/02-niche-and-product-research.md · Previous: https://dlichters.com/ai/ecom/deep/02-niche-and-product-research/14-counting-keyword-volume-with-ubersuggest.md · Next: https://dlichters.com/ai/ecom/deep/02-niche-and-product-research/16-thresholds-for-passing.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

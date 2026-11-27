@@ -200,3 +200,5 @@ Examples in this pattern:
 
 
 Part 4 of 14 of "11. TikTok and Short Video: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/11-tiktok-and-short-video.md · Previous: https://dlichters.com/ai/ecom/deep/11-tiktok-and-short-video/03-product-research-and-competitor-spying-on-tiktok.md · Next: https://dlichters.com/ai/ecom/deep/11-tiktok-and-short-video/05-filming-editing-and-sound.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

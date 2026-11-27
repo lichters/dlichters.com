@@ -166,3 +166,5 @@ The figures below come from different margin structures and eras. Apply each onl
 
 
 Part 8 of 46 of "19. Metrics Finance and Tracking: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/19-metrics-finance-and-tracking.md · Previous: https://dlichters.com/ai/ecom/deep/19-metrics-finance-and-tracking/07-profitable-traffic-calculators.md · Next: https://dlichters.com/ai/ecom/deep/19-metrics-finance-and-tracking/09-traffic-conversion-and-funnel-math-for-planning.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

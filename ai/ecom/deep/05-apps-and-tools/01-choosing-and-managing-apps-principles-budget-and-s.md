@@ -250,3 +250,5 @@ The setup order is for a dropshipping store and is taught in the course as a seq
 
 
 Part 1 of 41 of "5. Apps and Tools: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/05-apps-and-tools.md · Next: https://dlichters.com/ai/ecom/deep/05-apps-and-tools/02-finding-apps-that-competitors-use.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

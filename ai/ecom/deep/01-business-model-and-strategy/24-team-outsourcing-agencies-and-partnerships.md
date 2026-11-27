@@ -119,3 +119,5 @@ Part 24 of 28 of "1. Business Model and Strategy: full technical reference". Map
 
 
 Part 24 of 28 of "1. Business Model and Strategy: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/01-business-model-and-strategy.md · Previous: https://dlichters.com/ai/ecom/deep/01-business-model-and-strategy/23-long-term-value-and-exit.md · Next: https://dlichters.com/ai/ecom/deep/01-business-model-and-strategy/25-planning-vision-goals-and-operator-mindset.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

@@ -129,3 +129,5 @@ Part 4 of 41 of "5. Apps and Tools: full technical reference". Map of all parts:
 
 
 Part 4 of 41 of "5. Apps and Tools: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/05-apps-and-tools.md · Previous: https://dlichters.com/ai/ecom/deep/05-apps-and-tools/03-domain-business-email-and-phone-setup.md · Next: https://dlichters.com/ai/ecom/deep/05-apps-and-tools/05-team-workspace-project-management-and-hiring-tools.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

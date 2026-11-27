@@ -212,3 +212,5 @@ LyveComWidget.mount({
 
 
 Part 40 of 41 of "5. Apps and Tools: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/05-apps-and-tools.md · Previous: https://dlichters.com/ai/ecom/deep/05-apps-and-tools/39-finance-tax-and-business-admin-tools.md · Next: https://dlichters.com/ai/ecom/deep/05-apps-and-tools/41-other-details.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

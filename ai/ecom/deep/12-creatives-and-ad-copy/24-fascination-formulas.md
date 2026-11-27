@@ -174,3 +174,5 @@ Interest copy should describe the end experience, such as comfort, relief or a b
 
 
 Part 24 of 63 of "12. Creatives and Ad Copy: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/12-creatives-and-ad-copy.md · Previous: https://dlichters.com/ai/ecom/deep/12-creatives-and-ad-copy/23-benefits-bullets-and-unique-mechanism.md · Next: https://dlichters.com/ai/ecom/deep/12-creatives-and-ad-copy/25-turn-features-into-benefits.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

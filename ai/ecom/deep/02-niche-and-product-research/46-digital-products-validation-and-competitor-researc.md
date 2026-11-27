@@ -115,3 +115,5 @@ The sources give both signals: customized gifts can outperform broad jewelry [L1
 
 
 Part 46 of 54 of "2. Niche and Product Research: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/02-niche-and-product-research.md · Previous: https://dlichters.com/ai/ecom/deep/02-niche-and-product-research/45-specialty-product-types-books-digital-products-pri.md · Next: https://dlichters.com/ai/ecom/deep/02-niche-and-product-research/47-seasonality-timing-and-market-selection-by-country.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

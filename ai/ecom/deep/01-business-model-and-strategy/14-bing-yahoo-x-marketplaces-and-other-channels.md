@@ -166,3 +166,5 @@ Part 14 of 28 of "1. Business Model and Strategy: full technical reference". Map
 
 
 Part 14 of 28 of "1. Business Model and Strategy: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/01-business-model-and-strategy.md · Previous: https://dlichters.com/ai/ecom/deep/01-business-model-and-strategy/13-traffic-and-channel-strategy.md · Next: https://dlichters.com/ai/ecom/deep/01-business-model-and-strategy/15-conversion-advertorials-and-funnel-design.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

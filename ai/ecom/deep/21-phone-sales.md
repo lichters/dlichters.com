@@ -3,11 +3,9 @@
 
 > Every rule, number, setting and step we collected on this topic, rewritten in our own words from many e-commerce courses (2021 to 2026). Where advice changed over time, newer advice wins; lines marked "older advice" are kept for context. Short version: https://dlichters.com/ai/ecom/index.md
 
-> Sources: every statement ends with its lesson ids and year, e.g. [L0012, 2023] or [L0458, 2021; L0771, 2025]. Which course and topic each id is: https://dlichters.com/ai/ecom/sources.md . When statements disagree, prefer the newer year.
+> Sources: every statement ends with its lesson ids and year, e.g. [L0012, 2023] or [L0458, 2021; L0771, 2025]. When statements disagree, prefer the newer year.
 
 All chapters: https://dlichters.com/ai/ecom/deep/index.md
-
-Also check: https://dlichters.com/ai/ecom/deep/23-missing-from-lessons/01-contents.md (section "21 Phone sales")
 
 
 **This chapter is split into 7 pages of at most about 4,000 words so an AI can open exactly the part it needs. Pick the page whose headings match the question, open it, and answer only from what it says.**
@@ -26,3 +24,5 @@ Also check: https://dlichters.com/ai/ecom/deep/23-missing-from-lessons/01-conten
    High Probability relationship building and discovery · Relationship phase: purpose and sequence · When the prospect wants to skip the relationship phase · Opening the relationship · Listening and note-taking · Handling negativity · Discovery and disqualification questions · Decision-makers and approvers · Unclear, evasive and conflicting answers · High Probability commitment, conditions and closing · Sequence of the Sale · Closing Through Mutual Commitment · Defining the Conditions of Satisfaction · Making Conditions Measurable · References · Budgetary Quotes · Testing the Commitment · Handling Requests You Cannot Meet · Pushback and Disqualification · Common Mistakes · Worked Cases
 7. https://dlichters.com/ai/ecom/deep/21-phone-sales/07-core-sales-conversation-skills-and-training.md (2,866 words)
    Core sales conversation skills and training · Conversation flow and qualification · Price reveal order · Doing the math for the buyer · Objections · Emotional buyers · Composure and not appearing desperate · Training and role-play drills · Books and learning by doing · Written sales presentations · Staffing, hiring and delegating phone coverage · Decide when to answer the phone yourself and when to hire · Timing the first hire · Virtual assistants and remote coverage · Who to hire for phone work · Vetting and interview tests · Trial and pay structure · Daily performance tracking · Outsourcing outbound work · Measuring phone sales and ad attribution · Measuring offline and phone sales · Adjusting the target ROAS for offline sales · Diagnosing the funnel before blaming the creative · Support resources and miscellaneous notes · Testing products and offers · Case: baby gyro ball · Native ad networks · Creative formats and attention metrics · Presenter-led video · Coaching calls and private mentorship · Partner choice · Other details · Planning the sales process · Checking outside advice against your store · Matching the offer to the buyer · Negotiating with freight companies
+
+Topic map (all pages): https://dlichters.com/ai/index.md

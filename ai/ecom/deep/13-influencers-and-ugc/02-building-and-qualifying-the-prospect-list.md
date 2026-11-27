@@ -128,3 +128,5 @@ As the proprietor of [STORENAME], you are assembling a list of 100 potential par
 
 
 Part 2 of 14 of "13. Influencers and UGC: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/13-influencers-and-ugc.md · Previous: https://dlichters.com/ai/ecom/deep/13-influencers-and-ugc/01-role-of-influencers-creators-and-ugc-in-the-busine.md · Next: https://dlichters.com/ai/ecom/deep/13-influencers-and-ugc/03-finding-influencers-and-creators.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

@@ -274,3 +274,5 @@ If the pixel was already active and sales had already come through, Purchase app
 
 
 Part 30 of 35 of "9. Meta and Facebook Ads: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/09-meta-and-facebook-ads.md · Previous: https://dlichters.com/ai/ecom/deep/09-meta-and-facebook-ads/29-cbo-scaling-structures.md · Next: https://dlichters.com/ai/ecom/deep/09-meta-and-facebook-ads/31-retargeting-by-timing-and-funnel-position.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

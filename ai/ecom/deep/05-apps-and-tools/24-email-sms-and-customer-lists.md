@@ -251,3 +251,5 @@ Title: {{ item.product.title }}; Quantity: {{ item.quantity }}; Total: {% curren
 
 
 Part 24 of 41 of "5. Apps and Tools: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/05-apps-and-tools.md · Previous: https://dlichters.com/ai/ecom/deep/05-apps-and-tools/23-splice-inshot-edits-imovie-and-tiktok-s-editor.md · Next: https://dlichters.com/ai/ecom/deep/05-apps-and-tools/25-customer-support-live-chat-and-helpdesk.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

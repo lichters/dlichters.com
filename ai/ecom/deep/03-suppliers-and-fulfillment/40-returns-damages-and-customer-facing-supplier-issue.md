@@ -135,3 +135,5 @@ Situation-dependent check, four factors:
 
 
 Part 40 of 51 of "3. Suppliers and Fulfillment: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/03-suppliers-and-fulfillment.md · Previous: https://dlichters.com/ai/ecom/deep/03-suppliers-and-fulfillment/39-backorders-and-customer-communication.md · Next: https://dlichters.com/ai/ecom/deep/03-suppliers-and-fulfillment/41-dropshipping-platforms-and-agents-cj-hyper-rescue.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

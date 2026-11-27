@@ -172,3 +172,5 @@ A UK seasonal dropshipping brand started with about £300 of personal capital an
 
 
 Part 19 of 28 of "1. Business Model and Strategy: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/01-business-model-and-strategy.md · Previous: https://dlichters.com/ai/ecom/deep/01-business-model-and-strategy/18-content-organic-traffic-and-audience-ownership.md · Next: https://dlichters.com/ai/ecom/deep/01-business-model-and-strategy/20-b2b-trade-and-local-service-side-businesses.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

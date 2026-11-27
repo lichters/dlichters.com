@@ -248,3 +248,5 @@ Hi [customer name], this is [your name], the owner of [store name]. I noticed yo
 - See also: the Trojan Horse pop-up (email reveal with 10%, then SMS club upgrade to 15% plus early access to sales and new products) is on https://dlichters.com/ai/ecom/deep/15-email-and-sms/17-sms-marketing-compliance-opt-in-and-flows.md [L0418, 2025-26]
 
 Part 5 of 29 of "15. Email and SMS: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/15-email-and-sms.md · Previous: https://dlichters.com/ai/ecom/deep/15-email-and-sms/04-list-building-and-opt-in-capture.md · Next: https://dlichters.com/ai/ecom/deep/15-email-and-sms/06-lists-segments-exclusions-and-list-hygiene.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

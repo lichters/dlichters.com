@@ -215,3 +215,5 @@ Sources differ by year and by emphasis. Use the supplier's GTIN or UPC when one 
 
 
 Part 13 of 56 of "10. Google Ads and Shopping: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/10-google-ads-and-shopping.md · Previous: https://dlichters.com/ai/ecom/deep/10-google-ads-and-shopping/12-product-feed-setup-and-feed-apps.md · Next: https://dlichters.com/ai/ecom/deep/10-google-ads-and-shopping/14-verification-and-approval.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

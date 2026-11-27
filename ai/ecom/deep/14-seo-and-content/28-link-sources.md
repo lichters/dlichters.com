@@ -219,3 +219,5 @@ Not provided as a separate unit; see the formula above. [L1237, 2021-22]
 
 
 Part 28 of 30 of "14. SEO and Content: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/14-seo-and-content.md · Previous: https://dlichters.com/ai/ecom/deep/14-seo-and-content/27-prospecting-linkers.md · Next: https://dlichters.com/ai/ecom/deep/14-seo-and-content/29-replies-and-negotiation.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

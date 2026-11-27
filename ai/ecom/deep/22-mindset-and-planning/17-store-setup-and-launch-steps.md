@@ -81,3 +81,5 @@ Open for business and let customers find you. Continue adding suppliers and opti
 
 
 Part 17 of 28 of "22. Mindset and Planning: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/22-mindset-and-planning.md · Previous: https://dlichters.com/ai/ecom/deep/22-mindset-and-planning/16-decide-fast-and-launch-imperfectly.md · Next: https://dlichters.com/ai/ecom/deep/22-mindset-and-planning/18-run-tests-with-budgets-hypotheses-and-kill-rules.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

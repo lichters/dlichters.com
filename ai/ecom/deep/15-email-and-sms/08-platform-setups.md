@@ -234,3 +234,5 @@ Welcome email principle: keep the content educational and avoid hard sales pitch
 
 
 Part 8 of 29 of "15. Email and SMS: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/15-email-and-sms.md · Previous: https://dlichters.com/ai/ecom/deep/15-email-and-sms/07-welcome-series-and-new-subscriber-nurture.md · Next: https://dlichters.com/ai/ecom/deep/15-email-and-sms/09-lead-magnet-follow-up-flows.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

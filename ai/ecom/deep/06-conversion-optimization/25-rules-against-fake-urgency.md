@@ -21,3 +21,5 @@ Part 25 of 40 of "6. Conversion Optimization: full technical reference". Map of 
 
 
 Part 25 of 40 of "6. Conversion Optimization: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/06-conversion-optimization.md · Previous: https://dlichters.com/ai/ecom/deep/06-conversion-optimization/24-urgency-scarcity-and-promotions.md · Next: https://dlichters.com/ai/ecom/deep/06-conversion-optimization/26-checkout-payments-and-shipping-friction.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

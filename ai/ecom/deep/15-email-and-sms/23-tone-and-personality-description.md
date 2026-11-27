@@ -151,3 +151,5 @@ Planned sequence of the AI email build [L1361, 2025-26]:
 
 
 Part 23 of 29 of "15. Email and SMS: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/15-email-and-sms.md · Previous: https://dlichters.com/ai/ecom/deep/15-email-and-sms/22-design-method-comparison.md · Next: https://dlichters.com/ai/ecom/deep/15-email-and-sms/24-campaign-cadence-content-mix-and-weekly-email-prog.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

@@ -208,3 +208,5 @@ Open Kalodata's AI assistant (the "Ask about anything on screen" box) while the 
 
 
 Part 41 of 54 of "2. Niche and Product Research: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/02-niche-and-product-research.md · Previous: https://dlichters.com/ai/ecom/deep/02-niche-and-product-research/40-product-testing-checks-mistakes-and-fallbacks.md · Next: https://dlichters.com/ai/ecom/deep/02-niche-and-product-research/42-vetting-viral-accounts.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

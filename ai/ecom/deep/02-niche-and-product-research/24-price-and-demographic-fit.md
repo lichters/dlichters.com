@@ -39,3 +39,5 @@ Part 24 of 54 of "2. Niche and Product Research: full technical reference". Map 
 
 
 Part 24 of 54 of "2. Niche and Product Research: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/02-niche-and-product-research.md · Previous: https://dlichters.com/ai/ecom/deep/02-niche-and-product-research/23-fixing-failed-niches-niching-up-sideways-and-down.md · Next: https://dlichters.com/ai/ecom/deep/02-niche-and-product-research/25-final-niche-decision-verification-and-store-scope.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

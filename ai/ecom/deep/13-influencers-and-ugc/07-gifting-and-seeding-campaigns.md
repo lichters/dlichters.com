@@ -230,3 +230,5 @@ Sources disagree on the rates for small creators. Each row below states the cond
 
 
 Part 7 of 14 of "13. Influencers and UGC: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/13-influencers-and-ugc.md · Previous: https://dlichters.com/ai/ecom/deep/13-influencers-and-ugc/06-outreach-messages-and-sequences.md · Next: https://dlichters.com/ai/ecom/deep/13-influencers-and-ugc/08-briefs-contracts-and-usage-rights.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

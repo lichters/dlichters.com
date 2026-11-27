@@ -291,3 +291,5 @@ If the current theme works, there is no need to switch. [L0968, 2021]
 
 
 Part 13 of 49 of "4. Store Build and Shopify: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/04-store-build-and-shopify.md · Previous: https://dlichters.com/ai/ecom/deep/04-store-build-and-shopify/12-theme-selection-installation-and-migration.md · Next: https://dlichters.com/ai/ecom/deep/04-store-build-and-shopify/14-shrine-pro-setup.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

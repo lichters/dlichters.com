@@ -3,11 +3,9 @@
 
 > Every rule, number, setting and step we collected on this topic, rewritten in our own words from many e-commerce courses (2021 to 2026). Where advice changed over time, newer advice wins; lines marked "older advice" are kept for context. Short version: https://dlichters.com/ai/ecom/index.md
 
-> Sources: every statement ends with its lesson ids and year, e.g. [L0012, 2023] or [L0458, 2021; L0771, 2025]. Which course and topic each id is: https://dlichters.com/ai/ecom/sources.md . When statements disagree, prefer the newer year.
+> Sources: every statement ends with its lesson ids and year, e.g. [L0012, 2023] or [L0458, 2021; L0771, 2025]. When statements disagree, prefer the newer year.
 
 All chapters: https://dlichters.com/ai/ecom/deep/index.md
-
-Also check: https://dlichters.com/ai/ecom/deep/23-missing-from-lessons/01-contents.md (section "13 Influencers and UGC") ; https://dlichters.com/ai/ecom/deep/25-full-audit-details/13-influencers-and-ugc.md (section "13 Influencers and UGC")
 
 
 **This chapter is split into 14 pages of at most about 4,000 words so an AI can open exactly the part it needs. Pick the page whose headings match the question, open it, and answer only from what it says.**
@@ -40,3 +38,5 @@ Also check: https://dlichters.com/ai/ecom/deep/23-missing-from-lessons/01-conten
    Customer-Generated Content and Reviews · Principles: why buyer content matters · Setting up the request system · Request timing · Request email templates · Outreach to customers who have not reviewed · Collecting photos from buyers · Fashion niche: Instagram customer photos · Video reviews and video content · Post-engagement testimonial campaign · Incentives · UGC generator flow · Consent and marketing permission · Supplier review permissions · Importing reviews · Q&A on product pages · Pinterest user content
 14. https://dlichters.com/ai/ecom/deep/13-influencers-and-ugc/14-using-ugc-in-ads-store-and-social-channels.md (2,446 words)
    Using UGC in Ads, Store and Social Channels · Paid ads: why UGC works · Paid ads: where the traffic goes · Paid ads: whitelisting and brand pages · Paid ads: boosting organic content · Paid ads: borrowed clips and copyright · Ad iteration: fixing low-attention ads · Converting winning UGC into other formats · Product pages and testimonial sections · Review proof blocks · Messenger social proof · Video bubbles on the website · Shoppable social galleries · Scaling case: UGC as the main lever · Tracking, Measuring and Iterating · Measuring Influencer Results: Principles and Priorities · Platform Analytics and Engagement Data · Influencer Platforms and Campaign Analytics · Brand Mentions and Audience Feedback · Sales, Conversion and Unique Codes · Campaign Evaluation Sequence · Deciding Which Partners to Repeat · Other details · Creative assets · TikTok ad testing · Pinterest group boards · Customer collection letters · Coaching calls
+
+Topic map (all pages): https://dlichters.com/ai/index.md

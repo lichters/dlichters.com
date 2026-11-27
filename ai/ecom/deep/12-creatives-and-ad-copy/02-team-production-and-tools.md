@@ -181,3 +181,5 @@ Values read from the transcript; a dash means the value was not legible or not s
 
 
 Part 2 of 63 of "12. Creatives and Ad Copy: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/12-creatives-and-ad-copy.md · Previous: https://dlichters.com/ai/ecom/deep/12-creatives-and-ad-copy/01-creative-strategy-and-the-production-system.md · Next: https://dlichters.com/ai/ecom/deep/12-creatives-and-ad-copy/03-customer-research-and-voice-of-customer.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

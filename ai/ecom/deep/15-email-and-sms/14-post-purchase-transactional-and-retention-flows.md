@@ -238,3 +238,5 @@ Your reply can be a single phrase such as "great price" or a long story, whateve
 
 
 Part 14 of 29 of "15. Email and SMS: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/15-email-and-sms.md · Previous: https://dlichters.com/ai/ecom/deep/15-email-and-sms/13-browse-abandonment-manual-cart-recovery-and-person.md · Next: https://dlichters.com/ai/ecom/deep/15-email-and-sms/15-upsell-and-cross-sell-sequences-per-product.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

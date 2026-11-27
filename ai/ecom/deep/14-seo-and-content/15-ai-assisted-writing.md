@@ -87,3 +87,5 @@ Run the product page on-page SEO checklist in this order:
 
 
 Part 15 of 30 of "14. SEO and Content: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/14-seo-and-content.md · Previous: https://dlichters.com/ai/ecom/deep/14-seo-and-content/14-product-page-seo.md · Next: https://dlichters.com/ai/ecom/deep/14-seo-and-content/16-collection-page-seo.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

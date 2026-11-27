@@ -186,3 +186,5 @@ Part 14 of 34 of "18. Legal Tax Banking and Payments: full technical reference".
 
 
 Part 14 of 34 of "18. Legal Tax Banking and Payments: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/18-legal-tax-banking-and-payments.md · Previous: https://dlichters.com/ai/ecom/deep/18-legal-tax-banking-and-payments/13-business-banking-and-separating-finances.md · Next: https://dlichters.com/ai/ecom/deep/18-legal-tax-banking-and-payments/15-redeeming-points.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

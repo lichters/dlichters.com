@@ -168,3 +168,5 @@ The revenue thresholds from different units apply at different stages and do not
 
 
 Part 9 of 40 of "6. Conversion Optimization: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/06-conversion-optimization.md · Previous: https://dlichters.com/ai/ecom/deep/06-conversion-optimization/08-matching-traffic-to-awareness-stage-and-page-type.md · Next: https://dlichters.com/ai/ecom/deep/06-conversion-optimization/10-offer-design-and-positioning-against-competitors.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

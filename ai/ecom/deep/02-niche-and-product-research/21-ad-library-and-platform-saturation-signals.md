@@ -235,3 +235,5 @@ When a product is old or already strongly competed, differentiate through one of
 
 
 Part 21 of 54 of "2. Niche and Product Research: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/02-niche-and-product-research.md · Previous: https://dlichters.com/ai/ecom/deep/02-niche-and-product-research/20-competition-and-saturation-at-product-level.md · Next: https://dlichters.com/ai/ecom/deep/02-niche-and-product-research/22-ecommerce-research-practice-rule-summaries-for-pro.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

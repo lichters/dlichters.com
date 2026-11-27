@@ -68,3 +68,5 @@ Note on conflicting advice on AI people: real users build trust faster early on,
 
 
 Part 53 of 63 of "12. Creatives and Ad Copy: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/12-creatives-and-ad-copy.md · Previous: https://dlichters.com/ai/ecom/deep/12-creatives-and-ad-copy/52-ad-images-from-competitor-references-and-style-cop.md · Next: https://dlichters.com/ai/ecom/deep/12-creatives-and-ad-copy/54-sourcing-creatives-creators-and-outsourcing.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

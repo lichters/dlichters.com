@@ -162,3 +162,5 @@ Part 12 of 49 of "4. Store Build and Shopify: full technical reference". Map of 
 
 
 Part 12 of 49 of "4. Store Build and Shopify: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/04-store-build-and-shopify.md · Previous: https://dlichters.com/ai/ecom/deep/04-store-build-and-shopify/11-trust-badges-guarantees-and-checkout-banner.md · Next: https://dlichters.com/ai/ecom/deep/04-store-build-and-shopify/13-uploading-a-zip-file.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

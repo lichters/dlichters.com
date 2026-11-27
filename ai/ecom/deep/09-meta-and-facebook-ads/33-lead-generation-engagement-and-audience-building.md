@@ -152,3 +152,5 @@ Part 33 of 35 of "9. Meta and Facebook Ads: full technical reference". Map of al
 
 
 Part 33 of 35 of "9. Meta and Facebook Ads: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/09-meta-and-facebook-ads.md · Previous: https://dlichters.com/ai/ecom/deep/09-meta-and-facebook-ads/32-starting-and-restarting-campaigns.md · Next: https://dlichters.com/ai/ecom/deep/09-meta-and-facebook-ads/34-seasonality-market-conditions-and-special-cases.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

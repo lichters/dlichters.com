@@ -272,3 +272,5 @@ A typical e-commerce site has three levels, with the homepage at the top:
 
 
 Part 20 of 49 of "4. Store Build and Shopify: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/04-store-build-and-shopify.md · Previous: https://dlichters.com/ai/ecom/deep/04-store-build-and-shopify/19-navigation-and-menus.md · Next: https://dlichters.com/ai/ecom/deep/04-store-build-and-shopify/21-search-bar-in-the-header.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

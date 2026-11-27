@@ -58,3 +58,5 @@ pintrk('track', 'checkout', {
 
 
 Part 39 of 40 of "6. Conversion Optimization: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/06-conversion-optimization.md · Previous: https://dlichters.com/ai/ecom/deep/06-conversion-optimization/38-platform-specific-conversion-tactics.md · Next: https://dlichters.com/ai/ecom/deep/06-conversion-optimization/40-other-details.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

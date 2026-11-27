@@ -141,3 +141,5 @@ Part 17 of 30 of "14. SEO and Content: full technical reference". Map of all par
 
 
 Part 17 of 30 of "14. SEO and Content: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/14-seo-and-content.md · Previous: https://dlichters.com/ai/ecom/deep/14-seo-and-content/16-collection-page-seo.md · Next: https://dlichters.com/ai/ecom/deep/14-seo-and-content/18-blog-and-content-page-writing-standards.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

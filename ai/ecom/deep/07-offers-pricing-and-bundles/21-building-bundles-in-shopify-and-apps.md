@@ -217,3 +217,5 @@ Part 21 of 40 of "7. Offers Pricing and Bundles: full technical reference". Map 
 
 
 Part 21 of 40 of "7. Offers Pricing and Bundles: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/07-offers-pricing-and-bundles.md · Previous: https://dlichters.com/ai/ecom/deep/07-offers-pricing-and-bundles/20-bundle-offers-and-where-to-put-free-shipping.md · Next: https://dlichters.com/ai/ecom/deep/07-offers-pricing-and-bundles/22-rebuy-smart-cart-tiered-progress-bar-and-discount.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

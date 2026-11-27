@@ -74,3 +74,5 @@ Part 3 of 23 of "17. Customer Service Returns and Chargebacks: full technical re
 
 
 Part 3 of 23 of "17. Customer Service Returns and Chargebacks: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/17-customer-service-returns-and-chargebacks.md · Previous: https://dlichters.com/ai/ecom/deep/17-customer-service-returns-and-chargebacks/02-setting-up-contact-points-phone-email-chat-and-con.md · Next: https://dlichters.com/ai/ecom/deep/17-customer-service-returns-and-chargebacks/04-hiring-briefing-and-managing-support-staff-and-vir.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

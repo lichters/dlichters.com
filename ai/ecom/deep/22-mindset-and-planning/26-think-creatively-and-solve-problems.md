@@ -225,3 +225,5 @@ Keep the verdict short and tie every action to either a new visitor or a new cus
 
 
 Part 26 of 28 of "22. Mindset and Planning: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/22-mindset-and-planning.md · Previous: https://dlichters.com/ai/ecom/deep/22-mindset-and-planning/25-work-with-partners-family-team-and-delegation.md · Next: https://dlichters.com/ai/ecom/deep/22-mindset-and-planning/27-plan-promotions-seasons-and-content-calendars.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

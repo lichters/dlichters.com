@@ -104,3 +104,5 @@ Part 25 of 63 of "12. Creatives and Ad Copy: full technical reference". Map of a
 
 
 Part 25 of 63 of "12. Creatives and Ad Copy: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/12-creatives-and-ad-copy.md · Previous: https://dlichters.com/ai/ecom/deep/12-creatives-and-ad-copy/24-fascination-formulas.md · Next: https://dlichters.com/ai/ecom/deep/12-creatives-and-ad-copy/26-offers-urgency-scarcity-and-calls-to-action.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

@@ -137,3 +137,5 @@ What is the demographic of buyers of [horse saddles]? Tell me where they are loc
 
 
 Part 11 of 54 of "2. Niche and Product Research: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/02-niche-and-product-research.md · Previous: https://dlichters.com/ai/ecom/deep/02-niche-and-product-research/10-customer-demographics-and-brand-loyalty.md · Next: https://dlichters.com/ai/ecom/deep/02-niche-and-product-research/12-demand-seasonality-and-evergreen-testing.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

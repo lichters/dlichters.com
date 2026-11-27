@@ -118,3 +118,5 @@ Part 19 of 37 of "20. Scaling Team and Processes: full technical reference". Map
 
 
 Part 19 of 37 of "20. Scaling Team and Processes: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/20-scaling-team-and-processes.md · Previous: https://dlichters.com/ai/ecom/deep/20-scaling-team-and-processes/18-delegating-operations-customer-service-fulfillment.md · Next: https://dlichters.com/ai/ecom/deep/20-scaling-team-and-processes/20-delegating-content-creative-and-link-building.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

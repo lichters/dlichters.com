@@ -235,3 +235,5 @@ Steps to produce and deliver the ebook bonus:
 
 
 Part 38 of 49 of "4. Store Build and Shopify: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/04-store-build-and-shopify.md · Previous: https://dlichters.com/ai/ecom/deep/04-store-build-and-shopify/37-discounts-offers-email-capture-and-post-purchase.md · Next: https://dlichters.com/ai/ecom/deep/04-store-build-and-shopify/39-4-store-build-and-shopify-full-technical-reference.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

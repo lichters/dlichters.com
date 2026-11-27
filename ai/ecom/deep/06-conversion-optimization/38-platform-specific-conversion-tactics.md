@@ -253,3 +253,5 @@ Split-test landing page themes before anything else:
 
 
 Part 38 of 40 of "6. Conversion Optimization: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/06-conversion-optimization.md · Previous: https://dlichters.com/ai/ecom/deep/06-conversion-optimization/37-where-sources-disagree.md · Next: https://dlichters.com/ai/ecom/deep/06-conversion-optimization/39-pinterest-conversion-setup.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

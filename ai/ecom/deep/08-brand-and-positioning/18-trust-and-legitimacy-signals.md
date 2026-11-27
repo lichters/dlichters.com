@@ -213,3 +213,5 @@ Creating an authorized retailer badge (procedure merged from two units that desc
 
 
 Part 18 of 26 of "8. Brand and Positioning: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/08-brand-and-positioning.md · Previous: https://dlichters.com/ai/ecom/deep/08-brand-and-positioning/17-about-us-page-and-brand-story.md · Next: https://dlichters.com/ai/ecom/deep/08-brand-and-positioning/19-social-media-accounts-and-profile-setup.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

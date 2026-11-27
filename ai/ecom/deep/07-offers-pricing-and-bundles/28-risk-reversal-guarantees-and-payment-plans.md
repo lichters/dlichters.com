@@ -155,3 +155,5 @@ Procedure:
 
 
 Part 28 of 40 of "7. Offers Pricing and Bundles: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/07-offers-pricing-and-bundles.md · Previous: https://dlichters.com/ai/ecom/deep/07-offers-pricing-and-bundles/27-repeat-business-and-customer-research.md · Next: https://dlichters.com/ai/ecom/deep/07-offers-pricing-and-bundles/29-financing-options-shop-pay-klarna-affirm-paypal-cr.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

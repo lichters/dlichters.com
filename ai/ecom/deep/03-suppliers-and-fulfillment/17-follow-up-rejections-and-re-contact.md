@@ -239,3 +239,5 @@ Hi [Contact Name], I've been following up for a few weeks now, and we're really 
 
 
 Part 17 of 51 of "3. Suppliers and Fulfillment: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/03-suppliers-and-fulfillment.md · Previous: https://dlichters.com/ai/ecom/deep/03-suppliers-and-fulfillment/16-warehouse-and-stock-questions.md · Next: https://dlichters.com/ai/ecom/deep/03-suppliers-and-fulfillment/18-holiday-and-peak-season-timing.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

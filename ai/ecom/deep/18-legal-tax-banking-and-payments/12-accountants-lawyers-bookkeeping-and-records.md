@@ -169,3 +169,5 @@ Tax rules vary by state and country, so no single accountant is the right choice
 
 
 Part 12 of 34 of "18. Legal Tax Banking and Payments: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/18-legal-tax-banking-and-payments.md · Previous: https://dlichters.com/ai/ecom/deep/18-legal-tax-banking-and-payments/11-income-tax-salary-vs-distributions-and-tax-plannin.md · Next: https://dlichters.com/ai/ecom/deep/18-legal-tax-banking-and-payments/13-business-banking-and-separating-finances.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

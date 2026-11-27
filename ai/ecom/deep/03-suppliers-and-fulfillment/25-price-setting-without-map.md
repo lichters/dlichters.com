@@ -192,3 +192,5 @@ Hi [supplier contact name], thanks for sending the link to [competitor store URL
 
 
 Part 25 of 51 of "3. Suppliers and Fulfillment: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/03-suppliers-and-fulfillment.md · Previous: https://dlichters.com/ai/ecom/deep/03-suppliers-and-fulfillment/24-map-violations-detection-reporting-and-enforcement.md · Next: https://dlichters.com/ai/ecom/deep/03-suppliers-and-fulfillment/26-getting-product-data-and-uploading-the-catalog.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

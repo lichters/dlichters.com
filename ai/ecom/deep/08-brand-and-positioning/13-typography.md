@@ -255,3 +255,5 @@ Develop your brand identity and communication style for email marketing through 
 
 
 Part 13 of 26 of "8. Brand and Positioning: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/08-brand-and-positioning.md · Previous: https://dlichters.com/ai/ecom/deep/08-brand-and-positioning/12-color-palette.md · Next: https://dlichters.com/ai/ecom/deep/08-brand-and-positioning/14-brand-voice-and-messaging.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

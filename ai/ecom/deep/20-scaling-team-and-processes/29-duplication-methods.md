@@ -140,3 +140,5 @@ Part 29 of 37 of "20. Scaling Team and Processes: full technical reference". Map
 
 
 Part 29 of 37 of "20. Scaling Team and Processes: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/20-scaling-team-and-processes.md · Previous: https://dlichters.com/ai/ecom/deep/20-scaling-team-and-processes/28-scaling-meta-ads.md · Next: https://dlichters.com/ai/ecom/deep/20-scaling-team-and-processes/30-scaling-tiktok-pinterest-and-other-channels.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

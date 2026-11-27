@@ -29,3 +29,5 @@ Part 14 of 40 of "7. Offers Pricing and Bundles: full technical reference". Map 
 
 
 Part 14 of 40 of "7. Offers Pricing and Bundles: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/07-offers-pricing-and-bundles.md · Previous: https://dlichters.com/ai/ecom/deep/07-offers-pricing-and-bundles/13-free-shipping-shipping-fees-and-delivery-upgrades.md · Next: https://dlichters.com/ai/ecom/deep/07-offers-pricing-and-bundles/15-bonuses-and-free-gifts.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

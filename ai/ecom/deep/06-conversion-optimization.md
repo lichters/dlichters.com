@@ -3,11 +3,9 @@
 
 > Every rule, number, setting and step we collected on this topic, rewritten in our own words from many e-commerce courses (2021 to 2026). Where advice changed over time, newer advice wins; lines marked "older advice" are kept for context. Short version: https://dlichters.com/ai/ecom/index.md
 
-> Sources: every statement ends with its lesson ids and year, e.g. [L0012, 2023] or [L0458, 2021; L0771, 2025]. Which course and topic each id is: https://dlichters.com/ai/ecom/sources.md . When statements disagree, prefer the newer year.
+> Sources: every statement ends with its lesson ids and year, e.g. [L0012, 2023] or [L0458, 2021; L0771, 2025]. When statements disagree, prefer the newer year.
 
 All chapters: https://dlichters.com/ai/ecom/deep/index.md
-
-Also check: https://dlichters.com/ai/ecom/deep/23-missing-from-lessons/01-contents.md (section "06 Conversion optimization") ; https://dlichters.com/ai/ecom/deep/24-course-d-2026-details/01-when-to-read-this.md (section "06 Conversion Optimization") ; https://dlichters.com/ai/ecom/deep/25-full-audit-details/06-conversion-optimization.md (section "06 Conversion Optimization")
 
 
 **This chapter is split into 40 pages of at most about 4,000 words so an AI can open exactly the part it needs. Pick the page whose headings match the question, open it, and answer only from what it says.**
@@ -92,3 +90,5 @@ Also check: https://dlichters.com/ai/ecom/deep/23-missing-from-lessons/01-conten
    Pinterest conversion setup · TikTok conversion setup · Common mistakes
 40. https://dlichters.com/ai/ecom/deep/06-conversion-optimization/40-other-details.md (481 words)
    Other details · Foundations for conversion · Sales channels and store setup · Product images in Search product ads · SEO titles and SKUs · Ad funnel · Affiliate banners in Refersion · Trade buyer capture (2024) · Returns benchmark · Case: high Facebook CTR, no sales
+
+Topic map (all pages): https://dlichters.com/ai/index.md

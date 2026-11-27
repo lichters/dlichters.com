@@ -157,3 +157,5 @@ Part 18 of 40 of "6. Conversion Optimization: full technical reference". Map of 
 
 
 Part 18 of 40 of "6. Conversion Optimization: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/06-conversion-optimization.md · Previous: https://dlichters.com/ai/ecom/deep/06-conversion-optimization/17-small-commitments-and-trial-steps.md · Next: https://dlichters.com/ai/ecom/deep/06-conversion-optimization/19-hero-banners-and-sliders.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

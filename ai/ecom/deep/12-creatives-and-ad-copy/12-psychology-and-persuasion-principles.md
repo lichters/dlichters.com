@@ -171,3 +171,5 @@ The two strongest appeals were sexual companionship and self-improvement. [L0340
 
 
 Part 12 of 63 of "12. Creatives and Ad Copy: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/12-creatives-and-ad-copy.md · Previous: https://dlichters.com/ai/ecom/deep/12-creatives-and-ad-copy/11-language-arbitrage-and-market-adaptation.md · Next: https://dlichters.com/ai/ecom/deep/12-creatives-and-ad-copy/13-social-proof-and-bandwagon.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

@@ -221,3 +221,5 @@ The benchmarks below date from 2020 and are older advice. Check them against cur
 
 
 Part 45 of 46 of "19. Metrics Finance and Tracking: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/19-metrics-finance-and-tracking.md · Previous: https://dlichters.com/ai/ecom/deep/19-metrics-finance-and-tracking/44-valuing-and-selling-a-store-numbers-buyers-check.md · Next: https://dlichters.com/ai/ecom/deep/19-metrics-finance-and-tracking/46-brand-protection-and-infringement-tracking.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

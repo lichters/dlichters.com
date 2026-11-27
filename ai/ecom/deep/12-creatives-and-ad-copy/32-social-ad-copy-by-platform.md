@@ -228,3 +228,5 @@ Great, thanks. I'm also launching retargeting ads on Meta and the Google Display
 
 
 Part 32 of 63 of "12. Creatives and Ad Copy: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/12-creatives-and-ad-copy.md · Previous: https://dlichters.com/ai/ecom/deep/12-creatives-and-ad-copy/31-postage-and-delivery.md · Next: https://dlichters.com/ai/ecom/deep/12-creatives-and-ad-copy/33-tiktok-spark-ads.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

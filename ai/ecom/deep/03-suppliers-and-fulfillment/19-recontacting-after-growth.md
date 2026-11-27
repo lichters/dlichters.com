@@ -198,3 +198,5 @@ Hi [supplier contact name], this is [your name] from [store name]. We spoke on [
 
 
 Part 19 of 51 of "3. Suppliers and Fulfillment: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/03-suppliers-and-fulfillment.md · Previous: https://dlichters.com/ai/ecom/deep/03-suppliers-and-fulfillment/18-holiday-and-peak-season-timing.md · Next: https://dlichters.com/ai/ecom/deep/03-suppliers-and-fulfillment/20-approval-agreements-and-account-setup.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

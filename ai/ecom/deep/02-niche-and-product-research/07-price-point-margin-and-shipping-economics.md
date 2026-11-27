@@ -128,3 +128,5 @@ Part 7 of 54 of "2. Niche and Product Research: full technical reference". Map o
 
 
 Part 7 of 54 of "2. Niche and Product Research: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/02-niche-and-product-research.md · Previous: https://dlichters.com/ai/ecom/deep/02-niche-and-product-research/06-quick-disqualifiers-and-bad-niche-traits.md · Next: https://dlichters.com/ai/ecom/deep/02-niche-and-product-research/08-shipping-size-weight-and-cogs.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

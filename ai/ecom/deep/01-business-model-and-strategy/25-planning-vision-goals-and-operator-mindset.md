@@ -157,3 +157,5 @@ The timeline figures measure different things and do not contradict each other. 
 
 
 Part 25 of 28 of "1. Business Model and Strategy: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/01-business-model-and-strategy.md · Previous: https://dlichters.com/ai/ecom/deep/01-business-model-and-strategy/24-team-outsourcing-agencies-and-partnerships.md · Next: https://dlichters.com/ai/ecom/deep/01-business-model-and-strategy/26-valuing-and-selling-a-store.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

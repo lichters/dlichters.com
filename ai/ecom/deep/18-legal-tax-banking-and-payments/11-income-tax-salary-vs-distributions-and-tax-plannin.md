@@ -158,3 +158,5 @@ Use the rate your accountant confirms for your year and situation. [L0703, 2020-
 
 
 Part 11 of 34 of "18. Legal Tax Banking and Payments: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/18-legal-tax-banking-and-payments.md · Previous: https://dlichters.com/ai/ecom/deep/18-legal-tax-banking-and-payments/10-taxjar-and-other-tools.md · Next: https://dlichters.com/ai/ecom/deep/18-legal-tax-banking-and-payments/12-accountants-lawyers-bookkeeping-and-records.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

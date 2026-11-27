@@ -149,3 +149,5 @@ Use a separate account for product discovery, not your business account. [L0708,
 
 
 Part 3 of 14 of "11. TikTok and Short Video: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/11-tiktok-and-short-video.md · Previous: https://dlichters.com/ai/ecom/deep/11-tiktok-and-short-video/02-devices-vpns-ips-and-multi-account-limits.md · Next: https://dlichters.com/ai/ecom/deep/11-tiktok-and-short-video/04-hooks-scripts-and-video-structure.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

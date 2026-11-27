@@ -112,3 +112,5 @@ Call to action: [clear action, e.g. Shop now, Buy now, Click here, Learn more]
 
 
 Part 17 of 63 of "12. Creatives and Ad Copy: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/12-creatives-and-ad-copy.md · Previous: https://dlichters.com/ai/ecom/deep/12-creatives-and-ad-copy/16-story-and-emotional-frameworks.md · Next: https://dlichters.com/ai/ecom/deep/12-creatives-and-ad-copy/18-headlines.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

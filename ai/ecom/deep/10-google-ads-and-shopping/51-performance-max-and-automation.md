@@ -176,3 +176,5 @@ Act as a senior Google Ads strategist working for eCommerce and DTC brands.
 
 
 Part 51 of 56 of "10. Google Ads and Shopping: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/10-google-ads-and-shopping.md · Previous: https://dlichters.com/ai/ecom/deep/10-google-ads-and-shopping/50-display-ad-formats-and-cta.md · Next: https://dlichters.com/ai/ecom/deep/10-google-ads-and-shopping/52-microsoft-bing-ads.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

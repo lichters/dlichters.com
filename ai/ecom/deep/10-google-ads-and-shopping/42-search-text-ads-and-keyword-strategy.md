@@ -184,3 +184,5 @@ Read each AI-generated keyword in the group against these columns. The Keyword i
 
 
 Part 42 of 56 of "10. Google Ads and Shopping: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/10-google-ads-and-shopping.md · Previous: https://dlichters.com/ai/ecom/deep/10-google-ads-and-shopping/41-location-and-wrong-country-traffic.md · Next: https://dlichters.com/ai/ecom/deep/10-google-ads-and-shopping/43-bidding-and-budget.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

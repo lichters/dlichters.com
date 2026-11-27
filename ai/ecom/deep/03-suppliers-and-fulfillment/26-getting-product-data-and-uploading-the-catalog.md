@@ -239,3 +239,5 @@ Thank you,
 
 
 Part 26 of 51 of "3. Suppliers and Fulfillment: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/03-suppliers-and-fulfillment.md · Previous: https://dlichters.com/ai/ecom/deep/03-suppliers-and-fulfillment/25-price-setting-without-map.md · Next: https://dlichters.com/ai/ecom/deep/03-suppliers-and-fulfillment/27-images-descriptions-and-content-rights.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

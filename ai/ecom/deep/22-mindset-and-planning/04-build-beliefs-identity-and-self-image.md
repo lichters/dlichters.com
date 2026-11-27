@@ -178,3 +178,5 @@ Part 4 of 28 of "22. Mindset and Planning: full technical reference". Map of all
 
 
 Part 4 of 28 of "22. Mindset and Planning: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/22-mindset-and-planning.md · Previous: https://dlichters.com/ai/ecom/deep/22-mindset-and-planning/03-choose-the-kind-of-business-and-set-honest-expecta.md · Next: https://dlichters.com/ai/ecom/deep/22-mindset-and-planning/05-visualization-and-mental-rehearsal.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

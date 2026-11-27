@@ -170,3 +170,5 @@ Each threshold applies to a different decision. Check them in the order they app
 
 
 Part 22 of 28 of "1. Business Model and Strategy: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/01-business-model-and-strategy.md · Previous: https://dlichters.com/ai/ecom/deep/01-business-model-and-strategy/21-scaling-stores-second-stores-multiple-niches-and-d.md · Next: https://dlichters.com/ai/ecom/deep/01-business-model-and-strategy/23-long-term-value-and-exit.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

@@ -193,3 +193,5 @@ Case from the July 2019 coaching call [L0357, 2019, transcript at 28:03]: a stud
 
 
 Part 28 of 56 of "10. Google Ads and Shopping: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/10-google-ads-and-shopping.md · Previous: https://dlichters.com/ai/ecom/deep/10-google-ads-and-shopping/27-ai-assisted-term-audits.md · Next: https://dlichters.com/ai/ecom/deep/10-google-ads-and-shopping/29-segment-bids.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

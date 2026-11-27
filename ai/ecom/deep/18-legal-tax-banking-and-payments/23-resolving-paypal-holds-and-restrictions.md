@@ -75,3 +75,5 @@ Part 23 of 34 of "18. Legal Tax Banking and Payments: full technical reference".
 
 
 Part 23 of 34 of "18. Legal Tax Banking and Payments: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/18-legal-tax-banking-and-payments.md · Previous: https://dlichters.com/ai/ecom/deep/18-legal-tax-banking-and-payments/22-chargebacks-fraud-prevention-and-processor-holds.md · Next: https://dlichters.com/ai/ecom/deep/18-legal-tax-banking-and-payments/24-store-policies-and-legal-pages.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

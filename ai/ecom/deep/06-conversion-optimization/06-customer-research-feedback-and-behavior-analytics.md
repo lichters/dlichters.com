@@ -197,3 +197,5 @@ Replace the bracketed parts with your niche. Use the answers to plan monthly off
 
 
 Part 6 of 40 of "6. Conversion Optimization: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/06-conversion-optimization.md · Previous: https://dlichters.com/ai/ecom/deep/06-conversion-optimization/05-when-to-kill-a-product.md · Next: https://dlichters.com/ai/ecom/deep/06-conversion-optimization/07-ai-driven-cro-audits-setup-procedure-and-prompts.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

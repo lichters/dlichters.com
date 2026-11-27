@@ -139,3 +139,5 @@ Part 19 of 28 of "22. Mindset and Planning: full technical reference". Map of al
 
 
 Part 19 of 28 of "22. Mindset and Planning: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/22-mindset-and-planning.md · Previous: https://dlichters.com/ai/ecom/deep/22-mindset-and-planning/18-run-tests-with-budgets-hypotheses-and-kill-rules.md · Next: https://dlichters.com/ai/ecom/deep/22-mindset-and-planning/20-handle-setbacks-emotions-and-the-long-game.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

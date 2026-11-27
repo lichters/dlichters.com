@@ -155,3 +155,5 @@ Part 25 of 37 of "20. Scaling Team and Processes: full technical reference". Map
 
 
 Part 25 of 37 of "20. Scaling Team and Processes: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/20-scaling-team-and-processes.md · Previous: https://dlichters.com/ai/ecom/deep/20-scaling-team-and-processes/24-access-control-and-account-security-for-helpers.md · Next: https://dlichters.com/ai/ecom/deep/20-scaling-team-and-processes/26-learning-phase-keep-hands-off.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

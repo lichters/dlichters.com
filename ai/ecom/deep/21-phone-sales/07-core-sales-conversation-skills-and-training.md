@@ -283,3 +283,5 @@ Hello, I am comparing quotes for this order. The current quote I have from [OTHE
 
 
 Part 7 of 7 of "21. Phone Sales: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/21-phone-sales.md · Previous: https://dlichters.com/ai/ecom/deep/21-phone-sales/06-high-probability-relationship-building-and-discove.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

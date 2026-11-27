@@ -284,3 +284,5 @@ A government agency placed a sizable order, but the manufacturer had discontinue
 
 
 Part 39 of 51 of "3. Suppliers and Fulfillment: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/03-suppliers-and-fulfillment.md · Previous: https://dlichters.com/ai/ecom/deep/03-suppliers-and-fulfillment/38-inventory-stock-outs-and-backorders.md · Next: https://dlichters.com/ai/ecom/deep/03-suppliers-and-fulfillment/40-returns-damages-and-customer-facing-supplier-issue.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

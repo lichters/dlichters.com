@@ -157,3 +157,5 @@ Sources differ on when net terms are possible. Use this order:
 
 
 Part 20 of 51 of "3. Suppliers and Fulfillment: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/03-suppliers-and-fulfillment.md · Previous: https://dlichters.com/ai/ecom/deep/03-suppliers-and-fulfillment/19-recontacting-after-growth.md · Next: https://dlichters.com/ai/ecom/deep/03-suppliers-and-fulfillment/21-minimum-orders.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

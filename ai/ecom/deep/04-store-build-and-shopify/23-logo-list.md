@@ -218,3 +218,5 @@ I'm looking to add a logo list for the brands I sell for on my homepage that scr
 
 
 Part 23 of 49 of "4. Store Build and Shopify: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/04-store-build-and-shopify.md · Previous: https://dlichters.com/ai/ecom/deep/04-store-build-and-shopify/22-homepage-and-theme-editor-customization.md · Next: https://dlichters.com/ai/ecom/deep/04-store-build-and-shopify/24-hiding-vs-deleting-sections.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

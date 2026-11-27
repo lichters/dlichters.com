@@ -180,3 +180,5 @@ Several sources give a short filter of three traits. They overlap, but each one 
 
 
 Part 35 of 54 of "2. Niche and Product Research: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/02-niche-and-product-research.md · Previous: https://dlichters.com/ai/ecom/deep/02-niche-and-product-research/34-reverse-engineering-a-competitor-s-campaign.md · Next: https://dlichters.com/ai/ecom/deep/02-niche-and-product-research/36-demand-signals-and-proof-of-concept.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

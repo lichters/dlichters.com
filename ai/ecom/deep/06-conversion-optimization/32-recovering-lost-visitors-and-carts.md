@@ -286,3 +286,5 @@ Phone: [phone number] | Email: [email address] | Live chat
 
 
 Part 32 of 40 of "6. Conversion Optimization: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/06-conversion-optimization.md · Previous: https://dlichters.com/ai/ecom/deep/06-conversion-optimization/31-pop-up-design.md · Next: https://dlichters.com/ai/ecom/deep/06-conversion-optimization/33-site-speed-mobile-and-technical-hygiene.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

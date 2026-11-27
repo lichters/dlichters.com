@@ -13,3 +13,5 @@ Procedure for a store name that resembles a well-known store:
 
 
 Part 20 of 26 of "8. Brand and Positioning: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/08-brand-and-positioning.md · Previous: https://dlichters.com/ai/ecom/deep/08-brand-and-positioning/19-social-media-accounts-and-profile-setup.md · Next: https://dlichters.com/ai/ecom/deep/08-brand-and-positioning/21-content-community-and-personal-branding.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

@@ -3,11 +3,9 @@
 
 > Every rule, number, setting and step we collected on this topic, rewritten in our own words from many e-commerce courses (2021 to 2026). Where advice changed over time, newer advice wins; lines marked "older advice" are kept for context. Short version: https://dlichters.com/ai/ecom/index.md
 
-> Sources: every statement ends with its lesson ids and year, e.g. [L0012, 2023] or [L0458, 2021; L0771, 2025]. Which course and topic each id is: https://dlichters.com/ai/ecom/sources.md . When statements disagree, prefer the newer year.
+> Sources: every statement ends with its lesson ids and year, e.g. [L0012, 2023] or [L0458, 2021; L0771, 2025]. When statements disagree, prefer the newer year.
 
 All chapters: https://dlichters.com/ai/ecom/deep/index.md
-
-Also check: https://dlichters.com/ai/ecom/deep/23-missing-from-lessons/01-contents.md (section "07 Offers, pricing and bundles") ; https://dlichters.com/ai/ecom/deep/24-course-d-2026-details/02-07-offers-pricing-and-bundles.md (section "07 Offers Pricing and Bundles") ; https://dlichters.com/ai/ecom/deep/25-full-audit-details/07-offers-pricing-and-bundles.md (section "07 Offers Pricing and Bundles")
 
 
 **This chapter is split into 40 pages of at most about 4,000 words so an AI can open exactly the part it needs. Pick the page whose headings match the question, open it, and answer only from what it says.**
@@ -92,3 +90,5 @@ Also check: https://dlichters.com/ai/ecom/deep/23-missing-from-lessons/01-conten
    Digital products, services, private label and direct-response offers · Choosing a monetization model · Digital products: validation and build · Digital products: pricing and margins · Bundles, upsells and cross-sells · Memberships and subscriptions · Services: yield and pricing · Private label and customization · Amazon and eBay pricing · Free offers and trials · Premiums, personalization and exclusivity · Direct mail and historical cases · Sweepstakes, giveaways and draws
 40. https://dlichters.com/ai/ecom/deep/07-offers-pricing-and-bundles/40-handling-pricing-exceptions-and-cost-shocks.md (3,985 words)
    Handling pricing exceptions and cost shocks · Price Changes and Supplier Cost Increases · Supplier Dependence · Mispriced Orders and Supplier Outreach · Shipping Delays and Customer Retention · VAT and Market Entry · Pricing Checks · Other details · Domains and store costs · Shopify plans and trial offers · Agency and outsourcing costs · Products, variants and inventory · Reviews and trust · Reciprocity and gifts · Upsells, anchors and entry products · Case study: lemonade stand · Ad budgets and promotion · Order value and revenue benchmarks · Charitable promises · Done-for-you store builds · Marketplace limits (eBay)
+
+Topic map (all pages): https://dlichters.com/ai/index.md

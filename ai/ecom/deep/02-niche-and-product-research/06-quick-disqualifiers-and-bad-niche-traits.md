@@ -230,3 +230,5 @@ To estimate how much post-sale support a product niche will need, check the comm
 
 
 Part 6 of 54 of "2. Niche and Product Research: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/02-niche-and-product-research.md · Previous: https://dlichters.com/ai/ecom/deep/02-niche-and-product-research/05-product-research-sheets-one-source.md · Next: https://dlichters.com/ai/ecom/deep/02-niche-and-product-research/07-price-point-margin-and-shipping-economics.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

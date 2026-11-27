@@ -3,11 +3,9 @@
 
 > Every rule, number, setting and step we collected on this topic, rewritten in our own words from many e-commerce courses (2021 to 2026). Where advice changed over time, newer advice wins; lines marked "older advice" are kept for context. Short version: https://dlichters.com/ai/ecom/index.md
 
-> Sources: every statement ends with its lesson ids and year, e.g. [L0012, 2023] or [L0458, 2021; L0771, 2025]. Which course and topic each id is: https://dlichters.com/ai/ecom/sources.md . When statements disagree, prefer the newer year.
+> Sources: every statement ends with its lesson ids and year, e.g. [L0012, 2023] or [L0458, 2021; L0771, 2025]. When statements disagree, prefer the newer year.
 
 All chapters: https://dlichters.com/ai/ecom/deep/index.md
-
-Also check: https://dlichters.com/ai/ecom/deep/23-missing-from-lessons/01-contents.md (section "09 Meta and Facebook ads") ; https://dlichters.com/ai/ecom/deep/24-course-d-2026-details/02-07-offers-pricing-and-bundles.md (section "09 Meta and Facebook Ads") ; https://dlichters.com/ai/ecom/deep/25-full-audit-details/09-meta-and-facebook-ads.md (section "09 Meta and Facebook Ads")
 
 
 **This chapter is split into 35 pages of at most about 4,000 words so an AI can open exactly the part it needs. Pick the page whose headings match the question, open it, and answer only from what it says.**
@@ -82,3 +80,5 @@ Also check: https://dlichters.com/ai/ecom/deep/23-missing-from-lessons/01-conten
    Seasonality, Market Conditions and Special Cases · Seasonal Planning and Q4 Cost Pressure · Ad Budget Formulas · CPM Thresholds and Market Selection · Advertiser Pullouts and Falling CPMs · Holiday and Event Campaigns · Geographic and Gifting Niches · Digital Products · High-Ticket Products · Print-on-Demand Products · Ad Operations, Delegation and Platform Maintenance · Daily Tracking Routine · Ad Account Limits and Ad Housekeeping · Batch Launching · Account Structure and Spend Control · Billing Charges and Payment Methods · Facebook Shop Refunds · Delegating Ad Setup
 35. https://dlichters.com/ai/ecom/deep/09-meta-and-facebook-ads/35-other-details.md (2,076 words)
    Other details · Platform reps and budget scaling · Meta ad setup and checks · Feed training and organic reach · Google Shopping campaign types · Spark ads on TikTok · TikTok campaign structure, timing and upkeep · TikTok ad rules and comments · Store landing pages · Order value and return on ad spend · Audience timing and urgency · Customer comment research · Local agency outreach and offline ads
+
+Topic map (all pages): https://dlichters.com/ai/index.md

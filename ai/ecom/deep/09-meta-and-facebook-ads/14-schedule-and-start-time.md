@@ -171,3 +171,5 @@ Which minimum applies: use 3 to 5 USD per ad set for creative tests [L1316, 2024
 
 
 Part 14 of 35 of "9. Meta and Facebook Ads: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/09-meta-and-facebook-ads.md · Previous: https://dlichters.com/ai/ecom/deep/09-meta-and-facebook-ads/13-testing-architecture.md · Next: https://dlichters.com/ai/ecom/deep/09-meta-and-facebook-ads/15-bidding-cost-cap-bid-cap-and-automated-rules.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

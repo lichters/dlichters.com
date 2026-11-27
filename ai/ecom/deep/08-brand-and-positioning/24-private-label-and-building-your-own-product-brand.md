@@ -150,3 +150,5 @@ Part 24 of 26 of "8. Brand and Positioning: full technical reference". Map of al
 
 
 Part 24 of 26 of "8. Brand and Positioning: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/08-brand-and-positioning.md · Previous: https://dlichters.com/ai/ecom/deep/08-brand-and-positioning/23-packaging-inserts-and-customization-levels.md · Next: https://dlichters.com/ai/ecom/deep/08-brand-and-positioning/25-trust-based-brand-ethics-and-reputation.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

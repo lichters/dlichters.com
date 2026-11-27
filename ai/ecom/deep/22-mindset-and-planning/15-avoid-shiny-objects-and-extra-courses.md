@@ -52,3 +52,5 @@ Part 15 of 28 of "22. Mindset and Planning: full technical reference". Map of al
 
 
 Part 15 of 28 of "22. Mindset and Planning: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/22-mindset-and-planning.md · Previous: https://dlichters.com/ai/ecom/deep/22-mindset-and-planning/14-learn-efficiently-and-turn-learning-into-action.md · Next: https://dlichters.com/ai/ecom/deep/22-mindset-and-planning/16-decide-fast-and-launch-imperfectly.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

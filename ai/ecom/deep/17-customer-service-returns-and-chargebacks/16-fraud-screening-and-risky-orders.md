@@ -218,3 +218,5 @@ The sources give different figures because they describe different contexts. Use
 
 
 Part 16 of 23 of "17. Customer Service Returns and Chargebacks: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/17-customer-service-returns-and-chargebacks.md · Previous: https://dlichters.com/ai/ecom/deep/17-customer-service-returns-and-chargebacks/15-reducing-return-and-refund-rates.md · Next: https://dlichters.com/ai/ecom/deep/17-customer-service-returns-and-chargebacks/17-responding-to-chargebacks-and-payment-disputes.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

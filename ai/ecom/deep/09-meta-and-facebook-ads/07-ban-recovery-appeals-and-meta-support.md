@@ -171,3 +171,5 @@ Sources disagree on the timing because they describe different routes and ban ty
 
 
 Part 7 of 35 of "9. Meta and Facebook Ads: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/09-meta-and-facebook-ads.md · Previous: https://dlichters.com/ai/ecom/deep/09-meta-and-facebook-ads/06-agency-purchased-and-alternative-ad-accounts.md · Next: https://dlichters.com/ai/ecom/deep/09-meta-and-facebook-ads/08-pixel-events-conversions-api-and-shopify-integrati.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

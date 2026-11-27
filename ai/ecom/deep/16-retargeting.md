@@ -3,11 +3,9 @@
 
 > Every rule, number, setting and step we collected on this topic, rewritten in our own words from many e-commerce courses (2021 to 2026). Where advice changed over time, newer advice wins; lines marked "older advice" are kept for context. Short version: https://dlichters.com/ai/ecom/index.md
 
-> Sources: every statement ends with its lesson ids and year, e.g. [L0012, 2023] or [L0458, 2021; L0771, 2025]. Which course and topic each id is: https://dlichters.com/ai/ecom/sources.md . When statements disagree, prefer the newer year.
+> Sources: every statement ends with its lesson ids and year, e.g. [L0012, 2023] or [L0458, 2021; L0771, 2025]. When statements disagree, prefer the newer year.
 
 All chapters: https://dlichters.com/ai/ecom/deep/index.md
-
-Also check: https://dlichters.com/ai/ecom/deep/23-missing-from-lessons/01-contents.md (section "16 Retargeting") ; https://dlichters.com/ai/ecom/deep/24-course-d-2026-details/04-16-retargeting.md (section "16 Retargeting") ; https://dlichters.com/ai/ecom/deep/25-full-audit-details/16-retargeting.md (section "16 Retargeting")
 
 
 **This chapter is split into 10 pages of at most about 4,000 words so an AI can open exactly the part it needs. Pick the page whose headings match the question, open it, and answer only from what it says.**
@@ -32,3 +30,5 @@ Also check: https://dlichters.com/ai/ecom/deep/23-missing-from-lessons/01-conten
    Retargeting Existing Customers and Repeat Purchases · Why Existing Customers Are Worth Targeting · Building Customer Audiences · Excluding Customers from Acquisition · Timing After Delivery · Goodwill and Thank-You Videos · Repeat-Purchase Funnel · Cross-Sell and Upgrade Ads · Channel Split: Acquisition vs. Retention · Retargeting for Long Buying Cycles and Competitive Niches · Retargeting for High-Ticket Products with Long Buying Cycles · Keeping Paid Traffic Running in Slow Periods · Building Audiences in Slow Periods, Then Activating Them · Competitor-Aware Retargeting for Resellers · Retargeting in Ultra-Competitive Niches · Private-Label Products · Channel Selection and Priorities · Start with search, then retarget · Channel order · Google retargeting · Meta: Facebook and Instagram · When Meta is added · YouTube and video · TikTok · Bing · Pinterest · Recommended networks and coverage claims · Running Google and Meta as one sequence · Tools not worth using
 10. https://dlichters.com/ai/ecom/deep/16-retargeting/10-measuring-and-optimizing-retargeting-performance.md (1,660 words)
    Measuring and Optimizing Retargeting Performance · Core KPIs (incl. remarketing ROAS target: above 10x within 2 to 5 days) · Sample size and attribution caveats · Testing retargeting against cold audiences · Diagnosing weak results · Reviewing and improving ads on a schedule · Scaling budgets · Common Mistakes and Operating Rules · Strategy Principles · Product Ad Mix · Ad Angles and Segmentation · Repetition and Message Fatigue · Exposure Limits · Operating Rules · Other details · Retargeting Principles · Retargeting Setup Sequence · Meta Account Setup · Landing Pages by Audience · Traffic Sources and Affiliate Offers · Display Placements · Video Production
+
+Topic map (all pages): https://dlichters.com/ai/index.md

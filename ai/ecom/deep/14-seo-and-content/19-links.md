@@ -177,3 +177,5 @@ I'm attaching a blog post I recently wrote for my store at [store URL]. I looked
 
 
 Part 19 of 30 of "14. SEO and Content: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/14-seo-and-content.md · Previous: https://dlichters.com/ai/ecom/deep/14-seo-and-content/18-blog-and-content-page-writing-standards.md · Next: https://dlichters.com/ai/ecom/deep/14-seo-and-content/20-content-strategy-formats-and-planning.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

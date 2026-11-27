@@ -3,11 +3,9 @@
 
 > Every rule, number, setting and step we collected on this topic, rewritten in our own words from many e-commerce courses (2021 to 2026). Where advice changed over time, newer advice wins; lines marked "older advice" are kept for context. Short version: https://dlichters.com/ai/ecom/index.md
 
-> Sources: every statement ends with its lesson ids and year, e.g. [L0012, 2023] or [L0458, 2021; L0771, 2025]. Which course and topic each id is: https://dlichters.com/ai/ecom/sources.md . When statements disagree, prefer the newer year.
+> Sources: every statement ends with its lesson ids and year, e.g. [L0012, 2023] or [L0458, 2021; L0771, 2025]. When statements disagree, prefer the newer year.
 
 All chapters: https://dlichters.com/ai/ecom/deep/index.md
-
-Also check: https://dlichters.com/ai/ecom/deep/23-missing-from-lessons/01-contents.md (section "14 SEO and content") ; https://dlichters.com/ai/ecom/deep/25-full-audit-details/14-seo-and-content.md (section "14 SEO and Content")
 
 
 **This chapter is split into 30 pages of at most about 4,000 words so an AI can open exactly the part it needs. Pick the page whose headings match the question, open it, and answer only from what it says.**
@@ -72,3 +70,5 @@ Also check: https://dlichters.com/ai/ecom/deep/23-missing-from-lessons/01-conten
    Replies and Negotiation · Follow-Up and Verification · Updating Links to Retired Pages · Risk, Anchor Text and Disavowing
 30. https://dlichters.com/ai/ecom/deep/14-seo-and-content/30-youtube-and-video-seo.md (3,861 words)
    YouTube and Video SEO · YouTube SEO: Why Video Needs Its Own Strategy · Choosing Video Topics From Demand · Keyword Research Tools · Keyword Research Procedures · Video Titles · Video Descriptions · Tags · Captions, Closed Captions and On-Screen Text · Video Production and Retention · Channel Setup · Embedding Videos on Store Pages · Video SEO Checklist · Promotion · Monitoring, Reporting and Ongoing Maintenance · Search Console Review Cadence · Triage of Search Console Issues · Search Console Reports · Tool Choice · Checking Search Results Accurately · Diagnosing Traffic Quality · Tracking Keywords and Organic Rankings · Tracking TikTok Traffic with UTM Parameters · Quick-Win Sequence for Top Blog Posts · Content Refreshes · Keeping SEO Work Continuous · Other details · Product research checks · Keyword research and listing copy · Store naming and file metadata · On-site SEO in Shopify · Traffic estimates and SEO tools · Local search and listings · Feed work and reviews
+
+Topic map (all pages): https://dlichters.com/ai/index.md

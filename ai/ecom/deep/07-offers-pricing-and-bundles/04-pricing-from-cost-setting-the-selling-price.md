@@ -91,3 +91,5 @@ The Buy 3 get 2 free row is an unfilled example; its errors show what happens wh
 
 
 Part 4 of 40 of "7. Offers Pricing and Bundles: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/07-offers-pricing-and-bundles.md · Previous: https://dlichters.com/ai/ecom/deep/07-offers-pricing-and-bundles/03-unit-economics-and-margin-math.md · Next: https://dlichters.com/ai/ecom/deep/07-offers-pricing-and-bundles/05-setting-the-base-selling-price.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

@@ -160,3 +160,5 @@ Write an About Us page for an online shop that sells high-ticket goods sourced f
 
 
 Part 17 of 26 of "8. Brand and Positioning: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/08-brand-and-positioning.md · Previous: https://dlichters.com/ai/ecom/deep/08-brand-and-positioning/16-homepage-store-look-and-conversion-presentation.md · Next: https://dlichters.com/ai/ecom/deep/08-brand-and-positioning/18-trust-and-legitimacy-signals.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

@@ -264,3 +264,5 @@ Keep the list in a structure that is ready for outreach. Gather the website URL,
 
 
 Part 10 of 51 of "3. Suppliers and Fulfillment: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/03-suppliers-and-fulfillment.md · Previous: https://dlichters.com/ai/ecom/deep/03-suppliers-and-fulfillment/09-finding-suppliers-competitor-research-and-brand-li.md · Next: https://dlichters.com/ai/ecom/deep/03-suppliers-and-fulfillment/11-researching-supplier-contact-details.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

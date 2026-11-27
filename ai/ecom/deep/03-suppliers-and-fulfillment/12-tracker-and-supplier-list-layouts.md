@@ -115,3 +115,5 @@ Ids for this procedure: [L0458, 2021-22]
 
 
 Part 12 of 51 of "3. Suppliers and Fulfillment: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/03-suppliers-and-fulfillment.md · Previous: https://dlichters.com/ai/ecom/deep/03-suppliers-and-fulfillment/11-researching-supplier-contact-details.md · Next: https://dlichters.com/ai/ecom/deep/03-suppliers-and-fulfillment/13-preparing-the-business-and-store-before-outreach.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

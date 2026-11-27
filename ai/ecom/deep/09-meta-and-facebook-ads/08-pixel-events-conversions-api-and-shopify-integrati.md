@@ -202,3 +202,5 @@ Sources differ on when to split pixels. The split points are given below, each w
 
 
 Part 8 of 35 of "9. Meta and Facebook Ads: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/09-meta-and-facebook-ads.md · Previous: https://dlichters.com/ai/ecom/deep/09-meta-and-facebook-ads/07-ban-recovery-appeals-and-meta-support.md · Next: https://dlichters.com/ai/ecom/deep/09-meta-and-facebook-ads/09-product-catalog-and-commerce-manager-feed.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

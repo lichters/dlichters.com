@@ -79,3 +79,5 @@ Part 21 of 37 of "20. Scaling Team and Processes: full technical reference". Map
 
 
 Part 21 of 37 of "20. Scaling Team and Processes: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/20-scaling-team-and-processes.md · Previous: https://dlichters.com/ai/ecom/deep/20-scaling-team-and-processes/20-delegating-content-creative-and-link-building.md · Next: https://dlichters.com/ai/ecom/deep/20-scaling-team-and-processes/22-choosing-and-managing-agencies-and-ad-outsourcing.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

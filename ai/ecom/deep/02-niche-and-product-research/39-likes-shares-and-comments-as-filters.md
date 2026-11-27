@@ -252,3 +252,5 @@ Engagement thresholds differ by tool and by product age. Use the row that matche
 
 
 Part 39 of 54 of "2. Niche and Product Research: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/02-niche-and-product-research.md · Previous: https://dlichters.com/ai/ecom/deep/02-niche-and-product-research/38-finding-products-with-ad-spy-and-ad-library-tools.md · Next: https://dlichters.com/ai/ecom/deep/02-niche-and-product-research/40-product-testing-checks-mistakes-and-fallbacks.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

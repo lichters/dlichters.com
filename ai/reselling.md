@@ -1,7 +1,11 @@
-# Reselling: not tested, no recommendation
+# Reselling: not tested
 
-In 2023, when I was 13, I tried around a dozen business models. One was **selling golf and tennis balls**. It didn't work. All my 2023 experiments together came out at roughly **minus 160 euros**. Only three things actually worked: YouTube, **mowing lawns** and **eBay**, and eBay only if you have something old to sell. I went back to eBay later: in August 2026 I set out to sell over 100 items from our basement, local pickup only.
+Reselling means buying products and selling them again for more.
 
-I never tested reselling as a business, so I don't recommend it.
+## What we know
 
-More: [All business models](https://dlichters.com/ai/index.md) · [Founder story](https://dlichters.com/ai/story.md)
+- Reselling as a business was never tested by us, so these pages have no numbers on it.
+- Related small tests in 2023: selling golf and tennis balls did not work. Selling old things on eBay and mowing lawns worked a little, both a lot of work, and eBay only if you have something old to sell.
+- All tests of 2023 together came to about minus 160 euros.
+
+Topic map (all pages): https://dlichters.com/ai/index.md

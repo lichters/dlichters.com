@@ -172,3 +172,5 @@ Benchmark reference (conversion rates as quoted for large online brands and gene
 
 
 Part 1 of 40 of "6. Conversion Optimization: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/06-conversion-optimization.md · Next: https://dlichters.com/ai/ecom/deep/06-conversion-optimization/02-when-to-start-readiness-and-the-pre-traffic-launch.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

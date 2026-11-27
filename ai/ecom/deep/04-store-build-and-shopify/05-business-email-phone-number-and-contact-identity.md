@@ -162,3 +162,5 @@ Locations: Online Store > Edit theme > Footer menu > Contact us section. The pho
 
 
 Part 5 of 49 of "4. Store Build and Shopify: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/04-store-build-and-shopify.md · Previous: https://dlichters.com/ai/ecom/deep/04-store-build-and-shopify/04-connecting-an-external-domain-to-shopify-dns-txt-a.md · Next: https://dlichters.com/ai/ecom/deep/04-store-build-and-shopify/06-core-admin-settings-general-checkout-payments-and.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

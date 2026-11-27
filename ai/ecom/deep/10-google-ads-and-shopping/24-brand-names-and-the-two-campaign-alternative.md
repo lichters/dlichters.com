@@ -40,3 +40,5 @@ Part 24 of 56 of "10. Google Ads and Shopping: full technical reference". Map of
 
 
 Part 24 of 56 of "10. Google Ads and Shopping: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/10-google-ads-and-shopping.md · Previous: https://dlichters.com/ai/ecom/deep/10-google-ads-and-shopping/23-search-intent-shopping-funnel-low-medium-high-valu.md · Next: https://dlichters.com/ai/ecom/deep/10-google-ads-and-shopping/25-negative-keywords-building-matching-and-maintainin.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

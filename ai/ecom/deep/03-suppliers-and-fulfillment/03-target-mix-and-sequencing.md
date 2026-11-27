@@ -30,3 +30,5 @@ The following units are older advice, from 2018 to 2022, and should be checked a
 
 
 Part 3 of 51 of "3. Suppliers and Fulfillment: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/03-suppliers-and-fulfillment.md · Previous: https://dlichters.com/ai/ecom/deep/03-suppliers-and-fulfillment/02-supplier-tiers-bronze-silver-gold-and-who-to-avoid.md · Next: https://dlichters.com/ai/ecom/deep/03-suppliers-and-fulfillment/04-qualifying-suppliers-location-stock-map-direct-bra.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

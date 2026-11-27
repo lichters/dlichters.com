@@ -223,3 +223,5 @@ Build a VA team in three stages matched to revenue:
 
 
 Part 8 of 37 of "20. Scaling Team and Processes: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/20-scaling-team-and-processes.md · Previous: https://dlichters.com/ai/ecom/deep/20-scaling-team-and-processes/07-creative-team-roles-and-the-human-ai-balance.md · Next: https://dlichters.com/ai/ecom/deep/20-scaling-team-and-processes/09-recommended-hire-order.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

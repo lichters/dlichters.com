@@ -208,3 +208,5 @@ Recommended length and purpose by content type:
 
 
 Part 20 of 30 of "14. SEO and Content: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/14-seo-and-content.md · Previous: https://dlichters.com/ai/ecom/deep/14-seo-and-content/19-links.md · Next: https://dlichters.com/ai/ecom/deep/14-seo-and-content/21-pattern-matching.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

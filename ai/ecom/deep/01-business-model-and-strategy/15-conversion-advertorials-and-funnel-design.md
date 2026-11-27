@@ -130,3 +130,5 @@ Create a lean AI setup that helps our brand make ads that are more effective and
 
 
 Part 15 of 28 of "1. Business Model and Strategy: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/01-business-model-and-strategy.md · Previous: https://dlichters.com/ai/ecom/deep/01-business-model-and-strategy/14-bing-yahoo-x-marketplaces-and-other-channels.md · Next: https://dlichters.com/ai/ecom/deep/01-business-model-and-strategy/16-growth-levers-aov-repeat-purchases-and-customer-li.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

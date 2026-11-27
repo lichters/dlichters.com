@@ -139,3 +139,5 @@ Work from easiest to hardest. Procedure from one source:
 
 
 Part 33 of 40 of "6. Conversion Optimization: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/06-conversion-optimization.md · Previous: https://dlichters.com/ai/ecom/deep/06-conversion-optimization/32-recovering-lost-visitors-and-carts.md · Next: https://dlichters.com/ai/ecom/deep/06-conversion-optimization/34-testing-methodology-and-the-cro-cycle.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

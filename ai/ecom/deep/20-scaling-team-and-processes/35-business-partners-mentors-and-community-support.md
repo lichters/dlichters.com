@@ -172,3 +172,5 @@ New member onboarding in an online ecommerce community:
 
 
 Part 35 of 37 of "20. Scaling Team and Processes: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/20-scaling-team-and-processes.md · Previous: https://dlichters.com/ai/ecom/deep/20-scaling-team-and-processes/34-affiliate-partner-and-referral-programs.md · Next: https://dlichters.com/ai/ecom/deep/20-scaling-team-and-processes/36-operating-rhythm-tracking-finances-and-change-logs.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

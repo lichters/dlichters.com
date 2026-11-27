@@ -169,3 +169,5 @@ Part 6 of 46 of "19. Metrics Finance and Tracking: full technical reference". Ma
 
 
 Part 6 of 46 of "19. Metrics Finance and Tracking: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/19-metrics-finance-and-tracking.md · Previous: https://dlichters.com/ai/ecom/deep/19-metrics-finance-and-tracking/05-cost-of-goods-shipping-and-tax-per-order.md · Next: https://dlichters.com/ai/ecom/deep/19-metrics-finance-and-tracking/07-profitable-traffic-calculators.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

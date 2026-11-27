@@ -131,3 +131,5 @@ Part 1 of 40 of "7. Offers Pricing and Bundles: full technical reference". Map o
 
 
 Part 1 of 40 of "7. Offers Pricing and Bundles: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/07-offers-pricing-and-bundles.md · Next: https://dlichters.com/ai/ecom/deep/07-offers-pricing-and-bundles/02-choosing-a-price-range-and-ticket-size.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

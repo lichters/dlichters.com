@@ -69,3 +69,5 @@ Part 38 of 63 of "12. Creatives and Ad Copy: full technical reference". Map of a
 
 
 Part 38 of 63 of "12. Creatives and Ad Copy: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/12-creatives-and-ad-copy.md · Previous: https://dlichters.com/ai/ecom/deep/12-creatives-and-ad-copy/37-meme-style-and-native-looking-ads.md · Next: https://dlichters.com/ai/ecom/deep/12-creatives-and-ad-copy/39-video-ad-scripts-and-creator-briefs.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

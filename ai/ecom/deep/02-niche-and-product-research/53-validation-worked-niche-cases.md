@@ -106,3 +106,5 @@ Product context from the same screen: price $43.90, commission rate 15%, rating 
 
 
 Part 53 of 54 of "2. Niche and Product Research: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/02-niche-and-product-research.md · Previous: https://dlichters.com/ai/ecom/deep/02-niche-and-product-research/52-reference-high-ticket-niche-idea-lists-and-categor.md · Next: https://dlichters.com/ai/ecom/deep/02-niche-and-product-research/54-other-details.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

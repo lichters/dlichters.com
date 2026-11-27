@@ -3,11 +3,9 @@
 
 > Every rule, number, setting and step we collected on this topic, rewritten in our own words from many e-commerce courses (2021 to 2026). Where advice changed over time, newer advice wins; lines marked "older advice" are kept for context. Short version: https://dlichters.com/ai/ecom/index.md
 
-> Sources: every statement ends with its lesson ids and year, e.g. [L0012, 2023] or [L0458, 2021; L0771, 2025]. Which course and topic each id is: https://dlichters.com/ai/ecom/sources.md . When statements disagree, prefer the newer year.
+> Sources: every statement ends with its lesson ids and year, e.g. [L0012, 2023] or [L0458, 2021; L0771, 2025]. When statements disagree, prefer the newer year.
 
 All chapters: https://dlichters.com/ai/ecom/deep/index.md
-
-Also check: https://dlichters.com/ai/ecom/deep/23-missing-from-lessons/01-contents.md (section "01 Business model and strategy") ; https://dlichters.com/ai/ecom/deep/24-course-d-2026-details/01-when-to-read-this.md (section "01 Business Model and Strategy") ; https://dlichters.com/ai/ecom/deep/25-full-audit-details/01-business-model-and-strategy.md (section "01 Business Model and Strategy")
 
 
 **This chapter is split into 28 pages of at most about 4,000 words so an AI can open exactly the part it needs. Pick the page whose headings match the question, open it, and answer only from what it says.**
@@ -68,3 +66,5 @@ Also check: https://dlichters.com/ai/ecom/deep/23-missing-from-lessons/01-conten
    Preparing the store for sale · Sales channels · Vetting and due diligence · Buyer profiles · Deal terms and payment · Handover and SOPs
 28. https://dlichters.com/ai/ecom/deep/01-business-model-and-strategy/28-market-data-and-case-listings.md (3,545 words)
    Market data and case listings · Buying an existing store or business · Build versus buy · When buying can make sense · Who should not buy yet · Verifying figures before paying · Valuation benchmarks · Aged domains · Shopify Exchange and broker listings · Risks for buyers · Learning due diligence · Other details · Quick wins on an established store · Return fees · Return on investment · Diagnosing a store that does not make money · Competitive position · Platforms and emerging channels · Tools · Applying dropshipping methods to other online businesses · Direct mail · AI-first dropshipping · Membership, coaching and community · High-ticket dropshipping course: scope and audience · High-ticket dropshipping course: structure · High-ticket dropshipping course: working through the Build phase
+
+Topic map (all pages): https://dlichters.com/ai/index.md

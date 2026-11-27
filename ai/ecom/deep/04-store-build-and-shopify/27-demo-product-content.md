@@ -240,3 +240,5 @@ Rules:
 
 
 Part 27 of 49 of "4. Store Build and Shopify: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/04-store-build-and-shopify.md · Previous: https://dlichters.com/ai/ecom/deep/04-store-build-and-shopify/26-demo-store-for-supplier-approval.md · Next: https://dlichters.com/ai/ecom/deep/04-store-build-and-shopify/28-done-for-you-build-option.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

@@ -64,3 +64,5 @@ Sources differ on how far separation goes inside a shared entity. Apply the one 
 
 
 Part 5 of 28 of "1. Business Model and Strategy: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/01-business-model-and-strategy.md · Previous: https://dlichters.com/ai/ecom/deep/01-business-model-and-strategy/04-where-to-operate-country-market-and-legal-entity.md · Next: https://dlichters.com/ai/ecom/deep/01-business-model-and-strategy/06-niche-and-market-selection-strategy.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

@@ -188,3 +188,5 @@ All four are generated from the same brand name and positioning, so the owner ca
 
 
 Part 10 of 26 of "8. Brand and Positioning: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/08-brand-and-positioning.md · Previous: https://dlichters.com/ai/ecom/deep/08-brand-and-positioning/09-domain-selection-and-registration.md · Next: https://dlichters.com/ai/ecom/deep/08-brand-and-positioning/11-icon-development-with-ai.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

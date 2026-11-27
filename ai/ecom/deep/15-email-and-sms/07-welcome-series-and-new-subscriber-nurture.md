@@ -111,3 +111,5 @@ Part 7 of 29 of "15. Email and SMS: full technical reference". Map of all parts:
 
 
 Part 7 of 29 of "15. Email and SMS: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/15-email-and-sms.md · Previous: https://dlichters.com/ai/ecom/deep/15-email-and-sms/06-lists-segments-exclusions-and-list-hygiene.md · Next: https://dlichters.com/ai/ecom/deep/15-email-and-sms/08-platform-setups.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

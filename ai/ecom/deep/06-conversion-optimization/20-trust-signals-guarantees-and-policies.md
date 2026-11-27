@@ -108,3 +108,5 @@ $value+ bought in past $timeframe
 
 
 Part 20 of 40 of "6. Conversion Optimization: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/06-conversion-optimization.md · Previous: https://dlichters.com/ai/ecom/deep/06-conversion-optimization/19-hero-banners-and-sliders.md · Next: https://dlichters.com/ai/ecom/deep/06-conversion-optimization/21-guarantees-and-risk-reversal.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

@@ -254,3 +254,5 @@ Hi [Name], my name is [Your name] from [your store domain]. I saw your posts in 
 
 
 Part 21 of 30 of "14. SEO and Content: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/14-seo-and-content.md · Previous: https://dlichters.com/ai/ecom/deep/14-seo-and-content/20-content-strategy-formats-and-planning.md · Next: https://dlichters.com/ai/ecom/deep/14-seo-and-content/22-where-sources-disagree.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

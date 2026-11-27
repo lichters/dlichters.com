@@ -170,3 +170,5 @@ Part 16 of 28 of "22. Mindset and Planning: full technical reference". Map of al
 
 
 Part 16 of 28 of "22. Mindset and Planning: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/22-mindset-and-planning.md · Previous: https://dlichters.com/ai/ecom/deep/22-mindset-and-planning/15-avoid-shiny-objects-and-extra-courses.md · Next: https://dlichters.com/ai/ecom/deep/22-mindset-and-planning/17-store-setup-and-launch-steps.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

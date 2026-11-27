@@ -162,3 +162,5 @@ These tactics appear in the source as known techniques. They are listed here so 
 
 
 Part 62 of 63 of "12. Creatives and Ad Copy: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/12-creatives-and-ad-copy.md · Previous: https://dlichters.com/ai/ecom/deep/12-creatives-and-ad-copy/61-sales-copy-inputs-from-the-customer-and-the-store.md · Next: https://dlichters.com/ai/ecom/deep/12-creatives-and-ad-copy/63-other-details.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

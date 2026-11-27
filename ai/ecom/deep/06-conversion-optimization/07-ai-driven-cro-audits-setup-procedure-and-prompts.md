@@ -78,3 +78,5 @@ Output layout: open with an executive summary. Then give the customer journey di
 
 
 Part 7 of 40 of "6. Conversion Optimization: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/06-conversion-optimization.md · Previous: https://dlichters.com/ai/ecom/deep/06-conversion-optimization/06-customer-research-feedback-and-behavior-analytics.md · Next: https://dlichters.com/ai/ecom/deep/06-conversion-optimization/08-matching-traffic-to-awareness-stage-and-page-type.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

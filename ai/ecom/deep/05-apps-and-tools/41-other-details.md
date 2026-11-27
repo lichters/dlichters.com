@@ -100,3 +100,5 @@ Part 41 of 41 of "5. Apps and Tools: full technical reference". Map of all parts
 
 
 Part 41 of 41 of "5. Apps and Tools: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/05-apps-and-tools.md · Previous: https://dlichters.com/ai/ecom/deep/05-apps-and-tools/40-affiliates-outreach-and-promotion-channels.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

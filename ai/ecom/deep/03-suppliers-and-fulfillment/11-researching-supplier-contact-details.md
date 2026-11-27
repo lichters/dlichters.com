@@ -196,3 +196,5 @@ Both sequences cover the same search terms. Run them in the order given in the l
 
 
 Part 11 of 51 of "3. Suppliers and Fulfillment: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/03-suppliers-and-fulfillment.md · Previous: https://dlichters.com/ai/ecom/deep/03-suppliers-and-fulfillment/10-wayfair-overstock-and-other-large-online-retailers.md · Next: https://dlichters.com/ai/ecom/deep/03-suppliers-and-fulfillment/12-tracker-and-supplier-list-layouts.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

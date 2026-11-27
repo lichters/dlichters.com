@@ -235,3 +235,5 @@ P.S. If you have not started yet, {affiliate_link} is the best place to begin.
 
 
 Part 29 of 29 of "15. Email and SMS: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/15-email-and-sms.md · Previous: https://dlichters.com/ai/ecom/deep/15-email-and-sms/28-testing-measurement-and-optimization.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

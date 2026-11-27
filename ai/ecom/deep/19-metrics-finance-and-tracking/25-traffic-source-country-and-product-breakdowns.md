@@ -226,3 +226,5 @@ Part 25 of 46 of "19. Metrics Finance and Tracking: full technical reference". M
 
 
 Part 25 of 46 of "19. Metrics Finance and Tracking: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/19-metrics-finance-and-tracking.md · Previous: https://dlichters.com/ai/ecom/deep/19-metrics-finance-and-tracking/24-diagnosing-the-store-funnel-conversion-bounce-and.md · Next: https://dlichters.com/ai/ecom/deep/19-metrics-finance-and-tracking/26-google-ads-and-shopping-reporting-and-optimization.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

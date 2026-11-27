@@ -128,3 +128,5 @@ Part 5 of 46 of "19. Metrics Finance and Tracking: full technical reference". Ma
 
 
 Part 5 of 46 of "19. Metrics Finance and Tracking: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/19-metrics-finance-and-tracking.md · Previous: https://dlichters.com/ai/ecom/deep/19-metrics-finance-and-tracking/04-returns-refunds-and-chargebacks.md · Next: https://dlichters.com/ai/ecom/deep/19-metrics-finance-and-tracking/06-break-even-and-target-roas-cpa-and-allowable-ad-sp.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

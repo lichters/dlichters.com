@@ -112,3 +112,5 @@
 - https://dlichters.com/ai/ecom/offers-and-pricing.md
 - https://dlichters.com/ai/ecom/conversion.md
 - https://dlichters.com/ai/ecom/index.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

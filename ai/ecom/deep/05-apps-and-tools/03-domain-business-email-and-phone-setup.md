@@ -228,3 +228,5 @@ Prices in the sources differ by year, currency and purchase route. Use the live 
 
 
 Part 3 of 41 of "5. Apps and Tools: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/05-apps-and-tools.md · Previous: https://dlichters.com/ai/ecom/deep/05-apps-and-tools/02-finding-apps-that-competitors-use.md · Next: https://dlichters.com/ai/ecom/deep/05-apps-and-tools/04-security-and-gemini-in-google-workspace.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

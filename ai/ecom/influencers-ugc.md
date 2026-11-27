@@ -121,3 +121,5 @@ Contracts and disclosure rules for sponsored posts differ, so check the rules in
 - https://dlichters.com/ai/ecom/tiktok.md
 - https://dlichters.com/ai/ecom/brand.md
 - https://dlichters.com/ai/ecom/index.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

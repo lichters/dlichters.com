@@ -67,3 +67,5 @@ Steps to improve checkout completion:
 
 
 Part 27 of 40 of "6. Conversion Optimization: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/06-conversion-optimization.md · Previous: https://dlichters.com/ai/ecom/deep/06-conversion-optimization/26-checkout-payments-and-shipping-friction.md · Next: https://dlichters.com/ai/ecom/deep/06-conversion-optimization/28-cart-optimization-and-upsells.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

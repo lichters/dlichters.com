@@ -191,3 +191,5 @@ Part 5 of 40 of "7. Offers Pricing and Bundles: full technical reference". Map o
 
 
 Part 5 of 40 of "7. Offers Pricing and Bundles: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/07-offers-pricing-and-bundles.md · Previous: https://dlichters.com/ai/ecom/deep/07-offers-pricing-and-bundles/04-pricing-from-cost-setting-the-selling-price.md · Next: https://dlichters.com/ai/ecom/deep/07-offers-pricing-and-bundles/06-map-msrp-and-wholesale-reading-supplier-pricing.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

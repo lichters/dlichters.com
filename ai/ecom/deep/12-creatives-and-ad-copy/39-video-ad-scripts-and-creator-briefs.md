@@ -212,3 +212,5 @@ Write a 90-second talking-head script for [product] based on the angle [angle na
 
 
 Part 39 of 63 of "12. Creatives and Ad Copy: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/12-creatives-and-ad-copy.md · Previous: https://dlichters.com/ai/ecom/deep/12-creatives-and-ad-copy/38-print-and-mail-formats.md · Next: https://dlichters.com/ai/ecom/deep/12-creatives-and-ad-copy/40-scene-sheets.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

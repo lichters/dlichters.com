@@ -294,3 +294,5 @@ A pipe-separated Meta ad name can contain fields such as product type (for examp
 
 
 Part 10 of 35 of "9. Meta and Facebook Ads: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/09-meta-and-facebook-ads.md · Previous: https://dlichters.com/ai/ecom/deep/09-meta-and-facebook-ads/09-product-catalog-and-commerce-manager-feed.md · Next: https://dlichters.com/ai/ecom/deep/09-meta-and-facebook-ads/11-attribution-settings-and-the-march-2026-changes.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

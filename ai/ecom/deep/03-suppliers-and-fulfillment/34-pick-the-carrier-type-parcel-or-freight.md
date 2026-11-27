@@ -298,3 +298,5 @@ Setting: campaign split for an expensive-to-ship supplier in Google Ads (2023)
 
 
 Part 34 of 51 of "3. Suppliers and Fulfillment: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/03-suppliers-and-fulfillment.md · Previous: https://dlichters.com/ai/ecom/deep/03-suppliers-and-fulfillment/33-freight-heavy-items-and-white-glove-delivery.md · Next: https://dlichters.com/ai/ecom/deep/03-suppliers-and-fulfillment/35-supplier-location-and-reach.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

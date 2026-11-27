@@ -3,11 +3,9 @@
 
 > Every rule, number, setting and step we collected on this topic, rewritten in our own words from many e-commerce courses (2021 to 2026). Where advice changed over time, newer advice wins; lines marked "older advice" are kept for context. Short version: https://dlichters.com/ai/ecom/index.md
 
-> Sources: every statement ends with its lesson ids and year, e.g. [L0012, 2023] or [L0458, 2021; L0771, 2025]. Which course and topic each id is: https://dlichters.com/ai/ecom/sources.md . When statements disagree, prefer the newer year.
+> Sources: every statement ends with its lesson ids and year, e.g. [L0012, 2023] or [L0458, 2021; L0771, 2025]. When statements disagree, prefer the newer year.
 
 All chapters: https://dlichters.com/ai/ecom/deep/index.md
-
-Also check: https://dlichters.com/ai/ecom/deep/23-missing-from-lessons/01-contents.md (section "18 Legal, tax, banking and payments") ; https://dlichters.com/ai/ecom/deep/24-course-d-2026-details/04-16-retargeting.md (section "18 Legal Tax Banking and Payments") ; https://dlichters.com/ai/ecom/deep/25-full-audit-details/18-legal-tax-banking-and-payments.md (section "18 Legal Tax Banking and Payments")
 
 
 **This chapter is split into 34 pages of at most about 4,000 words so an AI can open exactly the part it needs. Pick the page whose headings match the question, open it, and answer only from what it says.**
@@ -80,3 +78,5 @@ Also check: https://dlichters.com/ai/ecom/deep/23-missing-from-lessons/01-conten
    Liability, Insurance and Risk Protection · Insurance types for e-commerce · Where lawsuits come from · Supplier protection · Product liability and product safety · Business structure and asset separation · General liability insurance: is it required? · Costs and coverage size · Buying without brokers · Premium audits and renewals · Shipping insurance · Licensing for food and special categories · Contracts, Partners, Contractors and Agencies · Written contracts and agency agreements · Contractors, freelancers and employee classification · Data and account ownership · Payment providers and bank access · Business partnerships · Influencers and ambassadors · Community rules · Scam avoidance
 34. https://dlichters.com/ai/ecom/deep/18-legal-tax-banking-and-payments/34-selling-the-business-legal-tax-and-transaction-mat.md (2,864 words)
    Selling the Business: Legal, Tax and Transaction Matters · Preparing the Store for Sale · Asset Sale or Stock Sale · LLC Structure and Transfer · Trademark Risk in Listings · Brokerage or Private Sale · Broker Fees · Escrow and Payment Protection · Due Diligence · Addbacks in Valuation · Seller Financing and Earn-Outs · Non-Competes · Cross-Border Transfers · Deal Process on a Broker Platform · Other details · Tracking and analytics · Company, tax and compliance · Payments and banking · Shipping costs and carriers · Shopify store setup: domains, SSL and licences · Software costs and subscriptions · Marketplace fees and paid promotion · Health insurance abroad
+
+Topic map (all pages): https://dlichters.com/ai/index.md

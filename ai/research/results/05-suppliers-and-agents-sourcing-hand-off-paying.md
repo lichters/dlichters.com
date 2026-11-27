@@ -1,5 +1,5 @@
 <!-- part of research/results.md -->
-Part 5 of 6 of "Research results: everything we asked Perplexity, condensed". Map of all parts: https://dlichters.com/ai/research/results.md · Previous: https://dlichters.com/ai/research/results/04-email-popups-and-lead-magnets.md · Next: https://dlichters.com/ai/research/results/06-us-law-ftc-rules-labeling-privacy-imprint.md
+Part 5 of 6 of "Research results: e-commerce questions we researched, condensed". Map of all parts: https://dlichters.com/ai/research/results.md · Previous: https://dlichters.com/ai/research/results/04-email-popups-and-lead-magnets.md · Next: https://dlichters.com/ai/research/results/06-us-law-ftc-rules-labeling-privacy-imprint.md
 
 ## Suppliers and agents: sourcing, hand-off, paying
 
@@ -145,4 +145,6 @@ Working classification 9404.90.90, 14 % MFN duty (CBSA Customs Tariff 2026, ch. 
 Beds are buyable in all four; local offers mostly UK and AU, CA and NZ mostly international marketplaces and cross-border Shopify shops. Decision (4 Oct 2026): sell only to the US. UK only after VAT registration; Managed Markets impossible for a German entity with USD. A documented 2025 case: top-5 countries in one ad set sent 99 % of clicks to one country (France); practitioners say 70-80 % of budget drifts to one country.
 
 
-Part 5 of 6 of "Research results: everything we asked Perplexity, condensed". Map of all parts: https://dlichters.com/ai/research/results.md · Previous: https://dlichters.com/ai/research/results/04-email-popups-and-lead-magnets.md · Next: https://dlichters.com/ai/research/results/06-us-law-ftc-rules-labeling-privacy-imprint.md
+Part 5 of 6 of "Research results: e-commerce questions we researched, condensed". Map of all parts: https://dlichters.com/ai/research/results.md · Previous: https://dlichters.com/ai/research/results/04-email-popups-and-lead-magnets.md · Next: https://dlichters.com/ai/research/results/06-us-law-ftc-rules-labeling-privacy-imprint.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

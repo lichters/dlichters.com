@@ -233,3 +233,5 @@ Thank you,
 
 
 Part 59 of 63 of "12. Creatives and Ad Copy: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/12-creatives-and-ad-copy.md · Previous: https://dlichters.com/ai/ecom/deep/12-creatives-and-ad-copy/58-repurposing-winning-creatives.md · Next: https://dlichters.com/ai/ecom/deep/12-creatives-and-ad-copy/60-abandoned-cart-and-recovery-messages.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

@@ -211,3 +211,5 @@ Note on upload frequency: some creators repost a top video up to 10 times per da
 
 
 Part 13 of 14 of "11. TikTok and Short Video: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/11-tiktok-and-short-video.md · Previous: https://dlichters.com/ai/ecom/deep/11-tiktok-and-short-video/12-testing-structures-budgets-and-automated-rules.md · Next: https://dlichters.com/ai/ecom/deep/11-tiktok-and-short-video/14-youtube-shorts-snapchat-pinterest-and-other-short.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

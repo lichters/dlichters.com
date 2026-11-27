@@ -223,3 +223,5 @@ Part 31 of 35 of "9. Meta and Facebook Ads: full technical reference". Map of al
 
 
 Part 31 of 35 of "9. Meta and Facebook Ads: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/09-meta-and-facebook-ads.md · Previous: https://dlichters.com/ai/ecom/deep/09-meta-and-facebook-ads/30-retargeting-custom-audiences-and-lookalikes.md · Next: https://dlichters.com/ai/ecom/deep/09-meta-and-facebook-ads/32-starting-and-restarting-campaigns.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

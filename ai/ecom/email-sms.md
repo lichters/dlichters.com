@@ -120,3 +120,5 @@ Welcome to {store}! Your 15% code is {CODE}. It applies automatically at checkou
 - https://dlichters.com/ai/ecom/offers-and-pricing.md
 - https://dlichters.com/ai/ecom/apps-and-tools.md
 - https://dlichters.com/ai/ecom/index.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

@@ -203,3 +203,5 @@ What type of [product category] typically sell for $500 or more?
 
 
 Part 10 of 54 of "2. Niche and Product Research: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/02-niche-and-product-research.md · Previous: https://dlichters.com/ai/ecom/deep/02-niche-and-product-research/09-price-tiers-within-a-niche.md · Next: https://dlichters.com/ai/ecom/deep/02-niche-and-product-research/11-brand-loyalty-categories-that-pass.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

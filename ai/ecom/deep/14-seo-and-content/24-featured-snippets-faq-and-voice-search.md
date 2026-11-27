@@ -119,3 +119,5 @@ Part 24 of 30 of "14. SEO and Content: full technical reference". Map of all par
 
 
 Part 24 of 30 of "14. SEO and Content: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/14-seo-and-content.md · Previous: https://dlichters.com/ai/ecom/deep/14-seo-and-content/23-writers-and-outsourcing.md · Next: https://dlichters.com/ai/ecom/deep/14-seo-and-content/25-content-promotion-and-distribution.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

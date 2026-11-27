@@ -256,3 +256,5 @@ Hi [Supplier name], I am forming a new company for this business, and the paperw
 
 
 Part 16 of 51 of "3. Suppliers and Fulfillment: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/03-suppliers-and-fulfillment.md · Previous: https://dlichters.com/ai/ecom/deep/03-suppliers-and-fulfillment/15-call-sequence-and-the-first-conversation.md · Next: https://dlichters.com/ai/ecom/deep/03-suppliers-and-fulfillment/17-follow-up-rejections-and-re-contact.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

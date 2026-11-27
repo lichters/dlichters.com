@@ -221,3 +221,5 @@ The sources give different cut-offs. Each is kept below with its context.
 
 
 Part 20 of 54 of "2. Niche and Product Research: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/02-niche-and-product-research.md · Previous: https://dlichters.com/ai/ecom/deep/02-niche-and-product-research/19-map-checks.md · Next: https://dlichters.com/ai/ecom/deep/02-niche-and-product-research/21-ad-library-and-platform-saturation-signals.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

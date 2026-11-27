@@ -344,3 +344,5 @@ Kind regards,
 
 
 Part 6 of 14 of "13. Influencers and UGC: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/13-influencers-and-ugc.md · Previous: https://dlichters.com/ai/ecom/deep/13-influencers-and-ugc/05-relationship-building-before-the-pitch.md · Next: https://dlichters.com/ai/ecom/deep/13-influencers-and-ugc/07-gifting-and-seeding-campaigns.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

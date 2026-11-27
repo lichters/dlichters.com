@@ -166,3 +166,5 @@ Count ads using the same creative and copy. The table shows what the count indic
 
 
 Part 38 of 54 of "2. Niche and Product Research: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/02-niche-and-product-research.md · Previous: https://dlichters.com/ai/ecom/deep/02-niche-and-product-research/37-air-purifiers-a-worked-criteria-set.md · Next: https://dlichters.com/ai/ecom/deep/02-niche-and-product-research/39-likes-shares-and-comments-as-filters.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

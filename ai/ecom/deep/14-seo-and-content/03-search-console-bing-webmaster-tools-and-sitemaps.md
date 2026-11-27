@@ -269,3 +269,5 @@ The following procedure predates the current Search Console interface. It is kep
 
 
 Part 3 of 30 of "14. SEO and Content: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/14-seo-and-content.md · Previous: https://dlichters.com/ai/ecom/deep/14-seo-and-content/02-outsourcing-agencies-and-ownership.md · Next: https://dlichters.com/ai/ecom/deep/14-seo-and-content/04-keyword-research-and-tools.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

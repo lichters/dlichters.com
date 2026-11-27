@@ -112,3 +112,5 @@ The sources conflict on connection. One says to install the pixel through the st
 
 
 Part 14 of 46 of "19. Metrics Finance and Tracking: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/19-metrics-finance-and-tracking.md · Previous: https://dlichters.com/ai/ecom/deep/19-metrics-finance-and-tracking/13-google-ads-conversion-tracking.md · Next: https://dlichters.com/ai/ecom/deep/19-metrics-finance-and-tracking/15-utm-tracking-and-attribution.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

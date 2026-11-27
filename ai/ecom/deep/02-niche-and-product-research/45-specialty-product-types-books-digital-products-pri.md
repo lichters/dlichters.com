@@ -261,3 +261,5 @@ Done properly this takes roughly one hour. Sending the unchanged file is not rec
 
 
 Part 45 of 54 of "2. Niche and Product Research: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/02-niche-and-product-research.md · Previous: https://dlichters.com/ai/ecom/deep/02-niche-and-product-research/44-finding-products-via-marketplaces-and-other-source.md · Next: https://dlichters.com/ai/ecom/deep/02-niche-and-product-research/46-digital-products-validation-and-competitor-researc.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

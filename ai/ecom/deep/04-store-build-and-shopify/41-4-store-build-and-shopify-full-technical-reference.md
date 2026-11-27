@@ -193,3 +193,5 @@ Fix product errors in Shopify when a feed app is installed:
 
 
 Part 41 of 49 of "4. Store Build and Shopify: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/04-store-build-and-shopify.md · Previous: https://dlichters.com/ai/ecom/deep/04-store-build-and-shopify/40-social-profiles-tracking-and-google-readiness.md · Next: https://dlichters.com/ai/ecom/deep/04-store-build-and-shopify/42-4-store-build-and-shopify-full-technical-reference.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

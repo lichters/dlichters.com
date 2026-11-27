@@ -158,3 +158,5 @@ Enter your email to win [PRIZE, for example a 200 dollar gift card to our store 
 
 
 Part 31 of 40 of "6. Conversion Optimization: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/06-conversion-optimization.md · Previous: https://dlichters.com/ai/ecom/deep/06-conversion-optimization/30-email-and-phone-capture-pop-ups-opt-ins-and-lead-m.md · Next: https://dlichters.com/ai/ecom/deep/06-conversion-optimization/32-recovering-lost-visitors-and-carts.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

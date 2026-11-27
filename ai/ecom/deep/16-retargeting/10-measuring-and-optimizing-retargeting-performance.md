@@ -159,3 +159,5 @@ Set up a new Meta account in this order:
 
 
 Part 10 of 10 of "16. Retargeting: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/16-retargeting.md · Previous: https://dlichters.com/ai/ecom/deep/16-retargeting/09-retargeting-existing-customers-and-repeat-purchase.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

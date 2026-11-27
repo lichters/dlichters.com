@@ -157,3 +157,5 @@ Post-purchase funnel stages and discounts (example structure, one source 2026):
 
 
 Part 28 of 40 of "6. Conversion Optimization: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/06-conversion-optimization.md · Previous: https://dlichters.com/ai/ecom/deep/06-conversion-optimization/27-checkout-trust-and-branding.md · Next: https://dlichters.com/ai/ecom/deep/06-conversion-optimization/29-funnel-triggers-branching-and-timing.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

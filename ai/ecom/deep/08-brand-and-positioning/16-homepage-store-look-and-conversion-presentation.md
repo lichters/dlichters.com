@@ -115,3 +115,5 @@ Part 16 of 26 of "8. Brand and Positioning: full technical reference". Map of al
 
 
 Part 16 of 26 of "8. Brand and Positioning: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/08-brand-and-positioning.md · Previous: https://dlichters.com/ai/ecom/deep/08-brand-and-positioning/15-storytelling-and-credibility.md · Next: https://dlichters.com/ai/ecom/deep/08-brand-and-positioning/17-about-us-page-and-brand-story.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

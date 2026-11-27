@@ -81,8 +81,6 @@
 
 **Can AI write my copy?** As a draft. AI tends to give average text, so feed it research and edit.
 
-**I am under 18. Can I run ads?** Don't wait until 18. Waiting costs you years.
-
 ## Checklist
 
 - [ ] Customer phrases saved from research or survey
@@ -115,3 +113,5 @@
 - https://dlichters.com/ai/ecom/niche-and-products.md
 - https://dlichters.com/ai/ecom/brand.md
 - https://dlichters.com/ai/ecom/index.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

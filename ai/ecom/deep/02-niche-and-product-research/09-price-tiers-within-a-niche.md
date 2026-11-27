@@ -39,3 +39,5 @@ Work through the tests in this order. Stop at the first failure.
 
 
 Part 9 of 54 of "2. Niche and Product Research: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/02-niche-and-product-research.md · Previous: https://dlichters.com/ai/ecom/deep/02-niche-and-product-research/08-shipping-size-weight-and-cogs.md · Next: https://dlichters.com/ai/ecom/deep/02-niche-and-product-research/10-customer-demographics-and-brand-loyalty.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

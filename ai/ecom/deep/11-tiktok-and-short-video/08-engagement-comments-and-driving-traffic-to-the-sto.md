@@ -215,3 +215,5 @@ When an account seems shadow banned:
 
 
 Part 8 of 14 of "11. TikTok and Short Video: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/11-tiktok-and-short-video.md · Previous: https://dlichters.com/ai/ecom/deep/11-tiktok-and-short-video/07-organic-testing-protocol-and-reading-results.md · Next: https://dlichters.com/ai/ecom/deep/11-tiktok-and-short-video/09-tiktok-ads-account-setup-pixel-and-tracking.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

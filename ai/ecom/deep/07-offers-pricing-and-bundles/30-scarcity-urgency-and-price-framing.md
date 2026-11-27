@@ -166,3 +166,5 @@ The sources disagree on the format of a discount. No unit sets a threshold for c
 
 
 Part 30 of 40 of "7. Offers Pricing and Bundles: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/07-offers-pricing-and-bundles.md · Previous: https://dlichters.com/ai/ecom/deep/07-offers-pricing-and-bundles/29-financing-options-shop-pay-klarna-affirm-paypal-cr.md · Next: https://dlichters.com/ai/ecom/deep/07-offers-pricing-and-bundles/31-writing-and-displaying-the-offer.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

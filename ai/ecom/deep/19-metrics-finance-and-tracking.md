@@ -3,11 +3,9 @@
 
 > Every rule, number, setting and step we collected on this topic, rewritten in our own words from many e-commerce courses (2021 to 2026). Where advice changed over time, newer advice wins; lines marked "older advice" are kept for context. Short version: https://dlichters.com/ai/ecom/index.md
 
-> Sources: every statement ends with its lesson ids and year, e.g. [L0012, 2023] or [L0458, 2021; L0771, 2025]. Which course and topic each id is: https://dlichters.com/ai/ecom/sources.md . When statements disagree, prefer the newer year.
+> Sources: every statement ends with its lesson ids and year, e.g. [L0012, 2023] or [L0458, 2021; L0771, 2025]. When statements disagree, prefer the newer year.
 
 All chapters: https://dlichters.com/ai/ecom/deep/index.md
-
-Also check: https://dlichters.com/ai/ecom/deep/23-missing-from-lessons/01-contents.md (section "19 Metrics, finance and tracking") ; https://dlichters.com/ai/ecom/deep/24-course-d-2026-details/04-16-retargeting.md (section "19 Metrics Finance and Tracking") ; https://dlichters.com/ai/ecom/deep/25-full-audit-details/19-metrics-finance-and-tracking.md (section "19 Metrics Finance and Tracking")
 
 
 **This chapter is split into 46 pages of at most about 4,000 words so an AI can open exactly the part it needs. Pick the page whose headings match the question, open it, and answer only from what it says.**
@@ -104,3 +102,5 @@ Also check: https://dlichters.com/ai/ecom/deep/23-missing-from-lessons/01-conten
    Other details · Startup, store setup and expansion · Shopify and platform settings · Benchmarks · Supplier, order and lead tracking · Changelog, baselines and test records · Personal operating metrics and habit tracking · Ad performance and direct response · Copy and response measurement · Customer contact and reputation
 46. https://dlichters.com/ai/ecom/deep/19-metrics-finance-and-tracking/46-brand-protection-and-infringement-tracking.md (699 words)
    Brand protection and infringement tracking · Finance · Case results and examples · Review and analysis
+
+Topic map (all pages): https://dlichters.com/ai/index.md

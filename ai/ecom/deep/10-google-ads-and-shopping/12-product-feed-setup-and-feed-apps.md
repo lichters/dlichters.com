@@ -194,3 +194,5 @@ Sources agree on a 24-hour cycle. Use the manual update button only when a chang
 
 
 Part 12 of 56 of "10. Google Ads and Shopping: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/10-google-ads-and-shopping.md · Previous: https://dlichters.com/ai/ecom/deep/10-google-ads-and-shopping/11-setup-sequence.md · Next: https://dlichters.com/ai/ecom/deep/10-google-ads-and-shopping/13-product-identifiers.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

@@ -222,3 +222,5 @@ Write one to two paragraphs per area. [L1256, 2021-22]
 
 
 Part 1 of 28 of "22. Mindset and Planning: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/22-mindset-and-planning.md · Next: https://dlichters.com/ai/ecom/deep/22-mindset-and-planning/02-design-your-lifestyle-income-target-and-personal-f.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

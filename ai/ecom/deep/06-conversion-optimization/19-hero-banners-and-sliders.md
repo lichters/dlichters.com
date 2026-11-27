@@ -97,3 +97,5 @@ Part 19 of 40 of "6. Conversion Optimization: full technical reference". Map of 
 
 
 Part 19 of 40 of "6. Conversion Optimization: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/06-conversion-optimization.md · Previous: https://dlichters.com/ai/ecom/deep/06-conversion-optimization/18-visual-design-media-and-clarity.md · Next: https://dlichters.com/ai/ecom/deep/06-conversion-optimization/20-trust-signals-guarantees-and-policies.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

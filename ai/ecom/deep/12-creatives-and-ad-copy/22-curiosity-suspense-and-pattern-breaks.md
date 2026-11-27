@@ -157,3 +157,5 @@ Hook, first seconds. Option one, spoken: tell viewers this is for them if [PET] 
 
 
 Part 22 of 63 of "12. Creatives and Ad Copy: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/12-creatives-and-ad-copy.md · Previous: https://dlichters.com/ai/ecom/deep/12-creatives-and-ad-copy/21-hooks-and-openings.md · Next: https://dlichters.com/ai/ecom/deep/12-creatives-and-ad-copy/23-benefits-bullets-and-unique-mechanism.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

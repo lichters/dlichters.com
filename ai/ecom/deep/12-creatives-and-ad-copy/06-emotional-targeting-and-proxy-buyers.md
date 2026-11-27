@@ -242,3 +242,5 @@ Units in this group come from the 2021-22 course and are marked older.
 
 
 Part 6 of 63 of "12. Creatives and Ad Copy: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/12-creatives-and-ad-copy.md · Previous: https://dlichters.com/ai/ecom/deep/12-creatives-and-ad-copy/05-avatars-awareness-sophistication-and-angles.md · Next: https://dlichters.com/ai/ecom/deep/12-creatives-and-ad-copy/07-avatar-documents.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

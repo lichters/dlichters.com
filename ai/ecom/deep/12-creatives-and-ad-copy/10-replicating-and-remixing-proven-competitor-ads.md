@@ -230,3 +230,5 @@ Case and method: a NAD+ berry drink mix was running top ads on Meta and TikTok, 
 
 
 Part 10 of 63 of "12. Creatives and Ad Copy: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/12-creatives-and-ad-copy.md · Previous: https://dlichters.com/ai/ecom/deep/12-creatives-and-ad-copy/09-analysing-hooks-visuals-and-comments.md · Next: https://dlichters.com/ai/ecom/deep/12-creatives-and-ad-copy/11-language-arbitrage-and-market-adaptation.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

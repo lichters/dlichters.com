@@ -158,3 +158,5 @@ Part 32 of 35 of "9. Meta and Facebook Ads: full technical reference". Map of al
 
 
 Part 32 of 35 of "9. Meta and Facebook Ads: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/09-meta-and-facebook-ads.md · Previous: https://dlichters.com/ai/ecom/deep/09-meta-and-facebook-ads/31-retargeting-by-timing-and-funnel-position.md · Next: https://dlichters.com/ai/ecom/deep/09-meta-and-facebook-ads/33-lead-generation-engagement-and-audience-building.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

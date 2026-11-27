@@ -157,3 +157,5 @@ Part 13 of 46 of "19. Metrics Finance and Tracking: full technical reference". M
 
 
 Part 13 of 46 of "19. Metrics Finance and Tracking: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/19-metrics-finance-and-tracking.md · Previous: https://dlichters.com/ai/ecom/deep/19-metrics-finance-and-tracking/12-setting-up-google-tracking-analytics-search-consol.md · Next: https://dlichters.com/ai/ecom/deep/19-metrics-finance-and-tracking/14-setting-up-meta-tiktok-pinterest-and-other-pixels.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

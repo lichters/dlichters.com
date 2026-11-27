@@ -217,3 +217,5 @@ Payout timing differs by source and by year. Use the row that matches your platf
 
 
 Part 38 of 46 of "19. Metrics Finance and Tracking: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/19-metrics-finance-and-tracking.md · Previous: https://dlichters.com/ai/ecom/deep/19-metrics-finance-and-tracking/37-balance-sheet.md · Next: https://dlichters.com/ai/ecom/deep/19-metrics-finance-and-tracking/39-personal-investing-and-wealth-building.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

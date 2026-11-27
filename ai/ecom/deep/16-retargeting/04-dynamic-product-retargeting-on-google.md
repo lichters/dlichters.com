@@ -253,3 +253,5 @@ Pausing strategy (merged with step 3 and step 5 above; both ids kept):
 
 
 Part 4 of 10 of "16. Retargeting: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/16-retargeting.md · Previous: https://dlichters.com/ai/ecom/deep/16-retargeting/03-building-meta-youtube-and-other-platform-audiences.md · Next: https://dlichters.com/ai/ecom/deep/16-retargeting/05-retargeting-ad-types-and-creative.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

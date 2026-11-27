@@ -153,3 +153,5 @@ Heavy and large products:
 
 
 Part 6 of 28 of "1. Business Model and Strategy: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/01-business-model-and-strategy.md · Previous: https://dlichters.com/ai/ecom/deep/01-business-model-and-strategy/05-entity-grouping-for-related-and-unrelated-niches.md · Next: https://dlichters.com/ai/ecom/deep/01-business-model-and-strategy/07-customer-competitor-and-positioning-research.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

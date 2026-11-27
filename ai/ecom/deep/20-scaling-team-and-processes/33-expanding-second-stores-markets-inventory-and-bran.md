@@ -143,3 +143,5 @@ Part 33 of 37 of "20. Scaling Team and Processes: full technical reference". Map
 
 
 Part 33 of 37 of "20. Scaling Team and Processes: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/20-scaling-team-and-processes.md · Previous: https://dlichters.com/ai/ecom/deep/20-scaling-team-and-processes/32-seasonal-peaks-cash-flow-and-capacity-planning.md · Next: https://dlichters.com/ai/ecom/deep/20-scaling-team-and-processes/34-affiliate-partner-and-referral-programs.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

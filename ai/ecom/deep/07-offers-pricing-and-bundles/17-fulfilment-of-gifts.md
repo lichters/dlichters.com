@@ -103,3 +103,5 @@ Test a free gift as a lead magnet while keeping the same product and price:
 
 
 Part 17 of 40 of "7. Offers Pricing and Bundles: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/07-offers-pricing-and-bundles.md · Previous: https://dlichters.com/ai/ecom/deep/07-offers-pricing-and-bundles/16-creating-free-ebooks.md · Next: https://dlichters.com/ai/ecom/deep/07-offers-pricing-and-bundles/18-designing-bundles-and-quantity-break-ladders.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

@@ -217,3 +217,5 @@ Example: three pieces with a total product cost of $16 are priced at $64.95 to h
 
 
 Part 19 of 40 of "7. Offers Pricing and Bundles: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/07-offers-pricing-and-bundles.md · Previous: https://dlichters.com/ai/ecom/deep/07-offers-pricing-and-bundles/18-designing-bundles-and-quantity-break-ladders.md · Next: https://dlichters.com/ai/ecom/deep/07-offers-pricing-and-bundles/20-bundle-offers-and-where-to-put-free-shipping.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

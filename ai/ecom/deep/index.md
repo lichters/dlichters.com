@@ -2,7 +2,7 @@
 
 > The deep version of https://dlichters.com/ai/ecom/index.md : every number, setting and step, one file per chapter. Open only the chapter that fits the question; each file is large.
 
-> Every statement ends with its sources, e.g. [L0012, 2023] = lesson L0012, year 2023. Course and topic of each id: https://dlichters.com/ai/ecom/sources.md . Newer beats older when statements disagree.
+> Every statement ends with its sources, e.g. [L0012, 2023] = lesson L0012, year 2023. Newer beats older when statements disagree.
 
 ## Chapters
 
@@ -29,10 +29,6 @@
 21. Phone Sales (26 sections, 135 KB): https://dlichters.com/ai/ecom/deep/21-phone-sales.md
 22. Mindset and Planning (26 sections, 448 KB): https://dlichters.com/ai/ecom/deep/22-mindset-and-planning.md
 
-## Supplements (specifics the 22 chapters miss)
+Our own rules from running a real store (Meta ads playbook): https://dlichters.com/ai/ops/playbook-full.md
 
-23. Missing from the lessons: coverage audit of chapters 01 to 22: https://dlichters.com/ai/ecom/deep/23-missing-from-lessons.md
-24. Course D 2026: every missing specific, by topic: https://dlichters.com/ai/ecom/deep/24-course-d-2026-details.md
-25. Full audit details: every course specific missing from chapters 01 to 24, by chapter: https://dlichters.com/ai/ecom/deep/25-full-audit-details.md
-
-Our own rules from running real stores: https://dlichters.com/ai/ourrules/index.md
+Topic map (all pages): https://dlichters.com/ai/index.md

@@ -279,3 +279,5 @@ Responding to a customer demanding a refund for a non-returnable item: [L0664, 2
 
 
 Part 17 of 23 of "17. Customer Service Returns and Chargebacks: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/17-customer-service-returns-and-chargebacks.md · Previous: https://dlichters.com/ai/ecom/deep/17-customer-service-returns-and-chargebacks/16-fraud-screening-and-risky-orders.md · Next: https://dlichters.com/ai/ecom/deep/17-customer-service-returns-and-chargebacks/18-non-delivery-claims-and-older-guidance.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

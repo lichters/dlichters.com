@@ -42,3 +42,5 @@ Example input metrics for a fictional premium beauty-tool store, used to test th
 
 
 Part 41 of 46 of "19. Metrics Finance and Tracking: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/19-metrics-finance-and-tracking.md · Previous: https://dlichters.com/ai/ecom/deep/19-metrics-finance-and-tracking/40-health-scorecards-and-benchmarks-the-four-revenue.md · Next: https://dlichters.com/ai/ecom/deep/19-metrics-finance-and-tracking/42-market-and-competitor-estimation.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

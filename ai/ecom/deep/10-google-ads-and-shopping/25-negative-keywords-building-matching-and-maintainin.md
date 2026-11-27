@@ -198,3 +198,5 @@ Test the behaviour in your own account before relying on either version. [L0274,
 
 
 Part 25 of 56 of "10. Google Ads and Shopping: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/10-google-ads-and-shopping.md · Previous: https://dlichters.com/ai/ecom/deep/10-google-ads-and-shopping/24-brand-names-and-the-two-campaign-alternative.md · Next: https://dlichters.com/ai/ecom/deep/10-google-ads-and-shopping/26-over-blocking-risks.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

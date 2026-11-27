@@ -244,3 +244,5 @@ Note on the sources: a reported absence (sick or planned) is covered by the owne
 
 
 Part 14 of 37 of "20. Scaling Team and Processes: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/20-scaling-team-and-processes.md · Previous: https://dlichters.com/ai/ecom/deep/20-scaling-team-and-processes/13-onboarding-and-training-new-team-members.md · Next: https://dlichters.com/ai/ecom/deep/20-scaling-team-and-processes/15-warnings-termination-and-hiring.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

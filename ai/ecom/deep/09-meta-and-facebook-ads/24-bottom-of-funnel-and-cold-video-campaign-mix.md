@@ -180,3 +180,5 @@ Part 24 of 35 of "9. Meta and Facebook Ads: full technical reference". Map of al
 
 
 Part 24 of 35 of "9. Meta and Facebook Ads: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/09-meta-and-facebook-ads.md · Previous: https://dlichters.com/ai/ecom/deep/09-meta-and-facebook-ads/23-meta-setup-settings.md · Next: https://dlichters.com/ai/ecom/deep/09-meta-and-facebook-ads/25-competitor-research-and-the-meta-ad-library.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

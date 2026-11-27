@@ -3,11 +3,9 @@
 
 > Every rule, number, setting and step we collected on this topic, rewritten in our own words from many e-commerce courses (2021 to 2026). Where advice changed over time, newer advice wins; lines marked "older advice" are kept for context. Short version: https://dlichters.com/ai/ecom/index.md
 
-> Sources: every statement ends with its lesson ids and year, e.g. [L0012, 2023] or [L0458, 2021; L0771, 2025]. Which course and topic each id is: https://dlichters.com/ai/ecom/sources.md . When statements disagree, prefer the newer year.
+> Sources: every statement ends with its lesson ids and year, e.g. [L0012, 2023] or [L0458, 2021; L0771, 2025]. When statements disagree, prefer the newer year.
 
 All chapters: https://dlichters.com/ai/ecom/deep/index.md
-
-Also check: https://dlichters.com/ai/ecom/deep/23-missing-from-lessons/01-contents.md (section "03 Suppliers and fulfillment") ; https://dlichters.com/ai/ecom/deep/25-full-audit-details/03-suppliers-and-fulfillment.md (section "03 Suppliers and Fulfillment")
 
 
 **This chapter is split into 51 pages of at most about 4,000 words so an AI can open exactly the part it needs. Pick the page whose headings match the question, open it, and answer only from what it says.**
@@ -114,3 +112,5 @@ Also check: https://dlichters.com/ai/ecom/deep/23-missing-from-lessons/01-conten
    Other details · Supplier and product sourcing · Marketplace and channel rules · Payments and provider costs · Packaging, mailers and print partners · Physical samples and local distribution · Store building and brand · Upsells and cross-selling · Advertising accounts, creative and traffic · Outreach, partnerships and affiliates · Team, outsourcing and community
 51. https://dlichters.com/ai/ecom/deep/03-suppliers-and-fulfillment/51-risk-and-insurance.md (29 words)
    Risk and insurance
+
+Topic map (all pages): https://dlichters.com/ai/index.md

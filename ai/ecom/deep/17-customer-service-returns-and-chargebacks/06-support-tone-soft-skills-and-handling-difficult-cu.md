@@ -263,3 +263,5 @@ The rules below apply together. Use the row that matches the situation.
 
 
 Part 6 of 23 of "17. Customer Service Returns and Chargebacks: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/17-customer-service-returns-and-chargebacks.md · Previous: https://dlichters.com/ai/ecom/deep/17-customer-service-returns-and-chargebacks/05-standard-operating-procedures-and-templates.md · Next: https://dlichters.com/ai/ecom/deep/17-customer-service-returns-and-chargebacks/07-order-status-tracking-and-delivery-inquiries.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

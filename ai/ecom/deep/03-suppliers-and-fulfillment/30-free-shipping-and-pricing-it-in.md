@@ -199,3 +199,5 @@ The sources give different windows. Each applies to a different supplier and nic
 
 
 Part 30 of 51 of "3. Suppliers and Fulfillment: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/03-suppliers-and-fulfillment.md · Previous: https://dlichters.com/ai/ecom/deep/03-suppliers-and-fulfillment/29-shipping-setup-policies-and-delivery-expectations.md · Next: https://dlichters.com/ai/ecom/deep/03-suppliers-and-fulfillment/31-shipping-policy-text.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

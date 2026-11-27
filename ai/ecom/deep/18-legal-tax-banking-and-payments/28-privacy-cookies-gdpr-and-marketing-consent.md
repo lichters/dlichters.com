@@ -143,3 +143,5 @@ Our systems apply industry-standard encryption and safeguards so personal data s
 
 
 Part 28 of 34 of "18. Legal Tax Banking and Payments: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/18-legal-tax-banking-and-payments.md · Previous: https://dlichters.com/ai/ecom/deep/18-legal-tax-banking-and-payments/27-terms-of-service-template.md · Next: https://dlichters.com/ai/ecom/deep/18-legal-tax-banking-and-payments/29-ad-platform-compliance-and-account-setup.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

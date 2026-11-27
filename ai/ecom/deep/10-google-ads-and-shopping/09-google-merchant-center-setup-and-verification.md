@@ -240,3 +240,5 @@ Branding requirements:
 
 
 Part 9 of 56 of "10. Google Ads and Shopping: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/10-google-ads-and-shopping.md · Previous: https://dlichters.com/ai/ecom/deep/10-google-ads-and-shopping/08-shopify-without-the-feed-app-conversion-pixel-rout.md · Next: https://dlichters.com/ai/ecom/deep/10-google-ads-and-shopping/10-tax.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

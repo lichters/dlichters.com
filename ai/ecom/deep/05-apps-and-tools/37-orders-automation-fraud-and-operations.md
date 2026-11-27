@@ -244,3 +244,5 @@ Orders progress through these lists as fulfilment stages change. [L0292, 2020-26
 
 
 Part 37 of 41 of "5. Apps and Tools: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/05-apps-and-tools.md · Previous: https://dlichters.com/ai/ecom/deep/05-apps-and-tools/36-conversion-testing-site-speed-and-monitoring.md · Next: https://dlichters.com/ai/ecom/deep/05-apps-and-tools/38-shipment-tracking-and-customer-notifications.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

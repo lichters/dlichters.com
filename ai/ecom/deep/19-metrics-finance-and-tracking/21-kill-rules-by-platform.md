@@ -117,3 +117,5 @@ Part 21 of 46 of "19. Metrics Finance and Tracking: full technical reference". M
 
 
 Part 21 of 46 of "19. Metrics Finance and Tracking: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/19-metrics-finance-and-tracking.md · Previous: https://dlichters.com/ai/ecom/deep/19-metrics-finance-and-tracking/20-test-budgets-kill-rules-and-scale-decisions.md · Next: https://dlichters.com/ai/ecom/deep/19-metrics-finance-and-tracking/22-scale-or-hold-decisions.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

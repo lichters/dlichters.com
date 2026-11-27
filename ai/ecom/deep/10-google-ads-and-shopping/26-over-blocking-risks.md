@@ -179,3 +179,5 @@ Example of a search term to block in a chandelier store: a term that shows the a
 
 
 Part 26 of 56 of "10. Google Ads and Shopping: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/10-google-ads-and-shopping.md · Previous: https://dlichters.com/ai/ecom/deep/10-google-ads-and-shopping/25-negative-keywords-building-matching-and-maintainin.md · Next: https://dlichters.com/ai/ecom/deep/10-google-ads-and-shopping/27-ai-assisted-term-audits.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

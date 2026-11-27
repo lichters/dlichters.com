@@ -82,3 +82,5 @@ Act as a copywriter producing believable placeholder reviews, strictly for layou
 
 
 Part 22 of 40 of "6. Conversion Optimization: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/06-conversion-optimization.md · Previous: https://dlichters.com/ai/ecom/deep/06-conversion-optimization/21-guarantees-and-risk-reversal.md · Next: https://dlichters.com/ai/ecom/deep/06-conversion-optimization/23-collecting-and-displaying-reviews.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

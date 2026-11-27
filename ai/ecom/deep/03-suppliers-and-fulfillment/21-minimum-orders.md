@@ -188,3 +188,5 @@ Two positions apply to different cases:
 
 
 Part 21 of 51 of "3. Suppliers and Fulfillment: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/03-suppliers-and-fulfillment.md · Previous: https://dlichters.com/ai/ecom/deep/03-suppliers-and-fulfillment/20-approval-agreements-and-account-setup.md · Next: https://dlichters.com/ai/ecom/deep/03-suppliers-and-fulfillment/22-pricing-margin-and-profitability-checks-per-suppli.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

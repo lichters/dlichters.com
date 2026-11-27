@@ -99,3 +99,5 @@ Listing these concrete downgrades before committing shows whether the worst case
 
 
 Part 22 of 28 of "22. Mindset and Planning: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/22-mindset-and-planning.md · Previous: https://dlichters.com/ai/ecom/deep/22-mindset-and-planning/21-revenue-dips-and-reading-the-numbers.md · Next: https://dlichters.com/ai/ecom/deep/22-mindset-and-planning/23-use-mentors-coaches-masterminds-and-peers.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

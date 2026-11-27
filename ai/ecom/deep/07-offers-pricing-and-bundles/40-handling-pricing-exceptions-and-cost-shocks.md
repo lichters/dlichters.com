@@ -393,3 +393,5 @@ Starting point: a lemonade stand run by a ten-year-old. Typical neighborhood sta
 
 
 Part 40 of 40 of "7. Offers Pricing and Bundles: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/07-offers-pricing-and-bundles.md · Previous: https://dlichters.com/ai/ecom/deep/07-offers-pricing-and-bundles/39-digital-products-services-private-label-and-direct.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

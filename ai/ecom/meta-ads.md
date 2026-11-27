@@ -107,3 +107,5 @@
 - https://dlichters.com/ai/ecom/scaling.md
 - https://dlichters.com/ai/ecom/conversion.md
 - https://dlichters.com/ai/ecom/index.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

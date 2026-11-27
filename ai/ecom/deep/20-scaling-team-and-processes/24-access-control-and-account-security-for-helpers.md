@@ -144,3 +144,5 @@ Hi [name], I just got an email from Google saying you were added as an owner of 
 
 
 Part 24 of 37 of "20. Scaling Team and Processes: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/20-scaling-team-and-processes.md · Previous: https://dlichters.com/ai/ecom/deep/20-scaling-team-and-processes/23-performance-review-and-benchmarks.md · Next: https://dlichters.com/ai/ecom/deep/20-scaling-team-and-processes/25-testing-cadence-and-scale-or-kill-decision-rules.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

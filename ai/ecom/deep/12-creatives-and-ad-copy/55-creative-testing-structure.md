@@ -157,3 +157,5 @@ Sources disagree on the starting number. Use the number that fits your budget, p
 
 
 Part 55 of 63 of "12. Creatives and Ad Copy: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/12-creatives-and-ad-copy.md · Previous: https://dlichters.com/ai/ecom/deep/12-creatives-and-ad-copy/54-sourcing-creatives-creators-and-outsourcing.md · Next: https://dlichters.com/ai/ecom/deep/12-creatives-and-ad-copy/56-hook-copy-thumbnail-and-angle-testing.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

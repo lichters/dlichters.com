@@ -206,3 +206,5 @@ Procedure, per-country ad sets for a clean comparison:
 
 
 Part 17 of 35 of "9. Meta and Facebook Ads: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/09-meta-and-facebook-ads.md · Previous: https://dlichters.com/ai/ecom/deep/09-meta-and-facebook-ads/16-audience-strategy-interests-broad-targeting-countr.md · Next: https://dlichters.com/ai/ecom/deep/09-meta-and-facebook-ads/18-gender.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

@@ -74,3 +74,5 @@ Part 11 of 40 of "7. Offers Pricing and Bundles: full technical reference". Map 
 
 
 Part 11 of 40 of "7. Offers Pricing and Bundles: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/07-offers-pricing-and-bundles.md · Previous: https://dlichters.com/ai/ecom/deep/07-offers-pricing-and-bundles/10-discounts-and-coupon-codes.md · Next: https://dlichters.com/ai/ecom/deep/07-offers-pricing-and-bundles/12-checking-supplier-rules-before-discounting.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

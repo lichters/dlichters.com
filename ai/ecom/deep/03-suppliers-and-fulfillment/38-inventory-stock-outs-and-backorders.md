@@ -201,3 +201,5 @@ Where the sources disagree on the 2-3 week and longer ranges, the nearest-matchi
 
 
 Part 38 of 51 of "3. Suppliers and Fulfillment: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/03-suppliers-and-fulfillment.md · Previous: https://dlichters.com/ai/ecom/deep/03-suppliers-and-fulfillment/37-zapier-automation-for-email-orders.md · Next: https://dlichters.com/ai/ecom/deep/03-suppliers-and-fulfillment/39-backorders-and-customer-communication.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

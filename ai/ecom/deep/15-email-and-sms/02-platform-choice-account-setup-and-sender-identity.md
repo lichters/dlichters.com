@@ -220,3 +220,5 @@ Settings summary
 
 
 Part 2 of 29 of "15. Email and SMS: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/15-email-and-sms.md · Previous: https://dlichters.com/ai/ecom/deep/15-email-and-sms/01-email-and-sms-strategy-economics-and-program-plann.md · Next: https://dlichters.com/ai/ecom/deep/15-email-and-sms/03-deliverability-foundations-authentication-reputati.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md

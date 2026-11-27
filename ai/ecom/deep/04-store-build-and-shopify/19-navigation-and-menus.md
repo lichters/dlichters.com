@@ -275,3 +275,5 @@ Sources disagree on the Home item:
 
 
 Part 19 of 49 of "4. Store Build and Shopify: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/04-store-build-and-shopify.md · Previous: https://dlichters.com/ai/ecom/deep/04-store-build-and-shopify/18-collection-templates.md · Next: https://dlichters.com/ai/ecom/deep/04-store-build-and-shopify/20-quick-links-and-policy-pages.md
+
+Topic map (all pages): https://dlichters.com/ai/index.md
