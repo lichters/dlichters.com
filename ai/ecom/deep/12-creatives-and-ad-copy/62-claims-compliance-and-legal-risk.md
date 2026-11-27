@@ -7,7 +7,7 @@ Part 62 of 63 of "12. Creatives and Ad Copy: full technical reference". Map of a
 
 - Never publish a statement without backing it with proof. If you claim "lose three kilos in a week," include a customer testimonial or a data point from a clinical trial. If you cite dosage or effectiveness, link to or reference the study. Provide evidence before asking for the purchase. [L0261, 2025-26]
 - Check every claim for truth and relevance before publication. Readers who doubt a claim or cannot see how it relates to them stop reading. [L1366, undated]
-- Ad creative must reflect the product's real ingredients and results. You may copy a winning structure in format, but the claims must be true for your product, or the ad will fail platform review and lose customer trust. [L0707, 2026]
+- Ad creative must reflect the product's real ingredients and results. You may copy a winning structure in format. [L0707, 2026]
 - The reframe, the proof and the call to action must match the actual offer. A script that promises more than the product delivers makes buyers feel misled after the click. [L1140, 2026]
 - Advertise the product accurately, so that buyers who purchase it are the ones who want to keep it. Accurate imagery and descriptions help reduce returns. [L1438, 2023+]
 - Imitate the form and structure of researched ads, never their exact wording. Copying ad text word-for-word is plagiarism and illegal copyright infringement. [L0196, 2020+]
@@ -76,7 +76,6 @@ Part 62 of 63 of "12. Creatives and Ad Copy: full technical reference". Map of a
 - Do not copy competitors' product images, even when a competing listing shows good ideas. Create your own images that show the same benefits in your own way. [L1346, 2020-26]
 - Copying a competitor's product images directly can lead to a DMCA takedown of the Shopify store. Use your own or substantially edited images. [L0660, 2019+]
 - Big brands have legal teams and can pursue action beyond DMCA notices. Avoid copying their content. [L1218, undated]
-- TikTok competitor content: avoid big brands such as Adidas and Gymshark, because they enforce DMCA takedowns within one to two weeks. Use recent content (less than one to two months old) rather than outdated videos. Do not claim celebrity endorsements or false associations. [L0321, undated]
 - Do not copy videos from large brands. Skip any video in which the product or brand logo is clearly visible. Copying is limited to short tests of content not owned by a major brand. [L1377, 2022+]
 - Once a dropshipping brand has proof of concept and sales, replace copied content with original content and build a distinct brand. A large, known brand that gets caught copying faces more reputational damage. [L1348, 2023]
 - Original footage separates your brand from competitors and makes copying harder. Copycats are a common problem once an ad performs well. [L1427, 2023+]

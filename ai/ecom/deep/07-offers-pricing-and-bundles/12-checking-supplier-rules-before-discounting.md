@@ -55,7 +55,7 @@ Sources give different rough shares. They come from different years and are esti
 
 ### Keep the advertised price at MAP
 
-**Principle.** Sell at MAP and treat any extra offer as a discount off MAP. Do not inflate the MAP price to create room for a discount. ** [L0247, 2021]
+**Principle.** Sell at MAP and treat any extra offer as a discount off MAP. ** [L0247, 2021]
 
 - List products at MAP and fund discounts from the margin you can afford. Do not list above MAP, because products above MAP lose traction on Google Shopping. If a discount is too large, reduce the discount rather than raising the list price. ** [L0968, 2021]
 - If the margin cannot cover discounts, list the product at MAP without discount codes for that supplier. Listing a higher price lowers clicks in Google Shopping because the product appears at the highest price. [L1283, 2023]

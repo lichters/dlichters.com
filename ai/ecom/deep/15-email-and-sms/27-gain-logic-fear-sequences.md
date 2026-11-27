@@ -70,7 +70,6 @@ Part 27 of 29 of "15. Email and SMS: full technical reference". Map of all parts
 - If an email says the offer ends at midnight, name the time zone and make the coupon expire at exactly that time. A midnight claim that differs from the real expiry damages trust the same way a false stock claim does. [L0606, undated]
 
 **Stock claims**
-- Scarcity claims such as "selling out like crazy", "inventory is running low", or "we might not be able to fulfill your order" must be true for the store at the time of sending. False stock claims damage trust and can create refund and complaint problems. [L0606, undated]
 - Use scarcity messaging in Black Friday campaigns, such as: "This exclusive discount releases to the public tomorrow. Act now to lock in the early-bird price before the public gets access." This creates FOMO without over-exaggerating the offer. [L0308, 2023]
 
 **Teasers**

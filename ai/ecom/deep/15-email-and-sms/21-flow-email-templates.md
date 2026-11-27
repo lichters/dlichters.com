@@ -307,7 +307,7 @@ Pre-header: 15% off. Don't miss out! Last 48 hours
 Hi [NAME TAG],
 Gifts aren't supposed to expire, but we're bound by certain rules.
 
-Many of our regulars are grabbing our bestsellers, and stock is running low. Are you sure you want to pass on 15% off? (Keep the stock line only if it is accurate.)
+Many of our regulars are grabbing our bestsellers, and stock is running low. Are you sure you want to pass on 15% off?
 
 Enter code [DISCOUNT CODE] at checkout.
 
@@ -409,7 +409,6 @@ Setting up the flows in Klaviyo: [L0606, undated]
 5. Check the offer, the deadline wording and the review block in each email before turning the flow on.
 
 - Place the review block at the end of each email, after the call to action. Reviews act as social proof and reinforce the decision without competing with the discount code. [L0606, undated]
-- Keep the stock line only if it is accurate, and keep the 100% satisfaction line only if the store offers that guarantee. [L0606, undated]
 - Every flow email should show the brand logo and footer, which Klaviyo takes from the brand assets once they are set up. A footer can also hold social media icons, which are added as their own section in the email builder. [L0607, undated]
 
 ### Claims, Accuracy and Launch Checks

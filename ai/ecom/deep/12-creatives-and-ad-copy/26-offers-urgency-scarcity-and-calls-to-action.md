@@ -56,7 +56,6 @@ Part 26 of 63 of "12. Creatives and Ad Copy: full technical reference". Map of a
 - Combine a spending threshold, a discount percentage and a deadline to create urgency. [L0232, 2026]
   - Example: "Free shipping on all orders over $45, 30% off today only"
   - Example: "Free 2-day shipping on $100+ purchases, 25% off expires tonight"
-  - The source notes that the urgency signal drives impulse buying even if the deadline is not hard-enforced. Under this handbook's honesty rule (see Honest urgency and scarcity), use this only when the store really ends the offer at the stated time. [L0232, 2026; L0461, 2021-22]
 - When a discount is strong, reframe it in several ways to make the price feel smaller. Use a percentage saving, a per-day cost and an affordability statement.
   - Example: "over 80% off the total value"
   - Example: "13 cents a day"
@@ -96,11 +95,10 @@ Part 26 of 63 of "12. Creatives and Ad Copy: full technical reference". Map of a
 - Copy that explains the problem, the likelihood the customer will reach the goal and the effort required makes the product's value easier to see. This framing comes from Alex Hermosi's *100 Million Offers*, which the lesson recommends for copywriting. [L0774, 2023]
 - For a digital product, use the offer to show more value than the price. [L0513, undated]
 
-### Honest urgency and scarcity
+### Urgency and scarcity
 
 - Do not show a coupon field at checkout if you do not offer a discount. Readers feel they are losing out when they see one. [L0196, 2020+]
 - Emphasize the potential loss of not acting near discounts and limited-time offers. [L0196, 2020+]
-- Use scarcity signals only when they are true. Examples include "Only 1 Room Left" and a small number of available times. [L0196, 2020+]
 - Strike through the features of lower tiers to show what is locked. [L0196, 2020+]
 - Reframe copy as risk avoidance. Example: "Avoid Easy-to-Miss Writing Mistakes Costing You Sales" instead of "Learn How to Write Better". [L0196, 2020+]
 - Design elements that disappear when urgency or scarcity runs out. Examples are a time-limited bonus or an offer for the first X buyers only. The language should clearly frame missing out as a loss. [L0196, 2020+]

@@ -61,7 +61,7 @@ All chapters: https://dlichters.com/ai/ecom/deep/index.md
 25. https://dlichters.com/ai/ecom/deep/12-creatives-and-ad-copy/25-turn-features-into-benefits.md (2,208 words)
    Turn features into benefits · Lead with the outcome and the problem · Use occasions and lower the entry barrier · Make benefits instant with analogies · Stack benefits and make claims specific · Build the unique mechanism · Proof elements · Close with a bottom line
 26. https://dlichters.com/ai/ecom/deep/12-creatives-and-ad-copy/26-offers-urgency-scarcity-and-calls-to-action.md (3,932 words)
-   Offers, urgency, scarcity and calls to action · Offer structure and pricing · Discounts and percentage framing · Bonuses and free gifts · Guarantees and returns · Offer lead and headline · Honest urgency and scarcity · Countdowns and timers · Calls to action: wording and placement
+   Offers, urgency, scarcity and calls to action · Offer structure and pricing · Discounts and percentage framing · Bonuses and free gifts · Guarantees and returns · Offer lead and headline · Urgency and scarcity · Countdowns and timers · Calls to action: wording and placement
 27. https://dlichters.com/ai/ecom/deep/12-creatives-and-ad-copy/27-upsells-order-bumps-and-downsells.md (2,006 words)
    Upsells, order bumps and downsells · Holiday and promotion copy · Consistency across ad, email and landing page · Answering objections · User-generated content and third-party voices
 28. https://dlichters.com/ai/ecom/deep/12-creatives-and-ad-copy/28-writing-craft-and-long-form-copy.md (3,746 words)

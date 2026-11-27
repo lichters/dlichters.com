@@ -12,7 +12,7 @@ Part 21 of 40 of "6. Conversion Optimization: full technical reference". Map of 
 - Shoppers fear losing money, so the page should reduce the perceived risk of buying with visible guarantees and protection, such as a money-back promise, so the visitor feels safe to purchase. [L1363, 2023]
 - Trust signals such as free shipping, a 30-day money-back guarantee and 'try risk-free for 30 days' near the top of the page remove purchase anxiety. The wording should make clear the company will refund an unhappy customer, which gives certainty rather than persuasion. [L0917, undated]
 - A money-back guarantee tends to raise conversion rate because customers feel safer buying. Refunds may rise slightly, but the extra sales usually outweigh them. [L0683, undated]
-- Trust badges and checkmark-style benefit lines add credibility to a product page when placed near the product or buy area. Only show badges and claims that are true for the store, because false credibility signals damage trust once a visitor notices. [L1380, 2022]
+- Trust badges and checkmark-style benefit lines add credibility to a product page when placed near the product or buy area. [L1380, 2022]
 
 #### Writing the money-back guarantee
 
@@ -132,7 +132,7 @@ We maintain competitive pricing as a priority. Within six months of purchase, if
 - Authority signals include mentions of major publications and expert endorsements. An expert endorsement that also contains a benefit statement from a relevant professional gives both authority and social proof at the same time. [L0918, 2023]
 - Press mentions, expert endorsements, notable customers and research-backed ingredients all build authority. [L0919, undated; L1363, 2023]
 - Add third-party studies, reliable outside sources or a small self-run survey with transparent methodology to the page. Quote specific percentages from them, because statistics help buyers justify the purchase. [L1016, 2026]
-- A named ingredient or component backed by published clinical research can serve as proof in a feature list, because the buyer sees a recognised mechanism behind the promised result. Use such a claim only when the evidence is real and can be cited, since an unsupported 'clinically proven' statement damages trust. [L1210, undated]
+- A named ingredient or component backed by published clinical research can serve as proof in a feature list, because the buyer sees a recognised mechanism behind the promised result. [L1210, undated]
 - Claims such as damage reduction, frizz control or clinical-style wording need concrete proof on the page before they can convert. Such proof includes how the technology works, test data or guarantee terms. An audit should flag homepage claims without this support as a trust gap. [L0886, 2025-26]
 - Best-in-class claim pattern: formula superlative + category + location + measurable count or rating. It works because a bare superlative is disbelieved, while a verifiable number makes the claim credible. Examples: 'Most-reviewed sleep mask seller in Germany, with 4,800 verified reviews.' and 'Rated 4.7 out of 5 by 2,300 verified buyers across our pet bed range.' [L0411, 2021-22]
 - Third-party certifications from independent organisations (such as organic certification confirming production standards) serve as proof. Display the certification badge and the organisation's name in product copy. [L0295, 2021-22]

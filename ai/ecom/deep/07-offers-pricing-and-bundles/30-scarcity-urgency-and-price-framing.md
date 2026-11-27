@@ -64,7 +64,6 @@ Scarcity announcement templates to use in store copy and email campaigns, adapte
 #### Keeping timers real
 
 - Keep the countdown timer and the wording in sync with the real expiry time. One email showed a 17-hour timer while the text said the offer ends at midnight. This conflict is noticed by the shopper. [L0567, 2025-26]
-- Countdown timers help conversion only when the deadline is real, for example a sale that ends at midnight Eastern time on Black Friday. A timer that resets every day is a gimmick and does not help. [L1092, 2022]
 
 #### Timers versus coupons: two approaches
 
@@ -78,10 +77,8 @@ The sources disagree on whether a timer should restart. Both values apply in dif
 
 - Note: the older advice (2022) calls a timer that resets every day a gimmick. The newer lesson allows daily resets when a sale is extended. Use the daily reset only when the sale really is being extended, and do not present it as a permanent deadline. [L1092, 2022; L1225, 2025]
 
-### Scarcity must be true
+### Scarcity
 
-- Use scarcity and urgency only when they are true. False deadlines or invented shortages destroy trust, which is hard to rebuild. [L0378, 2019+]
-- Scarcity claims must be true, because false stock messages damage trust. [L0516, 2023]
 - Mistake: a discount left without a reason or a deadline marks a random dropshipping store. Always name the sale and state when it ends. [L1194, undated]
 - Mistake: a generic countdown with text such as "ending soon" or "limited supply" adds little scarcity. Tie the urgency to the specific problem the product solves. [L1194, undated]
 

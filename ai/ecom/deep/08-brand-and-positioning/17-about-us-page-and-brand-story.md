@@ -67,10 +67,8 @@ A personal founder brand follows this pattern: a named person appears in photos 
 
 On a curator-style store with a named person, product pages should include that person's own short assessment of each item and why it is worth buying. This supports the expert role and gives visitors a reason to trust the selection [L0838, 2020-26].
 
-### Honesty and Accuracy Rules
+### Accuracy rules
 
-- Only list differentiators that are true today in the About Us prompt. Claims such as better warranties should be removed until the suppliers providing them are confirmed, because the AI will otherwise write them into the page as facts [L1048, 2020-26].
-- Never invent a founder story to fill the optional field. If you have no real story, delete the entire section [L1048, 2020-26].
 - AI-generated About Us and policy text is a starting draft. The store owner must review it before publishing and check it against real business terms, because the text is written to sound professional rather than to match supplier terms [L1048, 2020-26].
 - Production footage should match the brand's main selling point. Eco-focused brands can use factory footage and tech pack visuals as part of the story. Other brands should focus on the quality of the final product. Showing production works best when a factory offers video production or when you film the received product yourself in close-up detail [L1438, 2023+].
 

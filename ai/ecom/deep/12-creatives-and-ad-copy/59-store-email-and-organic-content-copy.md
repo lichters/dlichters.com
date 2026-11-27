@@ -39,7 +39,7 @@ Part 59 of 63 of "12. Creatives and Ad Copy: full technical reference". Map of a
 - Desire headline: name the outcome the buyer wants, using the words from your customer research, and tie it to the product's use. [L0567, 2025-26]
   - Example: 'Gear that keeps your longest weekend ride comfortable' [L0567, 2025-26]
   - Example: 'Stylish kit that holds up on every climb' [L0567, 2025-26]
-- Scarcity lines: name what the shopper loses if they leave, such as stock running low or a price ending. Use one only if it is true. [L0567, 2025-26]
+- Scarcity lines: name what the shopper loses if they leave, such as stock running low or a price ending. [L0567, 2025-26]
   - Example: 'Only a few units left in your size' [L0567, 2025-26]
   - Example: 'This colourway is sold out soon, so hold it now' [L0567, 2025-26]
 - Shipping claims: do not include 'Free Shipping' in product page copy if Google Merchant Center flags it as redundant. Put the shipping offer in the meta description instead, or rely on Shopify free shipping settings. (2023) [L0274, 2023]

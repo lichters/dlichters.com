@@ -3,7 +3,7 @@ Part 25 of 26 of "8. Brand and Positioning: full technical reference". Map of al
 
 ## Trust-based brand ethics and reputation
 
-### Honesty in claims and copy
+### Claims and copy
 
 - Honesty shows through copy. Hidden flaws or evasive claims are noticed by readers, while a candid tone about the product builds trust and makes the buying environment feel real. [L1366, undated]
 - Describe your business, where it comes from and what you sell accurately and transparently. When a problem appears, address it honestly instead of hiding or spinning it, because trust is the baseline for any brand. [L0534, undated]
@@ -38,7 +38,7 @@ Part 25 of 26 of "8. Brand and Positioning: full technical reference". Map of al
   3. If they agree, put the story on the product page word for word.
   4. Alternatively, ask customers who had a positive experience to share how the product improved their life in a way that matches the main problem of the market.
 
-  The story must be true, but names and personal details may be left out. [L0580, 2021-22]
+  Names and personal details may be left out. [L0580, 2021-22]
 
 ### Reviews and social proof
 

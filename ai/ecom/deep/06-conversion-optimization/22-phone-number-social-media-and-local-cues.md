@@ -38,35 +38,11 @@ I'm [your name], and the owner of [your store domain]. I need concepts for our w
 - Customers look for signs of a real business behind the store. Show who runs the store and how to reach them, because that answers the question of whether the seller exists. [L0423, 2019]
 - Sell differentiators that are true, such as a woman-owned, veteran-owned or surfer-owned status, free shipping, a price-match guarantee, a 24/7 customer service channel or secure checkout. [L0342, 2020-26]
 
-### Differentiator icons and honest claims
+### Differentiator icons and claims
 
 - The 'why buy from us' icons in the pre-footer communicate what sets the store apart. They can show free shipping, a price-match guarantee, a 24/7 customer service channel, secure checkout or the owner's status. The one source theme allows up to seven icons, but one to seven can be used. [L0342, 2020-26]
 - Use only differentiator claims that are true for the store. For example, show secure checkout only when the store runs on Shopify's checkout. Each claim needs a matching icon and a short label. [L0342, 2020-26]
 - A visitor who sees a claim the store does not keep will notice, and false credibility signals damage trust. [L1380, 2022]
-
-### Honesty limits
-
-- Do not pretend things are what they are not. Perception-building must stay above board, honest and trustworthy, which matters most in highly competitive markets or when reselling products that other sellers also carry. [L0411, 2021-22]
-- Placeholder reviews for layout and QA only. This prompt produces test content and must never go live, be used in ads or be presented as customer proof. Use the prompt only for design and testing, with the output marked as required:
-
-```
-Act as a copywriter producing believable placeholder reviews, strictly for layout and QA work. Write 12 brief mock reviews, each one to three sentences long, for an item called [PRODUCT NAME]. Every entry needs an invented first name with a country flag emoji (for example Sarah 🇸🇬), a headline of one to five words, and a body of one to three sentences that refers to one concrete trait or advantage such as build quality, delivery, packaging, or outcomes. Put a star score from 1 to 5 after each review line. Vary the tone: some upbeat, some neutral, and one mildly negative. Start the output with the line "SAMPLE REVIEWS, FOR DESIGN/TEST ONLY. DO NOT PUBLISH." Each review goes on its own line in this pattern: SAMPLE, [Name] [flag], "[Headline]", [body]. ⭐️⭐️⭐️⭐️ Include no personal data and never suggest these came from real buyers. Keep everything invented and limited to layout or testing. These reviews must never go live on a storefront or into ads, and must never be used as genuine customer proof.
-```
-
-  [L1299, 2026]
-
-- Published statements about the store's data and processes must be accurate, because they describe what the store actually does. [L1250, 2026]
-- Percentages such as 91 or 97 percent of users noticing a result need a published survey base: how many people answered and how long they used the product, for example 100 users over 90 days. A figure without this basis is an unsupported claim and can create advertising risk. [L0600, 2026]
-- Testimonials and FAQ answers must come from real customers and real questions. [L0917, undated]
-- Trust badges and claims are only useful when true for the store. False credibility signals can damage trust once a visitor notices. [L1380, 2022]
-- Badges from a seal provider must be checked against sales data, because a seal that does not help can hurt. [L0910, 2015]
-- Use a claim such as 'clinically proven' only when the evidence is real and can be cited. [L1210, undated]
-- Featured-in logos from paid placements must be backed up by the actual placement. [L1348, 2023]
-- The 78% social-media statistic and the 88% Zendesk review benchmark are secondary or vendor figures. Verify them before quoting. [L0653, 2020-26; L0908, 2020-26]
-- Do not quote the 78% social-media statistic or the 88% review-trust benchmark as verified facts. Verify them before use. [L0653, 2020-26; L0908, 2020-26]
-- Customer totals must come from your own order records, not from a competitor's page. [L0600, 2026]
-- Do not show payment methods you do not accept. [L1050, 2020-26]
-- Do not present a self-written review as a customer review. [L1325, 2020-26]
 
 #### Further details
 
@@ -75,7 +51,6 @@ Act as a copywriter producing believable placeholder reviews, strictly for layou
 - The 'About us / our story' page converts poorly, with roughly 3% of visitors reaching it, but it should still exist for trust. [L0577, 2023]
 
 - Competitor stores show free shipping, a money-back promise and easy returns as trust badges near the product. Place these badges close to the add-to-cart button and state the exact terms. [L0600, 2026]
-
 
 Part 22 of 40 of "6. Conversion Optimization: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/06-conversion-optimization.md · Previous: https://dlichters.com/ai/ecom/deep/06-conversion-optimization/21-guarantees-and-risk-reversal.md · Next: https://dlichters.com/ai/ecom/deep/06-conversion-optimization/23-collecting-and-displaying-reviews.md
 

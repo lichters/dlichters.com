@@ -185,7 +185,7 @@ Creating an authorized retailer badge (procedure merged from two units that desc
 - Brands with a real cause tend to attract customers, especially when the cause is authentic. Profits can be donated, or customers can be offered an optional extra payment that goes to a specific charity or cause. [L1068, 2019]
 - Reading glasses donations were first routed through Vision Partners. A later distribution partner could handle about 200,000 pairs globally, shipped in batches of roughly 1,000 units. [L0790, 2017]
 
-### Badges, claims and honesty
+### Badges and claims
 
 
 - Paid placements on sites such as Fox or Forbes can be bought through Brand Push Up. The lesson quoted about 195 to 200 USD for one featured placement. This is an optional, pricier way to gain authority. [L1363, 2023]
@@ -193,7 +193,7 @@ Creating an authorized retailer badge (procedure merged from two units that desc
 
 **"Not sold on Amazon or eBay" badge**
 
-- Some competitor product pages add a "not sold on Amazon or eBay" badge to signal that the brand sells only through its own store. Use this badge only if it is true for your supply, and check the marketplaces before publishing it. [L0600, 2026]
+- Some competitor product pages add a "not sold on Amazon or eBay" badge to signal that the brand sells only through its own store. [L0600, 2026]
 
 **Niche and generic trust badges**
 

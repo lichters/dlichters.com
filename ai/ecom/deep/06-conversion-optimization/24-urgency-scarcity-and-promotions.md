@@ -21,7 +21,6 @@ Part 24 of 40 of "6. Conversion Optimization: full technical reference". Map of 
 
 - Expiring codes suit high-ticket products that customers buy only every few years, because about 90% of site visitors are first-time visitors who have never seen the code. [L0531, 2020-26]
 - For low-ticket recurring products with many repeat visitors, the same code seen again and again is likely to work less well. [L0531, 2020-26]
-- Use scarcity only when it is genuine, and use it sparingly. If a product is always on sale or sales run every week, repeat visitors stop reacting to urgency. [L1522, 2021-22]
 - The average e-commerce customer has about seven touchpoints before buying, so many shoppers return several times. A scarcity message that stays on the page for weeks loses credibility. [L1522, 2021-22]
 
 ### Expiring coupon settings

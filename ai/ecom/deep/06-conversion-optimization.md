@@ -53,7 +53,7 @@ All chapters: https://dlichters.com/ai/ecom/deep/index.md
 21. https://dlichters.com/ai/ecom/deep/06-conversion-optimization/21-guarantees-and-risk-reversal.md (3,472 words)
    Guarantees and risk reversal · Shipping, returns and policy pages · Payment logos, badges and seals · Charity, authority and third-party claims
 22. https://dlichters.com/ai/ecom/deep/06-conversion-optimization/22-phone-number-social-media-and-local-cues.md (1,727 words)
-   Phone number, social media and local cues · Differentiator icons and honest claims · Honesty limits
+   Phone number, social media and local cues · Differentiator icons and claims
 23. https://dlichters.com/ai/ecom/deep/06-conversion-optimization/23-collecting-and-displaying-reviews.md (3,439 words)
    Collecting and displaying reviews · Why reviews matter for conversion · Protecting ratings and handling negative reviews · Review volume and rating · Trustpilot and third-party platforms · Collecting reviews before launch · Legitimate sources for early reviews · Import rules · Review requests and rewards · Review app setup · Widget placement and display · Styling the widget
 24. https://dlichters.com/ai/ecom/deep/06-conversion-optimization/24-urgency-scarcity-and-promotions.md (3,980 words)

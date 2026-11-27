@@ -176,7 +176,6 @@ pay in [N] interest-free payments of [price divided by N] with Shop Pay
 
 **Shipping protection**
 
-- Offer shipping protection at checkout only if it is real insurance and not an upsell. Check the wording before you enable it. [L0667, 2025]
 
 **Answering shipping cost questions directly**
 
