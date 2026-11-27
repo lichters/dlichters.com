@@ -15,10 +15,9 @@
 7. Use the free fonts built into Shopify, not custom fonts you may not have the license for.
 8. Spend at most 100 USD on a logo; in the test phase, spend nothing on a creative director and put that money into ads.
 9. Write down 3 to 5 reasons why your store is different or better.
-10. Never lie: do not claim to be number one or the best quality if you cannot prove it.
-11. Keep the word "dropshipping" out of all customer-facing text.
-12. Keep logo, colors and tone the same on the store, packaging and every social profile.
-13. Keep the brand look consistent, but never let it block what your ads need in the early test phase.
+10. Keep the word "dropshipping" out of all customer-facing text.
+11. Keep logo, colors and tone the same on the store, packaging and every social profile.
+12. Keep the brand look consistent, but never let it block what your ads need in the early test phase.
 
 ## Steps
 

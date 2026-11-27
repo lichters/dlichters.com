@@ -61,9 +61,8 @@ Words: CPA = ad cost per purchase. ROAS = revenue divided by ad spend. CBO = a c
 
 - Prices 69.99 / 119.00 / 167.98 for 1 / 2 / 3 beds, no strike-through price, hold until 20 purchases, never discount the single bed.
 - Free US shipping on every order. A shipping fee on the single item only as a test after 20 purchases.
-- Post-purchase offer: second item at 48.99, if declined 41.99, never more than the bundle. A timer only if the offer really disappears.
+- Post-purchase offer: second item at 48.99, if declined 41.99, never more than the bundle.
 - 30-day money-back guarantee, customer keeps the item; a line under the buy button. Refund rather than risk a chargeback.
-- Trust: only real deadlines, no fake timer, no fake "sold out", only real reviews.
 - Ads go straight to the product page; description tab open; check it on an iPhone. Mobile load (LCP) under 4 seconds; remove heavy apps.
 - Offer test only after 20 purchases: 1 item vs 2 items preselected, winner by profit per visitor.
 - Checkout without PayPal at first, decide again after 30 orders.

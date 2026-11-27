@@ -12,10 +12,9 @@
 4. Keep the top of the product page short: title, rating, a 2 to 3 line description, about 3 bullet points, the offer, then the Add to Cart button.
 5. Show the full price, shipping cost and delivery time on the product page, because surprise costs at checkout are the top reason people quit.
 6. Put trust directly below the Add to Cart button, for example a clear 30-day return line, which lifted conversion by 3.5% in one 2026 test.
-7. Use real urgency only: never fake timers, fake low-stock messages or "last chance" discounts that quietly restart.
-8. Change only one thing per page in each test, so you know what caused the result.
-9. Do not build advertorials, listicles or pre-sale pages before you reach at least $200 to $500 in sales on a single day.
-10. Hide the review widget on products with zero reviews instead of showing "no reviews yet".
+7. Change only one thing per page in each test, so you know what caused the result.
+8. Do not build advertorials, listicles or pre-sale pages before you reach at least $200 to $500 in sales on a single day.
+9. Hide the review widget on products with zero reviews instead of showing "no reviews yet".
 
 ## Steps
 
@@ -70,8 +69,6 @@
 
 **Is a shipping fee okay?** A small fee shown early was fine in a 2026 test. Hidden fees are the problem.
 
-**Do countdown timers help?** Only if the deadline is real. Fake scarcity is deception and against our rules.
-
 **How do I find out why people do not buy?** Ask them: a short survey 3 to 4 days after purchase, a few questions, never more than 5.
 
 ## Checklist
@@ -98,7 +95,7 @@
 
 ## Where courses disagree
 
-- **Urgency:** some 2026 store builds add cart timers and "sold out before" lines; 2021-22 lessons say urgency must never be fake. We only use real deadlines and real stock.
+- **Urgency:** some 2026 store builds add cart timers and "sold out before" lines; 2021-22 lessons use only real deadlines.
 - **Express checkout:** 2021-22 says dynamic checkout buttons speed things up; a 2026 coach found the button on the product page lowered conversion.
 - **Test length:** 2026 says about 10 days for landing pages; 2021-22 says at least 4 weeks per test.
 - **Cart upsells:** 2026 tests show gains, while another 2026 coach says remove add-ons until conversion is solid.

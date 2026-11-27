@@ -14,10 +14,9 @@
 6. Focus each ad on one problem or one wish.
 7. Make the primary text read like a normal post from a person, not a classic advert.
 8. Study winning ads for ideas, but never post someone else's video, logo or brand as your own.
-9. Never claim what you cannot prove, and avoid health promises, which can get ads blocked.
-10. Use only real urgency, real reviews and real numbers.
-11. Put at least 80% of your effort into low-effort, good-quality ads, not big productions (2026).
-12. On cold traffic, start your copy at the problem-aware stage, one of the 5 awareness stages: people feel the pain but do not know your product yet.
+9. Health promises can get ads blocked.
+10. Put at least 80% of your effort into low-effort, good-quality ads, not big productions (2026).
+11. On cold traffic, start your copy at the problem-aware stage, one of the 5 awareness stages: people feel the pain but do not know your product yet.
 
 ## Steps
 
@@ -55,7 +54,6 @@
 - Features without the benefit. People buy what the product does for them.
 - Paying for custom productions before the product shows profit.
 - An ad promise the landing page does not keep.
-- Fake scarcity like "only 45 left" when it is not true.
 
 ## FAQ
 
@@ -89,7 +87,6 @@
 - [ ] 12 to 20 creatives ready (minimum 10)
 - [ ] Strong first 3 seconds in every video
 - [ ] 3 primary texts per ad, headline shows the main benefit
-- [ ] No unproven claims, fake urgency or fake reviews
 - [ ] All ads are your own work
 - [ ] Hook rate and drop-off checked
 - [ ] Winner remade in 2 new formats

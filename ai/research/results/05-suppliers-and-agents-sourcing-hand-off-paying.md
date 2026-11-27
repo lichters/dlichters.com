@@ -4,7 +4,7 @@ Part 5 of 6 of "Research results: e-commerce questions we researched, condensed"
 ## Suppliers and agents: sourcing, hand-off, paying
 
 **Lowest unit price incl. DDP from Chinese agents in the first message** (2026-09-29)  
-No magic phrase. Send a professional RFQ: identical spec, product / fulfillment / DDP cost split, honest price tiers, several parallel quotes, then a precise counter-anchor. Do not invent volume ("50 orders/day" only with proof); inflated promises cost trust and priority. Meta-analysis 2025 (90 studies, 16,334 people): first-offer anchoring effect g = 0.42. Price round (deep answer): get 3 comparison quotes first, then counter 5-15 % below a fair first offer; ask tiers as "1/10/30/50/100 orders/day, pricing scenarios, not committed volume".
+No magic phrase. Send a professional RFQ: identical spec, product / fulfillment / DDP cost split, honest price tiers, several parallel quotes, then a precise counter-anchor. Meta-analysis 2025 (90 studies, 16,334 people): first-offer anchoring effect g = 0.42. Price round (deep answer): get 3 comparison quotes first, then counter 5-15 % below a fair first offer; ask tiers as "1/10/30/50/100 orders/day, pricing scenarios, not committed volume".
 
 **Cheapest automatic order hand-off to a private China agent** (2026-09-30)  
 DSers Basic (0 USD/month) advertises agent bulk orders and automatic tracking sync, but its own help contradicts free tracking; confirm agent compatibility in writing and test. AutoDS order automation from 36.80 USD/month before credits, does not support arbitrary external agents. CJ has free core features but fulfills itself. A staff account alone creates no automation.

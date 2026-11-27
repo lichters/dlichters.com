@@ -156,10 +156,10 @@ No reliable number. Transfers better: product solves a visible problem, strong d
 ## Pricing, bundles and shipping-fee tests
 
 **Compare-at price, bundle and urgency rules for a 70 USD seasonal bed** (2026-09-29)  
-Conservative start: 69.95 USD single without compare-at price (no unproven former price), two for 125.90 USD (exactly 14.00 USD saving vs 139.90). A holiday sale may run with a real end (e.g. 30 Nov 2026 23:59 ET), but no fake timers, invented stock or unproven Christmas delivery. "6-10 business days" only after proof of the full delivery span. Meta can reject deceptive ads and restrict repeat offenders.
+Conservative start: 69.95 USD single without compare-at price, two for 125.90 USD (exactly 14.00 USD saving vs 139.90). A holiday sale may run with a real end (e.g. 30 Nov 2026 23:59 ET). "6-10 business days" only after proof of the full delivery span. Meta can reject deceptive ads and restrict repeat offenders.
 
 **Price of the same sleigh bed that jinglenap sells** (2026-10-03)  
-Assumed 18.90 USD COGS and 33-47 USD ad cost per order. Recommendation: 69.99 USD honest launch price, no struck-through compare price, free shipping, a real time-limited launch offer. 59.99 USD not viable at these CACs; 79.99 likely too much without differentiation.
+Assumed 18.90 USD COGS and 33-47 USD ad cost per order. Recommendation: 69.99 USD launch price, no struck-through compare price, free shipping, a time-limited launch offer. 59.99 USD not viable at these CACs; 79.99 likely too much without differentiation.
 
 **Free shipping vs shipping fee** (2026-10-03)  
 No published uplift for this case. Recommendation: test C = 74.99 USD incl. US delivery against B (69.99 + shipping); C may convert about 8.91 % relatively worse than B before its contribution per visitor falls below B (own math). Never unqualified "Free US shipping" if conditions apply.

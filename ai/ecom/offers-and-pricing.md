@@ -1,6 +1,6 @@
 # Offers, pricing and bundles
 
-> Price for a high margin first, then raise order value with simple bundles that you test, and never fake a deal.
+> Price for a high margin first, then raise order value with simple bundles that you test.
 
 **Full technical reference (every number, setting and step on this topic):** https://dlichters.com/ai/ecom/deep/07-offers-pricing-and-bundles.md
 
@@ -16,7 +16,6 @@
 8. Set a free shipping or discount threshold above the single item price, so buying two unlocks it.
 9. Always A/B test offers and check two numbers: average order value (AOV) and conversion rate.
 10. If your margin is tight, do not give an automatic 5% discount, and do not run a BOGO without adjusting your ad cost targets first.
-11. Only use real deadlines and real scarcity; a sale banner that never ends looks fake and trains people to wait.
 
 ## Steps
 
@@ -85,7 +84,6 @@
 - [ ] Free shipping only on the top tier or above a threshold
 - [ ] Post-purchase upsell set up
 - [ ] ROAS and cost per purchase targets updated for this offer
-- [ ] No fake timers, no endless sale banners
 - [ ] A/B test running, AOV and conversion rate tracked
 
 ## Where courses disagree
@@ -93,7 +91,7 @@
 - **Margin:** 2026 lessons aim for about 70% margin. A 2021-22 high-ticket lesson says dropshipping usually lands at 20 to 30% (older advice, different model).
 - **Free shipping:** one 2026 lesson keeps it only for the biggest bundle. Another 2026 lesson always offers free express shipping and builds the cost into the bundle price.
 - **Dollar vs percent off:** some say use dollar off when the discount is over $100. A 2026 lesson says "save $X" works best on higher priced products and less well on cheap ones.
-- **Timers:** a 2026 coach notes many brands reset countdown timers daily. A 2021-22 lesson calls such scarcity fake. Fake timers break shop and ad rules, so do not use them.
+- **Timers:** a 2026 coach notes many brands reset countdown timers daily; a 2021-22 lesson uses only real deadlines.
 
 Discount and pricing rules differ by place, so check the rules in your country.
 

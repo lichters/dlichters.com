@@ -15,7 +15,6 @@
 7. Show dynamic product ads only for the first 7 days after a product view, then move to other ad types (older advice).
 8. Never show first-purchase promotions to existing customers.
 9. Do not rush to a discount: some people only need more time, and you still need profit (older advice).
-10. Use only real offers and real deadlines: no fake countdowns, no fake stock numbers.
 
 ## Steps
 
@@ -55,7 +54,6 @@
 - Sending first-sale discounts to customers who already bought.
 - Offering a deal too early and losing margin.
 - Testing a product that needs explaining with warm ads only, before any video has warmed people up.
-- Using fake urgency, like low-stock claims or deadlines that are not true.
 
 ## FAQ
 

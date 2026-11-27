@@ -14,12 +14,11 @@ All phone lessons are from 2021-22 and were made for local brand suppliers. Our 
 4. Call suppliers only during their business hours, in their time zone.
 5. If a company only has a contact form, send it, wait 24 hours, and call if nobody replied.
 6. Keep your introduction short, then stop talking and let the other person answer.
-7. Never lie on a call.
-8. If someone says no, ask why in a polite way; if they sound unsure, do not push.
-9. Make the deal zero risk for the other side, because that is the easiest way to get a yes.
-10. After every call, send an email that confirms what you agreed and includes your contact details.
-11. Write the result of every call in a spreadsheet, then move to the next call.
-12. Do not make the after-sale review call to customers you know are unhappy.
+7. If someone says no, ask why in a polite way; if they sound unsure, do not push.
+8. Make the deal zero risk for the other side, because that is the easiest way to get a yes.
+9. After every call, send an email that confirms what you agreed and includes your contact details.
+10. Write the result of every call in a spreadsheet, then move to the next call.
+11. Do not make the after-sale review call to customers you know are unhappy.
 
 ## Steps
 
