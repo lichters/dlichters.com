@@ -96,7 +96,7 @@ Starting quantity. The sources give different values:
 
 ### Pricing fields
 
-- Price fields in Shopify: Price (the selling price), Compare-at price (the higher reference price shown as a strikethrough and used for the savings label), and Cost per item (used for margin reporting). The Compare-at price should be the real price the item was offered at, otherwise the discount is misleading. [L1188, 2026]
+- Price fields in Shopify: Price (the selling price), Compare-at price (the higher reference price shown as a strikethrough and used for the savings label), and Cost per item (used for margin reporting). [L1188, 2026]
 - *Older (2021-22).* Keep Charge tax on this product ticked, and enter Cost per item only if you want margin tracking. [L1166, 2021-22]
 - Compare-at for MAP-restricted products: see the MAP section below. [L1285, 2024]
 
@@ -215,7 +215,7 @@ Starting quantity. The sources give different values:
 ### MAP and compare-at pricing
 
 - Products should be listed at MAP as the selling price. Enter the MSRP in the compare-at price field so customers see MSRP struck through and pay the MAP. [L1285, 2024]
-- The compare-at price should be the real price the item was offered at, otherwise the discount is misleading. For MAP-listed products, the compare-at price is the MSRP. [L1188, 2026; L1285, 2024]
+- For MAP-listed products, the compare-at price is the MSRP. [L1188, 2026; L1285, 2024]
 - *Older (2021-22).* Pricing rule for uploads: use the MAP price list if one exists, or otherwise add a fixed markup, such as 20%, and match prices from named competitor sites. [L1396, 2021-22]
 
 ### Store-level rules

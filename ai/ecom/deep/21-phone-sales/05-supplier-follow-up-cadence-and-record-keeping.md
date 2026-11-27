@@ -143,7 +143,7 @@ When first contacting a supplier by email, a short introduction is enough to get
 Older source, 2018. Follow these steps:
 
 1. Think about two things first: what the supplier cares about and how they can trust you. [L1085, 2018]
-2. Be honest about where your store is. You can say you are learning from a training program and are just getting started. [L1085, 2018]
+2. You can say you are learning from a training program and are just getting started. [L1085, 2018]
 3. Explain the marketing you will use to bring them sales: Google Product Listing Ads, retargeting, exit-intent capture, a follow-up email sequence, YouTube and industry-specific platforms. [L1085, 2018]
 4. Make clear that customer service is your first priority and that you are building a long-term business. [L1085, 2018]
 5. Keep the focus on how you will bring the supplier more sales, not on the money you expect to make. [L1085, 2018]

@@ -47,7 +47,7 @@ All chapters: https://dlichters.com/ai/ecom/deep/index.md
 18. https://dlichters.com/ai/ecom/deep/15-email-and-sms/18-post-purchase-upsell.md (2,040 words)
    Post-Purchase Upsell · Win-Back · VIP and Loyalty SMS · Message Formatting and Character Limits · Campaign Settings and Tool Checks · Testing SMS Against Email · Summary: Flow Timing and Discounts
 19. https://dlichters.com/ai/ecom/deep/15-email-and-sms/19-subject-lines-preview-text-and-sender-name.md (2,037 words)
-   Subject Lines, Preview Text and Sender Name · Competitor research · Purpose of the Subject Line · Writing Order · Subject Line Formulas · Length · Tone · Spam Trigger Words · Capitalization and Emoji Tests · Over-Use and Fake Urgency Pitfalls · Preview Text
+   Subject Lines, Preview Text and Sender Name · Competitor research · Purpose of the Subject Line · Writing Order · Subject Line Formulas · Length · Tone · Spam Trigger Words · Capitalization and Emoji Tests · Preview Text
 20. https://dlichters.com/ai/ecom/deep/15-email-and-sms/20-email-copywriting-design-and-templates.md (2,723 words)
    Email Copywriting, Design and Templates · Copy Structure and Purpose · Persuasion Principles · Body Copy Formula and CTA Rules · Writing Process and Scannable Style · Font Size and Readability · Personalisation and Dynamic Content · Subject Lines and Pre-Headers
 21. https://dlichters.com/ai/ecom/deep/15-email-and-sms/21-flow-email-templates.md (3,681 words)

@@ -195,7 +195,7 @@ Procedure, older (2020): Image sourcing for a new store before brands send photo
 - Never upload real supplier products, photos or descriptions before you have approval. [L0551, 2020]
 - If you use royalty-free stock photos from image search, you can keep them on a demo store. If the rights are unclear, remove them and use images from suppliers that have approved you. [L1112, 2021]
 - Demo products that use another supplier's photos should be deleted once that supplier approves. [L1112, 2021]
-- Demo product pages should show only a general idea of a future product page. They must not be used to claim that a brand has already approved the store. [L0623, 2020-26]
+- Demo product pages should show only a general idea of a future product page. [L0623, 2020-26]
 - Using a supplier's photos for demo products before approval usually does no harm. Stock photos avoid the question entirely and are easy to swap out. [L1275, 2019] *(Conflict noted below.)*
 - Conflict on supplier photos: [L1275, 2019] (2019) says supplier photos usually do no harm, while [L0268, 2020] (2020), [L1462, undated], and [L0551, 2020] say not to use them before approval. Applies: use royalty-free or licensed images before approval. [L1275, 2019] is older advice.
 - Conflict on competitor copying: the competitor-copy procedure in [L0452, 2021-22] includes copying images from the source page, while [L0036, 2020-26] and [L1462, undated] forbid copying competitor photos. Applies: copy only the title and description where allowed, and replace photos with licensed or own images.

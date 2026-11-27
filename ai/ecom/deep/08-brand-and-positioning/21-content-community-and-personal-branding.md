@@ -131,7 +131,7 @@ Part 21 of 26 of "8. Brand and Positioning: full technical reference". Map of al
   4. Join their Facebook groups and forums.
   5. Subscribe to the email list of anyone who has a website or blog.
 - Join Facebook groups and forums as a personal profile, never as a Facebook page, because many groups refuse page accounts and some admins block them outright. [L0526, 2021-22]
-- Relationships are built between people, so operators should be visible as the real person behind the business. Using a fake name is possible but is considered misleading, and open ownership of the business supports the Dream 100 approach. [L0526, 2021-22]
+- Relationships are built between people, so operators should be visible as the real person behind the business. Open ownership of the business supports the Dream 100 approach. [L0526, 2021-22]
 - Use a dedicated email address, separate from the main business or personal address, for signing up to Dream 100 email lists. A new Gmail or other mail provider account is suitable. [L0526, 2021-22]
 - Subscribing to a prospect's email list shows which topics and content their audience cares about, which can guide your own email and site content. The content should be modelled, not copied. [L0526, 2021-22]
 - In outreach emails, describe your site by the problem it helps the reader solve, not by the products it sells. For example, say you help people build a dream bathroom rather than that you sell bathtubs. [L0946, 2021-22]

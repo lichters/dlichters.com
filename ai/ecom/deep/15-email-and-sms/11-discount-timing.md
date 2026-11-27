@@ -81,7 +81,7 @@ Part 11 of 29 of "15. Email and SMS: full technical reference". Map of all parts
 #### Copy Rules
 
 - One strong headline is enough in the first abandoned cart email. A sub-headline can be dropped. Testing in this store showed the extra line added nothing, so remove it unless a split test proves otherwise [L0567, 2025-26].
-- Repeat the real deadline in the P.S. line of an offer email, because many readers scroll to the end. Keep it consistent with the countdown and the code expiry time [L0567, 2025-26].
+- Repeat the deadline in the P.S. line of an offer email, because many readers scroll to the end. Keep it consistent with the countdown and the code expiry time [L0567, 2025-26].
 - Sign the offer and last-chance emails with the founders' first names to add a personal touch. The sign-off should match the brand voice used across the sequence [L0567, 2025-26].
 - Each abandoned-cart email should contain a direct button to the checkout link, so the customer returns to the exact cart with one click. Copy the same link into each email in the sequence [L0634, undated].
 - Text-based abandoned-cart emails with some images and plenty of personal text tend to convert better, because they feel personal and land in the primary inbox more often [L0607, undated; L0573, undated].

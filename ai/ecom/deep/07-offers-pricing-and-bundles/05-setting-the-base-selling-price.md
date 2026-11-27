@@ -154,7 +154,7 @@ Part 5 of 40 of "7. Offers Pricing and Bundles: full technical reference". Map o
 **Core rules**
 - Do not use a compare-at price as the sale price. The actual selling price must match the product feed. Compare-at is only an additional display. [L0468, 2020]
 - Do not show every product as a discount. Use a strikethrough price only when the original price is legitimately higher. This maintains credibility. [L0249, 2022]
-- Only display a compare-at price that the product has really sold at. An inflated reference price is a deceptive pricing claim. Competitor pages show a sale price next to a struck-through original and a percentage saving, for example 59.99 against 119.99 with 50% saved. [L0600, 2026]
+- Competitor pages show a sale price next to a struck-through original and a percentage saving, for example 59.99 against 119.99 with 50% saved. [L0600, 2026]
 - Display a sale price next to a higher compare-at price with a percentage savings label, for example $19.99 next to a struck-through $39.99 with a SAVE 50% badge. This makes the saving visible on the product page. [L0347, 2026]
 - Show a higher regular price crossed out next to a lower sale price, so the discount is visible at a glance. The higher reference price makes the sale price look like a real deal. [L1325, 2020-26]
 - Examples in the same pattern: a regular price of $30 crossed out next to a sale price of $19.99, and a regular price of $12 crossed out next to a sale price of $7.49. The lesson's example was a regular price of $4.10 reduced to $1.49. [L1325, 2020-26]

@@ -95,7 +95,7 @@ Part 59 of 63 of "12. Creatives and Ad Copy: full technical reference". Map of a
 Direct-response copywriter prompt, use with the product name or URL filled in (2024):
 
 ```
-Adopt the persona of a direct-response copywriter and draft a product description for [product name and/or URL] following this arrangement: a headline, a short description of one to three sentences, a features-and-benefits block, and bulleted points. Base everything solely on the supplied product information and avoid fabricating specs, measurements, materials, or assertions. Before release, reword the draft into a natural, human-sounding voice while keeping the same arrangement.
+Adopt the persona of a direct-response copywriter and draft a product description for [product name and/or URL] following this arrangement: a headline, a short description of one to three sentences, a features-and-benefits block, and bulleted points. Base everything solely on the supplied product information. Before release, reword the draft into a natural, human-sounding voice while keeping the same arrangement.
 ```
 
 [L0471, 2024]

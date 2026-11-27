@@ -103,9 +103,8 @@ Sources differ on the minimum number of suppliers. Each value applies in the sit
   4. Reach 60 unique clicks per day. [L0823, 2018]
   5. Aim for 1 sale every other day. [L0823, 2018]
 
-**Avoiding a shortcut**
 
-- Do not build a single-product sales page as a shortcut to conversions. Without a track record and a catalogue, the store cannot carry paid traffic. [L0468, 2020]
+- Without a track record and a catalogue, the store cannot carry paid traffic. [L0468, 2020]
 
 **Pre-launch review**
 

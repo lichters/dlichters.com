@@ -187,7 +187,7 @@ Email 4 structure (hidden benefits):
 - Example 2, subject "Day 4 of 5: More than money". Body: "Sure, you will grow your income, but you will also spend more evenings with your family. I did not expect that. The full program is free to try, and you only pay if it is worth it to you." [L0523, 2015+]
 
 Email 5 structure (urgency and call to action):
-- Pattern: give a real reason the offer will change or disappear, such as a webinar starting tomorrow or a discount ending. State the price the reader will pay if they wait, then give one clear link. A true deadline turns interest into action, while a fake one destroys trust. [L0523, 2015+]
+- Pattern: give a real reason the offer will change or disappear, such as a webinar starting tomorrow or a discount ending. State the price the reader will pay if they wait, then give one clear link. A deadline turns interest into action. [L0523, 2015+]
 - Example 1, subject "Day 5 of 5: Last call". Body: "The free-access window closes tonight at midnight. After that the course returns to its full price of 3,000 USD. If you want to try the complete training before paying, grab your place here: [link]." [L0523, 2015+]
 - Example 2, subject "Day 5 of 5: Seats are almost gone". Body: "Only ten seats remain for Thursday's live session. After it starts, late entries pay the full fee. Reserve your seat now: [link]." [L0523, 2015+]
 

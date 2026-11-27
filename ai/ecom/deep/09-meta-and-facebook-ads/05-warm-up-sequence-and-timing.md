@@ -113,7 +113,6 @@ Meta trusts accounts that look legitimate, and it associates bad experiences wit
 
 - Ad creatives and missing payments are the most common causes of Meta bans. Follow Meta's rules on prohibited content such as nudity and before-and-after images [L0691, 2024].
 - Avoid health promises or other claims in ad text that Facebook may flag, since this can lead to the account being blocked [L0650, undated].
-- Do not make scammy claims such as weight-loss promises in page posts or ad copy [L0637, 2023+].
 - Check how a product looks in ad creatives and listing photos before running it on Facebook. Facebook can flag a product that looks like a weapon, such as a walking stick that resembles a gun, and the flag can lead to another account ban [L1440, 2021+].
 - Running random, unvetted ads can get the whole ad account banned. Strict product research and ad checks protect the account from bans [L1131, 2018+].
 - Selling branded products or running copied product images from AliExpress is a common cause of Facebook bans. Use only unbranded products [L1431, 2020+].

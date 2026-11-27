@@ -144,7 +144,7 @@ Solution and benefits (25-45 seconds): Walk through the ingredients and results 
 
 Social proof (45-50 seconds): Mention reviews or demand: [REVIEW COUNT] five-star reviews, and the product [SOLD OUT OR WAIT TIME, e.g. was out of stock for four weeks].
 
-Call to action (50-60 seconds): Create real urgency tied to stock or availability, for example: [URGENCY LINE, e.g. stock looks low, so order now], then point to the link or product card: [CTA].
+Call to action (50-60 seconds): Create urgency tied to stock or availability, for example: [URGENCY LINE, e.g. stock looks low, so order now], then point to the link or product card: [CTA].
 ```
 [L0707, 2026]
 

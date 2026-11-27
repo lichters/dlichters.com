@@ -130,7 +130,6 @@ one source's owner ladder is older advice (2021-22). Its structure still applies
 ### Honesty and values in the business
 
 - Do not misrepresent your experience, skills or how long you have been doing business. This applies to customers, suppliers and community members alike. [L0365, 2020-26]
-- Lying about your skills, experience or track record to sell products or to create extra income in a community is a serious mistake. Such misrepresentation tends to be discovered, and those involved can be removed from the community. [L0365, 2020-26]
 - Handle every business issue with honesty and transparency, both with colleagues and with customers. Ethical integrity is the highest standard for long-term success. [L0365, 2020-26]
 - Stay humble and keep learning, because there is always a way to improve regardless of revenue level. Track changes in marketing continuously and share what works. [L0365, 2020-26]
 

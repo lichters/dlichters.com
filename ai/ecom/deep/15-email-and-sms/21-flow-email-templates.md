@@ -414,7 +414,6 @@ Setting up the flows in Klaviyo: [L0606, undated]
 
 ### Claims, Accuracy and Launch Checks
 
-- Vague superlatives and invented numbers such as "150% more awesome" or a "100% satisfaction guarantee" must not stay in the copy unless they are real. Replace them with a specific, verifiable benefit, and only mention a guarantee the store actually offers in its return policy. [L0606, undated]
 - Leaving blanks (______), [NAME TAG], [BUTTON], [REVIEWS] or [DISCOUNT CODE] unreplaced before launch sends visible placeholder text to customers. Check a test send of every email in the flow before switching it on. [L0606, undated]
 - An email inside a flow that is still in draft status is not sent, so an unwanted email can be kept safe by leaving it in draft. [L1297, 2023]
 - Before using a bought email template, check that it works on mobile and across all email clients. Look-alike designs can fail in real inboxes even when they look good on a marketplace page. [L1263, 2025-26]

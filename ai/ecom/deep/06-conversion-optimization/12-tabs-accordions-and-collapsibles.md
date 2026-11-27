@@ -58,7 +58,7 @@ Part 12 of 40 of "6. Conversion Optimization: full technical reference". Map of 
 - Show a three-step easy setup, and address the cheap-knockoff objection directly [L1207, undated].
 - Show the 30-day money-back guarantee [L1207, undated].
 - Show the step-by-step guide (for example, Step 1, Step 2, Step 3) as part of the high-converting product page structure [L0321, undated].
-- Scarcity and urgency elements, such as a cart timer and low-stock messages, used only when true [L1207, undated; L1209, undated]. Cart timer, low-stock notice and time-limited offers [L1210, undated].
+- Scarcity and urgency elements, such as a cart timer and low-stock messages [L1207, undated; L1209, undated]. Cart timer, low-stock notice and time-limited offers [L1210, undated].
 
 ### Comparison charts
 
@@ -202,7 +202,7 @@ Part 12 of 40 of "6. Conversion Optimization: full technical reference". Map of 
   12. Money-back guarantee.
   13. FAQ answering common buyer questions.
   14. Customer review section.
-  15. Scarcity and urgency elements, such as a cart timer or low-stock notice, used only when true.
+  15. Scarcity and urgency elements, such as a cart timer or low-stock notice.
 - Step-by-step product page template for a single-product store, with the full sequence in the table above [L1210, undated].
 - Product page order for a single-product landing page with all 18 elements, in the list above [L1207, undated].
 - Product page order for a landing page with steps 1 to 15, as above [L1209, undated].

@@ -56,7 +56,7 @@ No Thanks. I don't need this now
 
 [L0799, 2021-22]
 
-- Body copy should create curiosity or urgency without over-explaining. The deal must be real and time-limited, because a fake or open-ended offer loses its urgency. Long-form copy is usually unnecessary for this kind of Facebook deal ad. ** [L0799, 2021-22]
+- Body copy should create curiosity or urgency without over-explaining. Long-form copy is usually unnecessary for this kind of Facebook deal ad. ** [L0799, 2021-22]
 - Deal ad pattern: a short, exciting event headline, then a teaser body line that signals a limited or never-repeated sale, then the call to action. For holiday deals, leave the discount unstated. For specific offers, name the exact deal in the headline or body. ** [L0799, 2021-22]
   - Holiday example: "Summer Sale Is Live: Our Biggest Markdowns of the Year End Sunday. Shop the sale before it closes."
   - Specific offer example: "Save 15% on Your Favorite Pick: 24 Hours Only, Use Code SAVE15 at Checkout. Shop Now." [L0799, 2021-22]

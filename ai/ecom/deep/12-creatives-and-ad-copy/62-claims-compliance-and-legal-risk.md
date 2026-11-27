@@ -18,7 +18,7 @@ Part 62 of 63 of "12. Creatives and Ad Copy: full technical reference". Map of a
 
 ### Health, finance and regulated claims
 
-- Never make health, finance or general life-quality claims in ads, such as "earn more money," "improve your health" or "make your life better." Ad networks flag these as potentially misleading, unsupported or misaligned with the landing page, and they regularly lead to account suspension.
+- Ad networks flag health, finance or general life-quality claims in ads, such as "earn more money," "improve your health" or "make your life better," as potentially misleading, unsupported or misaligned with the landing page, and they regularly lead to account suspension.
   - ** [L0241, 2021-22]
 - Claims that get health or finance products into trouble include stating that a product cures a serious disease, or guaranteeing a specific income within a set time. Both are result promises that platforms and regulators review.
   - ** [L0416, 2021-22]
@@ -50,11 +50,9 @@ Part 62 of 63 of "12. Creatives and Ad Copy: full technical reference". Map of a
 
 ### Urgency, scarcity and sale timing
 
-- Fake urgency must never appear in a call to action. Fake sales, fake countdown timers and false stock levels (for example, showing 5 left while 1,000 sit in the warehouse) are dishonest and deceive customers.
   - ** [L0461, 2021-22]
-- Repeating a 10% off sale that ends on Sunday and is replaced by another 10% off sale on Monday is effectively a lie, not real urgency. Habitually deceiving customers also tends to spread into other areas of the business.
   - ** [L0461, 2021-22]
-- Black Friday: keep creatives and sale banners running for a week or more after the sale ends, so the offer still appears active. The source frames this as slightly shady. Treat it as a judgement call and avoid misleading claims. [L1363, 2023]
+- Black Friday: keep creatives and sale banners running for a week or more after the sale ends, so the offer still appears active. [L1363, 2023]
   - *Conflict:* [L0461, 2021-22] calls a sale that is repeated back-to-back a lie. [L1363, 2023] allows banners to stay up a week after a sale ends. Keep the banner only if the offer genuinely remains available, and never present it as a new deadline.
 - Aggressive "breakthrough" claims combined with urgency can get ads and offers banned by ad networks. One source reports that a cryptocurrency offer written this way brought in over 100,000 new paid names before Google and other networks banned it. Check each network's policies and keep claims defensible before launch. [L1365, 2019+]
 
@@ -63,15 +61,8 @@ Part 62 of 63 of "12. Creatives and Ad Copy: full technical reference". Map of a
 - Use only product reviews that the supplier has given you permission to use. Never import reviews from other websites or from Amazon.
   - ** [L0671, 2021]
 - Amazon reviews must not be copied and pasted into ads. Amazon treats them as genuine customer reviews and may penalise sellers who misuse them. A copied review can also send viewers to Amazon, where the product is often cheaper. [L1348, 2023]
-- Ads with fake comment screenshots carry a risk of being caught by platforms or competitors, with consequences. A lower probability of detection does not make such practices risk-free. Using copyrighted footage or others' ads as hooks can also lead to takedown demands or legal claims. [L1348, 2023]
 - Celebrity or famous-name mentions (for example, "used by a famous person" or "an expert credited the product for results") draw attention. Check that the link is real and that the product is genuinely connected to the person or event. [L1370, undated]
 - Never take another person's creative work, such as ad copy, videos, images or store text, and present it as your own. Create original material, or adapt it with clear permission. [L0534, undated]
-- Tools for seeded reviews: the source's paste-ready template for fake reviews in the ad comment section is not reproduced here, because it is a format for invented testimonials. Its structure, for reference only, is:
-  - a quoted testimonial about one specific benefit, in plain language;
-  - a five-star rating, a first name, a city or state, and "USA";
-  - a photo of the product or a customer using it;
-  - two or three similar comments with different names and testimonials, so the ad does not look artificial.
-  - Presenting invented comments as real customer proof is deceptive and is not permitted. [L0645, 2023]
 
 ### Copying competitors and third-party content
 
@@ -147,7 +138,7 @@ Sources give different windows. Use the one that matches the situation.
 
 These tactics appear in the source as known techniques. They are listed here so that you know the compliance requirements, not as recommended methods.
 
-- Official-looking imprints, such as verified or audited delivery wording, or seal-style labels about enclosed important documents, are used to get past postal workers and company gatekeepers. The source says they work best in political, fundraising and business-to-business mailings. Using them to imply an official or priority item that is not one is deceptive. [L1370, undated]
+- Official-looking imprints, such as verified or audited delivery wording, or seal-style labels about enclosed important documents, are used to get past postal workers and company gatekeepers. The source says they work best in political, fundraising and business-to-business mailings. [L1370, undated]
 - Tear-sheet mailings and sneak-up tactics must be cleared with a printer and mailing house that know the laws governing them. Some large users print the word "Advertisement" in small type on both the sticky note and the tear sheet, with no measurable loss of response. The sender must not use real publication names, logos or trademarks. [L1370, undated]
 
 ### Pre-launch compliance check
@@ -159,7 +150,6 @@ These tactics appear in the source as known techniques. They are listed here so 
 5. Confirm that no competitor logo, product name, trademark or custom content appears, and that third-party videos stay within their test window. [L0361, 2024; L1377, 2022+]
 6. Confirm that urgency and sale timing are true, and that any tax reference includes the advisor note. [L0461, 2021-22; L1363, 2023; L0340, undated]
 7. Check the policies of each network (Google, Meta, TikTok) before launch, since a rule set can differ by platform. [L0220, 2025-26; L1365, 2019+]
-
 
 Part 62 of 63 of "12. Creatives and Ad Copy: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/12-creatives-and-ad-copy.md · Previous: https://dlichters.com/ai/ecom/deep/12-creatives-and-ad-copy/61-sales-copy-inputs-from-the-customer-and-the-store.md · Next: https://dlichters.com/ai/ecom/deep/12-creatives-and-ad-copy/63-other-details.md
 

@@ -1,5 +1,5 @@
 <!-- part of ecom/deep/06-conversion-optimization.md -->
-Part 26 of 40 of "6. Conversion Optimization: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/06-conversion-optimization.md · Previous: https://dlichters.com/ai/ecom/deep/06-conversion-optimization/25-rules-against-fake-urgency.md · Next: https://dlichters.com/ai/ecom/deep/06-conversion-optimization/27-checkout-trust-and-branding.md
+Part 26 of 40 of "6. Conversion Optimization: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/06-conversion-optimization.md · Previous: https://dlichters.com/ai/ecom/deep/06-conversion-optimization/25-pop-ups-and-overlays.md · Next: https://dlichters.com/ai/ecom/deep/06-conversion-optimization/27-checkout-trust-and-branding.md
 
 ## Checkout, payments and shipping friction
 
@@ -235,6 +235,6 @@ This product is currently backordered and is on its way to our warehouse. Expect
 [L1094, 2023]
 
 
-Part 26 of 40 of "6. Conversion Optimization: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/06-conversion-optimization.md · Previous: https://dlichters.com/ai/ecom/deep/06-conversion-optimization/25-rules-against-fake-urgency.md · Next: https://dlichters.com/ai/ecom/deep/06-conversion-optimization/27-checkout-trust-and-branding.md
+Part 26 of 40 of "6. Conversion Optimization: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/06-conversion-optimization.md · Previous: https://dlichters.com/ai/ecom/deep/06-conversion-optimization/25-pop-ups-and-overlays.md · Next: https://dlichters.com/ai/ecom/deep/06-conversion-optimization/27-checkout-trust-and-branding.md
 
 Topic map (all pages): https://dlichters.com/ai/index.md

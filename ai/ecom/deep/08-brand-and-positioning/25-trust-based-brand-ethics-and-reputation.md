@@ -8,7 +8,7 @@ Part 25 of 26 of "8. Brand and Positioning: full technical reference". Map of al
 - Honesty shows through copy. Hidden flaws or evasive claims are noticed by readers, while a candid tone about the product builds trust and makes the buying environment feel real. [L1366, undated]
 - Describe your business, where it comes from and what you sell accurately and transparently. When a problem appears, address it honestly instead of hiding or spinning it, because trust is the baseline for any brand. [L0534, undated]
 - Do not promote the business with personal or obscure brand claims. Use direct, factual statements about what the store offers. ** [L0665, 2022]
-- Promotional copy that claims months of investigation or a secret discovery to justify a set of products reads as fake and erodes trust. Keep product-section headlines literal and short, and keep them far away from trust elements such as charity pledges. [L0355, 2020-26]
+- Keep product-section headlines literal and short, and keep them far away from trust elements such as charity pledges. [L0355, 2020-26]
 - Some print-on-demand stores use religious or emotional messaging, and claims of donating 10% to a charity may be false. Verify such claims before copying the approach or promoting the brand. [L1214, 2023+]
 
 ### Product accuracy and specifications
@@ -32,7 +32,6 @@ Part 25 of 26 of "8. Brand and Positioning: full technical reference". Map of al
 
 ### Origin stories and founder claims
 
-- Do not present an invented origin story or a fake inventor in your ads, such as students who supposedly created the product. Claims of this kind damage trust and can get accounts restricted. Use a true founder story or describe the product's real benefits instead. [L0706, 2020+]
 - If you sell someone else's product, use this procedure to get a true backstory. ** [L0580, 2021-22]
   1. Look for a backstory on the brand's About Us page.
   2. If none is published, ask the manufacturer how the product came about and whether they allow you to use the story on your site.
@@ -70,7 +69,7 @@ Part 25 of 26 of "8. Brand and Positioning: full technical reference". Map of al
 - Sell only products you believe in, and avoid selling to people who do not need or want them. Trust takes a long time to build and very little time to lose. [L0378, 2019+]
 - Short-term profit is never worth lasting damage to your reputation. Business made through practices you feel bad about often disappears, because you may not feel you deserve it. [L0378, 2019+]
 - A business that creates problems for others, causing as much harm as good or more, is a sign of bad business. Keep the business aimed at solving problems rather than creating them. ** [L0872, 2021-22]
-- The ecommerce dropshipping community is very small, and a person's reputation travels faster than their ads. Treat every customer as if the whole niche is watching, and never run deceptive or no-ship operations. [L1038, 2026]
+- The ecommerce dropshipping community is very small, and a person's reputation travels faster than their ads. Treat every customer as if the whole niche is watching. [L1038, 2026]
 - Build the brand's network and reputation through reliability and quality, and be cutting-edge with designs so they attract attention. Reliable quality is what makes customers and partners return. [L1438, 2023+]
 
 ## Brand protection and trademarks
@@ -97,7 +96,7 @@ Part 25 of 26 of "8. Brand and Positioning: full technical reference". Map of al
 
 ### Copying competitors' assets
 
-- Never copy a competitor's unique store assets, such as their logo, custom website copy, or custom-made images. Taking these is treated as stealing intellectual property and is not an acceptable shortcut in dropshipping. Create your own brand assets. [L0365, 2020-26]
+- Never copy a competitor's unique store assets, such as their logo, custom website copy, or custom-made images. Create your own brand assets. [L0365, 2020-26]
 - Selling the same type of product as other stores is fine, because similar products are not the problem. The line is crossed only when you copy their original creative work, such as brand assets or written and visual content. [L0365, 2020-26]
 
 ### Infringement detection and reporting

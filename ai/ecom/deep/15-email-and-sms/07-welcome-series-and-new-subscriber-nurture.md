@@ -87,7 +87,7 @@ Part 7 of 29 of "15. Email and SMS: full technical reference". Map of all parts:
   - Three-email flow: last 3 days, then 48 hours, then 24 hours. [L0606, undated]
   - Clavio: email 1 states a three-day deadline; the reminder (email 2) says the offer is available for 48 hours only. [L0634, undated]
   - Offer clock in the one source structure: welcome email with the discount code at 0 hours, bestseller showcase at 48 hours to go, social proof story at 24 hours to go, urgency email at 12 hours to go, and last-chance email when the offer ends in 4 hours. [L1470, 2025-26]
-  - Only state a deadline you can keep. A true deadline turns interest into action, while a fake one destroys trust. [L0523, 2015+]
+  - A deadline turns interest into action. [L0523, 2015+]
 - Discount code formula for the welcome email: the subject line names the offer and adds a deadline; the body thanks the new subscriber, shows the discount code in bold on a colored background, states where to use it, and states when it expires. The code is the reason the person subscribed, so it must be easy to find and clearly time-limited. [L0476, undated]
 - Examples from the same formula: subject "Your $5 welcome code ends Friday", with the code and a Shop now button; and subject "Your 48 hours to claim $5 off start now", with a short thank-you line, the code, and a link to the best-selling collection. [L0476, undated]
 - Separate codes per channel: give each welcome channel its own discount code, such as a 10% sitewide code for email and a 15% VIP code for SMS. Separate codes show which channel brings redemptions and make the offers easy to tell apart at checkout and in reporting. [L1470, 2025-26]

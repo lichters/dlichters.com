@@ -103,11 +103,9 @@ Part 19 of 29 of "15. Email and SMS: full technical reference". Map of all parts
 - Do not use an emoji on every email. Varying your approach preserves the tactic's effectiveness. [L0198, 2021-22]
 - Use emojis only when they are genuinely relevant to the email content. [L0198, 2021-22]
 
-### Over-Use and Fake Urgency Pitfalls
 
 - Overusing any single subject line tactic, such as questions, scarcity, personalization, or emojis, diminishes its effectiveness. Recipients grow accustomed to it and open rates decline. Rotate among different tactics to maintain impact. [L0198, 2021-22]
-- Constant daily sends or fake scarcity claims train subscribers to ignore these emails entirely. [L0198, 2021-22]
-- Faking scarcity destroys audience trust. If you claim limited supply or deadlines that are not genuine, or if these recur constantly, audiences quickly recognize the false pattern and permanently ignore these emails. [L0198, 2021-22]
+- Constant daily sends train subscribers to ignore these emails entirely. [L0198, 2021-22]
 - Overpromising in curiosity or question subject lines erodes trust. If a line says 'The big mistake 99% of surfers make', the email must deliver a significant, widespread error, not a beginner-level or rare mistake. Overhyping without delivery damages credibility for future campaigns. [L0198, 2021-22]
 
 ### Preview Text

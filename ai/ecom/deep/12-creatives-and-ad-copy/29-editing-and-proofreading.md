@@ -99,7 +99,7 @@ Structure the letter around the reader's questions, in this order:
 3. **How do I know this is real?** Add early proof such as historical charts, testimonials or third-party quotes, wrapped in a story.
 4. **What's holding me back?** Reveal the real reason past solutions failed, found by reverse-engineering the answer to step 1, so the reader is not blamed.
 5. **Who or what is to blame?** Name a common enemy that the audience already distrusts or resents, drawn from their existing beliefs.
-6. **Why now?** Create urgency with an either-or choice and a real deadline or event that raises the stakes.
+6. **Why now?** Create urgency with an either-or choice and a deadline or event that raises the stakes.
 7. **Why should I trust you?** Establish credibility through an "I've been in your shoes" storyline, a Robin Hood storyline or an expert storyline.
 8. **How does it work?** Explain the new mechanism logically, anchored in a belief the reader already holds, and wrap it in a story with credible sources.
 9. **How can I get started?** Present a no-brainer offer with a large gap between stacked value and final price, plus bonuses and a guarantee.

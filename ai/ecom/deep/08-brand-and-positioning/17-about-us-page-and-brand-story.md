@@ -19,8 +19,8 @@ Shoppers look at About Us pages mainly when they do not know the store, such as 
 
 - For a Shopify store selling high-ticket products, the About Us page should run 400 to 700 words, written as natural prose, with bullet points only where they make a point clearer [L0533, undated].
 - Never use the word "dropshipping" on an About Us page. Write as a serious, long-term retail brand with an established tone, even if the business is new. Avoid generic template phrasing and any startup or hobby-store feel [L0533, undated].
-- Older advice: the About Us page does not need an inspirational story or a made-up narrative. Focus on an educational approach instead: product benefits, the market gap you fill, and your commitment to service and quality [L0268, 2020; older].
-- The About Us page should tell a story that ties the store to the products and the audience of the niche, without lying, and should speak to the niche's customers directly [L0359, 2020].
+- Older advice: the About Us page does not need an inspirational story. Focus on an educational approach instead: product benefits, the market gap you fill, and your commitment to service and quality [L0268, 2020; older].
+- The About Us page should tell a story that ties the store to the products and the audience of the niche, and should speak to the niche's customers directly [L0359, 2020].
 - High-ticket buyers need to feel safe before they pay. Build trust through clear supplier standards, service promises and delivery reliability. For this buyer group, confidence in these areas matters more than sales language [L0533, undated].
 - If the brand is new, the years-in-operation statement can say "many years of combined industry experience" instead of a specific number of years. Use only experience the owner actually has [L0533, undated].
 - A store that carries a person's name must make clear who that person is and what their role is. Visitors cannot tell what the brand stands for without this clarity [L0838, 2020-26].
@@ -71,7 +71,6 @@ On a curator-style store with a named person, product pages should include that 
 
 - Only list differentiators that are true today in the About Us prompt. Claims such as better warranties should be removed until the suppliers providing them are confirmed, because the AI will otherwise write them into the page as facts [L1048, 2020-26].
 - Never invent a founder story to fill the optional field. If you have no real story, delete the entire section [L1048, 2020-26].
-- A story must not be made up. It should tie the store to real products and the real niche audience [L0359, 2020].
 - AI-generated About Us and policy text is a starting draft. The store owner must review it before publishing and check it against real business terms, because the text is written to sound professional rather than to match supplier terms [L1048, 2020-26].
 - Production footage should match the brand's main selling point. Eco-focused brands can use factory footage and tech pack visuals as part of the story. Other brands should focus on the quality of the final product. Showing production works best when a factory offers video production or when you film the received product yourself in close-up detail [L1438, 2023+].
 

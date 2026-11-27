@@ -195,7 +195,6 @@ Upsell products do not need to be branded or searched for, because the customer 
 - Constant Creative customers receive assets through Frame.io. Connect Frame.io in the Integrations section of Ad Manage.ai to import Constant Creative deliverables directly into your Media Library without downloading files. [L0207, 2025-26]
 - Pre-order custom agent-shot content for a new product when no creatives exist, since it gives better CPMs than generic content. Until then, have enough existing creatives for the first week. [L0363, 2022+]
 - TikTok-driven stores target mobile users who buy directly from ads, so the first screen of a product page must load quickly and show the product clearly. [L1410, 2023]
-- Cheap bulk traffic, such as buying 20,000 website visitors for $5 on Fiverr, does not produce sales. These visits are not targeted and are fake, so they do not convert. [L0582, 2020-26]
 - A Google Merchant Center account can be suspended while the Google Ads account stays active. Google Ads suspensions are much rarer than Merchant Center suspensions in high-ticket dropshipping stores. [L0727, 2021-22]
 
 ### Outreach, partnerships and affiliates

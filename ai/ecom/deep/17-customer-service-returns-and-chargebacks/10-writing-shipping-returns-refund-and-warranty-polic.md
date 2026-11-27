@@ -19,7 +19,7 @@ Part 10 of 23 of "17. Customer Service Returns and Chargebacks: full technical r
 ### Shipping policy content
 
 - The shipping policy must be specific enough for a reviewer to understand within a minute. It should state when orders ship after purchase (a range is acceptable), the average transit time, and the shipping cost, including whether shipping is free. [L0377, 2020-26]
-- Vague shipping policies are a known cause of compliance problems. Avoid any wording that could be read as misleading. [L0377, 2020-26]
+- Vague shipping policies are a known cause of compliance problems. [L0377, 2020-26]
 - Use this template for the shipping policy text:
 
 ```

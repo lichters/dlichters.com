@@ -106,7 +106,7 @@ Part 20 of 54 of "2. Niche and Product Research: full technical reference". Map 
 - Count distinct brands and listings, not just total products, because one supplier can have many products but few brands. [L1090, 2021]
 - Keep big box retailers in the results, since they still count in the price averages. [L1090, 2021]
 - If two or three brands dominate Google Shopping results, the niche may be locked up, but a few prominent listings alone do not prove that. Before dropping the niche, check the future competitor stores and count their suppliers. [L1090, 2021]
-- A quick way to count sellers for a brand is to search each brand or product on Google Shopping and read how many stores are listed. There is no shortcut that avoids checking brands one by one. [L1114, 2023]
+- A quick way to count sellers for a brand is to search each brand or product on Google Shopping and read how many stores are listed. [L1114, 2023]
 
 #### Seller quality and filters
 

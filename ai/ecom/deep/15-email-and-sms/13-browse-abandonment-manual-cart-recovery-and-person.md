@@ -140,7 +140,7 @@ Hi [First Name], I'm [Your Name], the owner of [Store Name]. I noticed you were 
 ### Plain-text and personal-looking emails
 
 - Some automated emails can go out as plain text with no designed template, because they look more personal and get higher response. This format is used for a post-second-purchase flow and for abandoned-cart emails. [L0334, 2017]
-- A plain-text email signed as sent from a phone is reported to work well, but it misrepresents the sender. Check the legal and platform risk before using it, and avoid it if it could be seen as misleading. [L0334, 2017]
+- A plain-text email signed as sent from a phone is reported to work well. [L0334, 2017]
 - Rewrite automated messages so they read as if a person wrote them, not like a generic template. Personal wording gets far more replies and thanks. [L1515, 2019]
 - The personal tone is the goal. Use it without a false sender identity: a plain-text personal style is acceptable, while a signature implying a phone-sent message needs the legal and platform check first. [L0334, 2017; L1515, 2019]
 

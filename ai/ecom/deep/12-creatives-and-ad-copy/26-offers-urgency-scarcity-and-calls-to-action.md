@@ -115,11 +115,11 @@ Part 26 of 63 of "12. Creatives and Ad Copy: full technical reference". Map of a
   - Example 2: Either you start your listing before the holiday search spike, or you compete for the same buyers at double the ad cost. [L1365, 2019+]
 - Scarcity, the partner of urgency, limits time and quantity. Example: "get in by this date, if you still can". It works best just before the ask for the sale and should be used sparingly. Urgency can be dropped from a headline, but it is valuable in the offer section, where it adds the final push. [L1356, 2019+]
 - Do not sound desperate for the sale. Begging the prospect to buy, or showing how much you need the revenue, turns readers away. In the offer section, the copy should sound confident and indifferent to whether the reader decides to buy. [L1365, 2019+]
-- When a product truly solves a problem and the copy has made a clear case for it, a natural urgency appears, because the reader does not want to keep living with the problem. Extra scarcity or fake urgency is then unnecessary. [L0461, 2021-22]
+- When a product truly solves a problem and the copy has made a clear case for it, a natural urgency appears, because the reader does not want to keep living with the problem. [L0461, 2021-22]
 - Real scarcity and real offers may be used in a call to action. Both must be true before the copy goes live. [L0461, 2021-22]
   - Stock example: For a high-priced product, state the true number of units left and the true replenishment time, for example "only 10 left, otherwise a six-week wait". Use this only when it is factually accurate. [L0461, 2021-22]
   - Offer example: "30-40% off for next week only, and not again for a few months." The discount and the no-repeat window must both be true. [L0461, 2021-22]
-- Tie any urgency line to a real stock or availability signal. Example: "Only a few left, grab yours before midnight" and "Restocking soon, lock in today's price." [L0706, 2020+; L0707, 2026]
+- Urgency line examples: "Only a few left, grab yours before midnight" and "Restocking soon, lock in today's price." [L0706, 2020+; L0707, 2026]
 - Under this handbook's honesty standard, only state deadlines and stock counts that the store will enforce. [L0461, 2021-22; L0707, 2026]
 
 ### Countdowns and timers

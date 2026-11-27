@@ -8,8 +8,7 @@ Part 28 of 41 of "5. Apps and Tools: full technical reference". Map of all parts
 - Bundles, quantity breaks, upsells and cross-sells are usually built with dedicated apps, and several apps exist for each job, so compare them before choosing one [L0435, undated].
 - Bundle and upsell apps are an option once the store has more than one product [L0774, 2023]. Complementary-bundle apps work best when the store has a strong product that can be sold as an upsell [L0650, undated].
 - Older advice: add post-purchase and cross-sell apps only once the store grows and average order value matters, because they are not needed on day one [L0968, 2021].
-- Older advice: do not use urgency timers or urgency apps unless there is a specific real deadline, such as a delivery date before Christmas [L0968, 2021].
-- Timer values in the sources differ by context. Kaching Cart and OCU setups use a 3-minute timer [L0560, 2026; L1141, 2026]. A 20-minute deadline appears as an example in post-purchase SMS and email text [L0789, 2022]. Use any timer only with a real deadline, as the older rule states [L0968, 2021].
+- Timer values in the sources differ by context. Kaching Cart and OCU setups use a 3-minute timer [L0560, 2026; L1141, 2026]. A 20-minute deadline appears as an example in post-purchase SMS and email text [L0789, 2022].
 - For free-gift content, use ChatGPT to brainstorm bundle names, offer copy and persuasive framing before you build offers in the store [L0232, 2026].
 - For free-gift content, use ChatGPT to create instructional eBooks, email sequences, guides and digital resources. They cost nothing to produce but add perceived value to higher-tier bundles [L0232, 2026].
 - A native Shopify discount system can apply a discount automatically when a customer adds 2 or 3 units. The discount appears without codes or third-party apps, which reduces friction in multi-buy decisions [L0233, undated].

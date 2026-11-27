@@ -233,7 +233,7 @@ Hello [SUPPLIER CONTACT], I'd like to run a promotion on our store. When a custo
 
 ### Which other brands you work with
 
-- Do not lie about other brands. If asked, name only the suppliers you are actually in an approval process with, meaning you have already submitted an application or were told one would be sent. [L1085, 2018]
+- If asked, name only the suppliers you are actually in an approval process with, meaning you have already submitted an application or were told one would be sent. [L1085, 2018]
 
 
 Part 4 of 7 of "21. Phone Sales: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/21-phone-sales.md · Previous: https://dlichters.com/ai/ecom/deep/21-phone-sales/03-calling-abandoned-checkouts.md · Next: https://dlichters.com/ai/ecom/deep/21-phone-sales/05-supplier-follow-up-cadence-and-record-keeping.md

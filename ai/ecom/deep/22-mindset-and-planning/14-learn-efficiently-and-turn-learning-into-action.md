@@ -30,7 +30,7 @@ Part 14 of 28 of "22. Mindset and Planning: full technical reference". Map of al
 - Follow the course program fully instead of freestyling. Watching only part of the material and building your own ideas (such as nine different stores) before reaching mass success is likely to fail [L1394, 2017+].
 - Discipline is essential in e-commerce. Adhere to the prescribed process precisely and avoid deviating from it before you have achieved significant results [L1394, 2017+].
 - Three requirements for success: follow the video library, take part in the community, and take action on what you learn. Combine these with the right mindset [L1394, 2017+].
-- Choosing only the parts of a training program that feel appealing and skipping the rest, or watching only part of each lesson, usually leads to no results. Work through every step in order and do not shortcut the material [L1492, 2024+].
+- Choosing only the parts of a training program that feel appealing and skipping the rest, or watching only part of each lesson, usually leads to no results. [L1492, 2024+].
 - Watch every video in the program, not just the ones that seem known. The only exception for beginners is to skip videos tagged as advanced. Skipping material means acting on incomplete information, which wastes time and advertising money [L0444, undated].
 - Do not skip any module, even if the content looks familiar, because skipped material can lead to costly mistakes later. Treat the action tasks as assignments, since each one builds on the previous ones [L0491, 2026].
 - Learning the technical side of building a store is useful even when someone else builds the store for you, because the training shows how each part is set up [L0468, 2020] (2020).

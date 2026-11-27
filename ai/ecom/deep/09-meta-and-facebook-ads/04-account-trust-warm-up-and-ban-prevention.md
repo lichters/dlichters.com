@@ -51,7 +51,7 @@ Part 4 of 35 of "9. Meta and Facebook Ads: full technical reference". Map of all
 - A warmed-up Facebook Page and profile help, because Meta and visitors trust an established account more than a new one. Skipping the warm-up makes it harder for ads to run and convert [L1021, 2026].
 - Fill the page with business information: phone number, business address, description and website link [L0650, undated].
 - Fill the About section in detail, including the website. Before running conversion campaigns, a new page should have around 10-20 likes. Avoid running ads right after the page is created [L0637, 2023+].
-- Warm up the page with 2-3 simple posts over 1-2 days before starting conversion campaigns. Good posts are happy or product-related content, or a screenshot or banner from the store, without hard sales messages or scammy claims such as weight-loss promises [L0637, 2023+].
+- Warm up the page with 2-3 simple posts over 1-2 days before starting conversion campaigns. Good posts are happy or product-related content, or a screenshot or banner from the store, without hard sales messages [L0637, 2023+].
 - Engagement posts can be a product photo with a positive quote and no traffic link [L0650, undated].
 - Keep warm-up creatives simple: product-only images or a positive quote with no people in them, because an image that shows a person can cause problems during warm-up [L0650, undated].
 - Make the page look legitimate and branded, so it does not look scammy to Meta or to users. A bare or generic page raises the risk of problems [L1477, 2026].

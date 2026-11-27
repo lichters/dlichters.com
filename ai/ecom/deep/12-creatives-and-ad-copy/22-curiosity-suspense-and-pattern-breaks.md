@@ -97,7 +97,7 @@ Part 22 of 63 of "12. Creatives and Ad Copy: full technical reference". Map of a
   [L1369, undated]
 - **News angle tied to the reader:** A news angle or an unusual, specific detail draws attention and can be bridged to the offer. Attention must tie to the reader's own interest in the business or life, not stand alone as a shock. [L1369, undated]
 - **Newsworthy first, then their affairs:** Businesspeople compete with many distractions. Give the reader something newsworthy first, then connect it to their own affairs. Once attention is diverted, bring it back by showing how the offer serves those affairs. [L1369, undated]
-- **Simple first line that is relevant:** The first sentence or headline must instantly say something important, valuable and useful to the reader, because an unwanted letter is treated as a pest until it proves otherwise. Gimmicks such as fake hazard warnings tend to fail. A genuinely relevant headline usually succeeds. [L1370, undated]
+- **Simple first line that is relevant:** The first sentence or headline must instantly say something important, valuable and useful to the reader, because an unwanted letter is treated as a pest until it proves otherwise. A genuinely relevant headline usually succeeds. [L1370, undated]
 - **Sensational shout (mistake):** A sensational shout, such as an alarming word with no link to the offer, draws the wrong response. Tie every attention-grabbing element to a reason the reader cares about the offer. [L1369, undated]
 - **Find the point of contact:** Use this procedure to build an opening.
   1. List the reader's dominant thoughts, such as income, family, comfort, status, promotion, business survival or a current worry.
@@ -151,7 +151,6 @@ Hook, first seconds. Option one, spoken: tell viewers this is for them if [PET] 
 - Attention-grabbing content with no relation to the product, which attracts viewers who will not buy. [L0640, 2023]
 - Delaying the product in a non-unboxing video. Unless it is a strong unboxing, show the product within the first five seconds. [L1377, 2022+]
 - Sensational shouts with no link to the offer. [L1369, undated]
-- Gimmicks such as fake hazard warnings, which tend to fail. [L1370, undated]
 - Relying on the follow-for-giveaway hook as the main sales driver. [L0657, undated]
 - A product introduction that takes around 10 seconds, which loses viewers before the benefit appears. [L0640, 2023]
 

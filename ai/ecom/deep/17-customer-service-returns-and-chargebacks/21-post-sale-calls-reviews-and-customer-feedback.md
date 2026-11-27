@@ -153,21 +153,9 @@ Hi [customer first name], I wanted to follow up on the [product name] you receiv
 - Minimum review count to launch: 10 reviews in total, with 6 to 7 of them image-based. Image reviews convert significantly better than text reviews. [L0321, undated]
 - Only use reviews that belong to the store, such as existing reviews from the supplier with permission. Never copy reviews from competitor sites. [L1088, 2020]
 
-**Increasing review count with CSV import (not recommended)** [L0321, undated]:
-
-1. Import initial reviews from AliExpress or Amazon via Riview or Loox app.
-2. Download the CSV file of imported reviews.
-3. Copy individual reviews and duplicate them 10x within the CSV.
-4. For example, take 10 reviews and duplicate each 10 times to create a list of 100 reviews.
-5. Re-import the expanded CSV into the app.
-6. Customers see the higher review count and trust the product, even though they rarely check beyond the first 10-20 reviews.
-
-- This procedure is documented here as the source gives it, but it produces copied, fabricated reviews. It conflicts with the honest-review rules and must not be used. [L0321, undated; L0243, 2019; L1088, 2020; L1188, 2026]
-
 ### Authentic reviews and review integrity
 
-- Build product reviews honestly, without fabrication. When a customer makes a purchase, follow up relentlessly to request a review. Authentic customer reviews build market credibility faster than hiding "no reviews yet" or creating fake reviews. ** [L0243, 2019]
-- Changing reviewer names, genders, or avatars on borrowed or template reviews to make them look real turns them into made-up testimonials. Use only real reviews with the names or initials the customer actually gave. [L1188, 2026]
+- When a customer makes a purchase, follow up relentlessly to request a review. ** [L0243, 2019]
 - Look at the reviews on the product page for negative or suspicious entries. Identify reviews from people who did not buy the product, which are often posted by competitors or haters. Remove or do not approve those reviews, and keep genuine feedback visible. [L0657, undated]
 
 ### Review dates
@@ -253,7 +241,6 @@ Hi [customer first name], I wanted to follow up on the [product name] you receiv
 - Post-sale calls reveal improvement points that may not have been known before. Use them to adjust customer service, product information, and delivery communication. [L1011, 2021; L1259, undated]
 - Insights from calling customers yourself can improve other marketing, content ideas, and emails that answer common questions. ** [L1011, 2021]
 - Feedback can point to usability problems, missing content, weak customer service, or delivery issues. Act on the answers that recur across customers. [L1052, 2021]
-
 
 Part 21 of 23 of "17. Customer Service Returns and Chargebacks: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/17-customer-service-returns-and-chargebacks.md · Previous: https://dlichters.com/ai/ecom/deep/17-customer-service-returns-and-chargebacks/20-post-purchase-communication-and-customer-gratitude.md · Next: https://dlichters.com/ai/ecom/deep/17-customer-service-returns-and-chargebacks/22-abandoned-carts-leads-and-sales-follow-up.md
 

@@ -87,7 +87,7 @@ Sources disagree on the timing because they describe different routes and ban ty
   2. Under the question about being an advertiser, choose support. [L1088, 2020]
   3. Accept the wait of about nine minutes for the live chat team, then ask for a review of the disabled account. [L1088, 2020]
 - For a new ad account that Meta disables at creation (2023):
-  1. Use the official support page in Business Manager, since there is no reliable shortcut beyond it. [L0470, 2023] (2023)
+  1. Use the official support page in Business Manager. [L0470, 2023] (2023)
   2. Check that page about once a day and resubmit the request, because reaching a reviewer can take several attempts. [L0470, 2023] (2023)
   3. Ask paid-ads communities for working contact routes as a supplement to the official channel. [L0470, 2023] (2023)
 - Support paths differ by source and date. Use the route that is open to you. [L0950, 2023; L0470, 2023; L1088, 2020; L0804, 2023; L0855, 2023]

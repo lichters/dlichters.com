@@ -58,11 +58,11 @@ Part 28 of 28 of "22. Mindset and Planning: full technical reference". Map of al
 - When a supplier issue occurs, evaluate the total relationship:
   - If the supplier ships correctly most of the time and is otherwise responsive, work through isolated problems.
   - If a pattern of poor behavior emerges, cut them off. [L0249, 2022]
-- Never misrepresent your business. Do not claim years of experience, past sales or a track record you do not have. Lying to suppliers tends to become a habit that spreads to customers and staff and hurts the business in the long run. Being a new business is no disadvantage in itself and does not automatically lead to a no. [L0929, 2021-22]
+- Being a new business is no disadvantage in itself and does not automatically lead to a no. [L0929, 2021-22]
 - A supplier refusal for now does not mean failure. If a supplier says they are not taking new retailers, record the reason and the date they suggested, then follow up at that time. [L0928, 2020-26]
 - A no from a supplier usually means no for now, not no forever. Stay open-minded, energetic and confident. Suppliers are businesses that want to make money and want customers who respect their brand. [L0933, 2020-26]
 - When a supplier says no or gives vague reasons, follow up on a set schedule rather than giving up. Repeated, polite contact with a status update shows commitment and does not get you blacklisted. (2023) [L0835, 2023]
-- Confidence on supplier calls comes from knowing your subject well. Do not fake knowledge; study the material until you can speak about the business with real understanding. [L0927, 2020-26]
+- Confidence on supplier calls comes from knowing your subject well. Study the material until you can speak about the business with real understanding. [L0927, 2020-26]
 - When a supplier asks about annual sales goals for a brand-new store, a reasonable answer is a figure in a range between 2 and 500,000. The currency was not specified. (2023) [L0934, 2023]
 
 **Handling a no from a supplier, in order:** [L0928, 2020-26]

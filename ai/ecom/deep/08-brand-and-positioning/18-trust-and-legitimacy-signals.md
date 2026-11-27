@@ -5,7 +5,7 @@ Part 18 of 26 of "8. Brand and Positioning: full technical reference". Map of al
 
 ### Trust foundations
 
-- Trust comes mostly from professionalism, which shows in bugs, speed, design and service. Quick tricks and low-effort shortcuts do not build lasting trust. [L0390, 2019]
+- Trust comes mostly from professionalism, which shows in bugs, speed, design and service. [L0390, 2019]
 - Trust grows when you remove the reasons customers would write or call before buying. Professional design, correct grammar, a visible phone number, a strong About page, a clear contact page, personal product notes and trust badges all serve this goal. [L0910, 2015]
 - Visitors to a new store trust it more when it is visibly linked to brands, companies or associations they already recognize, because authority transfers by association. A brand with no recognition can borrow credibility this way. [L1050, 2020-26]
 - Trust factors such as reviews, video reviews and user-generated content reduce perceived risk because buyers see satisfied customers. They work as both social proof and risk reversal, so they belong in the offer. [L0411, 2021-22]
@@ -187,9 +187,7 @@ Creating an authorized retailer badge (procedure merged from two units that desc
 
 ### Badges, claims and honesty
 
-**Fake and purchased badges**
 
-- Many dropshipping stores display fake or purchased trust badges, such as Google Trusted Store, Forbes, FDA approval or a TM trademark symbol. These badges can be bought cheaply, so they do not prove legitimacy, and you should not copy them. [L0372, 2022]
 - Paid placements on sites such as Fox or Forbes can be bought through Brand Push Up. The lesson quoted about 195 to 200 USD for one featured placement. This is an optional, pricier way to gain authority. [L1363, 2023]
 - Big-name brands can create brand association even when margins are low. Including them can strengthen brand recognition and a larger catalog. [L1068, 2019]
 

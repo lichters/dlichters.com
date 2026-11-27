@@ -16,7 +16,7 @@ Part 50 of 54 of "2. Niche and Product Research: full technical reference". Map 
 - Product tests should be good enough rather than perfect, and should not consume much time or money, since a test can fail and the time spent should still produce learning. [L0349, 2024]
 - Early on, test products aggressively, since you cannot yet tell which products are good. Once you have a viral win and know how to create virality, shift to strict product selection. [L0372, 2022]
 - Early tests on weak products are useful for building the skill of going viral. Before investing heavily in a product, confirm it can produce sales. [L1429, 2022]
-- Product research has no shortcut. A product's potential is only known after spending money on it. Learn audience research as the core skill rather than relying on hiring freelancers for research. [L0690, 2022+]
+- A product's potential is only known after spending money on it. Learn audience research as the core skill rather than relying on hiring freelancers for research. [L0690, 2022+]
 - No single product research method is perfect, so a researcher should adapt a method that works for them rather than follow one rigidly. A method is worth keeping only when it has produced winners for that person. [L1382, undated]
 - Product testing is about spending time and money efficiently. [L0577, 2023]
 

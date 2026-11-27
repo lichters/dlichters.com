@@ -1,5 +1,5 @@
 <!-- part of ecom/deep/06-conversion-optimization.md -->
-Part 24 of 40 of "6. Conversion Optimization: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/06-conversion-optimization.md · Previous: https://dlichters.com/ai/ecom/deep/06-conversion-optimization/23-collecting-and-displaying-reviews.md · Next: https://dlichters.com/ai/ecom/deep/06-conversion-optimization/25-rules-against-fake-urgency.md
+Part 24 of 40 of "6. Conversion Optimization: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/06-conversion-optimization.md · Previous: https://dlichters.com/ai/ecom/deep/06-conversion-optimization/23-collecting-and-displaying-reviews.md · Next: https://dlichters.com/ai/ecom/deep/06-conversion-optimization/25-pop-ups-and-overlays.md
 
 ## Urgency, scarcity and promotions
 
@@ -13,8 +13,8 @@ Part 24 of 40 of "6. Conversion Optimization: full technical reference". Map of 
 - Visitors are often distracted by other tabs, devices, messages and competitor sites, so they postpone buying. A visible deadline pushes visitors who are close to buying to decide during the visit. [L0531, 2020-26]
 - Visitors who arrive from searches for the exact products being sold are already near a purchase decision. A time-limited offer shown at that moment shortens the time between interest and buying. [L0531, 2020-26]
 - An expiring coupon on the product page displays a deadline and pushes visitors to decide now rather than postpone. [L1192, 2020-26]
-- Urgency should come from the link between the customer's problem and the solution, not from invented scarcity. Discounts, limited stock and time-limited offers create urgency only up to a point. [L0396, 2021-22]
-- The strongest urgency comes from the customer's problem: show that the product solves it now and that the purchase is the only step left. Stores with products people genuinely want usually need no countdown timers or fake scarcity. [L0473, 2021-22]
+- Urgency should come from the link between the customer's problem and the solution. Discounts, limited stock and time-limited offers create urgency only up to a point. [L0396, 2021-22]
+- The strongest urgency comes from the customer's problem: show that the product solves it now and that the purchase is the only step left. [L0473, 2021-22]
 - twice-weekly coupon codes expiring in 2 to 3 days create urgency on product pages, and most first-time visitors decide within that timeframe. [L0249, 2022]
 
 ### Which products suit expiring codes
@@ -132,12 +132,10 @@ automatically added to cart
 
 - A countdown timer on the product page shows a short validity window for a special offer, for example 10 minutes, after which the offer disappears. It works when no fixed calendar date is used and pushes visitors to act much faster than usual. [L0683, undated]
 - A countdown timer set to about 10 minutes worked well for one seller, who had also tested 5 minutes. [L1381, 2022]
-- Configure the countdown timer app (Ultimate Sales Boost was named) so the timer disappears after it expires and does not repeat for the same visitor. A repeating timer can make the offer look fake and hurt sales. [L1381, 2022]
+- Configure the countdown timer app (Ultimate Sales Boost was named) so the timer disappears after it expires and does not repeat for the same visitor. [L1381, 2022]
 - A countdown timer next to a limited-time discount for new customers reinforces the deadline and supports the urgency of the offer. Place it where the offer is visible, such as on the product or landing page. [L1399, undated]
 - Show the remaining stock count on the product page with a countdown, so buyers have a reason to decide now instead of later. The author says this works well, using custom code in his Shopify theme. [L1346, 2020-26]
-- A countdown timer that restarts with every visit looks fake. A timer that shows three hours and resets on every visit removes trust, and a returning visitor who sees the same three-hour timer will stop trusting the store. [L0355, 2020-26]
-- a countdown timer that restarts each day is fake urgency. When a visitor returns and sees the same offer again, trust drops, especially for expensive purchases where people visit several times. [L0409, 2021-22]
-- Product pages must show exact shipping time, warranty and full product details, and should not use fake urgency such as a countdown timer that constantly resets. Clear information supports the sale without misleading the buyer. (2025.) [L0807, 2025]
+- Product pages must show exact shipping time, warranty and full product details. (2025.) [L0807, 2025]
 
 ### Cart timers
 
@@ -174,7 +172,7 @@ Your cart will expire in ((timer))
 
 ### Stock messages
 
-- A real stock count on the product page, such as 37 left in stock, is a legitimate scarcity tactic that increases conversions. Only show a number that matches actual inventory. [L0355, 2020-26]
+- A stock count on the product page, such as 37 left in stock, increases conversions. [L0355, 2020-26]
 - Add a short stock hint in brackets next to the size selection, such as `only 3 left` or `only 2 left`, to create urgency on the product page. Use only stock levels that are true. [L1219, undated]
 - Show urgency on product pages only for best-selling products that are extremely low in stock, not site-wide. This has not caused problems with Google. (2025.) [L1287, 2025]
 - Shopify lets you hide stock levels with a single toggle, so customers do not see low-stock alerts. Keep the hidden element rather than deleting it, so it can be restored later. (2025.) [L0472, 2025]
@@ -195,6 +193,6 @@ These units come from direct-response sales letters. They apply to high-priced o
 - Use limited availability to create urgency only if the product, premium or discount is truly limited, and say so specifically, for example that the race is on for a limited number of items. [L1370, undated]
 
 
-Part 24 of 40 of "6. Conversion Optimization: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/06-conversion-optimization.md · Previous: https://dlichters.com/ai/ecom/deep/06-conversion-optimization/23-collecting-and-displaying-reviews.md · Next: https://dlichters.com/ai/ecom/deep/06-conversion-optimization/25-rules-against-fake-urgency.md
+Part 24 of 40 of "6. Conversion Optimization: full technical reference". Map of all parts: https://dlichters.com/ai/ecom/deep/06-conversion-optimization.md · Previous: https://dlichters.com/ai/ecom/deep/06-conversion-optimization/23-collecting-and-displaying-reviews.md · Next: https://dlichters.com/ai/ecom/deep/06-conversion-optimization/25-pop-ups-and-overlays.md
 
 Topic map (all pages): https://dlichters.com/ai/index.md

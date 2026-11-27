@@ -56,21 +56,17 @@ Supplements:
 - Verify each product's ingredients with third-party identity testing to confirm the active ingredients are present. This is harder for botanicals, but it is stronger proof than a label alone. [L0334, 2017]
 - For US supplement ads and product pages, add a disclaimer that the statements have not been evaluated by the FDA and that the product is not meant to diagnose, treat, cure or prevent any disease. Place the same wording on ad creatives and landing pages before launch. [L1164, 2026]
 - Health-related ebooks and supplement gifts should carry a note that the content is educational and does not replace advice from a qualified healthcare professional. Keep product claims soft and framed as support, not as a fix. [L0862, 2026]
-- Do not build character pages with fake medical authority, such as an invented doctor, for medical treatments, supplements or health claims. This can imply endorsement of unapproved treatments, may be illegal and may breach platform terms. Non-medical authority, such as a parent or an experienced hobbyist, is much safer. [L1476, 2026]
 
 ### Income, finance and results claims
 
 - Income claims cannot be guaranteed, and promising returns to customers or prospects is not allowed. Describe only results you can measure. [L0852, 2020]
 - For Meta ads promoting financial products to prospects aged 55+, fabricated testimonials, unverified star ratings, review counts and unattributed social proof create FTC liability.
-  - Use only real, verified social proof with documentation, or leave social proof empty.
-  - Fabricated evidence is an FTC violation, not a creative weakness. [L0221, 2026]
 
 ### Reviews, testimonials and endorsements
 
 - Never copy reviews from a competitor's website, a competitor's supplier site, Amazon or any other online store. This is not allowed and can lead to legal trouble. [L0908, 2020-26]
 - Reviews imported from a supplier's marketplace and shown as your customers' reviews can breach consumer-protection rules against fake reviews, such as the US FTC rule in force since October 2024, and platform policies. Show only genuine reviews, or clearly label imported reviews as coming from another source. [L0476, undated]
-- Attribute quotes, reviews or expert bylines only to real people who agreed to them, and keep every claim consistent with what the product actually does. Invented doctors or fake testimonials count as misleading advertising in most markets. The same applies to fabricated statistics or news-style sources. [L0578, 2023+]
-- Do not publish invented testimonials, made-up customer counts or fabricated guarantees, such as '2,000,000+ happy customers'. These claims can mislead buyers and create legal risk under consumer-protection and advertising rules. Use only reviews and counts you can verify. [L1188, 2026]
+- Invented doctors or fake testimonials count as misleading advertising in most markets. The same applies to fabricated statistics or news-style sources. [L0578, 2023+]
 - Every specific claim must be true and provable. Readers take specific facts at face value, and the advertiser is accountable for them. Publish only figures that come from real tests or measurements. [L1261, undated]
 
 ### Comparative claims and patent language
@@ -80,7 +76,6 @@ Supplements:
 
 ### Fake news sites, advertorials and disguised mailings
 
-- Use legitimate articles on legitimate websites. Never create fake news sites or fake blogs to disguise advertising. Regulators such as the FTC have acted against this practice, and it damages business credibility. Ethics and honesty protect the long-term business. [L0523, 2015+]
 - Tricked or disguised mailings annoy some readers, especially in small markets where people talk to each other. Limit disguised mailings to targeted prospects or customers who will be interested once they open the mail. This reduces annoyance and raises response. [L1370, undated]
 - Before writing any legal consequence into a letter, check the debt collection, consumer protection and fraud laws in your own country. Historical letters threatened criminal charges that may not fit current rules. Describe only actions you are legally allowed to take. (Older advice, 2019-2022 letters.) [L1369, undated]
 

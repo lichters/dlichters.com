@@ -42,8 +42,8 @@ Complete these 11 tasks before setting up traffic. [L0040, 2020-26]
 ### Reviews and trust: where the sources differ
 
 - The task list asks for initial reviews from suppliers, family, or friends. [L0040, 2020-26]
-- The Google Merchant Center note says store reviews are not required before approval, and stores without any customer reviews have been approved. (2023.) Trust should come from a clean, complete store rather than fake or added reviews. [L1114, 2023]
-- Apply both: treat the review app and initial reviews as part of the 11-task build, but do not treat reviews as an approval condition, and never substitute fake reviews for real trust-building. [L0040, 2020-26; L1114, 2023]
+- The Google Merchant Center note says store reviews are not required before approval, and stores without any customer reviews have been approved. [L1114, 2023]
+- Apply both: treat the review app and initial reviews as part of the 11-task build, but do not treat reviews as an approval condition. [L0040, 2020-26; L1114, 2023]
 
 ### Store build for supplier approval (demo store)
 

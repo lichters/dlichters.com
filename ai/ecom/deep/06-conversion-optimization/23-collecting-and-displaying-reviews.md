@@ -32,7 +32,6 @@ Part 23 of 40 of "6. Conversion Optimization: full technical reference". Map of 
 - A store with very few reviews, such as seven, looks weak. Collect more genuine reviews before scaling traffic. [L0657, undated]
 - Before writing a review figure on the page, check the total in your review widget. It can be well above the rounded number in the headline. One store headlined 10,000+ reviews while its widget held about 16,500 reviews, of which about 14,000 were five-star. [L0409, 2021-22]
 - Show the star rating together with the number of reviews, for example "4.8 stars from 293 reviews", and label reviewers with a Verified Customer tag when available. [L0600, 2026]
-- Use only real reviews. Invented ratings and counts create legal and platform risk. [L0600, 2026]
 
 ### Trustpilot and third-party platforms
 
@@ -74,8 +73,6 @@ Sources give different targets. Use the one that matches your stage:
 - Ask the supplier before reusing its reviews on your store. Get explicit permission from the supplier contact person directly and do not assume it. Never copy reviews from competitor stores. Reviews should be collected on your own store once you have customers. [L0908, 2020-26; L0934, 2023; L0667, 2025]
 - Use supplier-provided reviews only after the brand gives explicit permission. Use a standard review request process to collect customer reviews. [L0667, 2025]
 - Testimonials can start as real reviews from Amazon or AliExpress for the same product. They are safe to adapt with credit to their source. [L1259, undated]
-- Do not publish AI-written quotes as if they came from real customers. Invented testimonials are misleading and can break platform rules. Replace any placeholder quotes with genuine customer reviews as soon as sales come in. [L1259, undated]
-- Placeholder reviews or testimonials, including AI-written ones, must not be presented as real customer feedback, and star ratings must not be invented. Replace them with real reviews as soon as sales arrive, because fabricated reviews create legal and trust risks. [L1260, undated]
 - Placeholder reviews are only for layout and must be replaced before launch. [L1331, 2025-26]
 - Remove or avoid reviews that clearly reveal dropshipping, such as wording that thanks the shipper. Reviews should read as genuine customer experience. [L1444, 2022]
 - Offer a coupon code in exchange for a customer review. This builds social proof and turns the reviewer into a repeat customer. [L1357, 2018]

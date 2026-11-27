@@ -62,8 +62,6 @@ Part 27 of 29 of "15. Email and SMS: full technical reference". Map of all parts
 
 **Urgency must be real**
 - Urgency must be real. Valid reasons include a webinar starting tomorrow, a limited number of seats, a limited stock of a physical product, or a video being taken offline. For evergreen products, use a special sale that ends soon or a coupon that expires in 24 hours. [L0523, 2015+]
-- Fake urgency backfires and destroys credibility once subscribers notice. Invented deadlines teach readers to ignore future emails. Only use deadlines you can honor. [L0523, 2015+]
-- Do not claim urgency that is not real. Lines such as "only 4 hours to go", "last day", or "extended" must match the actual sale timer or end date. Use "before stock runs out" only when inventory is truly limited, because subscribers who find a fake deadline stop trusting later messages. [L0547, 2024+; L0548, 2024+]
 - Urgency phrases such as "hours left", "ends tonight", or "last day" should only be used when the deadline is real. False countdowns damage trust and make later emails less effective. [L0548, 2024+; L0547, 2024+]
 
 **Deadlines and expiry**

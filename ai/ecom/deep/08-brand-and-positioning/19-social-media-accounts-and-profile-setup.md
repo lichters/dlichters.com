@@ -242,7 +242,6 @@ The sources give different frequencies. The 2-3 per week figure appears in the s
 
 - A page with many followers but very few likes and comments suggests bought followers. A healthy page should show about 10 percent engagement on posts, so 100,000 followers would mean roughly 6,000 to 10,000 likes and comments. [L0645, 2023]
 - Buying a few thousand followers for an Instagram or Facebook page was reported to cost under $50, often around $10. This is a trust factor, not a sales driver, and it does not affect the ad account. [L0645, 2023]
-- Do not buy followers. [L0857, 2025] *(2025.)* This conflicts with the cost report in [L0645, 2023]. The 2025 source advises against it, and the one source source reports it as a trust factor with no effect on the ad account. Choose based on the trade-off between the cost reported in [L0645, 2023] and the advice in [L0857, 2025].
 - Paid campaigns to build a few hundred likes for social proof are a different approach from buying followers. [L0429, 2022] *(2022.)*
 - A low follower count of about 5 to 10 on a new page did not cause problems in practice. Ad viewers mainly decide based on the ad and the website, so more followers are only a benefit later. [L1108, 2023]
 

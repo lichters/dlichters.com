@@ -170,7 +170,7 @@ The timing conflict is about different things. Content inside the store's own bl
 *Source: one source.*
 
 - Controversial content takes a position that goes against commonly held beliefs. It should be used sparingly, because it is highly engaging but polarizing. [L1421, 2021-22]
-- A controversial position must be explained in depth with supporting evidence and a real attempt to convince the reader. A fake position cannot be defended in depth, so it should not be used. [L1421, 2021-22]
+- A controversial position must be explained in depth with supporting evidence and a real attempt to convince the reader. [L1421, 2021-22]
 - Controversial content in the entertainment table: taking an opposing position on a commonly held belief in the market to attract attention. [L1461, 2021-22]
 
 #### Entertainment Content Formats

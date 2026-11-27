@@ -52,8 +52,7 @@ Part 23 of 34 of "18. Legal Tax Banking and Payments: full technical reference".
 - Shopify Payments runs on Stripe in the background but has been reported to hold funds earlier than Stripe, around 20,000 to 30,000 USD in volume. Stripe itself was reported to show holds around 35,000 to 40,000 USD. Every processor can hold funds at scale. [L1512, 2023]
 - Stripe holds usually last about 30 days, and a hold can be extended by another 30 days if the dispute rate keeps rising. Resolving holds quickly and lowering disputes can speed up the release and remove the hold. [L1512, 2023]
 - Case: a Hong Kong company after PayPal holds. At about 30,000 to 40,000 USD in monthly PayPal volume, about 40,000 USD was held on a 21-day rolling hold. The seller moved to a Hong Kong company with Hong Kong PayPal and Stripe accounts and later reported much higher volume without holds. [L1512, 2023]
-- Opening a company in Hong Kong to obtain a PayPal account is a high-risk shortcut. In one reported case the setup cost about 700 USD and the account was banned within a week, with about 5,000 USD held for 180 days. Use a payment account that matches the country where the owner lives instead. [L1128, 2023]
-- The two Hong Kong reports differ in outcome. The shortcut in [L1128, 2023] ended in a ban, while the relocated seller in [L1512, 2023] had accounts matching their new residence. Use a payment account in the country where the owner actually lives. [L1128, 2023; L1512, 2023]
+- Opening a company in Hong Kong to obtain a PayPal account: in one reported case the setup cost about 700 USD and the account was banned within a week, with about 5,000 USD held for 180 days. [L1128, 2023]
 
 ### Account Setup, Identity and Bans
 

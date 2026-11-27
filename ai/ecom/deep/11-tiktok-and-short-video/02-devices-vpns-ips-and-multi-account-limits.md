@@ -112,7 +112,7 @@ Use this procedure to make a reused account read as a fresh start:
 1. Create a TikTok account or warm an existing one. [L0309, 2024+]
 2. Wait 6-12 hours before uploading the first video, or up to a week. [L0309, 2024+]
 3. During the wait, follow accounts in your niche, follow competitors, follow influencers, and engage with your target audience's content. [L0309, 2024+]
-4. Do not upload videos or take any spammy actions during this period. [L0309, 2024+]
+4. Do not upload videos during this period. [L0309, 2024+]
 5. After the warm-up, upload the first video. The account will receive views faster than a brand-new account with zero history. [L0309, 2024+]
 
 **New-email test procedure**

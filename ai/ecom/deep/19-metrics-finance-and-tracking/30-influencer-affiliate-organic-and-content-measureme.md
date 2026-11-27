@@ -27,7 +27,6 @@ Part 30 of 46 of "19. Metrics Finance and Tracking: full technical reference". M
   Most influencers provide these analytics freely when asked. [L0480, undated]
 - Ask the influencer to send the engagement numbers of their post (comments, shares, likes, interaction rate), in addition to checking the platform analytics yourself. [L0630, undated]
 - Social Blade gives a cross-platform overview of an influencer across all channels. It is especially useful before collaborating with a larger influencer. [L0479, undated; L0480, undated]
-- Do not buy likes, comments or engagement from SMM panels. Fake engagement distorts the data and may mislead the platform. Some sellers use it to lower CPM, but this is not recommended. [L0638, 2023]
 
 ### Platform analytics tools
 

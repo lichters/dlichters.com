@@ -128,7 +128,7 @@ Ask the AI to take the pasted Amazon reviews and describe the target audience fo
 | Top 5 proxy buyer dynamics | Dynamic, relationship type, emotional drivers |
 | Highest-stakes scenario | A detailed narrative of the most emotionally charged situation in the market |
 
-- Quote minimums differ between the sources. Use at least 30 direct quotes as the baseline [L0613, 2026]. Aim for 40+ real quotes [L0221, 2026]. Sort 40 review quotes into the six themes [L0613, 2026]. When the sources cannot support 40+ real quotes, prioritise 20 load-bearing verified insights over 90 plausible-sounding fabrications [L0221, 2026].
+- Quote minimums differ between the sources. Use at least 30 direct quotes as the baseline [L0613, 2026]. Aim for 40+ real quotes [L0221, 2026]. Sort 40 review quotes into the six themes [L0613, 2026].
 - Quote types [L0221, 2026]:
 
 | Type | What it is | Where it may be used |

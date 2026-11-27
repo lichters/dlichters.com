@@ -164,7 +164,6 @@ Growth benchmarks from the same case:
 - Judge an influencer's TikTok performance over several posts rather than a single video, because short-form results rise and fall sharply from one video to the next. [L0479, undated]
 - A new account gets a broad mix of content, because algorithms do not know what the user wants at first. [L0915, 2025-26]
 - Train the feed by interacting deliberately with the content type you want to create, such as watching and engaging with similar videos. [L0915, 2025-26]
-- Buying followers is not recommended, because TikTok can detect purchased or foreign accounts, which can lead to shadowbanning. [L0657, undated]
 - Purchased followers on Instagram can affect reels at first, but they do not provide lasting reach. [L0657, undated]
 - Keep testing new angles constantly, since a good video can still break out at around 10,000 followers. [L0352, 2022]
 

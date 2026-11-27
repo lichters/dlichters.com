@@ -47,9 +47,6 @@ I'm [your name], and the owner of [your store domain]. I need concepts for our w
 ### Honesty limits
 
 - Do not pretend things are what they are not. Perception-building must stay above board, honest and trustworthy, which matters most in highly competitive markets or when reselling products that other sellers also carry. [L0411, 2021-22]
-- Show only the real average star rating and the real number of reviews on a store. Do not edit widget text to display a higher rating or a larger review count than the store actually has. [L1299, 2026]
-- Generating fake reviews with AI and importing them into a live store to make it look established is deceptive. It can violate consumer-protection rules and app or platform policies, and it can put the store at risk of being shut down. [L1299, 2026]
-- Writing your own reviews is acceptable only when they are based on real experiences or on material the supplier has approved for use. Inventing fake customer stories or posing as different people is not allowed. [L0908, 2020-26]
 - Placeholder reviews for layout and QA only. This prompt produces test content and must never go live, be used in ads or be presented as customer proof. Use the prompt only for design and testing, with the output marked as required:
 
 ```
@@ -60,7 +57,6 @@ Act as a copywriter producing believable placeholder reviews, strictly for layou
 
 - Published statements about the store's data and processes must be accurate, because they describe what the store actually does. [L1250, 2026]
 - Percentages such as 91 or 97 percent of users noticing a result need a published survey base: how many people answered and how long they used the product, for example 100 users over 90 days. A figure without this basis is an unsupported claim and can create advertising risk. [L0600, 2026]
-- Only show 'as seen in' logos if the brand was actually featured. Do not fabricate press or media mentions. [L1363, 2023]
 - Testimonials and FAQ answers must come from real customers and real questions. [L0917, undated]
 - Trust badges and claims are only useful when true for the store. False credibility signals can damage trust once a visitor notices. [L1380, 2022]
 - Badges from a seal provider must be checked against sales data, because a seal that does not help can hurt. [L0910, 2015]

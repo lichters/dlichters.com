@@ -58,8 +58,8 @@ All chapters: https://dlichters.com/ai/ecom/deep/index.md
    Collecting and displaying reviews · Why reviews matter for conversion · Protecting ratings and handling negative reviews · Review volume and rating · Trustpilot and third-party platforms · Collecting reviews before launch · Legitimate sources for early reviews · Import rules · Review requests and rewards · Review app setup · Widget placement and display · Styling the widget
 24. https://dlichters.com/ai/ecom/deep/06-conversion-optimization/24-urgency-scarcity-and-promotions.md (3,980 words)
    Urgency, scarcity and promotions · Why urgency and expiring offers work · Which products suit expiring codes · Expiring coupon settings · Shopify coupon rules · Announcement bar: placement and behaviour · Announcement bar message patterns · Header space and scarcity lines · Cart top bar and checkout banners · Promotion consistency across the site · Free gifts and landing page text · Discount size and margin · Countdown timers on product pages · Cart timers · Stock messages · Limited quantity and application-based scarcity
-25. https://dlichters.com/ai/ecom/deep/06-conversion-optimization/25-rules-against-fake-urgency.md (522 words)
-   Rules against fake urgency · Pop-ups and overlays
+25. https://dlichters.com/ai/ecom/deep/06-conversion-optimization/25-pop-ups-and-overlays.md (522 words)
+   Pop-ups and overlays
 26. https://dlichters.com/ai/ecom/deep/06-conversion-optimization/26-checkout-payments-and-shipping-friction.md (3,970 words)
    Checkout, payments and shipping friction · Checkout steps and customization · Express wallets and button order · Payment method coverage · Financing and buy-now-pay-later · Local payment methods · Currency and price display · Shipping costs and fees · Delivery estimates and backorders
 27. https://dlichters.com/ai/ecom/deep/06-conversion-optimization/27-checkout-trust-and-branding.md (752 words)

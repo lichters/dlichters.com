@@ -22,7 +22,6 @@ Part 26 of 30 of "14. SEO and Content: full technical reference". Map of all par
 - Social media shares are nofollow and do not create backlinks that raise search rankings. They still help the trust signals of the site, so they are worth doing. [L0470, 2023]
 - ** Once a page reaches the top of the results for its target term, the goal shifts to holding that position. Watch whether competing pages keep adding backlinks and whether you add enough quality links to stay ahead. [L0944, 2021-22]
 - ** The E-commerce Skyscraper Method is the main link-building approach. Smaller supplementary methods can be added alongside it to find more opportunities, but they do not replace it. [L0944, 2021-22]
-- ** Backlink outreach is a form of link building only when all links are genuine. Black hat tactics such as link farms are recognizable to Google and carry a risk of penalties. [L0944, 2021-22]
 
 ### Measuring Authority and Setting Link Targets
 

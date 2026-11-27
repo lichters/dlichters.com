@@ -100,7 +100,6 @@ $value+ bought in past $timeframe
 
 #### Collecting and checking reviews
 
-- Use reviews from real buyers only, even if the store is new. Writing product reviews yourself and presenting them as customer reviews misleads buyers and can violate consumer protection rules on fake reviews. [L1325, 2020-26]
 - Reviews that mention the quality of customer service are the most valuable ones to feature on the store. Excellent customer service ranked as the most important factor for consumer trust in a company in a Zendesk survey. [L0908, 2020-26]
 - A Zendesk survey reported that 88% of customers trust online reviews as much as personal recommendations from friends or family. Treat this as a vendor-sourced benchmark, not a verified figure. [L0908, 2020-26]
 - Testimonials and FAQ answers should come from real customers and real questions, not invented copy. FAQ items usually capture objections, so they are answered with factual reassurance rather than persuasive copy. [L0917, undated]

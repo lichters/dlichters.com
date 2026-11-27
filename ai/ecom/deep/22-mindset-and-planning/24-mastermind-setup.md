@@ -59,7 +59,7 @@ Part 24 of 28 of "22. Mindset and Planning: full technical reference". Map of al
 - Relationship building produces compounding results with consistency. The more regular effort you invest, the stronger the outcomes, while sporadic effort yields weaker results. [L0297, 2021-22]
 - Introverts or people who find this outreach daunting can still succeed through small, consistent steps. Results usually turn out better than expected once action is taken. [L0453, 2021-22]
 - Do the well-digging activity consistently rather than worrying about how long it will take. Spend a little time each day, and expect many days to have little to do, because most prospects publish only occasionally. [L0453, 2021-22]
-- Do not interact with a Dream 100 prospect without a reason. Only comment when they have published something new, such as a weekly blog post or a YouTube video published once a week. This keeps the process manageable and avoids spamming. [L0453, 2021-22]
+- Do not interact with a Dream 100 prospect without a reason. Only comment when they have published something new, such as a weekly blog post or a YouTube video published once a week. This keeps the process manageable. [L0453, 2021-22]
 - A Dream 100 list does not have to reach exactly 100 names. The goal is to get as far as you can, and it can be built gradually in small daily sessions alongside other tasks. [L0526, 2021-22]
 - Daily action for this stage: work through the whole Dream 100 list and follow, subscribe, like, join groups and forums, create forum accounts, and subscribe to email lists for each contact. [L0526, 2021-22]
 - Partnership action plan:

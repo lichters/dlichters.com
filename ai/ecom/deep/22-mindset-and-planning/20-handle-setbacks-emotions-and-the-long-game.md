@@ -123,7 +123,6 @@ A student took the same course and used the same strategies, tools and informati
 - Much of the perceived difficulty comes from the mind exaggerating the challenge, not from the task itself. When such a thought appears, recognize it, move past it and take the action anyway. [L1248, 2021-22]
 - The fear that every supplier will refuse and the business cannot start is a worst-case scenario that rarely happens. Even if a full refusal did occur, the result would be a return to product research and finding new suppliers, not a dead end. [L1248, 2021-22]
 - Common early mistakes include acting out of panic after small losses, such as the first small ad spend, a seasonal dip or a supplier problem. These reactions lead to poor decisions and can be avoided by staying calm and strategic. [L1041, 2023]
-- Panicking in the ad account and turning to no-shipping orders or scam tactics to win is a dead end that destroys the business. Such shortcuts harm customers and the brand's reputation. [L1038, 2026]
 - Retreating to safe, low-risk activity after a mistake stalls growth. A mistake is a reason to adjust and keep going, not to withdraw. [L1042, 2026]
 
 ### Staying calm under pressure

@@ -3,7 +3,7 @@ Part 61 of 63 of "12. Creatives and Ad Copy: full technical reference". Map of a
 
 ### Sales copy inputs from the customer and the store
 
-- Desire, pain and scarcity lines should be built from real customer words and real stock situations. Use the customer research as the source of wording [L0567, 2025-26], and use scarcity only when it is true [L0567, 2025-26].
+- Desire, pain and scarcity lines should be built from real customer words. Use the customer research as the source of wording [L0567, 2025-26] [L0567, 2025-26].
 - Lead with the feelings and situation, then one concrete benefit, rather than generic claims [L0774, 2023].
 
 ### Organic Instagram features

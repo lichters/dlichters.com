@@ -7,7 +7,7 @@ Part 18 of 40 of "6. Conversion Optimization: full technical reference". Map of 
 
 - Clarity comes before everything else in how an offer and marketing message are presented, because a confused visitor does not buy. Before adding any element to a page, check whether it truly adds value for the customer and whether it can be made simpler. [L0409, 2021-22]
 - Complex or expensive products may need more information on the page than simple ones, but every extra element must earn its place. Apply the same simplicity to the wider site content, not only to the offer. [L0409, 2021-22]
-- Focus on the few most important pieces of information a customer needs to be persuaded to buy this product from this store, and present them as cleanly as possible. A clear page removes the need for conversion tricks such as fake scarcity or fake discounts. [L0409, 2021-22]
+- Focus on the few most important pieces of information a customer needs to be persuaded to buy this product from this store, and present them as cleanly as possible. [L0409, 2021-22]
 - An offer the visitor does not notice on the page effectively does not exist. Present the offer so it is easy to see and consume, and make sure it is not hidden behind other page elements. [L0473, 2021-22]
 - Usability affects conversion more than visual design once trust factors and good products are in place. Overly decorative pages with heavy motion do not raise conversion if visitors struggle to find products and buy. [L1098, 2019+]
 - Usable and fast beats heavily designed. Heavy design slows load time and hurts conversions, so a site should let people find products quickly. A beautiful design can still be kept if it loads fast. [L1085, 2018]

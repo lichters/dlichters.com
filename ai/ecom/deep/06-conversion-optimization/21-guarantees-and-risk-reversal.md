@@ -96,7 +96,7 @@ We maintain competitive pricing as a priority. Within six months of purchase, if
 
 - Payment methods you accept (for example Shopify Payments or PayPal) work as trust signals when shown in the store footer, because visitors recognise the brands behind them. No special image is needed. [L1050, 2020-26]
 - Shopify adds payment icons to the footer automatically. They show which payment options a customer can use and help build trust before purchase. [L1326, undated]
-- Tick only the payment methods your Shopify store actually accepts, because every ticked method appears in the footer as a trust signal. Showing a payment method you do not accept misleads visitors. [L1050, 2020-26]
+- Tick only the payment methods your Shopify store actually accepts, because every ticked method appears in the footer as a trust signal. [L1050, 2020-26]
 - Do not use large payment logos as trust badges, because they look scammy. Small, discreet payment icons look more professional and still signal that payment is safe. [L0916, 2022+]
 - Display payment and security badges from brands you genuinely work with, such as McAfee Secure, Visa and Mastercard. Shoppers borrow trust from established names they already know. [L1207, undated]
 - Show logos of well-known security or payment providers such as McAfee Secure, Visa or Mastercard to borrow their authority and trust. The buyer transfers trust from known brands to the shop. [L1209, undated]
@@ -130,7 +130,7 @@ We maintain competitive pricing as a priority. Within six months of purchase, if
 #### Authority and press
 
 - Authority signals include mentions of major publications and expert endorsements. An expert endorsement that also contains a benefit statement from a relevant professional gives both authority and social proof at the same time. [L0918, 2023]
-- Press mentions, expert endorsements, notable customers and research-backed ingredients all build authority. Use each only when it is true for the store. [L0919, undated; L1363, 2023]
+- Press mentions, expert endorsements, notable customers and research-backed ingredients all build authority. [L0919, undated; L1363, 2023]
 - Add third-party studies, reliable outside sources or a small self-run survey with transparent methodology to the page. Quote specific percentages from them, because statistics help buyers justify the purchase. [L1016, 2026]
 - A named ingredient or component backed by published clinical research can serve as proof in a feature list, because the buyer sees a recognised mechanism behind the promised result. Use such a claim only when the evidence is real and can be cited, since an unsupported 'clinically proven' statement damages trust. [L1210, undated]
 - Claims such as damage reduction, frizz control or clinical-style wording need concrete proof on the page before they can convert. Such proof includes how the technology works, test data or guarantee terms. An audit should flag homepage claims without this support as a trust gap. [L0886, 2025-26]
@@ -139,7 +139,6 @@ We maintain competitive pricing as a priority. Within six months of purchase, if
 - A product tested and rated by an independent testing organisation can carry the rating and test results in product copy as proof. Example: Choice, an Australian organisation that tests products for effectiveness and provides ratings. [L0295, 2021-22]
 - Customers assume sellers will make positive claims about their own products, so skepticism is natural. Independent third-party proof points confirm that an emotional purchasing decision is also rational, which enhances the persuasiveness of all preceding copy. [L0295, 2021-22]
 - Featured-in logo bars often come from paid sponsored posts or affiliate placements rather than organic press coverage. Treat such logos as paid authority signals, and only display them where the placement is accurate and can be backed up. [L1348, 2023]
-- Do not fabricate press or media mentions. Show 'as seen in' logos only if the brand was actually featured. [L1363, 2023]
 - Press mentions shown as a marquee of logos, rather than a large block. Keep reviews visible and repeated on other pages. [L1225, 2025]
 - A low-cost alternative to paid press: get a review or feature from niche blogs or affiliate publishers, who then receive affiliate traffic, or create your own niche blog on WordPress that features the product. [L1363, 2023]
 - Linking out from the landing page to outside press articles is debated. It can add authority and help SEO, but it takes visitors away from the purchase path. Decide per store. The lesson's own stance was not to link them. [L1363, 2023]
